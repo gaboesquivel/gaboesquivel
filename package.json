@@ -1,12 +1,10 @@
 {
   "name": "gaboesquivel",
-  "version": "1.0.2",
-  "description": "Gabo Esquivel - Software Craftsman",
+  "version": "2.0.0",
+  "description": "Gabo Esquivel - Software Engineer",
   "author": "Gabo Esquivel",
   "main": "./index.json",
-  "scripts": {
-    "postinstall": "cat index.json"
-  },
+  "bin":"./index.js",
   "keywords": [
     "person",
     "contact"

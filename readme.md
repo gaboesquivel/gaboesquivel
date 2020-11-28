@@ -1,25 +1,29 @@
-# gaboesquivel
+# Hi, I'm Gabo Esquivel
 
-> Gabo Esquivel
+I'm Software Engineer with more 10 years building applications, leading teams and a promoter of devops culture and lightweight agile methodologies. I'm very passionate about blockchain, decentralized finance, distributed systems, graphql, react and react native. Besides software development I enjoy yoga, travelling. 
 
-# install
+Things I do:
 
-As a `postinstall` script.
+- 👨🏻‍💻 &nbsp; Fullstack hands-on programming.
+- ⚙️  &nbsp; Infrastructure and reliability engineering.
+- 🧗🏻‍♂️ &nbsp;  Leading and coaching development teams.
+- 📊  &nbsp; Technical insight in support of strategic decision making.
+- 🌱  &nbsp;  Overseeing technical execution from prototype to production.
+
+My preferred tech stack: Linux, NodeJS, EOSIO Smart Contracts, Infra as Code with Pulumi, GraphQL, React and React Native.
+
+Spoken languages: English, Spanish, Portuguese and Italian. 
+
+You can learn more about me on my website https://gaboesquivel.com/bio 
+
+
+------
+
+
+[![Twitter: gaboesquivel](https://img.shields.io/twitter/follow/gaboesquivel?style=social)](https://twitter.com/gaboesquivel)
+[![Linkedin: gaboesquivel](https://img.shields.io/badge/-gaboesquivel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaboesquivel/)](https://www.linkedin.com/in/gaboesquivel/)
+[![GitHub gaboesquivel](https://img.shields.io/github/followers/gaboesquivel?label=follow&style=social)](https://github.com/gaboesquivel)
 
 ```bash
-npm install gaboesquivel
+npx gaboesquivel
 ```
-
-As a JSON object.
-
-```js
-console.log(require('gaboesquivel'));
-```
-
-# credits
-
-[@bevacqua](https://github.com/bevacqua/bevacqua)
-
-# license
-
-MIT
