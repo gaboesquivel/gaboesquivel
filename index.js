@@ -1,2 +1,2 @@
-const links = require('./index.json')
-console.log(links)
+#! /usr/bin/env node
+console.log(require('./index.json'))
