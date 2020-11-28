@@ -1,1 +1,2 @@
-console.log(require('./index.json'))
+const links = require('./index.json')
+console.log(links)
