@@ -10,7 +10,7 @@ Things I do:
 - 📊  &nbsp; Technical insight in support of strategic decision making.
 - 🌱  &nbsp;  Overseeing technical execution from prototype to production.
 
-My preferred tech stack: Linux, NodeJS, EOSIO, Infra as Code with Pulumi, Postgres, Docker, GraphQL, React and React Native.
+My preferred tech stack: Linux, NodeJS, EOSIO, Infra as Code, Postgres, Docker, GraphQL, React and React Native.
 
 Spoken languages: English, Spanish, Portuguese and Italian. 
 
