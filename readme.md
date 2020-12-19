@@ -14,7 +14,7 @@ My preferred tech stack: Linux, NodeJS, EOSIO, Infra as Code, Postgres, Docker, 
 
 Spoken languages: English, Spanish, Portuguese and Italian. 
 
-You can learn more about me on my website https://gaboesquivel.com/bio 
+You can learn more about me on my website https://gaboesquivel.com
 
 ------
 
