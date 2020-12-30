@@ -1,6 +1,6 @@
 # Hi, I'm Gabo Esquivel
 
-I'm Software Engineer with more than 10 years building applications, leading teams and promoting devops culture and lightweight agile methodologies. I'm passionate about blockchain, decentralized finance, distributed systems, graphql, react and react native. Besides software development I enjoy yoga and travelling. 
+I'm Software Engineer with more than 10 years building applications, leading teams and promoting devops culture and lightweight agile methodologies. I'm passionate about blockchain, distributed systems, graphql, real-time web and mobile. Besides software development I enjoy yoga and travelling. 
 
 Things I do:
 
@@ -9,8 +9,6 @@ Things I do:
 - 🧗🏻‍♂️ &nbsp;  Leading and coaching development teams.
 - 📊  &nbsp; Technical insight in support of strategic decision making.
 - 🌱  &nbsp;  Overseeing technical execution from prototype to production.
-
-My preferred tech stack: Linux, NodeJS, EOSIO, Infra as Code, Postgres, Docker, GraphQL, React and React Native.
 
 Spoken languages: English, Spanish, Portuguese and Italian. 
 
