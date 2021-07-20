@@ -1,6 +1,6 @@
 # Hi, I'm Gabo Esquivel
 
-I'm Software Engineer with more than 10 years building applications, leading teams, promoting devops culture and lightweight agile methodologies. I'm passionate about blockchain, distributed systems, graphql, real-time web and mobile. Besides software development I enjoy yoga and travelling. 
+I'm software engineer with more than ten years building applications, leading teams, promoting devops culture and lightweight agile methodologies. I'm passionate about blockchain, distributed systems, graphql, real-time web and mobile. Besides software development I enjoy yoga and travelling. 
 
 Things I do:
 
