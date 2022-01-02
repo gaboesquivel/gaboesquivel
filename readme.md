@@ -4,9 +4,9 @@ I'm a software engineer with more than ten years building applications, leading 
 
 Things I do:
 
-- 👨🏻‍💻 &nbsp; Fullstack hands-on programming.
+- 👨🏻‍💻 &nbsp;&nbsp; Fullstack hands-on programming.
 - ⚙️  &nbsp; Infrastructure and reliability engineering.
-- 🧗🏻‍♂️ &nbsp;  Leading and coaching development teams.
+- 🧗🏻‍♂️ &nbsp;&nbsp;  Leading and coaching development teams.
 - 📊  &nbsp; Technical insight in support of strategic decision making.
 - 🌱  &nbsp;  Overseeing technical execution from prototype to production.
 
