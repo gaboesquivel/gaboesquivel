@@ -1,6 +1,6 @@
-# Hi, I'm Gabo Esquivel
+# Hi, I'm Gabo Esquivel ( Gab-o )
 
-I'm a software engineer with more than ten years building applications, leading teams, promoting devops culture and lightweight agile methodologies. I have a passion for blockchain, distributed systems, decentralized finance, graphql, real-time web and mobile.
+I'm a software engineer with more than 15 years building applications, leading teams, promoting devops culture and lightweight agile methodologies. I have a passion for blockchain, distributed systems, decentralized finance, graphql, real-time web and mobile.
 
 Things I do:
 
@@ -13,6 +13,9 @@ Things I do:
 Spoken languages: English, Spanish, Portuguese and Italian. 
 
 You can learn more about me on my website https://gaboesquivel.com
+
+![Gabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaboesquivel&hide=issues&count_private=true&show_icons=true&theme=onedark)
+
 
 ------
 
