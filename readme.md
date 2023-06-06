@@ -14,8 +14,6 @@ Spoken languages: English, Spanish, Portuguese and Italian.
 
 You can learn more about me on my website https://gaboesquivel.com
 
-![Gabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaboesquivel&hide=issues&count_private=true&show_icons=true&theme=onedark)
-
 
 ------
 
