@@ -1,6 +1,6 @@
 # Hi, I'm Gabo Esquivel ( Gab-o )
 
-I'm a software engineer with more than 15 years building applications, leading teams, promoting devops culture and lightweight agile methodologies. I have a passion for blockchain, distributed systems, decentralized finance, graphql, real-time web and mobile.
+I'm a software engineer with more than 15 years building applications, promoting devops culture and lightweight agile methodologies. I have a passion for blockchain, distributed systems, decentralized finance, graphql, real-time web and mobile.
 
 Things I do:
 
