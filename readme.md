@@ -1,16 +1,16 @@
 # Hi, I'm Gabo Esquivel ( Gab-o )
 
-I'm a software engineer with more than 15 years building applications, promoting devops culture and lightweight agile methodologies. I have a passion for blockchain, distributed systems, decentralized finance, graphql, real-time web and mobile.
+I'm a software engineer with over 15 years of experience building applications, promoting devops culture, and lightweight agile methodologies. I am passionate about blockchain, distributed systems, decentralized finance, graphql, real-time web, and mobile.
 
 Things I do:
 
 - 👨🏻‍💻 &nbsp;&nbsp; Fullstack hands-on programming.
 - ⚙️  &nbsp; Infrastructure and reliability engineering.
 - 🧗🏻‍♂️ &nbsp;&nbsp;  Leading and coaching development teams.
-- 📊  &nbsp; Technical insight in support of strategic decision making.
+- 📊  &nbsp; Technical insight in support of strategic decision-making.
 - 🌱  &nbsp;  Overseeing technical execution from prototype to production.
 
-Spoken languages: English, Spanish, Portuguese and Italian. 
+Spoken languages: English, Spanish, Portuguese, and Italian. 
 
 You can learn more about me on my website https://gaboesquivel.com
 
