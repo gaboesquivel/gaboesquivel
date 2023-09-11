@@ -1,19 +1,34 @@
-# Hi, I'm Gabo Esquivel ( Gab-o )
+## 👋 About Me
 
-I'm a software engineer with over 15 years of experience building applications, promoting devops culture, and lightweight agile methodologies. I am passionate about blockchain, distributed systems, decentralized finance, graphql, real-time web, and mobile.
+I'm Gabo Esquivel, a seasoned full-stack software engineer with over 15 years of experience in application development. For the past 6 years, my focus has been on web3 technologies and blockchain applications.
 
-Things I do:
+### 🌐 Expertise
 
-- 👨🏻‍💻 &nbsp;&nbsp; Fullstack hands-on programming.
-- ⚙️  &nbsp; Infrastructure and reliability engineering.
-- 🧗🏻‍♂️ &nbsp;&nbsp;  Leading and coaching development teams.
-- 📊  &nbsp; Technical insight in support of strategic decision-making.
-- 🌱  &nbsp;  Overseeing technical execution from prototype to production.
+- **Blockchain**: I have actively contributed to several blockchain projects, gaining valuable insights into decentralized applications and smart contract development.
 
-Spoken languages: English, Spanish, Portuguese, and Italian. 
+- **Node.js**: With a decade of experience in Node.js, I've honed my skills in building scalable and efficient server-side applications.
 
-You can learn more about me on my website https://gaboesquivel.com
+- **Cloud Platforms**: I am well-versed in various cloud platforms, leveraging cloud services to optimize application performance and scalability.
 
+- **Containers**: I possess advanced knowledge of containerization technologies like Docker, enabling seamless deployment and management of applications.
+
+- **Frontend**: My proficiency extends to frontend technologies, including React and TypeScript, for crafting engaging and responsive user interfaces.
+
+### 💼 What I Do
+
+I specialize in helping companies navigate the complexities of software development. My role involves:
+
+- Collaborating with stakeholders and development teams to make informed technical decisions.
+- Leading the design and implementation of software applications, taking concepts from ideation to successful production deployment.
+- Bridging the gap between innovative ideas and their practical execution.
+
+### 🚀 Let's Connect
+
+If you're interested in working together or want to learn more about my work, feel free to visit my [website](https://gaboesquivel.com).
+
+### 🗣️ Languages
+
+I'm fluent in multiple languages, including English, Spanish, Portuguese, and Italian.
 
 ------
 
