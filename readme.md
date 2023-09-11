@@ -6,7 +6,7 @@ I help companies develop software products and make technical decisions, working
 
 Blockchain, DeFi, NodeJS, Databases, Linux, Docker, Cloud, GraphQL, React
 
-You can learn more about me on my website https://gaboesquivel.com
+Learn more on my website [gaboesquivel.com](https://gaboesquivel.com)
 
 Spoken languages: English, Spanish, Portuguese, and Italian.
 
