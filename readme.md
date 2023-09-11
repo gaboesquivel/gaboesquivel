@@ -4,7 +4,7 @@ I'm a full-stack software engineer with a robust 15+ years of experience, the la
 
 I help companies develop software products and make technical decisions, working with stakeholders and developers in the design and implementation of software applications, taking ideas from conception to production, and successful execution.
 
-Blockchain, DeFi, NodeJS, Databases, Linux, Docker, Cloud, GraphQL, React
+Blockchain, DeFi, NodeJS, Databases, Linux, Docker, Cloud, GraphQL, React, React Native
 
 Learn more on my website [gaboesquivel.com](https://gaboesquivel.com)
 
