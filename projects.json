@@ -270,8 +270,8 @@
       "PostgreSQL",
       "Linux"
     ],
-    "link": "https://example.com/gorillalogic",
-    "image": "https://gaboesquivel.com/images/work/gorillalogic.jpg"
+    "link": "https://www.myphoto.com/",
+    "image": "https://gaboesquivel.com/images/work/photoandgo.jpg"
   },
   {
     "title": "18Techs",
@@ -285,7 +285,7 @@
       "Angular.js"
     ],
     "link": "https://example.com/18techs",
-    "image": "https://gaboesquivel.com/images/work/18techs.jpg"
+    "image": "https://gaboesquivel.com/images/work/4tius.jpg"
   },
   {
     "title": "Possible Worldwide",
@@ -302,13 +302,16 @@
   {
     "title": "American Express",
     "description": "I was responsible for all things front-end. Duties included Object-Oriented JavaScript with extensive use of AJAX to present the user with a fluid experience. A/B Testing and usage analytics. Special attention was given to code reuse, code size, application responsiveness, bandwidth usage, application usability, and accessibility.",
+    "image": "https://gaboesquivel.com/images/work/amex.jpg",
+    "link": "https://www.americanexpress.com/",
     "technologies": [
-      "JavaScript",
-      "CSS",
-      "Java"
-    ],
-    "link": "https://example.com/americanexpress",
-    "image": "https://gaboesquivel.com/images/work/amex.jpg"
+      "JSP (Struts)",
+      "Omniture",
+      "Adobe mBox",
+      "Facebook API",
+      "jQuery",
+      "CSS3"
+    ]
   },
   {
     "title": "Eat Arcade",
@@ -386,20 +389,6 @@
     ],
     "link": "http://yeahtv.com",
     "image": "https://gaboesquivel.com/images/work/yeah-tv.jpg"
-  },
-  {
-    "title": "American Express",
-    "description": "The official website of American Express (AMEX) offers a seamless online experience for customers. It provides a user-friendly interface for AMEX customers to access information and manage their financial needs.",
-    "link": "https://www.americanexpress.com/",
-    "image": "https://gaboesquivel.com/images/work/american-express-2.jpg",
-    "technologies": [
-      "JSP (Struts)",
-      "Omniture",
-      "Adobe mBox",
-      "Facebook API",
-      "jQuery",
-      "CSS3"
-    ]
   },
   {
     "title": "Tikr",
