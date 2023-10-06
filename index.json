@@ -1,9 +1,529 @@
 {
   "name": "Gabo Esquivel",
-  "bio": "I'm a full-stack software engineer with a robust 15+ years of experience, the last 6 years being dedicated to web3 technologies. My background includes work on numerous blockchain projects, a decade with NodeJS and cloud platforms, as well as advanced expertise in containers, React, and TypeScript.",
+  "bio": [
+    "I'm a full-stack software engineer with over 15 years of experience, specializing in web3 technologies since 2017. My background includes work on numerous blockchain projects, a decade with NodeJS and cloud platforms, as well as advanced expertise in containers, React, and TypeScript.",
+    " I help companies develop software products and make technical decisions. I work with stakeholders and developers in the design and implementation of software applications, taking ideas from conception to production and ensuring successful execution."
+  ],
   "website": "http://gaboesquivel.com",
   "email": "contact@gaboesquivel.com",
   "twitter": "https://twitter.com/gaboesquivel",
   "github": "https://github.com/gaboesquivel",
-  "linkedin": "https://linkedin.com/in/gaboesquivel"
+  "linkedin": "https://linkedin.com/in/gaboesquivel",
+  "projects": [
+    {
+      "title": "ChainGraph",
+      "description": "A real-time GraphQL toolkit for EOSIO/Antelope blockchain applications.",
+      "technologies": [
+        "EOSIO",
+        "Antelope",
+        "NodeJS",
+        "Docker",
+        "GraphQL",
+        "Cloud",
+        "ReactJS"
+      ],
+      "link": "https://chaingraph.io",
+      "image": "https://gaboesquivel.com/images/work/chaingraph.png",
+      "repo": "https://github.com/chaingraph"
+    },
+    {
+      "title": "Fantasy Top Shots",
+      "description": "A mobile app game based on NBA Top Shot NFTs. This project was created as part of the 2022 Flow Hackathon.",
+      "technologies": [
+        "Flow Blockchain",
+        "ReactJS",
+        "React Native with Expo",
+        "Tailwind"
+      ],
+      "link": "https://fantasy-top-shot.vercel.app",
+      "image": "https://gaboesquivel.com/images/work/fantasy-top-shots.png",
+      "video": "https://www.youtube.com/watch?v=Il2aiKhy_ug",
+      "repo": "https://github.com/bitcashorg/fantasy-top-shot"
+    },
+    {
+      "title": "Holepunch Playground",
+      "description": "Holepunch provides a collection of small JavaScript modules that can be combined to create an unlimited variety of P2P apps. I created this open repository where I'm exploring different patterns and P2P functionality.",
+      "technologies": [
+        "NodeJS",
+        "Turbo",
+        "P2P",
+        "Hypercore",
+        "Hyperswarm",
+        "Hyperbee"
+      ],
+      "link": "https://github.com/gaboesquivel/holepunch-playground",
+      "image": "https://gaboesquivel.com/images/work/holepunch-playground.png",
+      "repo": "https://github.com/gaboesquivel/holepunch-playground"
+    },
+    {
+      "title": "SmartSale EVM",
+      "description": "SmartSale EVM, an EVM version of the Gnosis Smart Contract, enables builders to raise more funds in a multi-chain environment. Dutch Auction functionality promotes fairer token distribution, price discovery, and inclusive participation. In this project, I was responsible for defining the technical architecture, choosing the technology stack, and outlining the roadmap.",
+      "technologies": [
+        "Antelope EVM",
+        "ReactJS",
+        "GraphQL ( subgraph )",
+        "Firehose streams"
+      ],
+      "link": "https://pomelo.io/grants/smartsale",
+      "image": "https://gaboesquivel.com/images/work/smartsale-evm.webp"
+    },
+    {
+      "title": "Substrate Contracts UI",
+      "description": "Substrate Contracts UI is a web application for deploying and interacting with WASM smart contracts on Substrate blockchains that include the FRAME Contracts Pallet. I made multiple open-source contributions to enhance the project's code quality, while learning to build dApps with Substrate.",
+      "technologies": [
+        "Polkadot",
+        "Substrate",
+        "ReactJS",
+        "Tailwind"
+      ],
+      "link": "https://contracts-ui.substrate.io/",
+      "image": "https://gaboesquivel.com/images/work/contracts-ui.png",
+      "repo": "https://github.com/paritytech/contracts-ui"
+    },
+    {
+      "title": "Wizard World",
+      "description": "A progressive web app that connects to GPT3 to generate image with AI and allows to mint them on the Flow blockchain.",
+      "technologies": [
+        "NextJS",
+        "Flow Blockchain",
+        "Niftory",
+        "GPT3",
+        "Tailwind"
+      ],
+      "link": "https://wizart.world",
+      "image": "https://gaboesquivel.com/images/work/wizart-world.png",
+      "video": "https://www.youtube.com/watch?v=I_vBUflXHFA",
+      "repo": "https://github.com/bitcashorg/wizartworld"
+    },
+    {
+      "title": "dBoard",
+      "description": "dBoard is a DAO decision-making and community management tool that enables stakeholders to discuss, strategize, debate, iterate and vote on actions that will empower their organizations to be efficient, productive and successful. My role on this project included technical architecture, overseeing smart contract development and integration on the webapp.",
+      "technologies": [
+        "Antelope",
+        "EOS",
+        "NextJS"
+      ],
+      "link": "https://eos.dboard.ai",
+      "image": "https://gaboesquivel.com/images/work/dboard.png",
+      "repo": "https://github.com/bitcashorg/bitcash-contract-dho"
+    },
+    {
+      "title": "bitcashBank",
+      "description": "Buy, Trade, Deposit & Earn High Yield on Crypto. Bitcash allows you to exchange your money with others for local currency stablecoins or bitUSD. You can then trade bitUSD for Bitcoin, Ethereum, USDT, or smaller coins like Grin. BitcashDAO allows members to participate and make decisions. At Bitcash, I joined the team at its inception, overseeing critical aspects of the platform's growth. This included architecting its robust infrastructure, leading tech recruitment efforts, and providing comprehensive developer training. As the platform evolved, I transitioned into a consulting role, offering ongoing support to ensure Bitcash's continued success.",
+      "technologies": [
+        "Antelope",
+        "Smart Contracts",
+        "React",
+        "Containers",
+        "Cloud",
+        "NodeJS",
+        "GraphQL",
+        "PostgreSQL",
+        "TypeScript"
+      ],
+      "link": "https://bitcash.org",
+      "image": "https://gaboesquivel.com/images/work/bitcash-bank.png",
+      "video": "https://youtu.be/2JuHy_w0Ct4?si=osO4jUPChRrEihJm",
+      "repo": "https://github.com/bitcashorg"
+    },
+    {
+      "title": "ZTX",
+      "description": "ZTX is a web3 metaverse platform empowering creators and communities to build, play and earn. Founded in 2022, ZTX is the blockchain initiative backed by Jump Crypto and ZEPETO — the largest metaverse in Asia with over 400 million lifetime users. I joined as a software consultant during its early stages. My key contributions involved architecting the NFT marketplace for avatar building and establishing a two-way communication bridge between the WebGL metaverse and EVM.",
+      "technologies": [
+        "WebGL",
+        "Ethereum",
+        "Ethers",
+        "AWS",
+        "Node.js",
+        "ReactJS",
+        "NextJS"
+      ],
+      "link": "https://ztx.io",
+      "image": "https://gaboesquivel.com/images/work/ztx.png"
+    },
+    {
+      "title": "RareMint",
+      "description": "RareMint offers authentic real-world sports collectible assets and creates a digital experience of those collectibles through asset-backed NFTs. While at RareMint, I led efforts to enhance the NFT marketplace by optimizing responsiveness, reducing load times, and improving maintainability. Additionally, I supported RareMint's first auctions on the Polygon network, ensuring a seamless integration into this blockchain ecosystem.",
+      "technologies": [
+        "Ethereum",
+        "Polygon",
+        "Ethers",
+        "React",
+        "Containers",
+        "Cloud",
+        "NodeJS",
+        "GraphQL",
+        "TypeScript"
+      ],
+      "link": "https://raremint.com",
+      "image": "https://gaboesquivel.com/images/work/raremint.png"
+    },
+    {
+      "title": "Tractor Supply",
+      "description": "I served as a consultant for the Tractor Supply React Native app. My primary responsibilities included enhancing its overall performance, optimizing code quality and processes, and spearheading the development of an augmented reality feature. This feature allowed users to preview outdoor products on their property, enhancing the app's user experience and engagement.",
+      "technologies": [
+        "React Native",
+        "ReactJS",
+        "Containers",
+        "Cloud",
+        "NodeJS",
+        "TypeScript",
+        "Augmented Reality"
+      ],
+      "link": "https://www.tractorsupply.com/tsc/cms/app",
+      "image": "https://gaboesquivel.com/images/work/tractor-supply.png"
+    },
+    {
+      "title": "Emanate",
+      "description": "Emanate is a network marketplace built for music lovers and creators. Powered by immediate payments and automated technology, Emanate connects players in the music industry in a way never before seen. Powered by Web3 technology, the platform manages the entire journey of music creation, distribution, promotion, and monetization. At Emanate, I joined during its early stages and led the development of the ReactJS web app streaming platform. I also developed the artist's back office for revenue distribution. These contributions were central to Emanate's tech infrastructure.",
+      "technologies": [
+        "Blockchain",
+        "ReactJS",
+        "TypeScript",
+        "EOSIO",
+        "AWS"
+      ],
+      "link": "https://example.com/emanate",
+      "image": "https://gaboesquivel.com/images/work/emanate.jpg"
+    },
+    {
+      "title": "Make Sense Labs Inc",
+      "description": "A blockchain technology and DeFi company building consumer products through tokenized systems and incentives. Sense.chat allows you to safely chat and transact with your friends and family without your data being stored or spied on by third-parties. At Sense, I improved the React Native app's performance, code architecture, and integration with the EOS mainnet for token functionality. This strengthened the app's quality, security, and user privacy.",
+      "technologies": [
+        "React Native",
+        "TypeScript",
+        "Blockchain",
+        "EOSIO"
+      ],
+      "link": "https://www.youtube.com/watch?v=2DJxzYDaAz8",
+      "image": "https://gaboesquivel.com/images/work/sense-chat.png",
+      "video": "https://www.youtube.com/watch?v=2DJxzYDaAz8"
+    },
+    {
+      "title": "EOS Costa Rica",
+      "description": "EOS Costa Rica provides infrastructure for EOSIO blockchains, enterprise solutions and custom smart contract development. I joined EOS Costa Rica as the first team member during its inception. My role played a crucial part in various aspects, including actively participating in the EOS mainnet launch and managing validators for multiple networks. Additionally, I played a pivotal role in establishing and nurturing the custom development services division. This involved responsibilities such as talent acquisition, training, architectural design, and process optimization. I served as the lead architect for a notable project involving the creation of a custom private blockchain for Grant Thornton. This blockchain incorporated stable coins and an application called InterX, designed to simplify intercompany tax calculation and tracking.",
+      "technologies": [
+        "EOSIO",
+        "Smart Contracts",
+        "PostgreSQL",
+        "Containers",
+        "Cloud",
+        "NodeJS",
+        "GraphQL",
+        "ReactJS"
+      ],
+      "link": "https://eoscostarica.io",
+      "image": "https://gaboesquivel.com/images/work/eoscostarica.png",
+      "repo": "https://github.com/eoscostarica"
+    },
+    {
+      "title": "EOS Rate",
+      "description": "EOS Rate is a community-driven visual rating tool that allows EOS token holders to easily rate Block Producers in distinct categories. The rating system is based on a radial graph representing the most important qualitative aspects of a block producer, populated with ratings provided by the input if the EOS community, and stored on the blockchain. In this project I was responsible for technical architecture and technology selection.",
+      "technologies": [
+        "EOSIO",
+        "Smart Contracts",
+        "GraphQL",
+        "ReactJS"
+      ],
+      "link": "https://eosrate.io",
+      "image": "https://gaboesquivel.com/images/work/eosrate.png",
+      "repo": "https://github.com/eoscostarica/eos-rate",
+      "video": "https://www.youtube.com/watch?v=saZnZqJsMhk"
+    },
+    {
+      "title": "Knowledge.io",
+      "description": "Knowledge rewards people for what they know and how much they know and gives people the opportunity to be recognized and compensated for sharing this information. At Knowledge, I took on the role of lead architect, overseeing not only the development of the token and supporting systems for a successful ICO but also leading the formation of a highly skilled team.",
+      "technologies": [
+        "Ethereum",
+        "AWS",
+        "Serverless",
+        "GraphQL",
+        "React Native",
+        "React",
+        "Node.js",
+        "Infra-as-Code",
+        "Jenkins"
+      ],
+      "link": "https://github.com/knowledge/ethereum-contracts",
+      "image": "https://gaboesquivel.com/images/work/knowledge.png",
+      "repo": "https://github.com/knowledge"
+    },
+    {
+      "title": "Wink",
+      "description": "Wink marked a pioneering milestone as Costa Rica's first neo-bank, introducing a mobile app that empowers users to conduct their banking activities seamlessly online, eliminating the necessity for physical branch visits. I took the helm in developing the inaugural version of the neobank's mobile app and backend services within the AWS cloud infrastructure. My role included close collaboration with our partner bank to ensure seamless API integration, robust security measures, and compliance with regulatory standards. Additionally, I undertook the responsibility of forming and recruiting a dedicated team of six individuals to support our mission.",
+      "technologies": [
+        "Serverless",
+        "ReactNative",
+        "React",
+        "NodeJS",
+        "Infra-as-Code",
+        "Zero-Trust",
+        "Biometrics",
+        "Mocha",
+        "Chai"
+      ],
+      "link": "https://holawink.com",
+      "image": "https://gaboesquivel.com/images/work/wink.png",
+      "video": "https://youtu.be/rfeISMW_OVc?si=z3R4w100olo1Ydhu"
+    },
+    {
+      "title": "Gorilla Logic",
+      "description": "Gorilla Logic stands out as a premier nearshore development company, offering unparalleled expertise in digital product design and development, tailored to fulfill our clients' unique requirements. Within this dynamic environment, I held the role of shaping the technical vision and executing the development of a cutting-edge photo editor application. Simultaneously, I led the creation of backend services that seamlessly integrated with legacy e-commerce systems, optimizing the user experience for a smoother and more intuitive interaction.",
+      "technologies": [
+        "ReactJS",
+        "NodeJS",
+        "Hapi",
+        "Swagger",
+        "Redux",
+        "AWS",
+        "Docker",
+        "Jenkins",
+        "PostgreSQL",
+        "Linux"
+      ],
+      "link": "https://example.com/gorillalogic",
+      "image": "https://gaboesquivel.com/images/work/gorillalogic.jpg"
+    },
+    {
+      "title": "18Techs",
+      "description": "18Techs specializes in delivering advanced technology solutions such as AI, blockchain, and cybersecurity to help businesses achieve digital transformation and enhance their operations. As a Fullstack software engineer, I led the development of web and hybrid mobile apps, including the creation of the 4Tius API and web dashboard which enabled users to seamlessly track their fitness data through Fitbit integration.",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "AWS",
+        "Linux",
+        "MongoDB",
+        "Angular.js"
+      ],
+      "link": "https://example.com/18techs",
+      "image": "https://gaboesquivel.com/images/work/18techs.jpg"
+    },
+    {
+      "title": "Possible Worldwide",
+      "description": "Possible Worldwide, a WPP Digital company, is a global interactions agency that specializes in digital marketing, interactive design, and technology services to create impactful digital experiences for brands and enhance customer engagement. I joined the development team to work on a complex project for AMC Networks. The application allows you to watch movies online on Facebook and get detailed information about the directors, actors, and the making of the film, make lists of favorite scenes, vote, and share with your friends.",
+      "technologies": [
+        "JavaScript",
+        "PHP",
+        "CSS",
+        "Facebook API"
+      ],
+      "link": "https://example.com/possibleworldwide",
+      "image": "https://gaboesquivel.com/images/work/possible-worldwide.jpg"
+    },
+    {
+      "title": "American Express",
+      "description": "I was responsible for all things front-end. Duties included Object-Oriented JavaScript with extensive use of AJAX to present the user with a fluid experience. A/B Testing and usage analytics. Special attention was given to code reuse, code size, application responsiveness, bandwidth usage, application usability, and accessibility.",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "Java"
+      ],
+      "link": "https://example.com/americanexpress",
+      "image": "https://gaboesquivel.com/images/work/amex.jpg"
+    },
+    {
+      "title": "Eat Arcade",
+      "description": "Sms subscription system to hand-curated dishes from the best restaurants in New York City.",
+      "technologies": [
+        "NodeJS",
+        "Express.js",
+        "AngularJS",
+        "MongoDB",
+        "Heroku",
+        "Bootstrap",
+        "Stripe",
+        "Twilio"
+      ],
+      "link": "http://www.eatarcade.com/",
+      "image": "https://gaboesquivel.com/images/work/eat-arcade.jpg"
+    },
+    {
+      "title": "Jockey Hollow Bar and Kitchen",
+      "description": "Responsive Website",
+      "technologies": [
+        "SASS",
+        "jQuery",
+        "Lodash",
+        "Grapnel.js",
+        "Grunt",
+        "Node(Express)",
+        "Heroku",
+        "Divshot"
+      ],
+      "link": "http://www.jockeyhollowbarandkitchen.com/",
+      "image": "https://gaboesquivel.com/images/work/jockey-hollow.jpg"
+    },
+    {
+      "title": "Jockey Hollow Bar and Kitchen Menu Kiosk App",
+      "description": "Menu Kiosk App",
+      "technologies": [
+        "SASS",
+        "jQuery",
+        "Lodash",
+        "Grapnel.js",
+        "Grunt",
+        "Node(Express)",
+        "Heroku",
+        "Divshot"
+      ],
+      "link": "",
+      "image": ""
+    },
+    {
+      "title": "Elder Scrolls Online",
+      "description": "Official website providing news, media, a game guide and community forums.",
+      "technologies": [
+        "HTML5",
+        "PHP",
+        "jQuery",
+        "Facebook API",
+        "Twitter API"
+      ],
+      "link": "http://elderscrollsonline.com",
+      "image": "https://gaboesquivel.com/images/work/elder-scrolls-online.jpg"
+    },
+    {
+      "title": "Yeah TV Facebook App",
+      "description": "An online movie streaming service where you can watch movies dissected in chapters with detailed information and interactive games.",
+      "technologies": [
+        "HTML5",
+        "PHP",
+        "Facebook API",
+        "AJAX",
+        "Facebook Credits",
+        "Handlebars",
+        "Brightcove API",
+        "require.js"
+      ],
+      "link": "http://yeahtv.com",
+      "image": "https://gaboesquivel.com/images/work/yeah-tv.jpg"
+    },
+    {
+      "title": "American Express",
+      "description": "AMEX official website",
+      "technologies": [
+        "JSP(Struts)",
+        "Omniture",
+        "Abobe mBox",
+        "Facebook API",
+        "jQuery",
+        "CSS3"
+      ],
+      "link": "https://www.americanexpress.com/",
+      "image": "https://gaboesquivel.com/images/work/american-express-2.jpg"
+    },
+    {
+      "title": "Tikr",
+      "description": "Interactive Online Store with fluctuating prices",
+      "technologies": [
+        "Ruby on Rails",
+        "Spree",
+        "Heroku",
+        "Postgres",
+        "jQuery",
+        "SASS/SCSS"
+      ],
+      "link": "http://tikr.com",
+      "image": "https://gaboesquivel.com/images/work/tikr.jpg"
+    },
+    {
+      "title": "Bureau of Trade (Beta)",
+      "description": "Online Store",
+      "technologies": [
+        "PHP",
+        "eBay API",
+        "HTML5",
+        "AJAX/jQuery"
+      ],
+      "link": "http://www.gridium.com/products/portfolio-manager/",
+      "image": "https://gaboesquivel.com/images/work/bureau-of-trade.jpg"
+    },
+    {
+      "title": "ARINC Microfids",
+      "description": "microFIDS is a flight information display system for hotels, rental car agencies, and airport-related businesses that offers flexible sizes and revenue opportunities.",
+      "technologies": [
+        "Ruby on Rails",
+        "AngularJS",
+        "Faye",
+        "LESS",
+        "Heroku"
+      ],
+      "link": "",
+      "image": ""
+    },
+    {
+      "title": "Gridium",
+      "description": "Energy data analytics prototype",
+      "technologies": [
+        "Javascript",
+        "Data Charts",
+        "CSS"
+      ],
+      "link": "http://www.amigosdelosparques.org/orchid-partner.php",
+      "image": "https://gaboesquivel.com/images/work/gridium.jpg"
+    },
+    {
+      "title": "Orchid Parterns",
+      "description": "Website for the membership program created by ProParques",
+      "technologies": [
+        "PHP",
+        "Joomla",
+        "MySQL",
+        "CSS",
+        "Google Maps"
+      ],
+      "link": "",
+      "image": ""
+    },
+    {
+      "title": "Scotiabank Newsletter",
+      "description": "Scotiabank's intranet newsletter",
+      "technologies": [
+        "PHP",
+        "MySQL",
+        "CSS",
+        "Javascript"
+      ],
+      "link": "http://costaricabedfinder.com",
+      "image": "https://gaboesquivel.com/images/work/scotiabank-newsletter.jpg"
+    },
+    {
+      "title": "Costa Rica Bedfinder",
+      "description": "Vacation rentals directory",
+      "technologies": [
+        "PHP(cakePHP)",
+        "MySQL",
+        "jQuery"
+      ],
+      "link": "http://newsroom.suntrust.com/2010-05-26-SunTrust-Invites-You-to-Say-Thank-You-to-the-Heroes-in-Your-Life-with-Solid-Salutes-Personalized-Video",
+      "image": "https://gaboesquivel.com/images/work/costa-rica-bedfinder.jpg"
+    },
+    {
+      "title": "Suntrust",
+      "description": "Solid Salutes Website",
+      "technologies": [
+        "PHP",
+        "Drupal",
+        "MySQL",
+        "jQuery",
+        "CSS",
+        "Brightcove API"
+      ],
+      "link": "",
+      "image": ""
+    },
+    {
+      "title": "ProParques",
+      "description": "Website for a non-profitProParques organizations",
+      "technologies": [
+        "PHP",
+        "Joomla",
+        "MySQL",
+        "jQuery",
+        "CSS"
+      ],
+      "link": "http://www.tecagora.com.ph/",
+      "image": "https://gaboesquivel.com/images/work/proparques.jpg"
+    }
+  ]
 }
