@@ -173,7 +173,7 @@
       "AWS"
     ],
     "link": "https://example.com/emanate",
-    "image": "https://gaboesquivel.com/images/work/emanate.jpg"
+    "image": "https://gaboesquivel.com/images/work/emanate.png"
   },
   {
     "title": "Make Sense Labs Inc",
@@ -327,7 +327,7 @@
       "Twilio"
     ],
     "link": "http://www.eatarcade.com/",
-    "image": "https://gaboesquivel.com/images/work/eat-arcade.jpg"
+    "image": "https://gaboesquivel.com/images/work/eatarcade.jpg"
   },
   {
     "title": "Jockey Hollow Bar and Kitchen",
@@ -343,7 +343,7 @@
       "Divshot"
     ],
     "link": "http://www.jockeyhollowbarandkitchen.com/",
-    "image": "https://gaboesquivel.com/images/work/jockey-hollow.jpg"
+    "image": "https://gaboesquivel.com/images/work/jockey-hollow.png"
   },
   {
     "title": "Jockey Hollow Bar and Kitchen Menu Kiosk App",
@@ -372,7 +372,7 @@
       "Twitter API"
     ],
     "link": "http://elderscrollsonline.com",
-    "image": "https://gaboesquivel.com/images/work/elder-scrolls-online.jpg"
+    "image": "https://gaboesquivel.com/images/work/elder-scrolls.jpg"
   },
   {
     "title": "Yeah TV Facebook App",
@@ -388,7 +388,7 @@
       "require.js"
     ],
     "link": "http://yeahtv.com",
-    "image": "https://gaboesquivel.com/images/work/yeah-tv.jpg"
+    "image": "https://gaboesquivel.com/images/work/yeahtv.jpg"
   },
   {
     "title": "Tikr",
@@ -419,6 +419,7 @@
   {
     "title": "ARINC Microfids",
     "description": "ARINC Microfids is a versatile flight information display system designed for hotels, rental car agencies, and airport-related businesses. It offers customizable display sizes and revenue opportunities.",
+    "image": "https://gaboesquivel.com/images/work/arinc.png",
     "technologies": [
       "Ruby on Rails",
       "AngularJS",
@@ -431,7 +432,7 @@
     "title": "Gridium",
     "description": "Gridium is an energy data analytics prototype that helps users visualize and analyze energy-related data. Gridium empowers users to make informed decisions regarding energy consumption and efficiency.",
     "link": "http://www.amigosdelosparques.org/orchid-partner.php",
-    "image": "https://gaboesquivel.com/images/work/gridium.jpg",
+    "image": "https://gaboesquivel.com/images/work/gridium.png",
     "technologies": [
       "JavaScript",
       "Data Charts",
