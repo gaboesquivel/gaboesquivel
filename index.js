@@ -1,2 +1,2 @@
-#! /usr/bin/env node
-console.log(require('./index.json'))
+export default require('./index.json')
+export const projects = require('./projects.json')

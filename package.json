@@ -1,13 +1,9 @@
 {
   "name": "gaboesquivel",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Gabo Esquivel - Software Engineer",
   "author": "Gabo Esquivel",
-  "main": "./index.json",
-  "bin": "./index.js",
-  "keywords": [
-    "person",
-    "contact"
-  ],
+  "main": "./index.js",
+  "bin": "./log.js",
   "license": "MIT"
 }
