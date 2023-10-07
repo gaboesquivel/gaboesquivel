@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer with over 15 years of experience, specializing in web3 technologies since 2017. My background includes work on numerous blockchain projects, a decade with NodeJS and cloud platforms, as well as advanced expertise in containers, React, and TypeScript.
 
-Learn more on my website [gaboesquivel.com](https://gaboesquivel.com).
+Learn more on my website [gaboesquivel.com](https://gaboesquivel.com)
 
 ------
 
