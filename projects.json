@@ -288,18 +288,6 @@
     "image": "https://gaboesquivel.com/images/work/4tius.jpg"
   },
   {
-    "title": "Possible Worldwide",
-    "description": "Possible Worldwide, a WPP Digital company, is a global interactions agency that specializes in digital marketing, interactive design, and technology services to create impactful digital experiences for brands and enhance customer engagement. I joined the development team to work on a complex project for AMC Networks. The application allows you to watch movies online on Facebook and get detailed information about the directors, actors, and the making of the film, make lists of favorite scenes, vote, and share with your friends.",
-    "technologies": [
-      "JavaScript",
-      "PHP",
-      "CSS",
-      "Facebook API"
-    ],
-    "link": "https://example.com/possibleworldwide",
-    "image": "https://gaboesquivel.com/images/work/possible-worldwide.jpg"
-  },
-  {
     "title": "American Express",
     "description": "I was responsible for all things front-end. Duties included Object-Oriented JavaScript with extensive use of AJAX to present the user with a fluid experience. A/B Testing and usage analytics. Special attention was given to code reuse, code size, application responsiveness, bandwidth usage, application usability, and accessibility.",
     "image": "https://gaboesquivel.com/images/work/amex.jpg",
@@ -358,8 +346,8 @@
       "Heroku",
       "Divshot"
     ],
-    "link": "",
-    "image": ""
+    "link": "#",
+    "image": "https://gaboesquivel.com/images/work/jockey-hollow-menu.png"
   },
   {
     "title": "Elder Scrolls Online",
@@ -436,6 +424,157 @@
     "technologies": [
       "JavaScript",
       "Data Charts",
+      "CSS",
+      "Bootstrap"
+    ]
+  },
+  {
+    "title": "Capoeira Abolicao",
+    "description": "Promotional website for Capoeira Abolicao.",
+    "link": "https://capoieraabolicao.com",
+    "image": "https://gaboesquivel.com/images/work/abolicao.jpg",
+    "technologies": [
+      "JavaScript",
+      "Wordpress",
+      "CSS",
+      "Bootstrap"
+    ]
+  },
+  {
+    "title": "SunTrust",
+    "description": "SunTrust.",
+    "link": "#",
+    "image": "https://gaboesquivel.com/images/work/suntrust-1.jpg",
+    "technologies": [
+      "JavaScript",
+      "CSS3"
+    ]
+  },
+  {
+    "title": "Staples",
+    "description": "Staples.",
+    "link": "#",
+    "image": "https://gaboesquivel.com/images/work/staples.jpg",
+    "technologies": [
+      "JavaScript",
+      "CSS3",
+      "Mootols"
+    ]
+  },
+  {
+    "title": "Trivenzor",
+    "description": "Trivenzor.",
+    "link": "#",
+    "image": "https://gaboesquivel.com/images/work/tribenzor.jpg",
+    "technologies": [
+      "JavaScript",
+      "CSS3",
+      "Mootols"
+    ]
+  },
+  {
+    "title": "Panini",
+    "description": "Panini.",
+    "link": "#",
+    "image": "https://gaboesquivel.com/images/work/panini.jpg",
+    "technologies": [
+      "JavaScript",
+      "CSS3",
+      "Wordpress"
+    ]
+  },
+  {
+    "title": "ScotiaTico",
+    "description": "ScotiaTico.",
+    "link": "#",
+    "image": "https://gaboesquivel.com/images/work/scotiatico.jpg",
+    "technologies": [
+      "JavaScript",
+      "CSS3",
+      "Wordpress"
+    ]
+  },
+  {
+    "title": "Earth",
+    "description": "Earth.",
+    "link": "#",
+    "image": "https://gaboesquivel.com/images/work/wordpress-earth-pai.jpg",
+    "technologies": [
+      "JavaScript",
+      "CSS3",
+      "Wordpress"
+    ]
+  },
+  {
+    "title": "Proparques",
+    "description": "Proparques.",
+    "link": "#",
+    "image": "https://gaboesquivel.com/images/work/proparques.jpg",
+    "technologies": [
+      "JavaScript",
+      "CSS3",
+      "Wordpress"
+    ]
+  },
+  {
+    "title": "Living with Dryness",
+    "description": "Living with Dryness.",
+    "link": "#",
+    "image": "https://gaboesquivel.com/images/work/living-with-dryness.jpg",
+    "technologies": [
+      "JavaScript",
+      "CSS3",
+      "Wordpress"
+    ]
+  },
+  {
+    "title": "Fantasy Tennis",
+    "description": "Fantasy Tennis.",
+    "link": "#",
+    "image": "https://gaboesquivel.com/images/work/fantasy-tennis.jpg",
+    "technologies": [
+      "JavaScript",
+      "CSS3"
+    ]
+  },
+  {
+    "title": "Money Talk",
+    "description": "Money Talk.",
+    "link": "#",
+    "image": "https://gaboesquivel.com/images/work/money-talk.jpg",
+    "technologies": [
+      "JavaScript",
+      "CSS3"
+    ]
+  },
+  {
+    "title": "Mobtion",
+    "description": "Mobtion.",
+    "link": "#",
+    "image": "https://gaboesquivel.com/images/work/mobtion.jpg",
+    "technologies": [
+      "JavaScript",
+      "CSS3"
+    ]
+  },
+  {
+    "title": "ITS",
+    "description": "ITS.",
+    "link": "#",
+    "image": "https://gaboesquivel.com/images/work/website-its.jpg",
+    "technologies": [
+      "JavaScript",
+      "CSS3"
+    ]
+  },
+  {
+    "title": "Adrian Cespedes",
+    "description": "Promotional site and photography blog.",
+    "link": "https://adriancespedes.com",
+    "image": "https://gaboesquivel.com/images/work/wordpress-adrian-cespedes.jpg",
+    "technologies": [
+      "JavaScript",
+      "Wordpress",
       "CSS",
       "Bootstrap"
     ]
