@@ -53,6 +53,83 @@
     "video": "https://www.youtube.com/watch?v=2wh32w7N9xg"
   },
   {
+    "title": "Emanate",
+    "description": "Emanate is a network marketplace built for music lovers and creators. Powered by immediate payments and automated technology, Emanate connects players in the music industry in a way never before seen. Powered by Web3 technology, the platform manages the entire journey of music creation, distribution, promotion, and monetization.\\n At Emanate, I joined during its early stages and led the development of the ReactJS web app streaming platform. I also developed the artist's back office for revenue distribution. These contributions were central to Emanate's tech infrastructure.",
+    "technologies": [
+      "Blockchain",
+      "ReactJS",
+      "TypeScript",
+      "EOS",
+      "AWS"
+    ],
+    "link": "https://example.com/emanate",
+    "image": "https://gaboesquivel.com/images/work/emanate.png",
+    "video": "https://www.youtube.com/watch?v=VXSrROohhyA"
+  },
+  {
+    "title": "Make Sense Labs Inc",
+    "description": "A blockchain technology and DeFi company building consumer products through tokenized systems and incentives. Sense.chat allows you to safely chat and transact with your friends and family without your data being stored or spied on by third-parties.\\n At Sense, I improved the React Native app's performance, code architecture, and integration with the EOS mainnet for token functionality. This strengthened the app's quality, security, and user privacy.",
+    "technologies": [
+      "React Native",
+      "TypeScript",
+      "Blockchain",
+      "EOS"
+    ],
+    "link": "https://www.youtube.com/watch?v=2DJxzYDaAz8",
+    "image": "https://gaboesquivel.com/images/work/sense-chat.png",
+    "video": "https://www.youtube.com/watch?v=2DJxzYDaAz8"
+  },
+  {
+    "title": "EOS Costa Rica",
+    "description": "EOS Costa Rica provides infrastructure for EOSIO blockchains, enterprise solutions and custom smart contract development.\\n I joined EOS Costa Rica as the first team member during its inception. My role played a crucial part in various aspects, including actively participating in the EOS mainnet launch and managing validators for multiple networks. Additionally, I played a pivotal role in establishing and nurturing the custom development services division. This involved responsibilities such as talent acquisition, training, architectural design, and process optimization. I served as the lead architect for a notable project involving the creation of a custom private blockchain for Grant Thornton. This blockchain incorporated stable coins and an application called InterX, designed to simplify intercompany tax calculation and tracking.",
+    "technologies": [
+      "EOS",
+      "Smart Contracts",
+      "PostgreSQL",
+      "Containers",
+      "Cloud",
+      "NodeJS",
+      "GraphQL",
+      "ReactJS"
+    ],
+    "link": "https://eoscostarica.io",
+    "image": "https://gaboesquivel.com/images/work/eoscostarica.png",
+    "repo": "https://github.com/eoscostarica",
+    "video": "https://www.youtube.com/watch?v=-1y0fGs8Xgw&"
+  },
+  {
+    "title": "EOS Rate",
+    "description": "EOS Rate is a community-driven visual rating tool that allows EOS token holders to easily rate Block Producers in distinct categories. The rating system is based on a radial graph representing the most important qualitative aspects of a block producer, populated with ratings provided by the input if the EOS community, and stored on the blockchain.\\n In this project I was responsible for technical architecture and technology selection.",
+    "technologies": [
+      "EOS",
+      "Smart Contracts",
+      "GraphQL",
+      "ReactJS"
+    ],
+    "link": "https://eosrate.io",
+    "image": "https://gaboesquivel.com/images/work/eosrate.png",
+    "repo": "https://github.com/eoscostarica/eos-rate",
+    "video": "https://www.youtube.com/watch?v=saZnZqJsMhk"
+  },
+  {
+    "title": "Knowledge.io",
+    "description": "Knowledge rewards people for what they know and how much they know and gives people the opportunity to be recognized and compensated for sharing this information.\\n At Knowledge, I took on the role of lead architect, overseeing not only the development of the token and supporting systems for a successful ICO but also leading the formation of a highly skilled team.",
+    "technologies": [
+      "Ethereum",
+      "Smart Contracts",
+      "AWS",
+      "Serverless",
+      "GraphQL",
+      "React Native",
+      "React",
+      "Node.js",
+      "Jenkins"
+    ],
+    "link": "https://github.com/knowledge/ethereum-contracts",
+    "image": "https://gaboesquivel.com/images/work/knowledge.png",
+    "repo": "https://github.com/knowledge"
+  },
+  {
     "title": "ChainGraph",
     "description": "This is a real-time GraphQL toolkit designed for EOSIO/Antelope blockchain applications, equipped with advanced features such as real-time data subscriptions, filtering, sorting, aggregation, pagination, and search capabilities. It offers the convenience of querying multiple blockchains with a single request, supported by a robust developer console and explorer. The toolkit also ensures reliable RPC API guarantees, follows semantic and principled GraphQL practices, and provides additional resources like dApp starters and SDKs to expedite development. With a focus on faster time-to-market and freedom from vendor lock-in, this toolkit empowers developers to concentrate on building features rather than infrastructure, all while promoting open-source collaboration and diverse API providers.\\n  This toolkit emerged as a personal side project during my involvement in Bitcash development on EOS. Within this project, I assumed full responsibility, encompassing architectural design, technology selection, and the coding of all components, including the creation of a reactive real-time blockchain data deserialization and streaming package. My aim was to provide a versatile solution that simplifies the development process for EOSIO/Antelope blockchain applications, empowering developers to focus on feature-building rather than infrastructure.",
     "technologies": [
@@ -153,83 +230,6 @@
     "link": "https://eos.dboard.ai",
     "image": "https://gaboesquivel.com/images/work/dboard.png",
     "repo": "https://github.com/bitcashorg/bitcash-contract-dho"
-  },
-  {
-    "title": "Emanate",
-    "description": "Emanate is a network marketplace built for music lovers and creators. Powered by immediate payments and automated technology, Emanate connects players in the music industry in a way never before seen. Powered by Web3 technology, the platform manages the entire journey of music creation, distribution, promotion, and monetization.\\n At Emanate, I joined during its early stages and led the development of the ReactJS web app streaming platform. I also developed the artist's back office for revenue distribution. These contributions were central to Emanate's tech infrastructure.",
-    "technologies": [
-      "Blockchain",
-      "ReactJS",
-      "TypeScript",
-      "EOS",
-      "AWS"
-    ],
-    "link": "https://example.com/emanate",
-    "image": "https://gaboesquivel.com/images/work/emanate.png",
-    "video": "https://www.youtube.com/watch?v=VXSrROohhyA"
-  },
-  {
-    "title": "Make Sense Labs Inc",
-    "description": "A blockchain technology and DeFi company building consumer products through tokenized systems and incentives. Sense.chat allows you to safely chat and transact with your friends and family without your data being stored or spied on by third-parties.\\n At Sense, I improved the React Native app's performance, code architecture, and integration with the EOS mainnet for token functionality. This strengthened the app's quality, security, and user privacy.",
-    "technologies": [
-      "React Native",
-      "TypeScript",
-      "Blockchain",
-      "EOS"
-    ],
-    "link": "https://www.youtube.com/watch?v=2DJxzYDaAz8",
-    "image": "https://gaboesquivel.com/images/work/sense-chat.png",
-    "video": "https://www.youtube.com/watch?v=2DJxzYDaAz8"
-  },
-  {
-    "title": "EOS Costa Rica",
-    "description": "EOS Costa Rica provides infrastructure for EOSIO blockchains, enterprise solutions and custom smart contract development.\\n I joined EOS Costa Rica as the first team member during its inception. My role played a crucial part in various aspects, including actively participating in the EOS mainnet launch and managing validators for multiple networks. Additionally, I played a pivotal role in establishing and nurturing the custom development services division. This involved responsibilities such as talent acquisition, training, architectural design, and process optimization. I served as the lead architect for a notable project involving the creation of a custom private blockchain for Grant Thornton. This blockchain incorporated stable coins and an application called InterX, designed to simplify intercompany tax calculation and tracking.",
-    "technologies": [
-      "EOS",
-      "Smart Contracts",
-      "PostgreSQL",
-      "Containers",
-      "Cloud",
-      "NodeJS",
-      "GraphQL",
-      "ReactJS"
-    ],
-    "link": "https://eoscostarica.io",
-    "image": "https://gaboesquivel.com/images/work/eoscostarica.png",
-    "repo": "https://github.com/eoscostarica",
-    "video": "https://www.youtube.com/watch?v=-1y0fGs8Xgw&"
-  },
-  {
-    "title": "EOS Rate",
-    "description": "EOS Rate is a community-driven visual rating tool that allows EOS token holders to easily rate Block Producers in distinct categories. The rating system is based on a radial graph representing the most important qualitative aspects of a block producer, populated with ratings provided by the input if the EOS community, and stored on the blockchain.\\n In this project I was responsible for technical architecture and technology selection.",
-    "technologies": [
-      "EOS",
-      "Smart Contracts",
-      "GraphQL",
-      "ReactJS"
-    ],
-    "link": "https://eosrate.io",
-    "image": "https://gaboesquivel.com/images/work/eosrate.png",
-    "repo": "https://github.com/eoscostarica/eos-rate",
-    "video": "https://www.youtube.com/watch?v=saZnZqJsMhk"
-  },
-  {
-    "title": "Knowledge.io",
-    "description": "Knowledge rewards people for what they know and how much they know and gives people the opportunity to be recognized and compensated for sharing this information.\\n At Knowledge, I took on the role of lead architect, overseeing not only the development of the token and supporting systems for a successful ICO but also leading the formation of a highly skilled team.",
-    "technologies": [
-      "Ethereum",
-      "Smart Contracts",
-      "AWS",
-      "Serverless",
-      "GraphQL",
-      "React Native",
-      "React",
-      "Node.js",
-      "Jenkins"
-    ],
-    "link": "https://github.com/knowledge/ethereum-contracts",
-    "image": "https://gaboesquivel.com/images/work/knowledge.png",
-    "repo": "https://github.com/knowledge"
   },
   {
     "title": "Wink",
@@ -436,7 +436,7 @@
   },
   {
     "title": "ScotiaTico",
-    "description": "ScotiaTico.",
+    "description": "I developed the ScotiaTico newsletter for ScotiaBank Costa Rica",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/scotiatico.jpg",
     "technologies": [
