@@ -31,7 +31,8 @@
       "NextJS"
     ],
     "link": "https://ztx.io",
-    "image": "https://gaboesquivel.com/images/work/ztx.png"
+    "image": "https://gaboesquivel.com/images/work/ztx.png",
+    "video": "https://www.youtube.com/watch?v=h58y6UzZ7RA"
   },
   {
     "title": "RareMint",
@@ -48,7 +49,8 @@
       "TypeScript"
     ],
     "link": "https://raremint.com",
-    "image": "https://gaboesquivel.com/images/work/raremint.png"
+    "image": "https://gaboesquivel.com/images/work/raremint.png",
+    "video": "https://www.youtube.com/watch?v=2wh32w7N9xg"
   },
   {
     "title": "ChainGraph",
@@ -163,7 +165,8 @@
       "AWS"
     ],
     "link": "https://example.com/emanate",
-    "image": "https://gaboesquivel.com/images/work/emanate.png"
+    "image": "https://gaboesquivel.com/images/work/emanate.png",
+    "video": "https://www.youtube.com/watch?v=VXSrROohhyA"
   },
   {
     "title": "Make Sense Labs Inc",
@@ -193,7 +196,8 @@
     ],
     "link": "https://eoscostarica.io",
     "image": "https://gaboesquivel.com/images/work/eoscostarica.png",
-    "repo": "https://github.com/eoscostarica"
+    "repo": "https://github.com/eoscostarica",
+    "video": "https://www.youtube.com/watch?v=-1y0fGs8Xgw&"
   },
   {
     "title": "EOS Rate",
@@ -242,7 +246,8 @@
       "Chai"
     ],
     "link": "https://holawink.com",
-    "image": "https://gaboesquivel.com/images/work/wink.png"
+    "image": "https://gaboesquivel.com/images/work/wink.png",
+    "video": "https: //www.youtube.com/watch?v=rfeISMW_OVc"
   },
   {
     "title": "American Express",
@@ -421,7 +426,7 @@
   },
   {
     "title": "SunTrust",
-    "description": "SunTrust.",
+    "description": "SunTrust, now Truist Financial Corporation, is a financial institution offering a wide range of banking and financial services, including personal and business banking, wealth management, commercial banking, and private banking.\\n Solid Salutes was a marketing campaign landing page designed to facilitate user-generated custom video salutes. I spearheaded the development of the entire website, overseeing its design and implementation.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/suntrust-1.jpg",
     "technologies": [
@@ -442,7 +447,7 @@
   },
   {
     "title": "Staples",
-    "description": "Staples.",
+    "description": "Staples is a retail store for office supplies and related products, serving various customer needs.\\n I worked as a frontend developer, responsible for building responsive features and the main website navigation, which was a significant project.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/staples.jpg",
     "technologies": [
@@ -453,8 +458,8 @@
   },
   {
     "title": "Gridium",
-    "description": "Gridium is an energy data analytics prototype that helps users visualize and analyze energy-related data. Gridium empowers users to make informed decisions regarding energy consumption and efficiency.",
-    "link": "http://www.amigosdelosparques.org/orchid-partner.php",
+    "description": "Gridium is an energy data analytics prototype that helps users visualize and analyze energy-related data. Gridium empowers users to make informed decisions regarding energy consumption and efficiency.\\n  I was responsible for building the first version of the application, which displayed data collected from various buildings.",
+    "link": "https://gridium.com/",
     "image": "https://gaboesquivel.com/images/work/gridium.png",
     "technologies": [
       "JavaScript",
@@ -465,7 +470,7 @@
   },
   {
     "title": "ARINC Microfids",
-    "description": "ARINC Microfids is a versatile flight information display system designed for hotels, rental car agencies, and airport-related businesses. It offers customizable display sizes and revenue opportunities.",
+    "description": "ARINC Microfids is a versatile flight information display system designed for hotels, rental car agencies, and airport-related businesses. \\n My responsibilities included managing all aspects of the frontend development and integration with the Ruby on Rails backend.",
     "image": "https://gaboesquivel.com/images/work/arinc.png",
     "technologies": [
       "Ruby on Rails",
@@ -477,7 +482,7 @@
   },
   {
     "title": "Capoeira Abolicao",
-    "description": "Promotional website for Capoeira Abolicao.",
+    "description": "Capoeira Abolição is a Capoeira group a Brazilian martial art that combines dance, acrobatics, music, and culture.\\n I trained with this group for several years and volunteered to create a promotional website that showcases their professors and global community.",
     "link": "https://capoieraabolicao.com",
     "image": "https://gaboesquivel.com/images/work/abolicao.jpg",
     "technologies": [
@@ -500,7 +505,7 @@
   },
   {
     "title": "Earth",
-    "description": "Earth.",
+    "description": "EARTH University provides education in agricultural sciences and resource management for students worldwide. Supported by the Costa Rican Government, USAID, and the W.K. Kellogg Foundation, it emphasizes values, ethical entrepreneurship, and environmental commitment.\\n I was responsible for building their main website, blog and newsletter.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/wordpress-earth-pai.jpg",
     "technologies": [
@@ -511,7 +516,7 @@
   },
   {
     "title": "Proparques",
-    "description": "Proparques.",
+    "description": "ProParques is a nonprofit organization comprising professionals, academics, environmentalists, and entrepreneurs dedicated to identifying, conceptualizing, and executing specific projects to ensure the long-term sustainability of national parks.\\n I developed their responsive landing page and an interactive map for exploring national parks.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/proparques.jpg",
     "technologies": [
@@ -522,8 +527,8 @@
   },
   {
     "title": "Fantasy Tennis",
-    "description": "Fantasy Tennis.",
-    "link": "#",
+    "description": "FanSlam Fantasy Tennis is a strategic game where you aim to earn points in upcoming ATP, WTA, and Grand Slam tournaments by crafting a winning team through careful strategy, considering factors like team balance, surface preferences, style matchups, and player form.\\n I served as a fullstack developer, taking on the responsibility of designing and constructing both the frontend and backend of this application.",
+    "link": "https://www.fanslam.us",
     "image": "https://gaboesquivel.com/images/work/fantasy-tennis.jpg",
     "technologies": [
       "JavaScript",
@@ -532,7 +537,7 @@
   },
   {
     "title": "Mobtion",
-    "description": "Mobtion agency specializes in delivering customized mobile development services. I was responsible for designing and developing their responsive website and content management system (CMS), leveraging the power of WordPress.",
+    "description": "Mobtion agency specializes in delivering customized mobile development services.\\n I was responsible for designing and developing their responsive website and content management system (CMS), leveraging the power of WordPress.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/mobtion.jpg",
     "technologies": [
@@ -556,7 +561,7 @@
   },
   {
     "title": "Trivenzor",
-    "description": "Trivenzor.",
+    "description": "I was the developer in charge of creating a responsive landing page for Trivenzor, a prescription medication used to treat high blood pressure (hypertension) in adults.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/tribenzor.jpg",
     "technologies": [
@@ -567,7 +572,7 @@
   },
   {
     "title": "Living with Dryness",
-    "description": "Living with Dryness.",
+    "description": "I was the developer responsible for crafting the pixel-perfect and responsive Living with Dryness landing page.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/living-with-dryness.jpg",
     "technologies": [
