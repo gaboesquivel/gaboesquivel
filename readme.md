@@ -1,6 +1,6 @@
 # Hi, I'm Gabo Esquivel ( Gab-o )
 
-I'm a full-stack software engineer with over 15 years of experience, specializing in web3 technologies since 2017. My background includes work on numerous blockchain projects, a decade with NodeJS and cloud platforms, and advanced expertise in React, React Native, and TypeScript.
+I'm a full-stack software engineer with over 15 years of experience, specializing in web3 technologies since 2017. My background includes work on numerous blockchain projects, a decade with NodeJS and cloud platforms, and advanced expertise in React, React Native, and TypeScript. Currently exploring AI.
 
 Learn more on my website [gaboesquivel.com](https://gaboesquivel.com)
 
