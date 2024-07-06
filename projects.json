@@ -1,34 +1,65 @@
 [
   {
-    "title": "bitcashBank",
-    "description": "Bitcash allows users to buy, trade, deposit, and earn on cryptocurrencies, with a focus on exchanging funds for local currency stablecoins or bitUSD. The platform also features BitcashDAO for community-based decision-making.\n At Bitcash, my role from the start focused on infrastructure design, tech recruitment, and developer training. I later transitioned to a consulting role to guide the platform's continuous adaptation and success.",
+    "title": "bitlauncher",
+    "description": "BitLauncher supports AI startups by democratizing access to resources and funding through a decentralized, open-source platform. It features a batch auction system for token sales, ensuring fair and transparent price discovery. Participants bid during a fixed period, and tokens are distributed at a uniform price, eliminating manipulation and ensuring equal opportunities for all investors.",
     "technologies": [
-      "Antelope",
-      "Smart Contracts",
-      "ReactJS",
-      "Containers",
-      "GCloud",
+      "TypeScript",
+      "Solidity",
+      "Hardhat",
+      "NextJS",
+      "Viem",
+      "Wagmi",
+      "NodeJS",
+      "PostgreSQL"
+    ],
+    "tags": [
+      "web3",
+      "ai",
+      "oss",
+      "full-time",
+      "lead"
+    ],
+    "link": "https://bitlauncher.ai",
+    "image": "https://gaboesquivel.com/images/work/bitlauncher.png",
+    "video": "https://www.youtube.com/watch?v=U6vn3KOEwcQ",
+    "repo": "https://github.com/bitcashorg/smartevm"
+  },
+  {
+    "title": "Masterbots",
+    "description": "Masterbots.ai is a platform that aims to elevate AI beyond ChatGPT by providing specialized chatbots, social sharing features, and user-friendly innovation. It features domain-specific AI chatbots that can perform more advanced tasks beyond basic information lookup or simple conversations.",
+    "technologies": [
+      "NextJS",
       "NodeJS",
       "GraphQL",
       "PostgreSQL",
-      "TypeScript"
+      "TypeScript",
+      "AI SDK",
+      "LLMs"
     ],
-    "link": "https://bitcash.org",
-    "image": "https://gaboesquivel.com/images/work/bitcash-bank.png",
-    "video": "https://www.youtube.com/watch?v=2JuHy_w0Ct4",
-    "repo": "https://github.com/bitcashorg"
+    "tags": [
+      "ai",
+      "oss"
+    ],
+    "link": "https://masterbots.ai",
+    "image": "https://gaboesquivel.com/images/work/masterbots.png",
+    "repo": "https://github.com/bitcashorg/masterbots"
   },
   {
     "title": "ZTX",
-    "description": "ZTX, a web3 metaverse platform, enables creators to build, play, and earn. Supported by Jump Crypto and ZEPETO, it integrates blockchain for NFT trading.\n As a software consultant in the early stages of ZTX, I was responsible for developing the NFT marketplace and establishing a link between the WebGL metaverse and EVM technologies.",
+    "description": "ZTX, a web3 metaverse platform, enables creators to build, play, and earn. Supported by Jump Crypto and ZEPETO, it integrates blockchain for NFT trading.\n As a software consultant in the early stages of ZTX, I was responsible for developing the react app to host the metaverse and the WebGL/EVM wallet integration.",
     "technologies": [
       "WebGL",
       "Ethereum",
       "Ethers",
+      "NFT",
       "AWS",
       "Node.js",
       "ReactJS",
       "NextJS"
+    ],
+    "tags": [
+      "web3",
+      "full-time"
     ],
     "link": "https://ztx.io",
     "image": "https://gaboesquivel.com/images/work/ztx.png",
@@ -38,31 +69,60 @@
     "title": "RareMint",
     "description": "RareMint digitizes real-world sports collectibles as NFTs, offering a digital collectible experience.\n I led technical efforts at RareMint to enhance the NFT marketplace's performance and maintainability. Additionally, I supported integrating the platform with the Polygon network for auctions.",
     "technologies": [
-      "Ethereum",
-      "Polygon",
+      "EVM",
       "Ethers",
+      "NFT",
       "React",
-      "Containers",
       "GCloud",
       "NodeJS",
       "GraphQL",
       "TypeScript"
+    ],
+    "tags": [
+      "web3",
+      "full-time"
     ],
     "link": "https://raremint.com",
     "image": "https://gaboesquivel.com/images/work/raremint.png",
     "video": "https://www.youtube.com/watch?v=2wh32w7N9xg"
   },
   {
+    "title": "bitcashBank",
+    "description": "Bitcash allows users to buy, trade, deposit, and earn on cryptocurrencies, with a focus on exchanging funds for local currency stablecoins or bitUSD. The platform also features BitcashDAO for community-based decision-making.\n At Bitcash, my role from the start focused on infrastructure design, tech recruitment, and developer training. I later transitioned to a consulting role to guide the platform's continuous adaptation and success.",
+    "technologies": [
+      "Antelope",
+      "C++",
+      "ReactJS",
+      "GCloud",
+      "NodeJS",
+      "GraphQL",
+      "PostgreSQL",
+      "TypeScript"
+    ],
+    "tags": [
+      "web3",
+      "contract",
+      "lead"
+    ],
+    "link": "https://bitcash.org",
+    "image": "https://gaboesquivel.com/images/work/bitcash-bank.png",
+    "video": "https://www.youtube.com/watch?v=2JuHy_w0Ct4",
+    "repo": "https://github.com/bitcashorg"
+  },
+  {
     "title": "Emanate",
     "description": "Emanate is a Web3-powered network marketplace for the music industry, streamlining music creation, distribution, and monetization.\n At Emanate, I maintained the ReactJS web app streaming platform and the back office for artist revenue distribution.",
     "technologies": [
-      "Blockchain",
       "ReactJS",
       "TypeScript",
       "EOS",
       "AWS"
     ],
-    "link": "https://example.com/emanate",
+    "tags": [
+      "web3",
+      "contract"
+    ],
+    "link": "https://emanate.live",
     "image": "https://gaboesquivel.com/images/work/emanate.png",
     "video": "https://www.youtube.com/watch?v=qjmn7M7YC9g"
   },
@@ -75,6 +135,10 @@
       "Blockchain",
       "EOS"
     ],
+    "tags": [
+      "web3",
+      "contract"
+    ],
     "link": "https://www.youtube.com/watch?v=2DJxzYDaAz8",
     "image": "https://gaboesquivel.com/images/work/sense-chat.png",
     "video": "https://www.youtube.com/watch?v=2DJxzYDaAz8"
@@ -84,13 +148,17 @@
     "description": "EOS Costa Rica provides infrastructure for EOSIO blockchains and custom smart contract development.\n Joining EOS Costa Rica at its inception, I played a key role in the EOS mainnet launch, managed validators for multiple networks, and helped establish the custom development services division. My major contribution included leading the architecture for a custom private blockchain for Grant Thornton.",
     "technologies": [
       "EOS",
-      "Smart Contracts",
+      "C++",
       "PostgreSQL",
-      "Containers",
       "Cloud",
       "NodeJS",
       "GraphQL",
       "ReactJS"
+    ],
+    "tags": [
+      "web3",
+      "full-time",
+      "lead"
     ],
     "link": "https://eoscostarica.io",
     "image": "https://gaboesquivel.com/images/work/eoscostarica.png",
@@ -102,9 +170,13 @@
     "description": "EOS Rate is a community-driven tool for rating EOS Block Producers, featuring a radial graph and community input stored on the blockchain.\n In this project, I was responsible for the technical architecture and selecting the appropriate technology.",
     "technologies": [
       "EOS",
-      "Smart Contracts",
+      "C++",
       "GraphQL",
       "ReactJS"
+    ],
+    "tags": [
+      "web3",
+      "oss"
     ],
     "link": "https://eosrate.io",
     "image": "https://gaboesquivel.com/images/work/eosrate.png",
@@ -116,14 +188,18 @@
     "description": "Knowledge is a platform that rewards users for sharing information, recognized through a token system.\n My role at Knowledge included leading the architecture of the token and supporting systems for a successful ICO, and forming a skilled development team.",
     "technologies": [
       "Ethereum",
-      "Smart Contracts",
+      "Solidity",
       "AWS",
       "Serverless",
       "GraphQL",
       "React Native",
       "React",
-      "Node.js",
-      "Jenkins"
+      "Node.js"
+    ],
+    "tags": [
+      "web3",
+      "contract",
+      "oss"
     ],
     "link": "https://github.com/knowledge/ethereum-contracts",
     "image": "https://gaboesquivel.com/images/work/knowledge.png",
@@ -133,7 +209,6 @@
     "title": "ChainGraph",
     "description": "This real-time GraphQL toolkit is designed for EOSIO/Antelope blockchain applications, offering features like data subscriptions and querying multiple blockchains.\n As a personal side project during my time at Bitcash, I was responsible for the architectural design, technology selection, and coding of the toolkit, including a real-time blockchain data streaming package.",
     "technologies": [
-      "EOSIO",
       "Antelope",
       "NodeJS",
       "Docker",
@@ -141,6 +216,10 @@
       "GCloud",
       "RXJS",
       "ReactJS"
+    ],
+    "tags": [
+      "web3",
+      "oss"
     ],
     "link": "https://chaingraph.io",
     "image": "https://gaboesquivel.com/images/work/chaingraph.png",
@@ -151,42 +230,19 @@
     "description": "The mobile app game based on NBA Top Shot NFTs was developed for the 2022 Flow Hackathon. It leverages the popularity of NBA Top Shot NFTs to create an engaging gaming experience.\n My contribution to this project was in the game's design and development, utilizing my skills in blockchain technology and mobile app development.",
     "technologies": [
       "Flow Blockchain",
+      "NFT",
       "ReactJS",
       "React Native with Expo",
       "Tailwind"
+    ],
+    "tags": [
+      "web3",
+      "hackathon"
     ],
     "link": "https://fantasy-top-shot.vercel.app",
     "image": "https://gaboesquivel.com/images/work/fantasy-top-shots.png",
     "video": "https://www.youtube.com/watch?v=Il2aiKhy_ug",
     "repo": "https://github.com/bitcashorg/fantasy-top-shot"
-  },
-  {
-    "title": "Holepunch Playground",
-    "description": "Holepunch is a collection of JavaScript modules for creating P2P apps. It's an open repository for exploring different P2P patterns and functionalities.\n In this project, I initiated and maintained the repository to explore various P2P functionalities using JavaScript.",
-    "technologies": [
-      "NodeJS",
-      "Turbo",
-      "P2P",
-      "Hypercore",
-      "Hyperswarm",
-      "Hyperbee"
-    ],
-    "link": "https://github.com/gaboesquivel/holepunch-playground",
-    "image": "https://gaboesquivel.com/images/work/holepunch-playground.png",
-    "repo": "https://github.com/gaboesquivel/holepunch-playground"
-  },
-  {
-    "title": "SmartSale EVM",
-    "description": "SmartSale EVM, an EVM version of the Gnosis Smart Contract, facilitates multi-chain fund-raising with Dutch Auction functionality for fairer token distribution.\n My responsibilities included defining the technical architecture, selecting the technology stack, and planning the project roadmap.",
-    "technologies": [
-      "Antelope EVM",
-      "ReactJS",
-      "GraphQL ( subgraph )",
-      "Firehose streams"
-    ],
-    "link": "https://pomelo.io/grants/smartsale",
-    "image": "https://gaboesquivel.com/images/work/smartsale-evm.webp",
-    "repo": "https://github.com/bitcashorg/smartevm"
   },
   {
     "title": "Substrate Contracts UI",
@@ -197,6 +253,10 @@
       "ReactJS",
       "Tailwind"
     ],
+    "tags": [
+      "web3",
+      "oss"
+    ],
     "link": "https://contracts-ui.substrate.io/",
     "image": "https://gaboesquivel.com/images/work/contracts-ui.png",
     "repo": "https://github.com/paritytech/contracts-ui"
@@ -206,11 +266,18 @@
     "description": "A progressive web app connects to GPT3 to generate AI images and mint them on the Flow blockchain. This app integrates AI with blockchain technology.\n My role involved the app's development, focusing on integrating GPT3 for image generation and ensuring smooth functionality with the Flow blockchain.",
     "technologies": [
       "NextJS",
-      "Flow Blockchain",
+      "Flow",
       "Niftory",
       "GPT3",
-      "AI",
+      "Dalle",
+      "Midjourney",
+      "OpenAI",
       "Tailwind"
+    ],
+    "tags": [
+      "ai",
+      "web3",
+      "hackathon"
     ],
     "link": "https://wizart.world",
     "image": "https://gaboesquivel.com/images/work/wizart-world.png",
@@ -222,11 +289,12 @@
     "description": "dBoard is a DAO decision-making and community management tool. It allows stakeholders to strategize, debate, and vote on actions for organizational efficiency.\n In this project, my contributions included overseeing the technical architecture and the smart contract development and integration on the webapp.",
     "technologies": [
       "Antelope",
-      "EOS",
-      "Smart Contracts",
       "NextJS",
       "GCloud",
       "GraphQL"
+    ],
+    "tags": [
+      "web3"
     ],
     "link": "https://eos.dboard.ai",
     "image": "https://gaboesquivel.com/images/work/dboard.png",
@@ -238,13 +306,14 @@
     "technologies": [
       "AWS",
       "Serverless",
-      "ReactNative",
+      "React Native",
       "React",
       "NodeJS",
-      "Zero-Trust",
-      "Biometrics",
-      "Mocha",
-      "Chai"
+      "Biometrics"
+    ],
+    "tags": [
+      "full-time",
+      "lead"
     ],
     "link": "https://holawink.com",
     "image": "https://gaboesquivel.com/images/work/wink.png",
@@ -263,6 +332,9 @@
       "Dojo",
       "jQuery",
       "CSS3"
+    ],
+    "tags": [
+      "full-time"
     ]
   },
   {
@@ -273,6 +345,9 @@
     "technologies": [
       "JavaScript",
       "CSS3"
+    ],
+    "tags": [
+      "other"
     ]
   },
   {
@@ -284,6 +359,9 @@
       "jQuery",
       "Facebook API",
       "Twitter API"
+    ],
+    "tags": [
+      "contract"
     ],
     "link": "http://elderscrollsonline.com",
     "image": "https://gaboesquivel.com/images/work/elder-scrolls.jpg"
@@ -301,6 +379,10 @@
       "Brightcove API",
       "require.js"
     ],
+    "tags": [
+      "full-time",
+      "lead"
+    ],
     "link": "http://yeahtv.com",
     "image": "https://gaboesquivel.com/images/work/yeahtv.jpg"
   },
@@ -309,6 +391,9 @@
     "description": "Tikr is an online store with dynamic, real-time fluctuating prices, offering a unique shopping experience. It operates on the Ruby on Rails-based Spree backend framework.\n My role at Tikr encompassed full-stack development with a focus on frontend development and customization of the Spree backend framework.",
     "link": "http://tikr.com",
     "image": "https://gaboesquivel.com/images/work/tikr.jpg",
+    "tags": [
+      "contract"
+    ],
     "technologies": [
       "Ruby on Rails",
       "Spree",
@@ -331,6 +416,9 @@
       "Stripe",
       "Twilio"
     ],
+    "tags": [
+      "contract"
+    ],
     "link": "http://www.eatarcade.com/",
     "image": "https://gaboesquivel.com/images/work/eatarcade.jpg"
   },
@@ -346,6 +434,9 @@
       "Node(Express)",
       "Heroku",
       "Divshot"
+    ],
+    "tags": [
+      "contract"
     ],
     "link": "http://www.jockeyhollowbarandkitchen.com/",
     "image": "https://gaboesquivel.com/images/work/jockey-hollow.png"
@@ -363,6 +454,9 @@
       "Heroku",
       "Divshot"
     ],
+    "tags": [
+      "contract"
+    ],
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/jockey-hollow-menu.png"
   },
@@ -376,6 +470,9 @@
       "eBay API",
       "HTML5",
       "AJAX/jQuery"
+    ],
+    "tags": [
+      "contract"
     ]
   },
   {
@@ -384,11 +481,12 @@
     "technologies": [
       "React Native",
       "ReactJS",
-      "Containers",
-      "Cloud",
       "NodeJS",
       "TypeScript",
       "Augmented Reality"
+    ],
+    "tags": [
+      "contract"
     ],
     "link": "https://www.tractorsupply.com/tsc/cms/app",
     "image": "https://gaboesquivel.com/images/work/tractor-supply.png"
@@ -408,6 +506,9 @@
       "PostgreSQL",
       "Linux"
     ],
+    "tags": [
+      "contract"
+    ],
     "link": "https://www.myphoto.com/",
     "image": "https://gaboesquivel.com/images/work/photoandgo.jpg"
   },
@@ -422,6 +523,9 @@
       "MongoDB",
       "Angular.js"
     ],
+    "tags": [
+      "contract"
+    ],
     "link": "https://example.com/18techs",
     "image": "https://gaboesquivel.com/images/work/4tius.jpg"
   },
@@ -433,6 +537,9 @@
     "technologies": [
       "JavaScript",
       "CSS3"
+    ],
+    "tags": [
+      "other"
     ]
   },
   {
@@ -444,6 +551,9 @@
       "JavaScript",
       "CSS3",
       "Wordpress"
+    ],
+    "tags": [
+      "other"
     ]
   },
   {
@@ -455,6 +565,9 @@
       "JavaScript",
       "CSS3",
       "Mootols"
+    ],
+    "tags": [
+      "other"
     ]
   },
   {
@@ -467,6 +580,9 @@
       "Data Charts",
       "CSS",
       "Bootstrap"
+    ],
+    "tags": [
+      "contract"
     ]
   },
   {
@@ -479,6 +595,9 @@
       "Faye",
       "LESS",
       "Heroku"
+    ],
+    "tags": [
+      "contract"
     ]
   },
   {
@@ -491,6 +610,9 @@
       "Wordpress",
       "CSS",
       "Bootstrap"
+    ],
+    "tags": [
+      "other"
     ]
   },
   {
@@ -502,6 +624,9 @@
       "JavaScript",
       "CSS3",
       "Wordpress"
+    ],
+    "tags": [
+      "other"
     ]
   },
   {
@@ -513,6 +638,9 @@
       "JavaScript",
       "CSS3",
       "Wordpress"
+    ],
+    "tags": [
+      "other"
     ]
   },
   {
@@ -524,6 +652,9 @@
       "JavaScript",
       "CSS3",
       "Wordpress"
+    ],
+    "tags": [
+      "other"
     ]
   },
   {
@@ -534,6 +665,9 @@
     "technologies": [
       "JavaScript",
       "CSS3"
+    ],
+    "tags": [
+      "contract"
     ]
   },
   {
@@ -546,6 +680,9 @@
       "CSS3",
       "Wordpress",
       "PHP"
+    ],
+    "tags": [
+      "other"
     ]
   },
   {
@@ -558,6 +695,9 @@
       "CSS3",
       "PHP",
       "Custom CMS"
+    ],
+    "tags": [
+      "other"
     ]
   },
   {
@@ -569,6 +709,9 @@
       "JavaScript",
       "CSS3",
       "Mootols"
+    ],
+    "tags": [
+      "other"
     ]
   },
   {
@@ -580,6 +723,9 @@
       "JavaScript",
       "CSS3",
       "Wordpress"
+    ],
+    "tags": [
+      "other"
     ]
   }
 ]
