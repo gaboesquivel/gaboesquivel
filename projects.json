@@ -1,6 +1,30 @@
 [
   {
+    "title": "BasilicEVM",
+    "slug": "basilic-evm",
+    "description": "BasilicEVM is a performance-optimized development stack for EVM applications. Built with Foundry, viem/wagmi, and Next.js 15, it features AI-powered development workflows, specialized cursor rules, and streamlined UI generation. The stack includes smart contracts, chain integration, frontend components, and data layer with Ponder indexing and Supabase.",
+    "technologies": [
+      "TypeScript",
+      "Solidity",
+      "Foundry",
+      "NextJS",
+      "Viem",
+      "Wagmi",
+      "EVM",
+      "ThirdWeb",
+      "AI"
+    ],
+    "tags": [
+      "web3",
+      "oss"
+    ],
+    "link": "https://github.com/blockmatic/basilic-evm",
+    "image": "https://gaboesquivel.com/images/work/basilic-evm.png",
+    "repo": "https://github.com/blockmatic/basilic-evm"
+  },
+  {
     "title": "bitlauncher",
+    "slug": "bitlauncher",
     "description": "BitLauncher supports AI startups by democratizing access to resources and funding through a decentralized, open-source platform. It features a batch auction system for token sales, ensuring fair and transparent price discovery. Participants bid during a fixed period, and tokens are distributed at a uniform price, eliminating manipulation and ensuring equal opportunities for all investors.",
     "technologies": [
       "TypeScript",
@@ -26,6 +50,7 @@
   },
   {
     "title": "Masterbots",
+    "slug": "masterbots",
     "description": "Masterbots.ai is a platform that aims to elevate AI beyond ChatGPT by providing specialized chatbots, social sharing features, and user-friendly innovation. It features domain-specific AI chatbots that can perform more advanced tasks beyond basic information lookup or simple conversations.",
     "technologies": [
       "NextJS",
@@ -46,6 +71,7 @@
   },
   {
     "title": "ZTX",
+    "slug": "ztx",
     "description": "ZTX, a web3 metaverse platform, enables creators to build, play, and earn. Supported by Jump Crypto and ZEPETO, it integrates blockchain for NFT trading.\n As a software consultant in the early stages of ZTX, I was responsible for developing the react app to host the metaverse and the WebGL/EVM wallet integration.",
     "technologies": [
       "WebGL",
@@ -67,6 +93,7 @@
   },
   {
     "title": "RareMint",
+    "slug": "raremint",
     "description": "RareMint digitizes real-world sports collectibles as NFTs, offering a digital collectible experience.\n I led technical efforts at RareMint to enhance the NFT marketplace's performance and maintainability. Additionally, I supported integrating the platform with the Polygon network for auctions.",
     "technologies": [
       "EVM",
@@ -88,6 +115,7 @@
   },
   {
     "title": "bitcashBank",
+    "slug": "bitcashbank",
     "description": "Bitcash allows users to buy, trade, deposit, and earn on cryptocurrencies, with a focus on exchanging funds for local currency stablecoins or bitUSD. The platform also features BitcashDAO for community-based decision-making.\n At Bitcash, my role from the start focused on infrastructure design, tech recruitment, and developer training. I later transitioned to a consulting role to guide the platform's continuous adaptation and success.",
     "technologies": [
       "Antelope",
@@ -111,6 +139,7 @@
   },
   {
     "title": "Emanate",
+    "slug": "emanate",
     "description": "Emanate is a Web3-powered network marketplace for the music industry, streamlining music creation, distribution, and monetization.\n At Emanate, I maintained the ReactJS web app streaming platform and the back office for artist revenue distribution.",
     "technologies": [
       "ReactJS",
@@ -128,6 +157,7 @@
   },
   {
     "title": "Make Sense Labs Inc",
+    "slug": "make-sense-labs-inc",
     "description": "Sense.chat, developed by Sense, a blockchain and DeFi company, is a secure chat and transaction app focusing on user data privacy.\n My role at Sense involved enhancing the React Native app's performance and integrating it with the EOS mainnet for token functionality.",
     "technologies": [
       "React Native",
@@ -145,6 +175,7 @@
   },
   {
     "title": "EOS Costa Rica",
+    "slug": "eos-costa-rica",
     "description": "EOS Costa Rica provides infrastructure for EOSIO blockchains and custom smart contract development.\n Joining EOS Costa Rica at its inception, I played a key role in the EOS mainnet launch, managed validators for multiple networks, and helped establish the custom development services division. My major contribution included leading the architecture for a custom private blockchain for Grant Thornton.",
     "technologies": [
       "EOS",
@@ -167,6 +198,7 @@
   },
   {
     "title": "EOS Rate",
+    "slug": "eos-rate",
     "description": "EOS Rate is a community-driven tool for rating EOS Block Producers, featuring a radial graph and community input stored on the blockchain.\n In this project, I was responsible for the technical architecture and selecting the appropriate technology.",
     "technologies": [
       "EOS",
@@ -185,6 +217,7 @@
   },
   {
     "title": "Knowledge.io",
+    "slug": "knowledge-io",
     "description": "Knowledge is a platform that rewards users for sharing information, recognized through a token system.\n My role at Knowledge included leading the architecture of the token and supporting systems for a successful ICO, and forming a skilled development team.",
     "technologies": [
       "Ethereum",
@@ -207,6 +240,7 @@
   },
   {
     "title": "ChainGraph",
+    "slug": "chaingraph",
     "description": "This real-time GraphQL toolkit is designed for EOSIO/Antelope blockchain applications, offering features like data subscriptions and querying multiple blockchains.\n As a personal side project during my time at Bitcash, I was responsible for the architectural design, technology selection, and coding of the toolkit, including a real-time blockchain data streaming package.",
     "technologies": [
       "Antelope",
@@ -227,6 +261,7 @@
   },
   {
     "title": "Fantasy Top Shots",
+    "slug": "fantasy-top-shots",
     "description": "The mobile app game based on NBA Top Shot NFTs was developed for the 2022 Flow Hackathon. It leverages the popularity of NBA Top Shot NFTs to create an engaging gaming experience.\n My contribution to this project was in the game's design and development, utilizing my skills in blockchain technology and mobile app development.",
     "technologies": [
       "Flow Blockchain",
@@ -246,6 +281,7 @@
   },
   {
     "title": "Substrate Contracts UI",
+    "slug": "substrate-contracts-ui",
     "description": "Substrate Contracts UI is a web application for deploying and interacting with WASM smart contracts on Substrate blockchains.\n I contributed to the project by enhancing code quality through multiple open-source contributions and gained experience in building dApps with Substrate.",
     "technologies": [
       "Polkadot",
@@ -263,6 +299,7 @@
   },
   {
     "title": "Wizard World",
+    "slug": "wizard-world",
     "description": "A progressive web app connects to GPT3 to generate AI images and mint them on the Flow blockchain. This app integrates AI with blockchain technology.\n My role involved the app's development, focusing on integrating GPT3 for image generation and ensuring smooth functionality with the Flow blockchain.",
     "technologies": [
       "NextJS",
@@ -286,6 +323,7 @@
   },
   {
     "title": "dBoard",
+    "slug": "dboard",
     "description": "dBoard is a DAO decision-making and community management tool. It allows stakeholders to strategize, debate, and vote on actions for organizational efficiency.\n In this project, my contributions included overseeing the technical architecture and the smart contract development and integration on the webapp.",
     "technologies": [
       "Antelope",
@@ -302,6 +340,7 @@
   },
   {
     "title": "Wink",
+    "slug": "wink",
     "description": "Wink, Costa Rica's first neo-bank, offers a mobile app for online banking, eliminating the need for physical branch visits.\n I developed the first version of Wink's mobile app and backend services within AWS. My role involved API integration with partner banks and forming a dedicated development team.",
     "technologies": [
       "AWS",
@@ -321,6 +360,7 @@
   },
   {
     "title": "American Express",
+    "slug": "american-express",
     "description": "The American Express website enables cardmembers to manage their financial accounts, offering features like balance checks, transaction views, and secure payments.\n My responsibility was focused on front-end development, including Object-Oriented JavaScript, AJAX for a fluid user experience, and implementing A/B Testing and usage analytics.",
     "image": "https://gaboesquivel.com/images/work/amex.jpg",
     "link": "https://www.americanexpress.com/",
@@ -339,6 +379,7 @@
   },
   {
     "title": "AMEX Money Talk",
+    "slug": "amex-money-talk",
     "description": "The National Money Night Talk by American Express aimed to promote financial communication between parents and teenagers.\n As a Frontend Engineer, I developed the campaign's landing page, focusing on user engagement and information delivery.",
     "link": "https://www.youtube.com/watch?v=a2vDoYyXIJQ",
     "image": "https://gaboesquivel.com/images/work/money-talk.jpg",
@@ -352,6 +393,7 @@
   },
   {
     "title": "Elder Scrolls Online",
+    "slug": "elder-scrolls-online",
     "description": "The official website serves as a central hub for a gaming community, offering news, game guides, and forums.\n My role was to ensure a user-centric design for the website, facilitating easy navigation and engagement with the content, blending aesthetics and functionality for a dynamic digital platform.",
     "technologies": [
       "PHP",
@@ -368,6 +410,7 @@
   },
   {
     "title": "AMC Yeah TV Facebook App",
+    "slug": "amc-yeah-tv-facebook-app",
     "description": "An online movie streaming service allows watching movies in chapters with detailed information and interactive games.\n I was responsible for the frontend architecture design, integrating the game app with Facebook and the backoffice system with Brightcove web services for video streaming and editing.",
     "technologies": [
       "HTML5",
@@ -388,6 +431,7 @@
   },
   {
     "title": "Tikr",
+    "slug": "tikr",
     "description": "Tikr is an online store with dynamic, real-time fluctuating prices, offering a unique shopping experience. It operates on the Ruby on Rails-based Spree backend framework.\n My role at Tikr encompassed full-stack development with a focus on frontend development and customization of the Spree backend framework.",
     "link": "http://tikr.com",
     "image": "https://gaboesquivel.com/images/work/tikr.jpg",
@@ -405,6 +449,7 @@
   },
   {
     "title": "Eat Arcade",
+    "slug": "eat-arcade",
     "description": "I designed and developed an SMS subscription system featuring curated dishes from New York City's finest restaurants. The system offered a unique dining experience through mobile technology.\n My responsibilities covered the entire development process, from system design to implementation.",
     "technologies": [
       "NodeJS",
@@ -424,6 +469,7 @@
   },
   {
     "title": "Jockey Hollow Bar and Kitchen",
+    "slug": "jockey-hollow-bar-and-kitchen",
     "description": "Jockey Hollow Bar and Kitchen, located in a historic mansion, features four distinct dining concepts. The responsive landing page I developed introduces visitors to its diverse culinary world.\n My work focused on developing the main responsive landing page, ensuring an inviting and informative digital gateway to the restaurant's offerings.",
     "technologies": [
       "SASS",
@@ -443,6 +489,7 @@
   },
   {
     "title": "Jockey Hollow Bar and Kitchen Menu Kiosk App",
+    "slug": "jockey-hollow-bar-and-kitchen-menu-kiosk-app",
     "description": "At Jockey Hollow Bar & Kitchen, I developed the Menu Kiosk App, a responsive web application for tablet kiosks. It simplifies menu selection for patrons and uses Google Spreadsheets for easy updates.\n As the sole developer, my role involved creating an intuitive and efficient digital menu solution, enhancing the dining experience.",
     "technologies": [
       "SASS",
@@ -462,6 +509,7 @@
   },
   {
     "title": "Bureau of Trade (Beta)",
+    "slug": "bureau-of-trade-beta",
     "description": "Bureau of Trade (Beta) is an online store offering a range of products, with a frontend integrated with eBay's API for diverse shopping experiences.\n As the sole Fullstack developer, my focus was on frontend development, responsive design, and animations, along with eBay API integration.",
     "link": "http://www.gridium.com/products/portfolio-manager/",
     "image": "https://gaboesquivel.com/images/work/bureau-of-trade.jpg",
@@ -477,6 +525,7 @@
   },
   {
     "title": "Tractor Supply",
+    "slug": "tractor-supply",
     "description": "The Tractor Supply mobile app offers features like product browsing, exclusive offers, account management, and an augmented reality feature for product previews.\n As a consultant, I enhanced the app's performance and code quality, and developed its augmented reality feature, improving user experience and engagement.",
     "technologies": [
       "React Native",
@@ -493,6 +542,7 @@
   },
   {
     "title": "Photo and Go",
+    "slug": "photo-and-go",
     "description": "MyPhoto.com is an online platform for creating personalized photo products. I led the development of an innovative photo editor app and backend services integrated with existing e-commerce systems.\n My leadership role encompassed technical direction and execution, focusing on creating a smooth and intuitive user experience.",
     "technologies": [
       "ReactJS",
@@ -514,6 +564,7 @@
   },
   {
     "title": "4Tius Fitness Data Tracker",
+    "slug": "4tius-fitness-data-tracker",
     "description": "The 4Tius app is a centralized platform for monitoring fitness data, integrating with Fitbit. It includes a web dashboard and API.\n As a Fullstack software engineer, I led the development of both the web application and backend systems, ensuring seamless integration and user-friendly functionality.",
     "technologies": [
       "Node.js",
@@ -531,6 +582,7 @@
   },
   {
     "title": "SunTrust",
+    "slug": "suntrust",
     "description": "SunTrust's Solid Salutes campaign facilitated user-generated custom video salutes. I developed the entire campaign website, focusing on design and user interaction.\n My role included overseeing the website's development from concept to implementation, emphasizing user engagement and visual appeal.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/suntrust-1.jpg",
@@ -544,6 +596,7 @@
   },
   {
     "title": "ScotiaTico",
+    "slug": "scotiatico",
     "description": "For ScotiaBank Costa Rica, I developed the ScotiaTico newsletter, a communication tool for bank updates and information.\n My responsibility was crafting an engaging and informative newsletter layout, enhancing communication between the bank and its customers.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/scotiatico.jpg",
@@ -558,6 +611,7 @@
   },
   {
     "title": "Staples",
+    "slug": "staples",
     "description": "At Staples, a retail store for office supplies, I worked on building responsive features and the main website navigation.\n My role as a frontend developer involved creating user-friendly and efficient navigation elements, contributing to the overall user experience on the website.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/staples.jpg",
@@ -572,6 +626,7 @@
   },
   {
     "title": "Gridium",
+    "slug": "gridium",
     "description": "Gridium is an energy data analytics prototype for visualizing and analyzing energy consumption. It aids in informed energy management decisions.\n I built the first version of the application, focusing on displaying data collected from various buildings.",
     "link": "https://gridium.com/",
     "image": "https://gaboesquivel.com/images/work/gridium.png",
@@ -587,6 +642,7 @@
   },
   {
     "title": "ARINC Microfids",
+    "slug": "arinc-microfids",
     "description": "ARINC Microfids is a flight information display system for hotels and airport businesses. It integrates with a Ruby on Rails backend.\n My responsibilities included frontend development and system integration, ensuring a seamless display of flight information.",
     "image": "https://gaboesquivel.com/images/work/arinc.png",
     "technologies": [
@@ -602,6 +658,7 @@
   },
   {
     "title": "Capoeira Abolicao",
+    "slug": "capoeira-abolicao",
     "description": "Capoeira Abolição is a Brazilian martial arts group. I volunteered to create their promotional website, showcasing their professors and community.\n My involvement included website design and development, highlighting the group's activities and global presence.",
     "link": "https://capoieraabolicao.com",
     "image": "https://gaboesquivel.com/images/work/abolicao.jpg",
@@ -617,6 +674,7 @@
   },
   {
     "title": "Panini",
+    "slug": "panini",
     "description": "Panini, a project I worked on, provided a unique service or product in its field.\n My role in this project was focused on technical development and implementation.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/panini.jpg",
@@ -631,6 +689,7 @@
   },
   {
     "title": "Earth",
+    "slug": "earth",
     "description": "EARTH University offers education in agricultural sciences. I was responsible for building their main website, blog, and newsletter.\n My work involved creating a digital platform for information dissemination and community engagement, focusing on usability and content management.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/wordpress-earth-pai.jpg",
@@ -645,6 +704,7 @@
   },
   {
     "title": "Proparques",
+    "slug": "proparques",
     "description": "ProParques is a nonprofit for national park sustainability. I developed their responsive landing page and an interactive national park map.\n My role included web design and development, focusing on user interaction and information accessibility for park exploration.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/proparques.jpg",
@@ -659,6 +719,7 @@
   },
   {
     "title": "Fantasy Tennis",
+    "slug": "fantasy-tennis",
     "description": "FanSlam Fantasy Tennis is a strategic game for ATP, WTA, and Grand Slam tournaments. I designed and built both the frontend and backend.\n As a fullstack developer, my work encompassed creating an engaging and functional gaming experience, integrating strategy and user interface design.",
     "link": "https://www.fanslam.us",
     "image": "https://gaboesquivel.com/images/work/fantasy-tennis.jpg",
@@ -672,6 +733,7 @@
   },
   {
     "title": "Mobtion",
+    "slug": "mobtion",
     "description": "Mobtion agency specializes in mobile development services. I designed and developed their responsive website and WordPress CMS.\n My responsibilities included website design, development, and ensuring seamless content management for the agency.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/mobtion.jpg",
@@ -687,6 +749,7 @@
   },
   {
     "title": "ITS",
+    "slug": "its",
     "description": "ITS InfoCom, an IT multinational, focuses on Remote Infrastructure Management. I implemented their primary website, CMS, and CRM integration.\n My role was to create and integrate digital solutions for the company, focusing on web presence and customer relationship management.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/website-its.jpg",
@@ -702,6 +765,7 @@
   },
   {
     "title": "Trivenzor",
+    "slug": "trivenzor",
     "description": "For Trivenzor, a hypertension medication, I developed a responsive landing page for patient and healthcare provider information.\n My work involved creating a user-friendly and informative digital platform, emphasizing medical information clarity and accessibility.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/tribenzor.jpg",
@@ -716,6 +780,7 @@
   },
   {
     "title": "Living with Dryness",
+    "slug": "living-with-dryness",
     "description": "The Living with Dryness project involved crafting a responsive landing page focused on providing information and resources.\n As the developer, I ensured a pixel-perfect design and user-friendly navigation, catering to the project's specific audience and needs.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/living-with-dryness.jpg",
