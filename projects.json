@@ -338,7 +338,7 @@
     "technologies": [
       "Flow Blockchain",
       "NFT",
-      "ReactJS",
+      "React",
       "React Native with Expo",
       "Tailwind"
     ],
@@ -362,7 +362,7 @@
     "title": "Substrate Contracts UI",
     "slug": "substrate-contracts-ui",
     "description": "Substrate Contracts UI is a web application for deploying and interacting with WASM smart contracts on Substrate blockchains.\n I contributed to the project by enhancing code quality through multiple open-source contributions and gained experience in building dApps with Substrate.",
-    "technologies": ["Polkadot", "Substrate", "ReactJS", "Tailwind"],
+    "technologies": ["Polkadot", "Substrate", "React", "Tailwind"],
     "tags": ["web3", "oss"],
     "link": "https://contracts-ui.substrate.io/",
     "image": "https://gaboesquivel.com/images/work/contracts-ui.png",
@@ -383,7 +383,7 @@
     "slug": "wizard-world",
     "description": "A progressive web app connects to OpenAI's LLM models to generate AI images and mint them on the Flow blockchain. This app integrates AI with blockchain technology.\n My role involved the app's development, focusing on integrating OpenAI's models for image generation and ensuring smooth functionality with the Flow blockchain.",
     "technologies": [
-      "NextJS",
+      "Next.js",
       "Flow",
       "Niftory",
       "Dalle",
@@ -414,7 +414,7 @@
     "title": "dBoard",
     "slug": "dboard",
     "description": "dBoard is a DAO decision-making and community management tool. It allows stakeholders to strategize, debate, and vote on actions for organizational efficiency.\n In this project, my contributions included overseeing the technical architecture and the smart contract development and integration on the webapp.",
-    "technologies": ["Antelope", "NextJS", "GCloud", "GraphQL"],
+    "technologies": ["Antelope", "Next.js", "GCloud", "GraphQL"],
     "tags": ["web3"],
     "link": "https://eos.dboard.ai",
     "image": "https://gaboesquivel.com/images/work/dboard.png",
@@ -426,7 +426,7 @@
     ],
     "story": [
       "dBoard was developed as a comprehensive tool for DAO decision-making and community management, designed to empower stakeholders with the ability to strategize, debate, and vote on organizational actions. My role in the project was pivotal, as I oversaw the technical architecture and the development of smart contracts that facilitated these processes.",
-      "The platform leverages Antelope and NextJS to provide a robust and scalable environment for decentralized governance. By integrating smart contracts, we ensured that community voting mechanisms were secure and transparent, fostering trust and engagement among users.",
+      "The platform leverages Antelope and Next.js to provide a robust and scalable environment for decentralized governance. By integrating smart contracts, we ensured that community voting mechanisms were secure and transparent, fostering trust and engagement among users.",
       "Through the implementation of a seamless GraphQL API, dBoard offers improved data interactions, allowing stakeholders to access and analyze information efficiently. This project reflects my commitment to advancing DAO technologies and creating tools that enhance organizational efficiency and community collaboration."
     ]
   },
@@ -439,7 +439,7 @@
       "Serverless",
       "React Native",
       "React",
-      "NodeJS",
+      "Node.js",
       "Biometrics"
     ],
     "tags": ["full-time", "lead"],
@@ -470,7 +470,7 @@
       "Facebook API",
       "Dojo",
       "jQuery",
-      "CSS3"
+      "CSS"
     ],
     "tags": ["full-time"],
     "achievements": [
@@ -491,7 +491,7 @@
     "description": "The National Money Night Talk by American Express aimed to promote financial communication between parents and teenagers.\n As a Frontend Engineer, I developed the campaign's landing page, focusing on user engagement and information delivery.",
     "link": "https://www.youtube.com/watch?v=a2vDoYyXIJQ",
     "image": "https://gaboesquivel.com/images/work/money-talk.jpg",
-    "technologies": ["JavaScript", "CSS3"],
+    "technologies": ["JavaScript", "CSS"],
     "tags": ["other"],
     "achievements": [
       "Developed an engaging landing page to enhance user interaction.",
@@ -588,7 +588,7 @@
     "slug": "eat-arcade",
     "description": "I designed and developed an SMS subscription system featuring curated dishes from New York City's finest restaurants. The system offered a unique dining experience through mobile technology.\n My responsibilities covered the entire development process, from system design to implementation.",
     "technologies": [
-      "NodeJS",
+      "Node.js",
       "Express.js",
       "AngularJS",
       "MongoDB",
@@ -603,11 +603,11 @@
     "achievements": [
       "Designed and built an SMS-based subscription system for restaurant promotions.",
       "Integrated Twilio for seamless messaging and user engagement.",
-      "Developed a full-stack solution using NodeJS, MongoDB, and AngularJS."
+      "Developed a full-stack solution using Node.js, MongoDB, and AngularJS."
     ],
     "story": [
       "Eat Arcade was developed as an innovative SMS subscription system that featured curated dishes from New York City's finest restaurants. My role encompassed the entire development process, from system design to implementation, ensuring a seamless and engaging user experience.",
-      "I designed and built the system using NodeJS, Express.js, and AngularJS, integrating Twilio for seamless messaging and user engagement. This allowed users to receive curated dining options directly to their mobile devices, enhancing their dining experience.",
+      "I designed and built the system using Node.js, Express.js, and AngularJS, integrating Twilio for seamless messaging and user engagement. This allowed users to receive curated dining options directly to their mobile devices, enhancing their dining experience.",
       "The project also involved integrating Stripe for payment processing and deploying the solution on Heroku for scalability. Eat Arcade reflects my ability to create innovative solutions that leverage mobile technology to enhance user engagement and experience in the dining industry."
     ]
   },
@@ -621,7 +621,7 @@
       "Lodash",
       "Grapnel.js",
       "Grunt",
-      "Node(Express)",
+      "Node.js (Express)",
       "Heroku",
       "Divshot"
     ],
@@ -650,7 +650,7 @@
       "Lodash",
       "Grapnel.js",
       "Grunt",
-      "Node(Express)",
+      "Node.js (Express)",
       "Heroku",
       "Divshot"
     ],
@@ -674,7 +674,7 @@
     "description": "Bureau of Trade (Beta) is an online store offering a range of products, with a frontend integrated with eBay's API for diverse shopping experiences.\n As the sole Fullstack developer, my focus was on frontend development, responsive design, and animations, along with eBay API integration.",
     "link": "http://www.gridium.com/products/portfolio-manager/",
     "image": "https://gaboesquivel.com/images/work/bureau-of-trade.jpg",
-    "technologies": ["PHP", "eBay API", "HTML5", "AJAX/jQuery"],
+    "technologies": ["PHP", "eBay API", "HTML5", "AJAX", "jQuery"],
     "tags": ["contract"],
     "achievements": [
       "Built a responsive e-commerce frontend integrated with eBay's API.",
@@ -693,8 +693,8 @@
     "description": "The Tractor Supply mobile app offers features like product browsing, exclusive offers, account management, and an augmented reality feature for product previews.\n As a consultant, I enhanced the app's performance and code quality, and developed its augmented reality feature, improving user experience and engagement.",
     "technologies": [
       "React Native",
-      "ReactJS",
-      "NodeJS",
+      "React",
+      "Node.js",
       "TypeScript",
       "Augmented Reality"
     ],
@@ -716,8 +716,8 @@
     "slug": "photo-and-go",
     "description": "MyPhoto.com is an online platform for creating personalized photo products. I led the development of an innovative photo editor app and backend services integrated with existing e-commerce systems.\n My leadership role encompassed technical direction and execution, focusing on creating a smooth and intuitive user experience.",
     "technologies": [
-      "ReactJS",
-      "NodeJS",
+      "React",
+      "Node.js",
       "Hapi",
       "Swagger",
       "Redux",
@@ -773,7 +773,7 @@
     "description": "SunTrust's Solid Salutes campaign facilitated user-generated custom video salutes. I developed the entire campaign website, focusing on design and user interaction.\n My role included overseeing the website's development from concept to implementation, emphasizing user engagement and visual appeal.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/suntrust-1.jpg",
-    "technologies": ["JavaScript", "CSS3"],
+    "technologies": ["JavaScript", "CSS"],
     "tags": ["other"],
     "achievements": [
       "Developed an interactive campaign website for user-generated content.",
@@ -793,7 +793,7 @@
     "description": "For ScotiaBank Costa Rica, I developed the ScotiaTico newsletter, a communication tool for bank updates and information.\n My responsibility was crafting an engaging and informative newsletter layout, enhancing communication between the bank and its customers.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/scotiatico.jpg",
-    "technologies": ["JavaScript", "CSS3", "Wordpress"],
+    "technologies": ["JavaScript", "CSS", "Wordpress"],
     "tags": ["other"],
     "achievements": [
       "Designed and developed an interactive newsletter layout for ScotiaBank.",
@@ -812,7 +812,7 @@
     "description": "At Staples, a retail store for office supplies, I worked on building responsive features and the main website navigation.\n My role as a frontend developer involved creating user-friendly and efficient navigation elements, contributing to the overall user experience on the website.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/staples.jpg",
-    "technologies": ["JavaScript", "CSS3", "Mootols"],
+    "technologies": ["JavaScript", "CSS", "Mootols"],
     "tags": ["other"],
     "achievements": [
       "Developed responsive UI components for improved website accessibility.",
@@ -888,7 +888,7 @@
     "description": "Panini, a project I worked on, provided a unique service or product in its field.\n My role in this project was focused on technical development and implementation.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/panini.jpg",
-    "technologies": ["JavaScript", "CSS3", "Wordpress"],
+    "technologies": ["JavaScript", "CSS", "Wordpress"],
     "tags": ["other"],
     "achievements": [
       "Developed and implemented the technical architecture for Panini's platform.",
@@ -907,7 +907,7 @@
     "description": "EARTH University offers education in agricultural sciences. I was responsible for building their main website, blog, and newsletter.\n My work involved creating a digital platform for information dissemination and community engagement, focusing on usability and content management.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/wordpress-earth-pai.jpg",
-    "technologies": ["JavaScript", "CSS3", "Wordpress"],
+    "technologies": ["JavaScript", "CSS", "Wordpress"],
     "tags": ["other"],
     "achievements": [
       "Developed a content management system for EARTH University's website.",
@@ -926,7 +926,7 @@
     "description": "ProParques is a nonprofit for national park sustainability. I developed their responsive landing page and an interactive national park map.\n My role included web design and development, focusing on user interaction and information accessibility for park exploration.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/proparques.jpg",
-    "technologies": ["JavaScript", "CSS3", "Wordpress"],
+    "technologies": ["JavaScript", "CSS", "Wordpress"],
     "tags": ["other"],
     "achievements": [
       "Developed an interactive national park map for user exploration.",
@@ -945,7 +945,7 @@
     "description": "FanSlam Fantasy Tennis is a strategic game for ATP, WTA, and Grand Slam tournaments. I designed and built both the frontend and backend.\n As a fullstack developer, my work encompassed creating an engaging and functional gaming experience, integrating strategy and user interface design.",
     "link": "https://www.fanslam.us",
     "image": "https://gaboesquivel.com/images/work/fantasy-tennis.jpg",
-    "technologies": ["JavaScript", "CSS3"],
+    "technologies": ["JavaScript", "CSS"],
     "tags": ["contract"],
     "achievements": [
       "Designed and developed a strategic fantasy tennis gaming platform.",
@@ -965,7 +965,7 @@
     "description": "Mobtion agency specializes in mobile development services. I designed and developed their responsive website and WordPress CMS.\n My responsibilities included website design, development, and ensuring seamless content management for the agency.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/mobtion.jpg",
-    "technologies": ["JavaScript", "CSS3", "Wordpress", "PHP"],
+    "technologies": ["JavaScript", "CSS", "Wordpress", "PHP"],
     "tags": ["other"],
     "achievements": [
       "Developed a responsive and modern website for Mobtion agency.",
@@ -984,7 +984,7 @@
     "description": "ITS InfoCom, an IT multinational, focuses on Remote Infrastructure Management. I implemented their primary website, CMS, and CRM integration.\n My role was to create and integrate digital solutions for the company, focusing on web presence and customer relationship management.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/website-its.jpg",
-    "technologies": ["JavaScript", "CSS3", "PHP", "Custom CMS"],
+    "technologies": ["JavaScript", "CSS", "PHP", "Custom CMS"],
     "tags": ["other"],
     "achievements": [
       "Developed and deployed a company-wide CMS for ITS InfoCom.",
@@ -1003,7 +1003,7 @@
     "description": "For Trivenzor, a hypertension medication, I developed a responsive landing page for patient and healthcare provider information.\n My work involved creating a user-friendly and informative digital platform, emphasizing medical information clarity and accessibility.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/tribenzor.jpg",
-    "technologies": ["JavaScript", "CSS3", "Mootols"],
+    "technologies": ["JavaScript", "CSS", "Mootols"],
     "tags": ["other"],
     "achievements": [
       "Developed a fully responsive and accessible medical landing page.",
@@ -1022,7 +1022,7 @@
     "description": "The Living with Dryness project involved crafting a responsive landing page focused on providing information and resources.\n As the developer, I ensured a pixel-perfect design and user-friendly navigation, catering to the project's specific audience and needs.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/living-with-dryness.jpg",
-    "technologies": ["JavaScript", "CSS3", "Wordpress"],
+    "technologies": ["JavaScript", "CSS", "Wordpress"],
     "tags": ["other"],
     "achievements": [
       "Designed and developed a responsive landing page for medical resources.",
