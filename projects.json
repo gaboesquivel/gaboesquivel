@@ -14,13 +14,14 @@
       "ThirdWeb",
       "AI"
     ],
-    "tags": [
-      "web3",
-      "oss"
-    ],
+    "tags": ["web3", "oss"],
     "link": "https://github.com/blockmatic/basilic-evm",
     "image": "https://gaboesquivel.com/images/work/basilic-evm.png",
-    "repo": "https://github.com/blockmatic/basilic-evm"
+    "repo": "https://github.com/blockmatic/basilic-evm",
+    "achievements": [
+      "Developed a modular architecture for EVM applications, improving scalability and maintainability.",
+      "Integrated AI-powered development workflows to optimize smart contract and frontend development."
+    ]
   },
   {
     "title": "bitlauncher",
@@ -36,17 +37,17 @@
       "NodeJS",
       "PostgreSQL"
     ],
-    "tags": [
-      "web3",
-      "ai",
-      "oss",
-      "full-time",
-      "lead"
-    ],
+    "tags": ["web3", "ai", "oss", "full-time", "lead"],
     "link": "https://bitlauncher.ai",
     "image": "https://gaboesquivel.com/images/work/bitlauncher.png",
     "video": "https://www.youtube.com/watch?v=U6vn3KOEwcQ",
-    "repo": "https://github.com/bitcashorg/smartevm"
+    "repo": "https://github.com/bitcashorg/smartevm",
+    "achievements": [
+      "Designed full-stack architecture using Viem, Wagmi, Alchemy, Trigger.dev, Supabase, Next.js 14, and ShadcnUI.",
+      "Developed a token bridge for seamless swapping of USDT, USDC, and BITUSD.",
+      "Implemented a transaction data indexing system with real-time subscriptions and analytics.",
+      "Deployed Gnosis auction Solidity contracts on EOS EVM and built a real-time bidding interface."
+    ]
   },
   {
     "title": "Masterbots",
@@ -61,13 +62,14 @@
       "AI SDK",
       "LLMs"
     ],
-    "tags": [
-      "ai",
-      "oss"
-    ],
+    "tags": ["ai", "oss"],
     "link": "https://masterbots.ai",
     "image": "https://gaboesquivel.com/images/work/masterbots.png",
-    "repo": "https://github.com/bitcashorg/masterbots"
+    "repo": "https://github.com/bitcashorg/masterbots",
+    "achievements": [
+      "Integrated AI SDK for internationalization automation and AI-driven workflow.",
+      "Developed specialized AI agents and chatbot interfaces for various use cases."
+    ]
   },
   {
     "title": "ZTX",
@@ -83,13 +85,15 @@
       "ReactJS",
       "NextJS"
     ],
-    "tags": [
-      "web3",
-      "full-time"
-    ],
+    "tags": ["web3", "full-time"],
     "link": "https://ztx.io",
     "image": "https://gaboesquivel.com/images/work/ztx.png",
-    "video": "https://www.youtube.com/watch?v=h58y6UzZ7RA"
+    "video": "https://www.youtube.com/watch?v=h58y6UzZ7RA",
+    "achievements": [
+      "Set up the initial React architecture using Next.js, TailwindCSS, and Framer Motion.",
+      "Developed a WebGL EVM wallet connector using Ethers.js.",
+      "Implemented advanced analytics and reporting using Google Tag Manager."
+    ]
   },
   {
     "title": "RareMint",
@@ -105,13 +109,15 @@
       "GraphQL",
       "TypeScript"
     ],
-    "tags": [
-      "web3",
-      "full-time"
-    ],
+    "tags": ["web3", "full-time"],
     "link": "https://raremint.com",
     "image": "https://gaboesquivel.com/images/work/raremint.png",
-    "video": "https://www.youtube.com/watch?v=2wh32w7N9xg"
+    "video": "https://www.youtube.com/watch?v=2wh32w7N9xg",
+    "achievements": [
+      "Built an EVM NFT data indexer using Moralis streams, Node.js, and PostgreSQL.",
+      "Refactored the marketplace using RemixRun SSR for improved performance and responsiveness.",
+      "Integrated Wallet Connect for secure transactions and improved user experience."
+    ]
   },
   {
     "title": "bitcashBank",
@@ -127,51 +133,46 @@
       "PostgreSQL",
       "TypeScript"
     ],
-    "tags": [
-      "web3",
-      "contract",
-      "lead"
-    ],
+    "tags": ["web3", "contract", "lead"],
     "link": "https://bitcash.org",
     "image": "https://gaboesquivel.com/images/work/bitcash-bank.png",
     "video": "https://www.youtube.com/watch?v=2JuHy_w0Ct4",
-    "repo": "https://github.com/bitcashorg"
+    "repo": "https://github.com/bitcashorg",
+    "achievements": [
+      "Led infrastructure design and deployment, improving scalability and security.",
+      "Built and optimized BitcashDAO for efficient community governance.",
+      "Developed robust GraphQL APIs for seamless blockchain data retrieval."
+    ]
   },
   {
     "title": "Emanate",
     "slug": "emanate",
     "description": "Emanate is a Web3-powered network marketplace for the music industry, streamlining music creation, distribution, and monetization.\n At Emanate, I maintained the ReactJS web app streaming platform and the back office for artist revenue distribution.",
-    "technologies": [
-      "ReactJS",
-      "TypeScript",
-      "EOS",
-      "AWS"
-    ],
-    "tags": [
-      "web3",
-      "contract"
-    ],
+    "technologies": ["ReactJS", "TypeScript", "EOS", "AWS"],
+    "tags": ["web3", "contract"],
     "link": "https://emanate.live",
     "image": "https://gaboesquivel.com/images/work/emanate.png",
-    "video": "https://www.youtube.com/watch?v=qjmn7M7YC9g"
+    "video": "https://www.youtube.com/watch?v=qjmn7M7YC9g",
+    "achievements": [
+      "Maintained and optimized the ReactJS streaming platform for improved performance.",
+      "Developed back-office tools for efficient artist revenue distribution.",
+      "Integrated AWS cloud solutions for enhanced scalability."
+    ]
   },
   {
-    "title": "Make Sense Labs Inc",
-    "slug": "make-sense-labs-inc",
+    "title": "Make Sense Labs",
+    "slug": "make-sense-labs",
     "description": "Sense.chat, developed by Sense, a blockchain and DeFi company, is a secure chat and transaction app focusing on user data privacy.\n My role at Sense involved enhancing the React Native app's performance and integrating it with the EOS mainnet for token functionality.",
-    "technologies": [
-      "React Native",
-      "TypeScript",
-      "Blockchain",
-      "EOS"
-    ],
-    "tags": [
-      "web3",
-      "contract"
-    ],
+    "technologies": ["React Native", "TypeScript", "Blockchain", "EOS"],
+    "tags": ["web3", "contract"],
     "link": "https://www.youtube.com/watch?v=2DJxzYDaAz8",
     "image": "https://gaboesquivel.com/images/work/sense-chat.png",
-    "video": "https://www.youtube.com/watch?v=2DJxzYDaAz8"
+    "video": "https://www.youtube.com/watch?v=2DJxzYDaAz8",
+    "achievements": [
+      "Improved app performance and reduced load times by optimizing React Native components.",
+      "Integrated EOS mainnet functionalities for secure blockchain-based transactions.",
+      "Enhanced security and privacy features for better user protection."
+    ]
   },
   {
     "title": "EOS Costa Rica",
@@ -186,34 +187,32 @@
       "GraphQL",
       "ReactJS"
     ],
-    "tags": [
-      "web3",
-      "full-time",
-      "lead"
-    ],
+    "tags": ["web3", "full-time", "lead"],
     "link": "https://eoscostarica.io",
     "image": "https://gaboesquivel.com/images/work/eoscostarica.png",
     "repo": "https://github.com/eoscostarica",
-    "video": "https://www.youtube.com/watch?v=-1y0fGs8Xgw&"
+    "video": "https://www.youtube.com/watch?v=-1y0fGs8Xgw&",
+    "achievements": [
+      "Played a key role in the EOS mainnet launch, ensuring network stability and security.",
+      "Led the development of a custom private blockchain for Grant Thornton.",
+      "Managed validator nodes across multiple EOSIO-based networks."
+    ]
   },
   {
     "title": "EOS Rate",
     "slug": "eos-rate",
     "description": "EOS Rate is a community-driven tool for rating EOS Block Producers, featuring a radial graph and community input stored on the blockchain.\n In this project, I was responsible for the technical architecture and selecting the appropriate technology.",
-    "technologies": [
-      "EOS",
-      "C++",
-      "GraphQL",
-      "ReactJS"
-    ],
-    "tags": [
-      "web3",
-      "oss"
-    ],
+    "technologies": ["EOS", "C++", "GraphQL", "ReactJS"],
+    "tags": ["web3", "oss"],
     "link": "https://eosrate.io",
     "image": "https://gaboesquivel.com/images/work/eosrate.png",
     "repo": "https://github.com/eoscostarica/eos-rate",
-    "video": "https://www.youtube.com/watch?v=saZnZqJsMhk"
+    "video": "https://www.youtube.com/watch?v=saZnZqJsMhk",
+    "achievements": [
+      "Designed and implemented a decentralized rating system for EOS Block Producers.",
+      "Built an intuitive radial graph interface to visualize community ratings.",
+      "Developed a GraphQL API for seamless data retrieval and user interaction."
+    ]
   },
   {
     "title": "Knowledge.io",
@@ -229,14 +228,15 @@
       "React",
       "Node.js"
     ],
-    "tags": [
-      "web3",
-      "contract",
-      "oss"
-    ],
+    "tags": ["web3", "contract", "oss"],
     "link": "https://github.com/knowledge/ethereum-contracts",
     "image": "https://gaboesquivel.com/images/work/knowledge.png",
-    "repo": "https://github.com/knowledge"
+    "repo": "https://github.com/knowledge",
+    "achievements": [
+      "Led the development and deployment of Knowledge.io's token system.",
+      "Designed and implemented smart contracts for token rewards and transactions.",
+      "Built a scalable serverless infrastructure to support the platform's growth."
+    ]
   },
   {
     "title": "ChainGraph",
@@ -251,13 +251,15 @@
       "RXJS",
       "ReactJS"
     ],
-    "tags": [
-      "web3",
-      "oss"
-    ],
+    "tags": ["web3", "oss"],
     "link": "https://chaingraph.io",
     "image": "https://gaboesquivel.com/images/work/chaingraph.png",
-    "repo": "https://github.com/chaingraph"
+    "repo": "https://github.com/chaingraph",
+    "achievements": [
+      "Developed a real-time GraphQL subscription toolkit for EOSIO/Antelope blockchains.",
+      "Implemented blockchain data indexing and event streaming capabilities.",
+      "Designed an intuitive developer interface for querying multiple blockchain networks."
+    ]
   },
   {
     "title": "Fantasy Top Shots",
@@ -270,32 +272,31 @@
       "React Native with Expo",
       "Tailwind"
     ],
-    "tags": [
-      "web3",
-      "hackathon"
-    ],
+    "tags": ["web3", "hackathon"],
     "link": "https://fantasy-top-shot.vercel.app",
     "image": "https://gaboesquivel.com/images/work/fantasy-top-shots.png",
     "video": "https://www.youtube.com/watch?v=Il2aiKhy_ug",
-    "repo": "https://github.com/bitcashorg/fantasy-top-shot"
+    "repo": "https://github.com/bitcashorg/fantasy-top-shot",
+    "achievements": [
+      "Designed and developed the mobile game using Flow blockchain technology.",
+      "Integrated NBA Top Shot NFTs for an immersive gaming experience.",
+      "Implemented responsive UI and smooth gameplay mechanics using React Native and Expo."
+    ]
   },
   {
     "title": "Substrate Contracts UI",
     "slug": "substrate-contracts-ui",
     "description": "Substrate Contracts UI is a web application for deploying and interacting with WASM smart contracts on Substrate blockchains.\n I contributed to the project by enhancing code quality through multiple open-source contributions and gained experience in building dApps with Substrate.",
-    "technologies": [
-      "Polkadot",
-      "Substrate",
-      "ReactJS",
-      "Tailwind"
-    ],
-    "tags": [
-      "web3",
-      "oss"
-    ],
+    "technologies": ["Polkadot", "Substrate", "ReactJS", "Tailwind"],
+    "tags": ["web3", "oss"],
     "link": "https://contracts-ui.substrate.io/",
     "image": "https://gaboesquivel.com/images/work/contracts-ui.png",
-    "repo": "https://github.com/paritytech/contracts-ui"
+    "repo": "https://github.com/paritytech/contracts-ui",
+    "achievements": [
+      "Enhanced code quality and performance through multiple open-source contributions.",
+      "Developed UI components for seamless interaction with WASM smart contracts.",
+      "Gained extensive experience in building dApps on the Substrate framework."
+    ]
   },
   {
     "title": "Wizard World",
@@ -311,32 +312,32 @@
       "OpenAI",
       "Tailwind"
     ],
-    "tags": [
-      "ai",
-      "web3",
-      "hackathon"
-    ],
+    "tags": ["ai", "web3", "hackathon"],
     "link": "https://wizart.world",
     "image": "https://gaboesquivel.com/images/work/wizart-world.png",
     "video": "https://www.youtube.com/watch?v=I_vBUflXHFA",
-    "repo": "https://github.com/bitcashorg/wizartworld"
+    "repo": "https://github.com/bitcashorg/wizartworld",
+    "achievements": [
+      "Developed a progressive web app integrating AI-generated images with blockchain minting.",
+      "Implemented GPT3 for AI-driven image creation and metadata processing.",
+      "Integrated the Flow blockchain for seamless NFT minting and storage."
+    ]
   },
+
   {
     "title": "dBoard",
     "slug": "dboard",
     "description": "dBoard is a DAO decision-making and community management tool. It allows stakeholders to strategize, debate, and vote on actions for organizational efficiency.\n In this project, my contributions included overseeing the technical architecture and the smart contract development and integration on the webapp.",
-    "technologies": [
-      "Antelope",
-      "NextJS",
-      "GCloud",
-      "GraphQL"
-    ],
-    "tags": [
-      "web3"
-    ],
+    "technologies": ["Antelope", "NextJS", "GCloud", "GraphQL"],
+    "tags": ["web3"],
     "link": "https://eos.dboard.ai",
     "image": "https://gaboesquivel.com/images/work/dboard.png",
-    "repo": "https://github.com/bitcashorg/bitcash-contract-dho"
+    "repo": "https://github.com/bitcashorg/bitcash-contract-dho",
+    "achievements": [
+      "Led the technical architecture for DAO governance and decision-making.",
+      "Developed and integrated smart contracts to enhance community voting mechanisms.",
+      "Implemented a seamless GraphQL API for improved data interactions."
+    ]
   },
   {
     "title": "Wink",
@@ -350,13 +351,15 @@
       "NodeJS",
       "Biometrics"
     ],
-    "tags": [
-      "full-time",
-      "lead"
-    ],
+    "tags": ["full-time", "lead"],
     "link": "https://holawink.com",
     "image": "https://gaboesquivel.com/images/work/wink.png",
-    "video": "https://www.youtube.com/watch?v=rfeISMW_OVc"
+    "video": "https://www.youtube.com/watch?v=rfeISMW_OVc",
+    "achievements": [
+      "Developed the first version of Wink's mobile banking app.",
+      "Integrated API connections with partner banks for seamless transactions.",
+      "Designed and implemented biometric authentication for enhanced security."
+    ]
   },
   {
     "title": "American Express",
@@ -373,22 +376,26 @@
       "jQuery",
       "CSS3"
     ],
-    "tags": [
-      "full-time"
+    "tags": ["full-time"],
+    "achievements": [
+      "Enhanced user experience through AJAX-driven interactivity.",
+      "Implemented A/B testing strategies to optimize user engagement.",
+      "Developed analytics integrations to track usage and improve performance."
     ]
   },
+
   {
     "title": "AMEX Money Talk",
     "slug": "amex-money-talk",
     "description": "The National Money Night Talk by American Express aimed to promote financial communication between parents and teenagers.\n As a Frontend Engineer, I developed the campaign's landing page, focusing on user engagement and information delivery.",
     "link": "https://www.youtube.com/watch?v=a2vDoYyXIJQ",
     "image": "https://gaboesquivel.com/images/work/money-talk.jpg",
-    "technologies": [
-      "JavaScript",
-      "CSS3"
-    ],
-    "tags": [
-      "other"
+    "technologies": ["JavaScript", "CSS3"],
+    "tags": ["other"],
+    "achievements": [
+      "Developed an engaging landing page to enhance user interaction.",
+      "Implemented responsive design for a seamless experience across devices.",
+      "Optimized page performance to improve load times and accessibility."
     ]
   },
   {
@@ -402,11 +409,14 @@
       "Facebook API",
       "Twitter API"
     ],
-    "tags": [
-      "contract"
-    ],
+    "tags": ["contract"],
     "link": "http://elderscrollsonline.com",
-    "image": "https://gaboesquivel.com/images/work/elder-scrolls.jpg"
+    "image": "https://gaboesquivel.com/images/work/elder-scrolls.jpg",
+    "achievements": [
+      "Designed and implemented a user-centric website for the gaming community.",
+      "Optimized site navigation for a seamless user experience.",
+      "Integrated social media features to enhance community engagement."
+    ]
   },
   {
     "title": "AMC Yeah TV Facebook App",
@@ -422,12 +432,14 @@
       "Brightcove API",
       "require.js"
     ],
-    "tags": [
-      "full-time",
-      "lead"
-    ],
+    "tags": ["full-time", "lead"],
     "link": "http://yeahtv.com",
-    "image": "https://gaboesquivel.com/images/work/yeahtv.jpg"
+    "image": "https://gaboesquivel.com/images/work/yeahtv.jpg",
+    "achievements": [
+      "Designed and developed a scalable frontend architecture for an interactive movie experience.",
+      "Integrated Brightcove video streaming API for seamless movie playback.",
+      "Implemented Facebook API features for user engagement and monetization."
+    ]
   },
   {
     "title": "Tikr",
@@ -435,9 +447,7 @@
     "description": "Tikr is an online store with dynamic, real-time fluctuating prices, offering a unique shopping experience. It operates on the Ruby on Rails-based Spree backend framework.\n My role at Tikr encompassed full-stack development with a focus on frontend development and customization of the Spree backend framework.",
     "link": "http://tikr.com",
     "image": "https://gaboesquivel.com/images/work/tikr.jpg",
-    "tags": [
-      "contract"
-    ],
+    "tags": ["contract"],
     "technologies": [
       "Ruby on Rails",
       "Spree",
@@ -445,6 +455,11 @@
       "Postgres",
       "jQuery",
       "SASS/SCSS"
+    ],
+    "achievements": [
+      "Developed a dynamic pricing engine using Spree and Ruby on Rails.",
+      "Implemented a real-time price fluctuation system for enhanced user engagement.",
+      "Optimized backend performance on Heroku with PostgreSQL integration."
     ]
   },
   {
@@ -461,11 +476,14 @@
       "Stripe",
       "Twilio"
     ],
-    "tags": [
-      "contract"
-    ],
+    "tags": ["contract"],
     "link": "http://www.eatarcade.com/",
-    "image": "https://gaboesquivel.com/images/work/eatarcade.jpg"
+    "image": "https://gaboesquivel.com/images/work/eatarcade.jpg",
+    "achievements": [
+      "Designed and built an SMS-based subscription system for restaurant promotions.",
+      "Integrated Twilio for seamless messaging and user engagement.",
+      "Developed a full-stack solution using NodeJS, MongoDB, and AngularJS."
+    ]
   },
   {
     "title": "Jockey Hollow Bar and Kitchen",
@@ -481,12 +499,16 @@
       "Heroku",
       "Divshot"
     ],
-    "tags": [
-      "contract"
-    ],
+    "tags": ["contract"],
     "link": "http://www.jockeyhollowbarandkitchen.com/",
-    "image": "https://gaboesquivel.com/images/work/jockey-hollow.png"
+    "image": "https://gaboesquivel.com/images/work/jockey-hollow.png",
+    "achievements": [
+      "Developed a fully responsive landing page with a focus on user experience.",
+      "Optimized page speed and performance for seamless navigation.",
+      "Integrated dynamic content features to showcase the restaurant’s offerings effectively."
+    ]
   },
+
   {
     "title": "Jockey Hollow Bar and Kitchen Menu Kiosk App",
     "slug": "jockey-hollow-bar-and-kitchen-menu-kiosk-app",
@@ -501,11 +523,14 @@
       "Heroku",
       "Divshot"
     ],
-    "tags": [
-      "contract"
-    ],
+    "tags": ["contract"],
     "link": "#",
-    "image": "https://gaboesquivel.com/images/work/jockey-hollow-menu.png"
+    "image": "https://gaboesquivel.com/images/work/jockey-hollow-menu.png",
+    "achievements": [
+      "Developed a user-friendly menu kiosk app to enhance restaurant service.",
+      "Integrated Google Spreadsheets for seamless menu updates.",
+      "Optimized app performance for smooth operation on tablet devices."
+    ]
   },
   {
     "title": "Bureau of Trade (Beta)",
@@ -513,14 +538,12 @@
     "description": "Bureau of Trade (Beta) is an online store offering a range of products, with a frontend integrated with eBay's API for diverse shopping experiences.\n As the sole Fullstack developer, my focus was on frontend development, responsive design, and animations, along with eBay API integration.",
     "link": "http://www.gridium.com/products/portfolio-manager/",
     "image": "https://gaboesquivel.com/images/work/bureau-of-trade.jpg",
-    "technologies": [
-      "PHP",
-      "eBay API",
-      "HTML5",
-      "AJAX/jQuery"
-    ],
-    "tags": [
-      "contract"
+    "technologies": ["PHP", "eBay API", "HTML5", "AJAX/jQuery"],
+    "tags": ["contract"],
+    "achievements": [
+      "Built a responsive e-commerce frontend integrated with eBay's API.",
+      "Developed advanced UI animations for enhanced user experience.",
+      "Optimized site performance for faster product browsing."
     ]
   },
   {
@@ -534,11 +557,14 @@
       "TypeScript",
       "Augmented Reality"
     ],
-    "tags": [
-      "contract"
-    ],
+    "tags": ["contract"],
     "link": "https://www.tractorsupply.com/tsc/cms/app",
-    "image": "https://gaboesquivel.com/images/work/tractor-supply.png"
+    "image": "https://gaboesquivel.com/images/work/tractor-supply.png",
+    "achievements": [
+      "Enhanced app performance and code quality for a smoother user experience.",
+      "Developed an augmented reality feature to preview products interactively.",
+      "Implemented TypeScript for improved maintainability and scalability."
+    ]
   },
   {
     "title": "Photo and Go",
@@ -556,11 +582,14 @@
       "PostgreSQL",
       "Linux"
     ],
-    "tags": [
-      "contract"
-    ],
+    "tags": ["contract"],
     "link": "https://www.myphoto.com/",
-    "image": "https://gaboesquivel.com/images/work/photoandgo.jpg"
+    "image": "https://gaboesquivel.com/images/work/photoandgo.jpg",
+    "achievements": [
+      "Developed a photo editor app with seamless e-commerce integration.",
+      "Led technical execution, ensuring a smooth and intuitive user experience.",
+      "Implemented AWS infrastructure for scalable cloud storage and processing."
+    ]
   },
   {
     "title": "4Tius Fitness Data Tracker",
@@ -574,11 +603,14 @@
       "MongoDB",
       "Angular.js"
     ],
-    "tags": [
-      "contract"
-    ],
+    "tags": ["contract"],
     "link": "https://example.com/18techs",
-    "image": "https://gaboesquivel.com/images/work/4tius.jpg"
+    "image": "https://gaboesquivel.com/images/work/4tius.jpg",
+    "achievements": [
+      "Designed and developed a fitness data tracking system with Fitbit integration.",
+      "Built a responsive web dashboard for real-time analytics and monitoring.",
+      "Implemented secure API endpoints for efficient data communication."
+    ]
   },
   {
     "title": "SunTrust",
@@ -586,27 +618,27 @@
     "description": "SunTrust's Solid Salutes campaign facilitated user-generated custom video salutes. I developed the entire campaign website, focusing on design and user interaction.\n My role included overseeing the website's development from concept to implementation, emphasizing user engagement and visual appeal.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/suntrust-1.jpg",
-    "technologies": [
-      "JavaScript",
-      "CSS3"
-    ],
-    "tags": [
-      "other"
+    "technologies": ["JavaScript", "CSS3"],
+    "tags": ["other"],
+    "achievements": [
+      "Developed an interactive campaign website for user-generated content.",
+      "Optimized website performance for increased user engagement.",
+      "Implemented visually appealing UI/UX elements to enhance storytelling."
     ]
   },
+
   {
     "title": "ScotiaTico",
     "slug": "scotiatico",
     "description": "For ScotiaBank Costa Rica, I developed the ScotiaTico newsletter, a communication tool for bank updates and information.\n My responsibility was crafting an engaging and informative newsletter layout, enhancing communication between the bank and its customers.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/scotiatico.jpg",
-    "technologies": [
-      "JavaScript",
-      "CSS3",
-      "Wordpress"
-    ],
-    "tags": [
-      "other"
+    "technologies": ["JavaScript", "CSS3", "Wordpress"],
+    "tags": ["other"],
+    "achievements": [
+      "Designed and developed an interactive newsletter layout for ScotiaBank.",
+      "Enhanced customer engagement with visually appealing and responsive design.",
+      "Implemented Wordpress CMS for easy content management and updates."
     ]
   },
   {
@@ -615,13 +647,12 @@
     "description": "At Staples, a retail store for office supplies, I worked on building responsive features and the main website navigation.\n My role as a frontend developer involved creating user-friendly and efficient navigation elements, contributing to the overall user experience on the website.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/staples.jpg",
-    "technologies": [
-      "JavaScript",
-      "CSS3",
-      "Mootols"
-    ],
-    "tags": [
-      "other"
+    "technologies": ["JavaScript", "CSS3", "Mootols"],
+    "tags": ["other"],
+    "achievements": [
+      "Developed responsive UI components for improved website accessibility.",
+      "Enhanced navigation for a seamless shopping experience.",
+      "Optimized front-end performance for faster load times."
     ]
   },
   {
@@ -630,30 +661,26 @@
     "description": "Gridium is an energy data analytics prototype for visualizing and analyzing energy consumption. It aids in informed energy management decisions.\n I built the first version of the application, focusing on displaying data collected from various buildings.",
     "link": "https://gridium.com/",
     "image": "https://gaboesquivel.com/images/work/gridium.png",
-    "technologies": [
-      "JavaScript",
-      "Data Charts",
-      "CSS",
-      "Bootstrap"
-    ],
-    "tags": [
-      "contract"
+    "technologies": ["JavaScript", "Data Charts", "CSS", "Bootstrap"],
+    "tags": ["contract"],
+    "achievements": [
+      "Developed a data visualization platform for energy consumption analytics.",
+      "Implemented interactive charts for real-time energy monitoring.",
+      "Optimized UI/UX for better readability and user engagement."
     ]
   },
+
   {
     "title": "ARINC Microfids",
     "slug": "arinc-microfids",
     "description": "ARINC Microfids is a flight information display system for hotels and airport businesses. It integrates with a Ruby on Rails backend.\n My responsibilities included frontend development and system integration, ensuring a seamless display of flight information.",
     "image": "https://gaboesquivel.com/images/work/arinc.png",
-    "technologies": [
-      "Ruby on Rails",
-      "AngularJS",
-      "Faye",
-      "LESS",
-      "Heroku"
-    ],
-    "tags": [
-      "contract"
+    "technologies": ["Ruby on Rails", "AngularJS", "Faye", "LESS", "Heroku"],
+    "tags": ["contract"],
+    "achievements": [
+      "Developed a real-time flight information display system.",
+      "Integrated Ruby on Rails backend with AngularJS for seamless data updates.",
+      "Optimized front-end performance for real-time user interaction."
     ]
   },
   {
@@ -662,14 +689,12 @@
     "description": "Capoeira Abolição is a Brazilian martial arts group. I volunteered to create their promotional website, showcasing their professors and community.\n My involvement included website design and development, highlighting the group's activities and global presence.",
     "link": "https://capoieraabolicao.com",
     "image": "https://gaboesquivel.com/images/work/abolicao.jpg",
-    "technologies": [
-      "JavaScript",
-      "Wordpress",
-      "CSS",
-      "Bootstrap"
-    ],
-    "tags": [
-      "other"
+    "technologies": ["JavaScript", "Wordpress", "CSS", "Bootstrap"],
+    "tags": ["other"],
+    "achievements": [
+      "Designed and developed a responsive website for Capoeira Abolição.",
+      "Implemented interactive elements to showcase community events.",
+      "Optimized site performance for a seamless user experience."
     ]
   },
   {
@@ -678,13 +703,12 @@
     "description": "Panini, a project I worked on, provided a unique service or product in its field.\n My role in this project was focused on technical development and implementation.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/panini.jpg",
-    "technologies": [
-      "JavaScript",
-      "CSS3",
-      "Wordpress"
-    ],
-    "tags": [
-      "other"
+    "technologies": ["JavaScript", "CSS3", "Wordpress"],
+    "tags": ["other"],
+    "achievements": [
+      "Developed and implemented the technical architecture for Panini's platform.",
+      "Optimized website performance and ensured cross-browser compatibility.",
+      "Enhanced UI/UX for a smooth and intuitive user experience."
     ]
   },
   {
@@ -693,13 +717,12 @@
     "description": "EARTH University offers education in agricultural sciences. I was responsible for building their main website, blog, and newsletter.\n My work involved creating a digital platform for information dissemination and community engagement, focusing on usability and content management.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/wordpress-earth-pai.jpg",
-    "technologies": [
-      "JavaScript",
-      "CSS3",
-      "Wordpress"
-    ],
-    "tags": [
-      "other"
+    "technologies": ["JavaScript", "CSS3", "Wordpress"],
+    "tags": ["other"],
+    "achievements": [
+      "Developed a content management system for EARTH University’s website.",
+      "Designed a responsive and accessible blog for community engagement.",
+      "Implemented newsletter automation for improved communication."
     ]
   },
   {
@@ -708,13 +731,12 @@
     "description": "ProParques is a nonprofit for national park sustainability. I developed their responsive landing page and an interactive national park map.\n My role included web design and development, focusing on user interaction and information accessibility for park exploration.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/proparques.jpg",
-    "technologies": [
-      "JavaScript",
-      "CSS3",
-      "Wordpress"
-    ],
-    "tags": [
-      "other"
+    "technologies": ["JavaScript", "CSS3", "Wordpress"],
+    "tags": ["other"],
+    "achievements": [
+      "Developed an interactive national park map for user exploration.",
+      "Designed a responsive and informative landing page.",
+      "Integrated user-friendly navigation for enhanced accessibility."
     ]
   },
   {
@@ -723,28 +745,27 @@
     "description": "FanSlam Fantasy Tennis is a strategic game for ATP, WTA, and Grand Slam tournaments. I designed and built both the frontend and backend.\n As a fullstack developer, my work encompassed creating an engaging and functional gaming experience, integrating strategy and user interface design.",
     "link": "https://www.fanslam.us",
     "image": "https://gaboesquivel.com/images/work/fantasy-tennis.jpg",
-    "technologies": [
-      "JavaScript",
-      "CSS3"
-    ],
-    "tags": [
-      "contract"
+    "technologies": ["JavaScript", "CSS3"],
+    "tags": ["contract"],
+    "achievements": [
+      "Designed and developed a strategic fantasy tennis gaming platform.",
+      "Built a responsive UI for seamless gameplay across devices.",
+      "Integrated dynamic tournament data for real-time game updates."
     ]
   },
+
   {
     "title": "Mobtion",
     "slug": "mobtion",
     "description": "Mobtion agency specializes in mobile development services. I designed and developed their responsive website and WordPress CMS.\n My responsibilities included website design, development, and ensuring seamless content management for the agency.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/mobtion.jpg",
-    "technologies": [
-      "JavaScript",
-      "CSS3",
-      "Wordpress",
-      "PHP"
-    ],
-    "tags": [
-      "other"
+    "technologies": ["JavaScript", "CSS3", "Wordpress", "PHP"],
+    "tags": ["other"],
+    "achievements": [
+      "Developed a responsive and modern website for Mobtion agency.",
+      "Integrated WordPress CMS for efficient content management.",
+      "Optimized website performance for improved loading speeds."
     ]
   },
   {
@@ -753,14 +774,12 @@
     "description": "ITS InfoCom, an IT multinational, focuses on Remote Infrastructure Management. I implemented their primary website, CMS, and CRM integration.\n My role was to create and integrate digital solutions for the company, focusing on web presence and customer relationship management.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/website-its.jpg",
-    "technologies": [
-      "JavaScript",
-      "CSS3",
-      "PHP",
-      "Custom CMS"
-    ],
-    "tags": [
-      "other"
+    "technologies": ["JavaScript", "CSS3", "PHP", "Custom CMS"],
+    "tags": ["other"],
+    "achievements": [
+      "Developed and deployed a company-wide CMS for ITS InfoCom.",
+      "Integrated CRM solutions to streamline customer interactions.",
+      "Optimized website architecture for scalability and security."
     ]
   },
   {
@@ -769,13 +788,12 @@
     "description": "For Trivenzor, a hypertension medication, I developed a responsive landing page for patient and healthcare provider information.\n My work involved creating a user-friendly and informative digital platform, emphasizing medical information clarity and accessibility.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/tribenzor.jpg",
-    "technologies": [
-      "JavaScript",
-      "CSS3",
-      "Mootols"
-    ],
-    "tags": [
-      "other"
+    "technologies": ["JavaScript", "CSS3", "Mootols"],
+    "tags": ["other"],
+    "achievements": [
+      "Developed a fully responsive and accessible medical landing page.",
+      "Ensured clarity and usability for both patients and healthcare providers.",
+      "Optimized page speed and performance for better user engagement."
     ]
   },
   {
@@ -784,13 +802,12 @@
     "description": "The Living with Dryness project involved crafting a responsive landing page focused on providing information and resources.\n As the developer, I ensured a pixel-perfect design and user-friendly navigation, catering to the project's specific audience and needs.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/living-with-dryness.jpg",
-    "technologies": [
-      "JavaScript",
-      "CSS3",
-      "Wordpress"
-    ],
-    "tags": [
-      "other"
+    "technologies": ["JavaScript", "CSS3", "Wordpress"],
+    "tags": ["other"],
+    "achievements": [
+      "Designed and developed a responsive landing page for medical resources.",
+      "Implemented a user-friendly navigation system for better accessibility.",
+      "Optimized website layout for enhanced readability and engagement."
     ]
   }
 ]
