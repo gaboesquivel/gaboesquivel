@@ -8,7 +8,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/typescript.png",
 		description: "A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
 		link: "https://www.typescriptlang.org/",
-		since: "2012",
+		since: "2018",
 		intro: [
 			"TypeScript is a superset of JavaScript that adds static types, enhancing code quality and maintainability.",
 			"It is widely used in modern web development for building scalable and robust applications."
@@ -25,7 +25,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/solidity.png",
 		description: "A contract-oriented programming language for writing smart contracts on Ethereum.",
 		link: "https://soliditylang.org/",
-		since: "2015",
+		since: "2017",
 		intro: [
 			"Solidity is the primary language for writing smart contracts on Ethereum and other EVM-compatible blockchains.",
 			"It is designed to target the Ethereum Virtual Machine (EVM) and is influenced by C++, Python, and JavaScript."
@@ -43,7 +43,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/foundry.png",
 		description: "A blazing fast, portable, and modular toolkit for Ethereum application development.",
 		link: "https://getfoundry.sh/",
-		since: "2021",
+		since: "2024",
 		intro: [
 			"Foundry is a toolkit for Ethereum application development, known for its speed and modularity.",
 			"It provides a suite of tools for building, testing, and deploying smart contracts."
@@ -59,7 +59,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/nextjs.png",
 		description: "A React framework for production, providing hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.",
 		link: "https://nextjs.org/",
-		since: "2016",
+		since: "2020",
 		intro: [
 			"Next.js is a popular React framework that enables server-side rendering and static site generation for React applications.",
 			"It is known for its performance optimizations and ease of use in building scalable web applications."
@@ -77,7 +77,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/ponder.png",
 		description: "A tool for indexing and querying blockchain data.",
 		link: "https://ponder.io/",
-		since: "2022",
+		since: "2024",
 		intro: [
 			"Ponder is a powerful tool for indexing and querying blockchain data, making it easier to build responsive dApps.",
 			"It provides real-time data processing capabilities, enhancing the performance of decentralized applications."
@@ -94,7 +94,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/postgresql.png",
 		description: "A powerful, open-source object-relational database system with a strong reputation for reliability, feature robustness, and performance.",
 		link: "https://www.postgresql.org/",
-		since: "1996",
+		since: "2018",
 		intro: [
 			"PostgreSQL is a highly stable database management system, used by many companies and organizations to store and manage their data.",
 			"It supports advanced data types and performance optimization features, making it a popular choice for complex applications."
@@ -111,7 +111,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/viem.png",
 		description: "A library for interacting with Ethereum and other EVM-compatible blockchains.",
 		link: "https://viem.io/",
-		since: "2021",
+		since: "2020",
 		intro: [
 			"Viem is a modern library designed to simplify interactions with Ethereum and other EVM-compatible blockchains.",
 			"It provides a robust set of tools for developers to build decentralized applications with ease."
@@ -129,7 +129,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/wagmi.png",
 		description: "A collection of React hooks for Ethereum.",
 		link: "https://wagmi.sh/",
-		since: "2021",
+		since: "2020",
 		intro: [
 			"Wagmi provides a set of React hooks that simplify the process of building Ethereum applications.",
 			"It is designed to work seamlessly with popular libraries like ethers.js and viem."
@@ -147,7 +147,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/evm.png",
 		description: "The Ethereum Virtual Machine, a runtime environment for smart contracts in Ethereum.",
 		link: "https://ethereum.org/en/developers/docs/evm/",
-		since: "2015",
+		since: "2017",
 		intro: [
 			"The EVM is the runtime environment for smart contracts in Ethereum, enabling decentralized computation.",
 			"It is a key component of the Ethereum blockchain, executing smart contracts and maintaining consensus."
@@ -164,7 +164,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/thirdweb.png",
 		description: "A platform for building and deploying Web3 applications with ease.",
 		link: "https://thirdweb.com/",
-		since: "2021",
+		since: "2024",
 		intro: [
 			"ThirdWeb provides tools and infrastructure for building Web3 applications, simplifying the development process.",
 			"It offers a range of features for deploying smart contracts and managing blockchain interactions."
@@ -180,7 +180,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/ai.png",
 		description: "Artificial Intelligence technologies and tools for building intelligent applications.",
 		link: "https://en.wikipedia.org/wiki/Artificial_intelligence",
-		since: "1956",
+		since: "2018",
 		intro: [
 			"AI encompasses a range of technologies and tools for building intelligent applications that can learn and adapt.",
 			"It is widely used in various fields, including natural language processing, computer vision, and robotics."
@@ -197,7 +197,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/ethersjs.png",
 		description: "A library for interacting with the Ethereum blockchain and its ecosystem.",
 		link: "https://docs.ethers.io/v5/",
-		since: "2016",
+		since: "2018",
 		intro: [
 			"EthersJS is a library designed to interact with the Ethereum blockchain, providing a simple and consistent interface for developers.",
 			"It is widely used for its ease of use and comprehensive documentation, making it a popular choice for Ethereum development."
@@ -215,7 +215,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/alchemy.png",
 		description: "A blockchain development platform that provides infrastructure and tools for building decentralized applications.",
 		link: "https://www.alchemy.com/",
-		since: "2017",
+		since: "2020",
 		intro: [
 			"Alchemy offers a suite of tools and infrastructure for building decentralized applications on blockchain networks.",
 			"It is known for its reliability and performance, supporting developers in building scalable blockchain solutions."
@@ -266,7 +266,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/graphql.png",
 		description: "A query language for your API, and a server-side runtime for executing queries by using a type system you define for your data.",
 		link: "https://graphql.org/",
-		since: "2015",
+		since: "2018",
 		intro: [
 			"GraphQL provides a more efficient, powerful, and flexible alternative to REST, allowing clients to request exactly the data they need.",
 			"It is widely used in modern web applications for its ability to streamline data fetching and improve performance."
@@ -299,7 +299,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/llms.png",
 		description: "Large Language Models used for natural language processing and understanding.",
 		link: "https://en.wikipedia.org/wiki/Language_model",
-		since: "2018",
+		since: "2020",
 		intro: [
 			"LLMs are advanced models used for natural language processing, enabling applications to understand and generate human-like text.",
 			"They are widely used in chatbots, translation services, and content generation."
@@ -315,7 +315,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/webgl.png",
 		description: "A JavaScript API for rendering interactive 3D and 2D graphics within any compatible web browser.",
 		link: "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API",
-		since: "2011",
+		since: "2018",
 		intro: [
 			"WebGL is a powerful API for rendering 3D and 2D graphics in web browsers, enabling interactive visual experiences.",
 			"It is widely used in gaming, data visualization, and interactive web applications."
@@ -331,13 +331,13 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/ethereum.png",
 		description: "A decentralized platform that enables developers to build and deploy smart contracts and decentralized applications.",
 		link: "https://ethereum.org/",
-		since: "2015",
+		since: "2017",
 		intro: [
-			"Ethereum is a decentralized platform that allows developers to build and deploy smart contracts and decentralized applications.",
-			"It is known for its robust ecosystem and support for a wide range of blockchain applications."
+			"Ethereum is a decentralized platform that enables developers to build and deploy smart contracts and decentralized applications.",
+			"It is widely used for its flexibility and support for a wide range of decentralized applications."
 		],
 		experience: [
-			"Worked with Ethereum in projects like ZTX and Knowledge.io for smart contract development and blockchain interactions."
+			"Utilized Ethereum in projects like Knowledge.io and RareMint for building decentralized applications and smart contracts."
 		],
 	},
 	{
@@ -672,7 +672,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/openai.png",
 		description: "An AI research and deployment company, known for developing advanced AI models and technologies.",
 		link: "https://openai.com/",
-		since: "2015",
+		since: "2020",
 		intro: [
 			"OpenAI is an AI research and deployment company, known for developing advanced AI models and technologies.",
 			"It is widely recognized for its contributions to AI research and development, including models like GPT-3 and Dalle."
@@ -688,7 +688,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/biometrics.png",
 		description: "Technologies and methods for recognizing individuals based on physical or behavioral characteristics.",
 		link: "https://en.wikipedia.org/wiki/Biometrics",
-		since: "2000",
+		since: "2020",
 		intro: [
 			"Biometrics involves technologies and methods for recognizing individuals based on physical or behavioral characteristics.",
 			"It is widely used in security systems, authentication, and identity verification."
@@ -704,7 +704,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/express.png",
 		description: "A minimal and flexible Node.js web application framework.",
 		link: "https://expressjs.com/",
-		since: "2010",
+		since: "2018",
 		intro: [
 			"Express.js provides a robust set of features for web and mobile applications, making it a popular choice for building APIs.",
 			"It is known for its simplicity and flexibility, allowing developers to create server-side applications quickly."
@@ -721,7 +721,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/angularjs.png",
 		description: "A structural framework for dynamic web apps.",
 		link: "https://angularjs.org/",
-		since: "2010",
+		since: "2018",
 		intro: [
 			"AngularJS lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly.",
 			"It is fully extensible and works well with other libraries."
@@ -738,7 +738,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/mongodb.png",
 		description: "A document database with the scalability and flexibility that you want with the querying and indexing that you need.",
 		link: "https://www.mongodb.com/",
-		since: "2009",
+		since: "2018",
 		intro: [
 			"MongoDB is a document database designed for ease of development and scaling.",
 			"It is known for its flexibility and scalability, making it a popular choice for modern web applications."
@@ -755,7 +755,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/heroku.png",
 		description: "A platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
 		link: "https://www.heroku.com/",
-		since: "2007",
+		since: "2018",
 		intro: [
 			"Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
 			"It is known for its ease of use and support for a wide range of programming languages and frameworks."
@@ -771,7 +771,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/bootstrap.png",
 		description: "A free and open-source CSS framework directed at responsive, mobile-first front-end web development.",
 		link: "https://getbootstrap.com/",
-		since: "2011",
+		since: "2018",
 		intro: [
 			"Bootstrap contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
 			"It is widely used for its responsive grid system and pre-designed components."
@@ -788,7 +788,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/stripe.png",
 		description: "A technology company that builds economic infrastructure for the internet.",
 		link: "https://stripe.com/",
-		since: "2010",
+		since: "2018",
 		intro: [
 			"Stripe provides a suite of payment APIs that powers commerce for online businesses of all sizes.",
 			"It is known for its ease of integration and support for a wide range of payment methods."
@@ -804,7 +804,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/twilio.png",
 		description: "A cloud communications platform for building SMS, Voice & Messaging applications on an API.",
 		link: "https://www.twilio.com/",
-		since: "2008",
+		since: "2018",
 		intro: [
 			"Twilio provides APIs for sending and receiving messages, making phone calls, and performing other communication functions.",
 			"It is widely used for integrating communication capabilities into applications."
@@ -820,7 +820,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/linux.png",
 		description: "An open-source operating system based on Unix, widely used for servers, desktops, and embedded systems.",
 		link: "https://www.linux.org/",
-		since: "1991",
+		since: "2018",
 		intro: [
 			"Linux is an open-source operating system based on Unix, known for its stability, security, and flexibility.",
 			"It is widely used in servers, desktops, and embedded systems, providing a robust platform for various applications."
@@ -836,7 +836,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/javascript.png",
 		description: "A high-level, just-in-time compiled, object-oriented programming language.",
 		link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-		since: "1995",
+		since: "2009",
 		intro: [
 			"JavaScript is a versatile programming language that is widely used for web development, enabling interactive and dynamic web pages.",
 			"It is known for its flexibility and support for a wide range of programming paradigms."
@@ -853,7 +853,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/css.png",
 		description: "A style sheet language used for describing the presentation of a document written in a markup language like HTML.",
 		link: "https://developer.mozilla.org/en-US/docs/Web/CSS",
-		since: "1996",
+		since: "2009",
 		intro: [
 			"CSS is a style sheet language used for describing the presentation of a document written in a markup language like HTML.",
 			"It is known for its ability to separate content from design, enabling responsive and visually appealing web pages."
@@ -870,7 +870,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/mootools.png",
 		description: "A compact, modular, Object-Oriented JavaScript framework designed for the intermediate to advanced JavaScript developer.",
 		link: "https://mootools.net/",
-		since: "2006",
+		since: "2009",
 		intro: [
 			"Mootools is a JavaScript framework that provides a rich set of features for building web applications, including DOM manipulation, event handling, and more.",
 			"It is known for its lightweight and modular architecture."
@@ -886,7 +886,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/data-charts.png",
 		description: "Tools and libraries for creating interactive and dynamic data visualizations.",
 		link: "https://www.chartjs.org/",
-		since: "2013",
+		since: "2018",
 		intro: [
 			"Data charts provide a way to visualize data in a clear and interactive manner, making it easier to understand and analyze.",
 			"They are widely used in applications that require data visualization and analysis."
@@ -902,7 +902,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/rails.png",
 		description: "A web application framework written in Ruby, designed to make programming web applications easier.",
 		link: "https://rubyonrails.org/",
-		since: "2004",
+		since: "2009",
 		intro: [
 			"Ruby on Rails is a full-stack web application framework that emphasizes convention over configuration.",
 			"It is known for its developer-friendly syntax and rapid development capabilities."
@@ -952,7 +952,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/wordpress.png",
 		description: "A free and open-source content management system (CMS) based on PHP and MySQL.",
 		link: "https://wordpress.org/",
-		since: "2003",
+		since: "2009",
 		intro: [
 			"Wordpress is a free and open-source content management system (CMS) based on PHP and MySQL.",
 			"It is known for its ease of use and support for a wide range of plugins and themes, making it a popular choice for building websites and blogs."
@@ -969,7 +969,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/cms.png",
 		description: "Software applications that enable users to create, manage, and modify content on websites without specialized technical knowledge.",
 		link: "https://en.wikipedia.org/wiki/Content_management_system",
-		since: "1990s",
+		since: "2009",
 		intro: [
 			"Content Management Systems (CMS) provide tools for creating and managing digital content, often with user-friendly interfaces.",
 			"They enable non-technical users to maintain websites and digital platforms without requiring coding knowledge."
@@ -987,7 +987,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/datocms.png",
 		description: "A headless CMS that offers a flexible content management solution for modern websites and applications.",
 		link: "https://www.datocms.com/",
-		since: "2016",
+		since: "2020",
 		intro: [
 			"DatoCMS is a headless content management system that provides a flexible and powerful solution for managing content across multiple platforms.",
 			"It offers a user-friendly interface, robust API, and seamless integration with modern development frameworks."

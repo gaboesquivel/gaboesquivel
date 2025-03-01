@@ -438,6 +438,7 @@ export const projects: Project[] = [
     "slug": "wink",
     "description": "Wink, Costa Rica's first neo-bank, offers a mobile app for online banking, eliminating the need for physical branch visits.\n I developed the first version of Wink's mobile app and backend services within AWS. My role involved API integration with partner banks and forming a dedicated development team.",
     "tech": [
+      "Typescript",
       "AWS",
       "Serverless",
       "React Native",
