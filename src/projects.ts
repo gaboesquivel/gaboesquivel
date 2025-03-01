@@ -282,7 +282,9 @@ export const projects: Project[] = [
     "slug": "knowledge-io",
     "description": "Knowledge is a platform that rewards users for sharing information, recognized through a token system.\n My role at Knowledge included leading the architecture of the token and supporting systems for a successful ICO, and forming a skilled development team.",
     "tech": [
+      "Typescript",
       "Ethereum",
+      "EthersJS",
       "Solidity",
       "AWS",
       "Serverless",

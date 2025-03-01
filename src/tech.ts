@@ -8,7 +8,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/typescript.png",
 		description: "A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
 		link: "https://www.typescriptlang.org/",
-		since: "2018",
+		since: "2012",
 		intro: [
 			"TypeScript is a superset of JavaScript that adds static types, enhancing code quality and maintainability.",
 			"It is widely used in modern web development for building scalable and robust applications."
@@ -111,7 +111,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/viem.png",
 		description: "A library for interacting with Ethereum and other EVM-compatible blockchains.",
 		link: "https://viem.io/",
-		since: "2020",
+		since: "2024",
 		intro: [
 			"Viem is a modern library designed to simplify interactions with Ethereum and other EVM-compatible blockchains.",
 			"It provides a robust set of tools for developers to build decentralized applications with ease."
@@ -129,7 +129,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/wagmi.png",
 		description: "A collection of React hooks for Ethereum.",
 		link: "https://wagmi.sh/",
-		since: "2020",
+		since: "2024",
 		intro: [
 			"Wagmi provides a set of React hooks that simplify the process of building Ethereum applications.",
 			"It is designed to work seamlessly with popular libraries like ethers.js and viem."
@@ -205,7 +205,8 @@ export const techStack: TechStackItem[] = [
 		experience: [
 			"Utilized EthersJS in projects like BasilicEVM for seamless interaction with the Ethereum blockchain.",
 			"Implemented EthersJS in RareMint for efficient smart contract interactions and NFT data indexing.",
-			"Developed a WebGL EVM wallet connector using EthersJS at ZTX, enabling secure blockchain transactions within the metaverse platform."
+			"Developed a WebGL EVM wallet connector using EthersJS at ZTX, enabling secure blockchain transactions within the metaverse platform.",
+			"Led the architecture of Knowledge.io's token system using EthersJS for secure and efficient blockchain interactions."
 		],
 	},
 	{
