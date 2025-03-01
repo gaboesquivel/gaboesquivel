@@ -16,7 +16,7 @@ export function getTechStackByTag(tag: string): TechStackItemWithProjects | null
 }
 
 export function getProjectsByTechnology(tag: string) {
-    return projects.filter((project) => project.technologies.includes(tag));
+    return projects.filter((project) => project.tech.includes(tag));
 }
 
 export function gaboLog() {

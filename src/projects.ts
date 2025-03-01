@@ -5,7 +5,7 @@ export const projects: Project[] = [
     "title": "BasilicEVM",
     "slug": "basilic-evm",
     "description": "BasilicEVM is a performance-optimized development stack for EVM applications. Built with Foundry, viem/wagmi, and Next.js 15, it features AI-powered development workflows, specialized cursor rules, and streamlined UI generation. The stack includes smart contracts, chain integration, frontend components, and data layer with Ponder indexing.",
-    "technologies": [
+    "tech": [
       "TypeScript",
       "Solidity",
       "Foundry",
@@ -18,7 +18,7 @@ export const projects: Project[] = [
       "ThirdWeb",
       "AI"
     ],
-    "tags": ["web3", "oss"],
+    "type": ["web3", "oss"],
     "link": "https://github.com/blockmatic/basilic-evm",
     "image": "https://gaboesquivel.com/images/work/basilic-evm.png",
     "repo": "https://github.com/blockmatic/basilic-evm",
@@ -36,7 +36,7 @@ export const projects: Project[] = [
     "title": "bitlauncher",
     "slug": "bitlauncher",
     "description": "BitLauncher is an AI and crypto launchpad platform that provides early access to promising AI unicorn startups through token sales and auctions. It features a batch auction system for token sales, ensuring fair and transparent price discovery. Participants bid during a fixed period, and tokens are distributed at a uniform price, eliminating manipulation and ensuring equal opportunities for all investors.",
-    "technologies": [
+    "tech": [
       "TypeScript",
       "Solidity",
       "Hardhat",
@@ -46,7 +46,7 @@ export const projects: Project[] = [
       "NodeJS",
       "PostgreSQL"
     ],
-    "tags": ["web3", "ai", "oss", "full-time", "lead"],
+    "type": ["web3", "ai", "oss", "full-time", "lead"],
     "link": "https://bitlauncher.ai",
     "image": "https://gaboesquivel.com/images/work/bitlauncher.png",
     "video": "https://www.youtube.com/watch?v=U6vn3KOEwcQ",
@@ -71,7 +71,7 @@ export const projects: Project[] = [
     "title": "Masterbots",
     "slug": "masterbots",
     "description": "Masterbots.ai is a platform that aims to elevate AI beyond ChatGPT by providing specialized chatbots, social sharing features, and user-friendly innovation. It features domain-specific AI chatbots that can perform more advanced tasks beyond basic information lookup or simple conversations.",
-    "technologies": [
+    "tech": [
       "NextJS",
       "NodeJS",
       "GraphQL",
@@ -80,7 +80,7 @@ export const projects: Project[] = [
       "AI SDK",
       "LLMs"
     ],
-    "tags": ["ai", "oss"],
+    "type": ["ai", "oss"],
     "link": "https://masterbots.ai",
     "image": "https://gaboesquivel.com/images/work/masterbots.png",
     "repo": "https://github.com/bitcashorg/masterbots",
@@ -99,7 +99,7 @@ export const projects: Project[] = [
     "title": "ZTX",
     "slug": "ztx",
     "description": "ZTX, a web3 metaverse platform, enables creators to build, play, and earn. Supported by Jump Crypto and ZEPETO, it integrates blockchain for NFT trading.\n As a software consultant in the early stages of ZTX, I was responsible for developing the react app to host the metaverse and the WebGL/EVM wallet integration.",
-    "technologies": [
+    "tech": [
       "WebGL",
       "Ethereum",
       "Ethers",
@@ -109,7 +109,7 @@ export const projects: Project[] = [
       "ReactJS",
       "NextJS"
     ],
-    "tags": ["web3", "full-time"],
+    "type": ["web3", "full-time"],
     "link": "https://ztx.io",
     "image": "https://gaboesquivel.com/images/work/ztx.png",
     "video": "https://www.youtube.com/watch?v=h58y6UzZ7RA",
@@ -128,7 +128,7 @@ export const projects: Project[] = [
     "title": "RareMint",
     "slug": "raremint",
     "description": "RareMint digitizes real-world sports collectibles as NFTs, offering a digital collectible experience.\n I led technical efforts at RareMint to enhance the NFT marketplace's performance and maintainability. Additionally, I supported integrating the platform with the Polygon network for auctions.",
-    "technologies": [
+    "tech": [
       "EVM",
       "Ethers",
       "NFT",
@@ -138,7 +138,7 @@ export const projects: Project[] = [
       "GraphQL",
       "TypeScript"
     ],
-    "tags": ["web3", "full-time"],
+    "type": ["web3", "full-time"],
     "link": "https://raremint.com",
     "image": "https://gaboesquivel.com/images/work/raremint.png",
     "video": "https://www.youtube.com/watch?v=2wh32w7N9xg",
@@ -160,7 +160,7 @@ export const projects: Project[] = [
     "title": "bitcashBank",
     "slug": "bitcashbank",
     "description": "Bitcash allows users to buy, trade, deposit, and earn on cryptocurrencies, with a focus on exchanging funds for local currency stablecoins or bitUSD. The platform also features BitcashDAO for community-based decision-making.\n At Bitcash, my role from the start focused on infrastructure design, tech recruitment, and developer training. I later transitioned to a consulting role to guide the platform's continuous adaptation and success.",
-    "technologies": [
+    "tech": [
       "Antelope",
       "C++",
       "ReactJS",
@@ -170,7 +170,7 @@ export const projects: Project[] = [
       "PostgreSQL",
       "TypeScript"
     ],
-    "tags": ["web3", "contract", "lead"],
+    "type": ["web3", "contract", "lead"],
     "link": "https://bitcash.org",
     "image": "https://gaboesquivel.com/images/work/bitcash-bank.png",
     "video": "https://www.youtube.com/watch?v=2JuHy_w0Ct4",
@@ -190,8 +190,8 @@ export const projects: Project[] = [
     "title": "Emanate",
     "slug": "emanate",
     "description": "Emanate is a Web3-powered network marketplace for the music industry, streamlining music creation, distribution, and monetization.\n At Emanate, I maintained the ReactJS web app streaming platform and the back office for artist revenue distribution.",
-    "technologies": ["ReactJS", "TypeScript", "EOS", "AWS"],
-    "tags": ["web3", "contract"],
+    "tech": ["ReactJS", "TypeScript", "EOS", "AWS"],
+    "type": ["web3", "contract"],
     "link": "https://emanate.live",
     "image": "https://gaboesquivel.com/images/work/emanate.png",
     "video": "https://www.youtube.com/watch?v=qjmn7M7YC9g",
@@ -210,8 +210,8 @@ export const projects: Project[] = [
     "title": "Make Sense Labs",
     "slug": "make-sense-labs",
     "description": "Sense.chat, developed by Sense, a blockchain and DeFi company, is a secure chat and transaction app focusing on user data privacy.\n My role at Sense involved enhancing the React Native app's performance and integrating it with the EOS mainnet for token functionality.",
-    "technologies": ["React Native", "TypeScript", "Blockchain", "EOS"],
-    "tags": ["web3", "contract"],
+    "tech": ["React Native", "TypeScript", "Blockchain", "EOS"],
+    "type": ["web3", "contract"],
     "link": "https://www.youtube.com/watch?v=2DJxzYDaAz8",
     "image": "https://gaboesquivel.com/images/work/sense-chat.png",
     "video": "https://www.youtube.com/watch?v=2DJxzYDaAz8",
@@ -230,7 +230,7 @@ export const projects: Project[] = [
     "title": "EOS Costa Rica",
     "slug": "eos-costa-rica",
     "description": "EOS Costa Rica provides infrastructure for EOSIO blockchains and custom smart contract development.\n Joining EOS Costa Rica at its inception, I played a key role in the EOS mainnet launch, managed validators for multiple networks, and helped establish the custom development services division. My major contribution included leading the architecture for a custom private blockchain for Grant Thornton.",
-    "technologies": [
+    "tech": [
       "EOS",
       "C++",
       "PostgreSQL",
@@ -239,7 +239,7 @@ export const projects: Project[] = [
       "GraphQL",
       "ReactJS"
     ],
-    "tags": ["web3", "full-time", "lead"],
+    "type": ["web3", "full-time", "lead"],
     "link": "https://eoscostarica.io",
     "image": "https://gaboesquivel.com/images/work/eoscostarica.png",
     "repo": "https://github.com/eoscostarica",
@@ -259,8 +259,8 @@ export const projects: Project[] = [
     "title": "EOS Rate",
     "slug": "eos-rate",
     "description": "EOS Rate is a community-driven tool for rating EOS Block Producers, featuring a radial graph and community input stored on the blockchain.\n In this project, I was responsible for the technical architecture and selecting the appropriate technology.",
-    "technologies": ["EOS", "C++", "GraphQL", "ReactJS"],
-    "tags": ["web3", "oss"],
+    "tech": ["EOS", "C++", "GraphQL", "ReactJS"],
+    "type": ["web3", "oss"],
     "link": "https://eosrate.io",
     "image": "https://gaboesquivel.com/images/work/eosrate.png",
     "repo": "https://github.com/eoscostarica/eos-rate",
@@ -280,7 +280,7 @@ export const projects: Project[] = [
     "title": "Knowledge.io",
     "slug": "knowledge-io",
     "description": "Knowledge is a platform that rewards users for sharing information, recognized through a token system.\n My role at Knowledge included leading the architecture of the token and supporting systems for a successful ICO, and forming a skilled development team.",
-    "technologies": [
+    "tech": [
       "Ethereum",
       "Solidity",
       "AWS",
@@ -290,7 +290,7 @@ export const projects: Project[] = [
       "React",
       "Node.js"
     ],
-    "tags": ["web3", "contract", "oss"],
+    "type": ["web3", "contract", "oss"],
     "link": "https://github.com/knowledge/ethereum-contracts",
     "image": "https://gaboesquivel.com/images/work/knowledge.png",
     "repo": "https://github.com/knowledge",
@@ -309,7 +309,7 @@ export const projects: Project[] = [
     "title": "ChainGraph",
     "slug": "chaingraph",
     "description": "This real-time GraphQL toolkit is designed for EOSIO/Antelope blockchain applications, offering features like data subscriptions and querying multiple blockchains.\n As a personal side project during my time at Bitcash, I was responsible for the architectural design, technology selection, and coding of the toolkit, including a real-time blockchain data streaming package.",
-    "technologies": [
+    "tech": [
       "Antelope",
       "NodeJS",
       "Docker",
@@ -318,7 +318,7 @@ export const projects: Project[] = [
       "RXJS",
       "ReactJS"
     ],
-    "tags": ["web3", "oss"],
+    "type": ["web3", "oss"],
     "link": "https://chaingraph.io",
     "image": "https://gaboesquivel.com/images/work/chaingraph.png",
     "repo": "https://github.com/chaingraph",
@@ -337,14 +337,14 @@ export const projects: Project[] = [
     "title": "Fantasy Top Shots",
     "slug": "fantasy-top-shots",
     "description": "The mobile app game based on NBA Top Shot NFTs was developed for the 2022 Flow Hackathon. It leverages the popularity of NBA Top Shot NFTs to create an engaging gaming experience.\n My contribution to this project was in the game's design and development, utilizing my skills in blockchain technology and mobile app development.",
-    "technologies": [
+    "tech": [
       "Flow Blockchain",
       "NFT",
       "React",
       "React Native with Expo",
       "Tailwind"
     ],
-    "tags": ["web3", "hackathon"],
+    "type": ["web3", "hackathon"],
     "link": "https://fantasy-top-shot.vercel.app",
     "image": "https://gaboesquivel.com/images/work/fantasy-top-shots.png",
     "video": "https://www.youtube.com/watch?v=Il2aiKhy_ug",
@@ -364,8 +364,8 @@ export const projects: Project[] = [
     "title": "Substrate Contracts UI",
     "slug": "substrate-contracts-ui",
     "description": "Substrate Contracts UI is a web application for deploying and interacting with WASM smart contracts on Substrate blockchains.\n I contributed to the project by enhancing code quality through multiple open-source contributions and gained experience in building dApps with Substrate.",
-    "technologies": ["Polkadot", "Substrate", "React", "Tailwind"],
-    "tags": ["web3", "oss"],
+    "tech": ["Polkadot", "Substrate", "React", "Tailwind"],
+    "type": ["web3", "oss"],
     "link": "https://contracts-ui.substrate.io/",
     "image": "https://gaboesquivel.com/images/work/contracts-ui.png",
     "repo": "https://github.com/paritytech/contracts-ui",
@@ -384,7 +384,7 @@ export const projects: Project[] = [
     "title": "Wizard World",
     "slug": "wizard-world",
     "description": "A progressive web app connects to OpenAI's LLM models to generate AI images and mint them on the Flow blockchain. This app integrates AI with blockchain technology.\n My role involved the app's development, focusing on integrating OpenAI's models for image generation and ensuring smooth functionality with the Flow blockchain.",
-    "technologies": [
+    "tech": [
       "Next.js",
       "Flow",
       "Niftory",
@@ -395,7 +395,7 @@ export const projects: Project[] = [
       "Blockchain",
       "NFT"
     ],
-    "tags": ["ai", "web3", "hackathon"],
+    "type": ["ai", "web3", "hackathon"],
     "link": "https://wizart.world",
     "image": "https://gaboesquivel.com/images/work/wizart-world.png",
     "video": "https://www.youtube.com/watch?v=I_vBUflXHFA",
@@ -416,8 +416,8 @@ export const projects: Project[] = [
     "title": "dBoard",
     "slug": "dboard",
     "description": "dBoard is a DAO decision-making and community management tool. It allows stakeholders to strategize, debate, and vote on actions for organizational efficiency.\n In this project, my contributions included overseeing the technical architecture and the smart contract development and integration on the webapp.",
-    "technologies": ["Antelope", "Next.js", "GCloud", "GraphQL"],
-    "tags": ["web3"],
+    "tech": ["Antelope", "Next.js", "GCloud", "GraphQL"],
+    "type": ["web3"],
     "link": "https://eos.dboard.ai",
     "image": "https://gaboesquivel.com/images/work/dboard.png",
     "repo": "https://github.com/bitcashorg/bitcash-contract-dho",
@@ -436,7 +436,7 @@ export const projects: Project[] = [
     "title": "Wink",
     "slug": "wink",
     "description": "Wink, Costa Rica's first neo-bank, offers a mobile app for online banking, eliminating the need for physical branch visits.\n I developed the first version of Wink's mobile app and backend services within AWS. My role involved API integration with partner banks and forming a dedicated development team.",
-    "technologies": [
+    "tech": [
       "AWS",
       "Serverless",
       "React Native",
@@ -444,7 +444,7 @@ export const projects: Project[] = [
       "Node.js",
       "Biometrics"
     ],
-    "tags": ["full-time", "lead"],
+    "type": ["full-time", "lead"],
     "link": "https://holawink.com",
     "image": "https://gaboesquivel.com/images/work/wink.png",
     "video": "https://www.youtube.com/watch?v=rfeISMW_OVc",
@@ -465,7 +465,7 @@ export const projects: Project[] = [
     "description": "The American Express website enables cardmembers to manage their financial accounts, offering features like balance checks, transaction views, and secure payments.\n My responsibility was focused on front-end development, including Object-Oriented JavaScript, AJAX for a fluid user experience, and implementing A/B Testing and usage analytics.",
     "image": "https://gaboesquivel.com/images/work/amex.jpg",
     "link": "https://www.americanexpress.com/",
-    "technologies": [
+    "tech": [
       "JSP (Struts)",
       "Omniture",
       "Adobe mBox",
@@ -474,7 +474,7 @@ export const projects: Project[] = [
       "jQuery",
       "CSS"
     ],
-    "tags": ["full-time"],
+    "type": ["full-time"],
     "achievements": [
       "Enhanced user experience through AJAX-driven interactivity.",
       "Implemented A/B testing strategies to optimize user engagement.",
@@ -493,8 +493,8 @@ export const projects: Project[] = [
     "description": "The National Money Night Talk by American Express aimed to promote financial communication between parents and teenagers.\n As a Frontend Engineer, I developed the campaign's landing page, focusing on user engagement and information delivery.",
     "link": "https://www.youtube.com/watch?v=a2vDoYyXIJQ",
     "image": "https://gaboesquivel.com/images/work/money-talk.jpg",
-    "technologies": ["JavaScript", "CSS"],
-    "tags": ["other"],
+    "tech": ["JavaScript", "CSS"],
+    "type": ["other"],
     "achievements": [
       "Developed an engaging landing page to enhance user interaction.",
       "Implemented responsive design for a seamless experience across devices.",
@@ -510,14 +510,14 @@ export const projects: Project[] = [
     "title": "Elder Scrolls Online",
     "slug": "elder-scrolls-online",
     "description": "The official website serves as a central hub for a gaming community, offering news, game guides, and forums.\n My role was to ensure a user-centric design for the website, facilitating easy navigation and engagement with the content, blending aesthetics and functionality for a dynamic digital platform.",
-    "technologies": [
+    "tech": [
       "PHP",
       "JavaScript",
       "jQuery",
       "Facebook API",
       "Twitter API"
     ],
-    "tags": ["contract"],
+    "type": ["contract"],
     "link": "http://elderscrollsonline.com",
     "image": "https://gaboesquivel.com/images/work/elder-scrolls.jpg",
     "achievements": [
@@ -535,7 +535,7 @@ export const projects: Project[] = [
     "title": "AMC Yeah TV Facebook App",
     "slug": "amc-yeah-tv-facebook-app",
     "description": "An online movie streaming service allows watching movies in chapters with detailed information and interactive games.\n I was responsible for the frontend architecture design, integrating the game app with Facebook and the backoffice system with Brightcove web services for video streaming and editing.",
-    "technologies": [
+    "tech": [
       "HTML5",
       "PHP",
       "Facebook API",
@@ -545,7 +545,7 @@ export const projects: Project[] = [
       "Brightcove API",
       "require.js"
     ],
-    "tags": ["full-time", "lead"],
+    "type": ["full-time", "lead"],
     "link": "http://yeahtv.com",
     "image": "https://gaboesquivel.com/images/work/yeahtv.jpg",
     "achievements": [
@@ -565,8 +565,8 @@ export const projects: Project[] = [
     "description": "Tikr is an online store with dynamic, real-time fluctuating prices, offering a unique shopping experience. It operates on the Ruby on Rails-based Spree backend framework.\n My role at Tikr encompassed full-stack development with a focus on frontend development and customization of the Spree backend framework.",
     "link": "http://tikr.com",
     "image": "https://gaboesquivel.com/images/work/tikr.jpg",
-    "tags": ["contract"],
-    "technologies": [
+    "type": ["contract"],
+    "tech": [
       "Ruby on Rails",
       "Spree",
       "Heroku",
@@ -589,7 +589,7 @@ export const projects: Project[] = [
     "title": "Eat Arcade",
     "slug": "eat-arcade",
     "description": "I designed and developed an SMS subscription system featuring curated dishes from New York City's finest restaurants. The system offered a unique dining experience through mobile technology.\n My responsibilities covered the entire development process, from system design to implementation.",
-    "technologies": [
+    "tech": [
       "Node.js",
       "Express.js",
       "AngularJS",
@@ -599,7 +599,7 @@ export const projects: Project[] = [
       "Stripe",
       "Twilio"
     ],
-    "tags": ["contract"],
+    "type": ["contract"],
     "link": "http://www.eatarcade.com/",
     "image": "https://gaboesquivel.com/images/work/eatarcade.jpg",
     "achievements": [
@@ -617,7 +617,7 @@ export const projects: Project[] = [
     "title": "Jockey Hollow Bar and Kitchen",
     "slug": "jockey-hollow-bar-and-kitchen",
     "description": "Jockey Hollow Bar and Kitchen, located in a historic mansion, features four distinct dining concepts. The responsive landing page I developed introduces visitors to its diverse culinary world.\n My work focused on developing the main responsive landing page, ensuring an inviting and informative digital gateway to the restaurant's offerings.",
-    "technologies": [
+    "tech": [
       "SASS",
       "jQuery",
       "Lodash",
@@ -627,7 +627,7 @@ export const projects: Project[] = [
       "Heroku",
       "Divshot"
     ],
-    "tags": ["contract"],
+    "type": ["contract"],
     "link": "http://www.jockeyhollowbarandkitchen.com/",
     "image": "https://gaboesquivel.com/images/work/jockey-hollow.png",
     "achievements": [
@@ -646,7 +646,7 @@ export const projects: Project[] = [
     "title": "Jockey Hollow Bar and Kitchen Menu Kiosk App",
     "slug": "jockey-hollow-bar-and-kitchen-menu-kiosk-app",
     "description": "At Jockey Hollow Bar & Kitchen, I developed the Menu Kiosk App, a responsive web application for tablet kiosks. It simplifies menu selection for patrons and uses Google Spreadsheets for easy updates.\n As the sole developer, my role involved creating an intuitive and efficient digital menu solution, enhancing the dining experience.",
-    "technologies": [
+    "tech": [
       "SASS",
       "jQuery",
       "Lodash",
@@ -656,7 +656,7 @@ export const projects: Project[] = [
       "Heroku",
       "Divshot"
     ],
-    "tags": ["contract"],
+    "type": ["contract"],
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/jockey-hollow-menu.png",
     "achievements": [
@@ -676,8 +676,8 @@ export const projects: Project[] = [
     "description": "Bureau of Trade (Beta) is an online store offering a range of products, with a frontend integrated with eBay's API for diverse shopping experiences.\n As the sole Fullstack developer, my focus was on frontend development, responsive design, and animations, along with eBay API integration.",
     "link": "http://www.gridium.com/products/portfolio-manager/",
     "image": "https://gaboesquivel.com/images/work/bureau-of-trade.jpg",
-    "technologies": ["PHP", "eBay API", "HTML5", "AJAX", "jQuery"],
-    "tags": ["contract"],
+    "tech": ["PHP", "eBay API", "HTML5", "AJAX", "jQuery"],
+    "type": ["contract"],
     "achievements": [
       "Built a responsive e-commerce frontend integrated with eBay's API.",
       "Developed advanced UI animations for enhanced user experience.",
@@ -693,14 +693,14 @@ export const projects: Project[] = [
     "title": "Tractor Supply",
     "slug": "tractor-supply",
     "description": "The Tractor Supply mobile app offers features like product browsing, exclusive offers, account management, and an augmented reality feature for product previews.\n As a consultant, I enhanced the app's performance and code quality, and developed its augmented reality feature, improving user experience and engagement.",
-    "technologies": [
+    "tech": [
       "React Native",
       "React",
       "Node.js",
       "TypeScript",
       "Augmented Reality"
     ],
-    "tags": ["contract"],
+    "type": ["contract"],
     "link": "https://www.tractorsupply.com/tsc/cms/app",
     "image": "https://gaboesquivel.com/images/work/tractor-supply.png",
     "achievements": [
@@ -717,7 +717,7 @@ export const projects: Project[] = [
     "title": "Photo and Go",
     "slug": "photo-and-go",
     "description": "MyPhoto.com is an online platform for creating personalized photo products. I led the development of an innovative photo editor app and backend services integrated with existing e-commerce systems.\n My leadership role encompassed technical direction and execution, focusing on creating a smooth and intuitive user experience.",
-    "technologies": [
+    "tech": [
       "React",
       "Node.js",
       "Hapi",
@@ -729,7 +729,7 @@ export const projects: Project[] = [
       "PostgreSQL",
       "Linux"
     ],
-    "tags": ["contract"],
+    "type": ["contract"],
     "link": "https://www.myphoto.com/",
     "image": "https://gaboesquivel.com/images/work/photoandgo.jpg",
     "achievements": [
@@ -747,7 +747,7 @@ export const projects: Project[] = [
     "title": "4Tius Fitness Data Tracker",
     "slug": "4tius-fitness-data-tracker",
     "description": "The 4Tius app is a centralized platform for monitoring fitness data, integrating with Fitbit. It includes a web dashboard and API.\n As a Fullstack software engineer, I led the development of both the web application and backend systems, ensuring seamless integration and user-friendly functionality.",
-    "technologies": [
+    "tech": [
       "Node.js",
       "Express",
       "AWS",
@@ -755,7 +755,7 @@ export const projects: Project[] = [
       "MongoDB",
       "Angular.js"
     ],
-    "tags": ["contract"],
+    "type": ["contract"],
     "link": "https://example.com/18techs",
     "image": "https://gaboesquivel.com/images/work/4tius.jpg",
     "achievements": [
@@ -775,8 +775,8 @@ export const projects: Project[] = [
     "description": "SunTrust's Solid Salutes campaign facilitated user-generated custom video salutes. I developed the entire campaign website, focusing on design and user interaction.\n My role included overseeing the website's development from concept to implementation, emphasizing user engagement and visual appeal.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/suntrust-1.jpg",
-    "technologies": ["JavaScript", "CSS"],
-    "tags": ["other"],
+    "tech": ["JavaScript", "CSS"],
+    "type": ["other"],
     "achievements": [
       "Developed an interactive campaign website for user-generated content.",
       "Optimized website performance for increased user engagement.",
@@ -795,8 +795,8 @@ export const projects: Project[] = [
     "description": "For ScotiaBank Costa Rica, I developed the ScotiaTico newsletter, a communication tool for bank updates and information.\n My responsibility was crafting an engaging and informative newsletter layout, enhancing communication between the bank and its customers.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/scotiatico.jpg",
-    "technologies": ["JavaScript", "CSS", "Wordpress"],
-    "tags": ["other"],
+    "tech": ["JavaScript", "CSS", "Wordpress"],
+    "type": ["other"],
     "achievements": [
       "Designed and developed an interactive newsletter layout for ScotiaBank.",
       "Enhanced customer engagement with visually appealing and responsive design.",
@@ -814,8 +814,8 @@ export const projects: Project[] = [
     "description": "At Staples, a retail store for office supplies, I worked on building responsive features and the main website navigation.\n My role as a frontend developer involved creating user-friendly and efficient navigation elements, contributing to the overall user experience on the website.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/staples.jpg",
-    "technologies": ["JavaScript", "CSS", "Mootols"],
-    "tags": ["other"],
+    "tech": ["JavaScript", "CSS", "Mootols"],
+    "type": ["other"],
     "achievements": [
       "Developed responsive UI components for improved website accessibility.",
       "Enhanced navigation for a seamless shopping experience.",
@@ -833,8 +833,8 @@ export const projects: Project[] = [
     "description": "Gridium is an energy data analytics prototype for visualizing and analyzing energy consumption. It aids in informed energy management decisions.\n I built the first version of the application, focusing on displaying data collected from various buildings.",
     "link": "https://gridium.com/",
     "image": "https://gaboesquivel.com/images/work/gridium.png",
-    "technologies": ["JavaScript", "Data Charts", "CSS", "Bootstrap"],
-    "tags": ["contract"],
+    "tech": ["JavaScript", "Data Charts", "CSS", "Bootstrap"],
+    "type": ["contract"],
     "achievements": [
       "Developed a data visualization platform for energy consumption analytics.",
       "Implemented interactive charts for real-time energy monitoring.",
@@ -852,8 +852,8 @@ export const projects: Project[] = [
     "slug": "arinc-microfids",
     "description": "ARINC Microfids is a flight information display system for hotels and airport businesses. It integrates with a Ruby on Rails backend.\n My responsibilities included frontend development and system integration, ensuring a seamless display of flight information.",
     "image": "https://gaboesquivel.com/images/work/arinc.png",
-    "technologies": ["Ruby on Rails", "AngularJS", "Faye", "LESS", "Heroku"],
-    "tags": ["contract"],
+    "tech": ["Ruby on Rails", "AngularJS", "Faye", "LESS", "Heroku"],
+    "type": ["contract"],
     "achievements": [
       "Developed a real-time flight information display system.",
       "Integrated Ruby on Rails backend with AngularJS for seamless data updates.",
@@ -871,8 +871,8 @@ export const projects: Project[] = [
     "description": "Capoeira Abolição is a Brazilian martial arts group. I volunteered to create their promotional website, showcasing their professors and community.\n My involvement included website design and development, highlighting the group's activities and global presence.",
     "link": "https://capoieraabolicao.com",
     "image": "https://gaboesquivel.com/images/work/abolicao.jpg",
-    "technologies": ["JavaScript", "Wordpress", "CSS", "Bootstrap"],
-    "tags": ["other"],
+    "tech": ["JavaScript", "Wordpress", "CSS", "Bootstrap"],
+    "type": ["other"],
     "achievements": [
       "Designed and developed a responsive website for Capoeira Abolição.",
       "Implemented interactive elements to showcase community events.",
@@ -890,8 +890,8 @@ export const projects: Project[] = [
     "description": "Panini, a project I worked on, provided a unique service or product in its field.\n My role in this project was focused on technical development and implementation.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/panini.jpg",
-    "technologies": ["JavaScript", "CSS", "Wordpress"],
-    "tags": ["other"],
+    "tech": ["JavaScript", "CSS", "Wordpress"],
+    "type": ["other"],
     "achievements": [
       "Developed and implemented the technical architecture for Panini's platform.",
       "Optimized website performance and ensured cross-browser compatibility.",
@@ -909,8 +909,8 @@ export const projects: Project[] = [
     "description": "EARTH University offers education in agricultural sciences. I was responsible for building their main website, blog, and newsletter.\n My work involved creating a digital platform for information dissemination and community engagement, focusing on usability and content management.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/wordpress-earth-pai.jpg",
-    "technologies": ["JavaScript", "CSS", "Wordpress"],
-    "tags": ["other"],
+    "tech": ["JavaScript", "CSS", "Wordpress"],
+    "type": ["other"],
     "achievements": [
       "Developed a content management system for EARTH University's website.",
       "Designed a responsive and accessible blog for community engagement.",
@@ -928,8 +928,8 @@ export const projects: Project[] = [
     "description": "ProParques is a nonprofit for national park sustainability. I developed their responsive landing page and an interactive national park map.\n My role included web design and development, focusing on user interaction and information accessibility for park exploration.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/proparques.jpg",
-    "technologies": ["JavaScript", "CSS", "Wordpress"],
-    "tags": ["other"],
+    "tech": ["JavaScript", "CSS", "Wordpress"],
+    "type": ["other"],
     "achievements": [
       "Developed an interactive national park map for user exploration.",
       "Designed a responsive and informative landing page.",
@@ -947,8 +947,8 @@ export const projects: Project[] = [
     "description": "FanSlam Fantasy Tennis is a strategic game for ATP, WTA, and Grand Slam tournaments. I designed and built both the frontend and backend.\n As a fullstack developer, my work encompassed creating an engaging and functional gaming experience, integrating strategy and user interface design.",
     "link": "https://www.fanslam.us",
     "image": "https://gaboesquivel.com/images/work/fantasy-tennis.jpg",
-    "technologies": ["JavaScript", "CSS"],
-    "tags": ["contract"],
+    "tech": ["JavaScript", "CSS"],
+    "type": ["contract"],
     "achievements": [
       "Designed and developed a strategic fantasy tennis gaming platform.",
       "Built a responsive UI for seamless gameplay across devices.",
@@ -967,8 +967,8 @@ export const projects: Project[] = [
     "description": "Mobtion agency specializes in mobile development services. I designed and developed their responsive website and WordPress CMS.\n My responsibilities included website design, development, and ensuring seamless content management for the agency.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/mobtion.jpg",
-    "technologies": ["JavaScript", "CSS", "Wordpress", "PHP"],
-    "tags": ["other"],
+    "tech": ["JavaScript", "CSS", "Wordpress", "PHP"],
+    "type": ["other"],
     "achievements": [
       "Developed a responsive and modern website for Mobtion agency.",
       "Integrated WordPress CMS for efficient content management.",
@@ -986,8 +986,8 @@ export const projects: Project[] = [
     "description": "ITS InfoCom, an IT multinational, focuses on Remote Infrastructure Management. I implemented their primary website, CMS, and CRM integration.\n My role was to create and integrate digital solutions for the company, focusing on web presence and customer relationship management.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/website-its.jpg",
-    "technologies": ["JavaScript", "CSS", "PHP", "Custom CMS"],
-    "tags": ["other"],
+    "tech": ["JavaScript", "CSS", "PHP", "Custom CMS"],
+    "type": ["other"],
     "achievements": [
       "Developed and deployed a company-wide CMS for ITS InfoCom.",
       "Integrated CRM solutions to streamline customer interactions.",
@@ -1005,8 +1005,8 @@ export const projects: Project[] = [
     "description": "For Trivenzor, a hypertension medication, I developed a responsive landing page for patient and healthcare provider information.\n My work involved creating a user-friendly and informative digital platform, emphasizing medical information clarity and accessibility.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/tribenzor.jpg",
-    "technologies": ["JavaScript", "CSS", "Mootols"],
-    "tags": ["other"],
+    "tech": ["JavaScript", "CSS", "Mootols"],
+    "type": ["other"],
     "achievements": [
       "Developed a fully responsive and accessible medical landing page.",
       "Ensured clarity and usability for both patients and healthcare providers.",
@@ -1024,8 +1024,8 @@ export const projects: Project[] = [
     "description": "The Living with Dryness project involved crafting a responsive landing page focused on providing information and resources.\n As the developer, I ensured a pixel-perfect design and user-friendly navigation, catering to the project's specific audience and needs.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/living-with-dryness.jpg",
-    "technologies": ["JavaScript", "CSS", "Wordpress"],
-    "tags": ["other"],
+    "tech": ["JavaScript", "CSS", "Wordpress"],
+    "type": ["other"],
     "achievements": [
       "Designed and developed a responsive landing page for medical resources.",
       "Implemented a user-friendly navigation system for better accessibility.",

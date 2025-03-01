@@ -3,8 +3,8 @@ export interface Project {
     title: string;
     slug: string;
     description: string;
-    technologies: string[];
-    tags: string[];
+    tech: string[];
+    type: string[];
     link?: string;
     image: string;
     repo?: string;
@@ -18,7 +18,7 @@ export interface Project {
 export interface TechStackItem {
     name: string;
     icon: string;
-    tag: string;
+    tag: Tag;
     image: string;
     description: string;
     link: string;
@@ -30,3 +30,6 @@ export interface TechStackItem {
 export interface TechStackItemWithProjects extends TechStackItem {
     projects: Project[];
 }
+
+// Define the type for a tag derived from the technologies collection
+export type Tag = 'TypeScript' | 'Solidity' | 'Foundry' | 'NextJS' | 'Ponder' | 'Postgres' | 'Viem' | 'Wagmi' | 'EVM' | 'ThirdWeb' | 'AI' | 'Hardhat' | 'NodeJS' | 'PostgreSQL' | 'GraphQL' | 'AI SDK' | 'LLMs' | 'WebGL' | 'Ethereum' | 'Ethers' | 'NFT' | 'AWS' | 'ReactJS' | 'React Native' | 'Blockchain' | 'EOS' | 'Antelope' | 'C++' | 'GCloud' | 'Serverless' | 'Docker' | 'RXJS' | 'Flow Blockchain' | 'Niftory' | 'Dalle' | 'Midjourney' | 'Tailwind' | 'Ruby on Rails' | 'Spree' | 'Heroku' | 'MongoDB' | 'AngularJS' | 'Express.js' | 'Stripe' | 'Twilio' | 'SASS' | 'jQuery' | 'Lodash' | 'Grapnel.js' | 'Grunt' | 'Divshot' | 'PHP' | 'HTML5' | 'AJAX' | 'Handlebars' | 'Brightcove API' | 'require.js' | 'JSP (Struts)' | 'Omniture' | 'Adobe mBox' | 'Facebook API' | 'Dojo' | 'CSS' | 'Mootols' | 'Wordpress' | 'Custom CMS' | 'Data Charts' | 'Bootstrap' | 'Faye' | 'LESS';
