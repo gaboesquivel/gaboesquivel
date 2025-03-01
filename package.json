@@ -1,14 +1,13 @@
 {
   "name": "gaboesquivel",
-  "version": "3.4.0",
+  "version": "3.4.1",
   "description": "Gabo Esquivel - Software Engineer",
   "author": "Gabo Esquivel",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsup src/index.ts --format cjs,esm --dts",
-    "dev": "tsup src/index.ts --format cjs,esm --dts --watch" ,
-    "publish": "npm run build && npm publish --public"
+    "dev": "tsup src/index.ts --format cjs,esm --dts --watch" 
   },
   "devDependencies": {
     "tsup": "^8.4.0",
