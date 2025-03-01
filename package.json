@@ -1,9 +1,17 @@
 {
   "name": "gaboesquivel",
-  "version": "3.2.5",
+  "version": "3.3.0",
   "description": "Gabo Esquivel - Software Engineer",
   "author": "Gabo Esquivel",
-  "main": "./index.js",
-  "bin": "./log.js",
-  "license": "MIT"
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": "./dist/scripts/gaboesquivel.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts"
+  },
+  "devDependencies": {
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2"
+  }
 }

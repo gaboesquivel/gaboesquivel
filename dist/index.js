@@ -1,4 +1,32 @@
-[
+"use strict";
+var __defProp = Object.defineProperty;
+var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
+var __getOwnPropNames = Object.getOwnPropertyNames;
+var __hasOwnProp = Object.prototype.hasOwnProperty;
+var __export = (target, all) => {
+  for (var name in all)
+    __defProp(target, name, { get: all[name], enumerable: true });
+};
+var __copyProps = (to, from, except, desc) => {
+  if (from && typeof from === "object" || typeof from === "function") {
+    for (let key of __getOwnPropNames(from))
+      if (!__hasOwnProp.call(to, key) && key !== except)
+        __defProp(to, key, { get: () => from[key], enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable });
+  }
+  return to;
+};
+var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
+
+// src/index.ts
+var index_exports = {};
+__export(index_exports, {
+  projects: () => projects,
+  techStack: () => techStack
+});
+module.exports = __toCommonJS(index_exports);
+
+// src/projects.ts
+var projects = [
   {
     "title": "BasilicEVM",
     "slug": "basilic-evm",
@@ -409,7 +437,6 @@
       "The project showcased the potential of combining AI and blockchain technologies, offering innovative solutions for digital content creation and distribution. Wizard World stands as a testament to the collaborative efforts of the Bitlauncher team and the innovative possibilities within the AI and blockchain spaces."
     ]
   },
-
   {
     "title": "dBoard",
     "slug": "dboard",
@@ -484,7 +511,6 @@
       "The project was a significant opportunity to work with a leading financial services company, and it allowed me to contribute to a platform that millions of users rely on daily. My contributions helped improve the overall user experience, making it easier and more intuitive for cardmembers to manage their accounts online."
     ]
   },
-
   {
     "title": "AMEX Money Talk",
     "slug": "amex-money-talk",
@@ -639,7 +665,6 @@
       "The project involved integrating dynamic content features to effectively showcase the restaurant's menu and events. My work on the landing page helped to create an engaging online presence that reflects the restaurant's commitment to quality and innovation in the dining industry."
     ]
   },
-
   {
     "title": "Jockey Hollow Bar and Kitchen Menu Kiosk App",
     "slug": "jockey-hollow-bar-and-kitchen-menu-kiosk-app",
@@ -786,7 +811,6 @@
       "The project was an opportunity to contribute to a meaningful campaign that celebrated community and connection. My work on the website helped to effectively convey the campaign's message and encourage participation, reflecting my commitment to creating impactful digital experiences."
     ]
   },
-
   {
     "title": "ScotiaTico",
     "slug": "scotiatico",
@@ -844,7 +868,6 @@
       "The project required optimizing the UI/UX for better readability and user engagement, ensuring that users could easily interpret and act on the data presented. This freelance opportunity allowed me to apply my skills in data visualization and user interface design, contributing to a tool that supports sustainable energy management."
     ]
   },
-
   {
     "title": "ARINC Microfids",
     "slug": "arinc-microfids",
@@ -866,18 +889,18 @@
   {
     "title": "Capoeira Abolicao",
     "slug": "capoeira-abolicao",
-    "description": "Capoeira Abolição is a Brazilian martial arts group. I volunteered to create their promotional website, showcasing their professors and community.\n My involvement included website design and development, highlighting the group's activities and global presence.",
+    "description": "Capoeira Aboli\xE7\xE3o is a Brazilian martial arts group. I volunteered to create their promotional website, showcasing their professors and community.\n My involvement included website design and development, highlighting the group's activities and global presence.",
     "link": "https://capoieraabolicao.com",
     "image": "https://gaboesquivel.com/images/work/abolicao.jpg",
     "technologies": ["JavaScript", "Wordpress", "CSS", "Bootstrap"],
     "tags": ["other"],
     "achievements": [
-      "Designed and developed a responsive website for Capoeira Abolição.",
+      "Designed and developed a responsive website for Capoeira Aboli\xE7\xE3o.",
       "Implemented interactive elements to showcase community events.",
       "Optimized site performance for a seamless user experience."
     ],
     "story": [
-      "While living in Miami, I trained Capoeira with Mestre Delei, becoming deeply involved with the Capoeira Abolição group. As a gesture of appreciation and to support the community, I volunteered to create a promotional website at no cost. This project allowed me to merge my technical skills with my passion for Capoeira, providing a digital platform to showcase the group's activities and the rich cultural heritage of Capoeira.",
+      "While living in Miami, I trained Capoeira with Mestre Delei, becoming deeply involved with the Capoeira Aboli\xE7\xE3o group. As a gesture of appreciation and to support the community, I volunteered to create a promotional website at no cost. This project allowed me to merge my technical skills with my passion for Capoeira, providing a digital platform to showcase the group's activities and the rich cultural heritage of Capoeira.",
       "The website was crafted using technologies like JavaScript, Wordpress, CSS, and Bootstrap, ensuring it was both responsive and engaging. My aim was to create an online presence that captured the energy and spirit of our group. By incorporating interactive elements, the site effectively highlighted community events and the unique aspects of Capoeira, serving as a valuable resource for both members and those interested in joining.",
       "This project was a meaningful part of my journey, as it allowed me to contribute to a community that had given me so much. It was a rewarding experience that not only enhanced my web development skills but also strengthened my connection to the Capoeira community. The website continues to serve as a testament to the group's activities and global presence, fostering a sense of unity and cultural exchange."
     ]
@@ -958,7 +981,6 @@
       "This freelance project allowed me to apply my skills in game development and user interface design, contributing to a platform that offered a unique and engaging experience for tennis fans. It was a valuable experience that showcased my ability to deliver high-quality and user-centric solutions."
     ]
   },
-
   {
     "title": "Mobtion",
     "slug": "mobtion",
@@ -1035,4 +1057,29 @@
       "This freelance project allowed me to apply my skills in web development and user experience design, contributing to a platform that offered valuable information and resources to its users."
     ]
   }
-]
+];
+
+// src/tech.ts
+var techStack = [
+  {
+    "name": "React",
+    "icon": "react",
+    "tag": "react",
+    "image": "/images/tech/react.png",
+    "description": "A JavaScript library for building user interfaces",
+    "link": "https://reactjs.org/",
+    "since": "2013",
+    "intro": [
+      "React is a JavaScript library for building user interfaces. It allows developers to create large web applications that can update and render efficiently in response to data changes. React is component-based, which means the UI is divided into reusable pieces, making development more manageable and scalable.",
+      "React's virtual DOM feature optimizes rendering by updating only the parts of the UI that have changed, rather than reloading the entire page. This results in faster performance and a smoother user experience. Additionally, React's ecosystem includes a wide range of tools and libraries that enhance its functionality, making it a popular choice for modern web development."
+    ],
+    "experience": [
+      "I've been using React since 2013 and have a deep understanding of its core concepts and best practices. I've worked on numerous projects, from small personal websites to large-scale enterprise applications."
+    ]
+  }
+];
+// Annotate the CommonJS export names for ESM import in node:
+0 && (module.exports = {
+  projects,
+  techStack
+});
