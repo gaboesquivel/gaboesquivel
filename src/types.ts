@@ -26,3 +26,7 @@ export interface TechStackItem {
     intro: string[];
     experience: string[];
 }
+
+export interface TechStackItemWithProjects extends TechStackItem {
+    projects: Project[];
+}

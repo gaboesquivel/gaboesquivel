@@ -1,13 +1,16 @@
 import { projects } from './projects';
 import { techStack } from './tech';
+import type { TechStackItemWithProjects } from './types';
 
 export function getProjectBySlug(slug: string) {
     return projects.find((project) => project.slug === slug);
 }
 
-export function getTechStackByTag(tag: string) {
+export function getTechStackByTag(tag: string): TechStackItemWithProjects | null {
+    const tech = techStack.find((tech) => tech.tag === tag);
+    if (!tech) return null
     return {
-        ...techStack.find((tech) => tech.tag === tag), 
+        ...tech, 
         projects: getProjectsByTechnology(tag)
     }
 }
