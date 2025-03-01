@@ -191,6 +191,24 @@ export const techStack: TechStackItem[] = [
 		],
 	},
 	{
+		name: "EthersJS",
+		icon: "ethersjs",
+		tag: "Ethers",
+		image: "/images/tech/ethersjs.png",
+		description: "A library for interacting with the Ethereum blockchain and its ecosystem.",
+		link: "https://docs.ethers.io/v5/",
+		since: "2016",
+		intro: [
+			"EthersJS is a library designed to interact with the Ethereum blockchain, providing a simple and consistent interface for developers.",
+			"It is widely used for its ease of use and comprehensive documentation, making it a popular choice for Ethereum development."
+		],
+		experience: [
+			"Utilized EthersJS in projects like BasilicEVM for seamless interaction with the Ethereum blockchain.",
+			"Implemented EthersJS in RareMint for efficient smart contract interactions and NFT data indexing.",
+			"Developed a WebGL EVM wallet connector using EthersJS at ZTX, enabling secure blockchain transactions within the metaverse platform."
+		],
+	},
+	{
 		name: "Alchemy",
 		icon: "alchemy",
 		tag: "Alchemy",
@@ -942,6 +960,41 @@ export const techStack: TechStackItem[] = [
 		experience: [
 			"Utilized Wordpress in projects like Capoeira Abolicao and Panini for building and managing websites, focusing on simplicity and flexibility.",
 			"Implemented Wordpress to enhance web applications, aligning with the principle of user experience first."
+		],
+	},
+	{
+		name: "Content Management Systems",
+		icon: "cms",
+		tag: "CMS",
+		image: "/images/tech/cms.png",
+		description: "Software applications that enable users to create, manage, and modify content on websites without specialized technical knowledge.",
+		link: "https://en.wikipedia.org/wiki/Content_management_system",
+		since: "1990s",
+		intro: [
+			"Content Management Systems (CMS) provide tools for creating and managing digital content, often with user-friendly interfaces.",
+			"They enable non-technical users to maintain websites and digital platforms without requiring coding knowledge."
+		],
+		experience: [
+			"Developed custom CMS solutions for clients like ITS InfoCom, streamlining content management and updates.",
+			"Implemented and customized various CMS platforms to meet specific client requirements and enhance user experience.",
+			"Utilized DatoCMS in the BitLauncher project for efficient content management and internationalization."
+		],
+	},
+	{
+		name: "DatoCMS",
+		icon: "datocms",
+		tag: "DatoCMS",
+		image: "/images/tech/datocms.png",
+		description: "A headless CMS that offers a flexible content management solution for modern websites and applications.",
+		link: "https://www.datocms.com/",
+		since: "2016",
+		intro: [
+			"DatoCMS is a headless content management system that provides a flexible and powerful solution for managing content across multiple platforms.",
+			"It offers a user-friendly interface, robust API, and seamless integration with modern development frameworks."
+		],
+		experience: [
+			"Implemented DatoCMS in the BitLauncher project for efficient content management and internationalization.",
+			"Leveraged DatoCMS's GraphQL API to create a dynamic and multilingual user interface, enhancing the global reach of the platform."
 		],
 	},
 ];

@@ -99,7 +99,7 @@ export type Tag =
     | 'CSS' 
     | 'Mootools' 
     | 'Wordpress' 
-    | 'Custom CMS' 
+    | 'CMS'
     | 'Data Charts' 
     | 'Bootstrap' 
     | 'Faye' 
@@ -113,3 +113,4 @@ export type Tag =
     | 'Linux'
     | 'JavaScript'
     | 'Expo'
+    | 'DatoCMS'

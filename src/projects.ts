@@ -987,7 +987,7 @@ export const projects: Project[] = [
     "description": "ITS InfoCom, an IT multinational, focuses on Remote Infrastructure Management. I implemented their primary website, CMS, and CRM integration.\n My role was to create and integrate digital solutions for the company, focusing on web presence and customer relationship management.",
     "link": "#",
     "image": "https://gaboesquivel.com/images/work/website-its.jpg",
-    "tech": ["JavaScript", "CSS", "PHP", "Custom CMS"],
+    "tech": ["JavaScript", "CSS", "PHP", "CMS"],
     "type": ["other"],
     "achievements": [
       "Developed and deployed a company-wide CMS for ITS InfoCom.",
