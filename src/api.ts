@@ -16,6 +16,6 @@ export function getProjectsByTechnology(tag: string) {
     return projects.filter((project) => project.technologies.includes(tag));
 }
 
-export function gaboLogData() {
+export function gaboLog() {
     console.log({project: projects, tech: techStack});
 }
