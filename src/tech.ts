@@ -2,24 +2,6 @@ import type { TechStackItem } from "./types";
 
 export const techStack: TechStackItem[] = [
 	{
-		name: "React",
-		icon: "react",
-		tag: "ReactJS",
-		image: "/images/tech/react.png",
-		description: "A JavaScript library for building user interfaces",
-		link: "https://reactjs.org/",
-		since: "2013",
-		intro: [
-			"React is a JavaScript library for building user interfaces. It allows developers to create large web applications that can update and render efficiently in response to data changes. React is component-based, which means the UI is divided into reusable pieces, making development more manageable and scalable.",
-			"React's virtual DOM feature optimizes rendering by updating only the parts of the UI that have changed, rather than reloading the entire page. This results in faster performance and a smoother user experience. Additionally, React's ecosystem includes a wide range of tools and libraries that enhance its functionality, making it a popular choice for modern web development."
-		],
-		experience: [
-			"Developed the initial version of Wink's mobile app using React, focusing on user-centric design and agile methodologies.",
-			"Worked on the React-based frontend for projects like Emanate and ZTX, enhancing user interaction and experience with a focus on clarity and simplicity.",
-			"Utilized React in the development of Sense Chat, focusing on secure and private communication, aligning with the principle of user experience first."
-		],
-	},
-	{
 		name: "TypeScript",
 		icon: "typescript",
 		tag: "TypeScript",
@@ -32,7 +14,8 @@ export const techStack: TechStackItem[] = [
 			"It is widely used in modern web development for building scalable and robust applications."
 		],
 		experience: [
-			"Used TypeScript extensively in projects like BasilicEVM and BitLauncher for type safety and improved developer experience."
+			"Extensively used TypeScript for ensuring type safety and enhancing developer experience across various projects.",
+			"Implemented TypeScript to build scalable and robust applications, leveraging its static typing and modern JavaScript features."
 		],
 	},
 	{
@@ -49,7 +32,24 @@ export const techStack: TechStackItem[] = [
 		],
 		experience: [
 			"Developed smart contracts for the Knowledge ICO, focusing on security and efficiency, embodying the principle of keeping it simple.",
-			"Contributed to the development of asset-backed NFTs on Ethereum for RareMint, demonstrating the transformative power of blockchain technology."
+			"Contributed to the development of asset-backed NFTs on Ethereum for RareMint, demonstrating the transformative power of blockchain technology.",
+			"Utilized Solidity in projects like BasilicEVM and bitlauncher for smart contract development and blockchain interactions."
+		],
+	},
+	{
+		name: "Foundry",
+		icon: "foundry",
+		tag: "Foundry",
+		image: "/images/tech/foundry.png",
+		description: "A blazing fast, portable, and modular toolkit for Ethereum application development.",
+		link: "https://getfoundry.sh/",
+		since: "2021",
+		intro: [
+			"Foundry is a toolkit for Ethereum application development, known for its speed and modularity.",
+			"It provides a suite of tools for building, testing, and deploying smart contracts."
+		],
+		experience: [
+			"Utilized Foundry in projects like BasilicEVM for efficient smart contract development and testing."
 		],
 	},
 	{
@@ -65,7 +65,26 @@ export const techStack: TechStackItem[] = [
 			"It is known for its performance optimizations and ease of use in building scalable web applications."
 		],
 		experience: [
-			"Utilized Next.js in projects like BasilicEVM and Masterbots for building performant and scalable web applications."
+			"Utilized Next.js in BasilicEVM for building a performance-optimized development stack, enhancing scalability and maintainability.",
+			"Implemented server-side rendering and static site generation in projects like bitlauncher, dBoard, and RareMint to improve load times and SEO.",
+			"Enhanced user experience in Masterbots and ZTX by leveraging Next.js features for seamless integration with blockchain technologies."
+		],
+	},
+	{
+		name: "Ponder",
+		icon: "ponder",
+		tag: "Ponder",
+		image: "/images/tech/ponder.png",
+		description: "A tool for indexing and querying blockchain data.",
+		link: "https://ponder.io/",
+		since: "2022",
+		intro: [
+			"Ponder is a powerful tool for indexing and querying blockchain data, making it easier to build responsive dApps.",
+			"It provides real-time data processing capabilities, enhancing the performance of decentralized applications."
+		],
+		experience: [
+			"Utilized Ponder in projects like BasilicEVM for efficient data indexing and real-time updates.",
+			"Implemented Ponder to improve data retrieval and processing in blockchain applications."
 		],
 	},
 	{
@@ -81,7 +100,126 @@ export const techStack: TechStackItem[] = [
 			"It supports advanced data types and performance optimization features, making it a popular choice for complex applications."
 		],
 		experience: [
-			"Implemented PostgreSQL in projects like BitLauncher and RareMint for efficient data management and querying."
+			"Implemented PostgreSQL in projects like BitLauncher and RareMint for efficient data management and querying.",
+			"Utilized PostgreSQL in projects like EOS Costa Rica and bitcashBank for robust database solutions."
+		],
+	},
+	{
+		name: "Viem",
+		icon: "viem",
+		tag: "Viem",
+		image: "/images/tech/viem.png",
+		description: "A library for interacting with Ethereum and other EVM-compatible blockchains.",
+		link: "https://viem.io/",
+		since: "2021",
+		intro: [
+			"Viem is a modern library designed to simplify interactions with Ethereum and other EVM-compatible blockchains.",
+			"It provides a robust set of tools for developers to build decentralized applications with ease."
+		],
+		experience: [
+			"Utilized Viem in projects like BasilicEVM for efficient blockchain interactions and data processing.",
+			"Implemented Viem to enhance the development workflow, focusing on performance and scalability.",
+			"Used Viem in projects like bitlauncher for seamless blockchain integration."
+		],
+	},
+	{
+		name: "Wagmi",
+		icon: "wagmi",
+		tag: "Wagmi",
+		image: "/images/tech/wagmi.png",
+		description: "A collection of React hooks for Ethereum.",
+		link: "https://wagmi.sh/",
+		since: "2021",
+		intro: [
+			"Wagmi provides a set of React hooks that simplify the process of building Ethereum applications.",
+			"It is designed to work seamlessly with popular libraries like ethers.js and viem."
+		],
+		experience: [
+			"Implemented Wagmi in projects like BasilicEVM to streamline Ethereum application development.",
+			"Used Wagmi to enhance user experience and simplify blockchain interactions in React applications.",
+			"Utilized Wagmi in projects like bitlauncher for efficient Ethereum interactions."
+		],
+	},
+	{
+		name: "EVM",
+		icon: "evm",
+		tag: "EVM",
+		image: "/images/tech/evm.png",
+		description: "The Ethereum Virtual Machine, a runtime environment for smart contracts in Ethereum.",
+		link: "https://ethereum.org/en/developers/docs/evm/",
+		since: "2015",
+		intro: [
+			"The EVM is the runtime environment for smart contracts in Ethereum, enabling decentralized computation.",
+			"It is a key component of the Ethereum blockchain, executing smart contracts and maintaining consensus."
+		],
+		experience: [
+			"Worked with EVM in projects like BasilicEVM and RareMint for smart contract execution and blockchain interactions.",
+			"Utilized EVM in projects like bitcashBank for decentralized application development."
+		],
+	},
+	{
+		name: "ThirdWeb",
+		icon: "thirdweb",
+		tag: "ThirdWeb",
+		image: "/images/tech/thirdweb.png",
+		description: "A platform for building and deploying Web3 applications with ease.",
+		link: "https://thirdweb.com/",
+		since: "2021",
+		intro: [
+			"ThirdWeb provides tools and infrastructure for building Web3 applications, simplifying the development process.",
+			"It offers a range of features for deploying smart contracts and managing blockchain interactions."
+		],
+		experience: [
+			"Utilized ThirdWeb in projects like BasilicEVM for streamlined Web3 application development."
+		],
+	},
+	{
+		name: "AI",
+		icon: "ai",
+		tag: "AI",
+		image: "/images/tech/ai.png",
+		description: "Artificial Intelligence technologies and tools for building intelligent applications.",
+		link: "https://en.wikipedia.org/wiki/Artificial_intelligence",
+		since: "1956",
+		intro: [
+			"AI encompasses a range of technologies and tools for building intelligent applications that can learn and adapt.",
+			"It is widely used in various fields, including natural language processing, computer vision, and robotics."
+		],
+		experience: [
+			"Implemented AI solutions in projects like Masterbots and BitLauncher for enhanced user experiences and automation.",
+			"Utilized AI technologies in projects like Wizard World for AI-driven applications and content generation."
+		],
+	},
+	{
+		name: "Alchemy",
+		icon: "alchemy",
+		tag: "Alchemy",
+		image: "/images/tech/alchemy.png",
+		description: "A blockchain development platform that provides infrastructure and tools for building decentralized applications.",
+		link: "https://www.alchemy.com/",
+		since: "2017",
+		intro: [
+			"Alchemy offers a suite of tools and infrastructure for building decentralized applications on blockchain networks.",
+			"It is known for its reliability and performance, supporting developers in building scalable blockchain solutions."
+		],
+		experience: [
+			"Used Alchemy in projects like BitLauncher for reliable blockchain infrastructure and development support."
+		],
+	},
+	{
+		name: "Hardhat",
+		icon: "hardhat",
+		tag: "Hardhat",
+		image: "/images/tech/hardhat.png",
+		description: "A development environment for Ethereum software, providing tools for building and testing smart contracts.",
+		link: "https://hardhat.org/",
+		since: "2020",
+		intro: [
+			"Hardhat is a development environment for Ethereum software, offering tools for building and testing smart contracts.",
+			"It is widely used for its flexibility and support for modern Ethereum development workflows."
+		],
+		experience: [
+			"Utilized Hardhat in projects like BitLauncher for smart contract development and testing."
 		],
 	},
 	{
@@ -99,7 +237,8 @@ export const techStack: TechStackItem[] = [
 		experience: [
 			"Founded Costa Rica JS, a meetup group that became Central America's largest JavaScript community, promoting open-source and collaborative development.",
 			"Utilized Node.js in projects like Eat Arcade and 4Tius Fitness Data Tracker for building scalable backend services, adhering to the principle of keeping it simple.",
-			"Contributed to the development of decentralized applications like Emanate and Sense Chat, leveraging Node.js for efficient and secure communication."
+			"Contributed to the development of decentralized applications like Emanate and Sense Chat, leveraging Node.js for efficient and secure communication.",
+			"Implemented Node.js in projects like Wink for server-side development and real-time data processing."
 		],
 	},
 	{
@@ -115,7 +254,88 @@ export const techStack: TechStackItem[] = [
 			"It is widely used in modern web applications for its ability to streamline data fetching and improve performance."
 		],
 		experience: [
-			"Implemented GraphQL in projects like ChainGraph and dBoard for efficient data querying and real-time updates."
+			"Implemented GraphQL in projects like ChainGraph and dBoard for efficient data querying and real-time updates.",
+			"Utilized GraphQL in projects like EOS Costa Rica for flexible and efficient API development."
+		],
+	},
+	{
+		name: "AI SDK",
+		icon: "ai-sdk",
+		tag: "AI SDK",
+		image: "/images/tech/ai-sdk.png",
+		description: "Software Development Kits for integrating AI capabilities into applications.",
+		link: "https://en.wikipedia.org/wiki/Software_development_kit",
+		since: "2020",
+		intro: [
+			"AI SDKs provide tools and libraries for integrating AI capabilities into applications, enhancing functionality and user experience.",
+			"They are used in various applications, from chatbots to data analysis and automation."
+		],
+		experience: [
+			"Implemented AI SDKs in projects like Masterbots for advanced AI-driven features and automation."
+		],
+	},
+	{
+		name: "LLMs",
+		icon: "llms",
+		tag: "LLMs",
+		image: "/images/tech/llms.png",
+		description: "Large Language Models used for natural language processing and understanding.",
+		link: "https://en.wikipedia.org/wiki/Language_model",
+		since: "2018",
+		intro: [
+			"LLMs are advanced models used for natural language processing, enabling applications to understand and generate human-like text.",
+			"They are widely used in chatbots, translation services, and content generation."
+		],
+		experience: [
+			"Utilized LLMs in projects like Masterbots for enhanced natural language processing and user interaction."
+		],
+	},
+	{
+		name: "WebGL",
+		icon: "webgl",
+		tag: "WebGL",
+		image: "/images/tech/webgl.png",
+		description: "A JavaScript API for rendering interactive 3D and 2D graphics within any compatible web browser.",
+		link: "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API",
+		since: "2011",
+		intro: [
+			"WebGL is a powerful API for rendering 3D and 2D graphics in web browsers, enabling interactive visual experiences.",
+			"It is widely used in gaming, data visualization, and interactive web applications."
+		],
+		experience: [
+			"Utilized WebGL in projects like ZTX for creating immersive 3D environments and visualizations."
+		],
+	},
+	{
+		name: "Ethereum",
+		icon: "ethereum",
+		tag: "Ethereum",
+		image: "/images/tech/ethereum.png",
+		description: "A decentralized platform that enables developers to build and deploy smart contracts and decentralized applications.",
+		link: "https://ethereum.org/",
+		since: "2015",
+		intro: [
+			"Ethereum is a decentralized platform that allows developers to build and deploy smart contracts and decentralized applications.",
+			"It is known for its robust ecosystem and support for a wide range of blockchain applications."
+		],
+		experience: [
+			"Worked with Ethereum in projects like ZTX and Knowledge.io for smart contract development and blockchain interactions."
+		],
+	},
+	{
+		name: "NFT",
+		icon: "nft",
+		tag: "NFT",
+		image: "/images/tech/nft.png",
+		description: "Non-Fungible Tokens, unique digital assets that represent ownership of a specific item or piece of content.",
+		link: "https://en.wikipedia.org/wiki/Non-fungible_token",
+		since: "2017",
+		intro: [
+			"NFTs are unique digital assets that represent ownership of a specific item or piece of content, often used in art, gaming, and collectibles.",
+			"They are built on blockchain technology, ensuring authenticity and provenance."
+		],
+		experience: [
+			"Implemented NFT solutions in projects like RareMint and ZTX for digital asset creation and trading."
 		],
 	},
 	{
@@ -136,38 +356,99 @@ export const techStack: TechStackItem[] = [
 		],
 	},
 	{
-		name: "React Native",
-		icon: "react-native",
-		tag: "React Native",
-		image: "/images/tech/react-native.png",
-		description: "A framework for building native apps using React.",
-		link: "https://reactnative.dev/",
-		since: "2015",
+		name: "GCloud",
+		icon: "gcloud",
+		tag: "GCloud",
+		image: "/images/tech/gcloud.png",
+		description: "Google Cloud Platform, a suite of cloud computing services that runs on the same infrastructure that Google uses internally.",
+		link: "https://cloud.google.com/",
+		since: "2008",
 		intro: [
-			"React Native allows developers to build mobile applications using JavaScript and React, sharing code across platforms.",
-			"It provides a rich set of components and APIs for building native mobile apps with a single codebase."
+			"Google Cloud Platform offers a suite of cloud computing services, providing infrastructure, platform, and software solutions.",
+			"It is known for its scalability, reliability, and integration with Google's ecosystem."
 		],
 		experience: [
-			"Developed mobile applications like Sense.chat and Tractor Supply using React Native for cross-platform compatibility, focusing on user experience and performance.",
-			"Implemented features that align with the principle of shipping fast and learning faster, ensuring continuous improvement and user feedback integration."
+			"Utilized GCloud in projects like RareMint and bitcashBank for scalable cloud infrastructure and services."
 		],
 	},
 	{
-		name: "Blockchain",
-		icon: "blockchain",
-		tag: "Blockchain",
-		image: "/images/tech/blockchain.png",
-		description: "A decentralized digital ledger that records transactions across many computers.",
-		link: "https://en.wikipedia.org/wiki/Blockchain",
-		since: "2008",
+		name: "Antelope",
+		icon: "antelope",
+		tag: "Antelope",
+		image: "/images/tech/antelope.png",
+		description: "A blockchain protocol designed for high performance and scalability, supporting decentralized applications.",
+		link: "https://antelope.io/",
+		since: "2021",
 		intro: [
-			"Blockchain technology underpins cryptocurrencies and enables secure, transparent, and tamper-proof transactions.",
-			"It is used in various applications beyond cryptocurrencies, including supply chain management and smart contracts."
+			"Antelope is a blockchain protocol designed for high performance and scalability, supporting decentralized applications.",
+			"It offers a robust environment for building and deploying blockchain solutions."
 		],
 		experience: [
-			"Led the development of smart contracts and infrastructure for EOSIO networks at EOS Costa Rica, emphasizing security and transparency.",
-			"Co-founded AsoBlockchain and CryptoCantinaCR to promote blockchain technology in Costa Rica, fostering a community of innovation and collaboration.",
-			"Developed asset-backed NFTs for RareMint, transforming real-world sports collectibles into digital experiences, showcasing the power of blockchain in creating new value."
+			"Worked with Antelope in projects like bitcashBank and ChainGraph for blockchain application development."
+		],
+	},
+	{
+		name: "C++",
+		icon: "cpp",
+		tag: "C++",
+		image: "/images/tech/cpp.png",
+		description: "A general-purpose programming language created as an extension of the C programming language.",
+		link: "https://en.wikipedia.org/wiki/C%2B%2B",
+		since: "1985",
+		intro: [
+			"C++ is a general-purpose programming language known for its performance and efficiency, widely used in system software, game development, and real-time simulations.",
+			"It supports object-oriented, procedural, and generic programming paradigms."
+		],
+		experience: [
+			"Utilized C++ in projects like bitcashBank and EOS Costa Rica for high-performance application development."
+		],
+	},
+	{
+		name: "EOS",
+		icon: "eos",
+		tag: "EOS",
+		image: "/images/tech/eos.png",
+		description: "A blockchain platform designed for the development of decentralized applications (dApps).",
+		link: "https://eos.io/",
+		since: "2018",
+		intro: [
+			"EOS is a blockchain platform designed for the development of decentralized applications (dApps), known for its scalability and flexibility.",
+			"It provides a robust environment for building and deploying blockchain solutions with high performance."
+		],
+		experience: [
+			"Worked with EOS in projects like Emanate and Make Sense Labs for blockchain application development and integration."
+		],
+	},
+	{
+		name: "Cloud",
+		icon: "cloud",
+		tag: "Cloud",
+		image: "/images/tech/cloud.png",
+		description: "Cloud computing services that provide scalable and flexible infrastructure for applications.",
+		link: "https://en.wikipedia.org/wiki/Cloud_computing",
+		since: "2006",
+		intro: [
+			"Cloud computing services offer scalable and flexible infrastructure for applications, enabling efficient resource management and deployment.",
+			"They are widely used for hosting, data storage, and application deployment across various industries."
+		],
+		experience: [
+			"Utilized cloud services in projects like EOS Costa Rica and RareMint for scalable infrastructure and application deployment."
+		],
+	},
+	{
+		name: "Serverless",
+		icon: "serverless",
+		tag: "Serverless",
+		image: "/images/tech/serverless.png",
+		description: "A cloud computing execution model where the cloud provider dynamically manages the allocation of machine resources.",
+		link: "https://www.serverless.com/",
+		since: "2015",
+		intro: [
+			"Serverless computing allows developers to build and run applications without managing the underlying infrastructure.",
+			"It is known for its scalability and cost-effectiveness, enabling developers to focus on code rather than server management."
+		],
+		experience: [
+			"Implemented serverless architectures in projects like Knowledge.io for scalable and efficient application deployment."
 		],
 	},
 	{
@@ -183,8 +464,74 @@ export const techStack: TechStackItem[] = [
 			"It simplifies deployment and scaling of applications, making it a popular choice for modern DevOps practices."
 		],
 		experience: [
-			"Utilized Docker in projects like ChainGraph and Photo and Go for containerized application deployment and management, adhering to the principle of open source and portability.",
-			"Implemented Docker solutions to streamline development workflows and ensure consistent environments across different stages of development."
+			"Utilized Docker in projects like ChainGraph and Photo and Go for containerized application deployment and management."
+		],
+	},
+	{
+		name: "RXJS",
+		icon: "rxjs",
+		tag: "RXJS",
+		image: "/images/tech/rxjs.png",
+		description: "A library for reactive programming using Observables, to make it easier to compose asynchronous or callback-based code.",
+		link: "https://rxjs.dev/",
+		since: "2015",
+		intro: [
+			"RXJS is a library for reactive programming using Observables, enabling developers to compose asynchronous and event-based programs.",
+			"It is widely used in modern web development for handling asynchronous data streams."
+		],
+		experience: [
+			"Implemented RXJS in projects like ChainGraph for efficient data stream management and real-time updates."
+		],
+	},
+	{
+		name: "Flow Blockchain",
+		icon: "flow",
+		tag: "Flow Blockchain",
+		image: "/images/tech/flow.png",
+		description: "A fast, decentralized, and developer-friendly blockchain, designed as the foundation for a new generation of games, apps, and digital assets.",
+		link: "https://www.onflow.org/",
+		since: "2020",
+		intro: [
+			"Flow is a fast, decentralized, and developer-friendly blockchain, designed as the foundation for a new generation of games, apps, and digital assets.",
+			"It is known for its scalability and ease of use, making it a popular choice for NFT and gaming applications."
+		],
+		experience: [
+			"Utilized Flow Blockchain in projects like Fantasy Top Shots for NFT integration and gaming applications."
+		],
+	},
+	{
+		name: "React Native",
+		icon: "react-native",
+		tag: "React Native",
+		image: "/images/tech/react-native.png",
+		description: "A framework for building native apps using React.",
+		link: "https://reactnative.dev/",
+		since: "2015",
+		intro: [
+			"React Native allows developers to build mobile applications using React, enabling a single codebase for both iOS and Android.",
+			"It is known for its ability to create truly native apps with a consistent developer experience."
+		],
+		experience: [
+			"Developed the first version of Wink's mobile app, focusing on seamless user experience and integration with AWS services.",
+			"Enhanced the Sense.chat app's performance and integrated it with the EOS mainnet for secure transactions.",
+			"Improved Tractor Supply's mobile app by developing an augmented reality feature and optimizing code quality."
+		],
+	},
+	{
+		name: "Expo",
+		icon: "expo",
+		tag: "Expo",
+		image: "/images/tech/expo.png",
+		description: "A set of tools and services for React Native development.",
+		link: "https://expo.dev/",
+		since: "2017",
+		intro: [
+			"Expo provides a set of tools and services to streamline React Native development, simplifying the process of building, deploying, and testing applications.",
+			"It enhances the React Native development experience by offering a managed workflow."
+		],
+		experience: [
+			"Utilized Expo in Fantasy Top Shots to streamline development and deployment processes, enhancing the mobile app's performance.",
+			"Leveraged Expo's managed workflow to accelerate the development of mobile applications, ensuring efficient testing and deployment."
 		],
 	},
 	{
@@ -205,54 +552,131 @@ export const techStack: TechStackItem[] = [
 		],
 	},
 	{
-		name: "Ruby on Rails",
-		icon: "rails",
-		tag: "Ruby on Rails",
-		image: "/images/tech/rails.png",
-		description: "A web application framework written in Ruby, designed to make programming web applications easier.",
-		link: "https://rubyonrails.org/",
-		since: "2004",
+		name: "Polkadot",
+		icon: "polkadot",
+		tag: "Polkadot",
+		image: "/images/tech/polkadot.png",
+		description: "A network protocol that allows arbitrary data—not just tokens—to be transferred across blockchains.",
+		link: "https://polkadot.network/",
+		since: "2020",
 		intro: [
-			"Ruby on Rails is a full-stack web application framework that emphasizes convention over configuration.",
-			"It is known for its developer-friendly syntax and rapid development capabilities."
+			"Polkadot is a network protocol that allows arbitrary data—not just tokens—to be transferred across blockchains.",
+			"It is designed to enable a web where our data is our own and isn't stored on a server owned by an intermediary company."
 		],
 		experience: [
-			"Developed applications like Tikr and ARINC Microfids using Ruby on Rails for robust backend solutions, focusing on simplicity and maintainability.",
-			"Leveraged Ruby on Rails to build scalable and efficient web applications, adhering to the principle of optimizing later."
+			"Worked with Polkadot in projects like Substrate Contracts UI for blockchain interoperability and smart contract development."
 		],
 	},
 	{
-		name: "MongoDB",
-		icon: "mongodb",
-		tag: "MongoDB",
-		image: "/images/tech/mongodb.png",
-		description: "A document-oriented NoSQL database used for high volume data storage.",
-		link: "https://www.mongodb.com/",
-		since: "2009",
+		name: "Substrate",
+		icon: "substrate",
+		tag: "Substrate",
+		image: "/images/tech/substrate.png",
+		description: "A framework for building blockchains, providing a set of tools and libraries for blockchain development.",
+		link: "https://substrate.dev/",
+		since: "2018",
 		intro: [
-			"MongoDB stores data in flexible, JSON-like documents, making it easy to work with and scale.",
-			"It is widely used for applications that require high availability and scalability."
+			"Substrate is a framework for building blockchains, providing a set of tools and libraries for blockchain development.",
+			"It is known for its flexibility and support for building custom blockchains with ease."
 		],
 		experience: [
-			"Implemented MongoDB in projects like Eat Arcade and 4Tius Fitness Data Tracker for flexible and scalable data storage, focusing on simplicity and efficiency.",
-			"Utilized MongoDB to handle large volumes of data, ensuring high availability and performance."
+			"Utilized Substrate in projects like Substrate Contracts UI for building and deploying custom blockchains."
 		],
 	},
 	{
-		name: "AngularJS",
-		icon: "angularjs",
-		tag: "AngularJS",
-		image: "/images/tech/angularjs.png",
-		description: "A structural framework for dynamic web apps.",
-		link: "https://angularjs.org/",
-		since: "2010",
+		name: "Flow",
+		icon: "flow",
+		tag: "Flow",
+		image: "/images/tech/flow.png",
+		description: "A fast, decentralized, and developer-friendly blockchain, designed as the foundation for a new generation of games, apps, and digital assets.",
+		link: "https://www.onflow.org/",
+		since: "2020",
 		intro: [
-			"AngularJS allows developers to use HTML as the template language and extend HTML's syntax to express application components clearly.",
-			"It is known for its two-way data binding and dependency injection, which simplifies development and testing."
+			"Flow is a fast, decentralized, and developer-friendly blockchain, designed as the foundation for a new generation of games, apps, and digital assets.",
+			"It is known for its scalability and ease of use, making it a popular choice for NFT and gaming applications."
 		],
 		experience: [
-			"Used AngularJS in projects like Eat Arcade and ARINC Microfids for building dynamic and interactive web applications, focusing on user experience and performance.",
-			"Implemented AngularJS to create responsive and engaging user interfaces, aligning with the principle of user experience first."
+			"Utilized Flow in projects like Wizard World for NFT integration and digital asset management."
+		],
+	},
+	{
+		name: "Niftory",
+		icon: "niftory",
+		tag: "Niftory",
+		image: "/images/tech/niftory.png",
+		description: "A platform for creating, managing, and distributing NFTs, providing tools and infrastructure for NFT development.",
+		link: "https://niftory.com/",
+		since: "2021",
+		intro: [
+			"Niftory provides a platform for creating, managing, and distributing NFTs, offering tools and infrastructure for NFT development.",
+			"It simplifies the process of building and deploying NFT applications."
+		],
+		experience: [
+			"Used Niftory in projects like Wizard World for NFT creation and management."
+		],
+	},
+	{
+		name: "Dalle",
+		icon: "dalle",
+		tag: "Dalle",
+		image: "/images/tech/dalle.png",
+		description: "An AI model developed by OpenAI for generating images from textual descriptions.",
+		link: "https://openai.com/dall-e/",
+		since: "2021",
+		intro: [
+			"Dalle is an AI model developed by OpenAI for generating images from textual descriptions, enabling creative and artistic applications.",
+			"It is widely used for generating unique and creative visual content."
+		],
+		experience: [
+			"Implemented Dalle in projects like Wizard World for AI-driven image generation."
+		],
+	},
+	{
+		name: "Midjourney",
+		icon: "midjourney",
+		tag: "Midjourney",
+		image: "/images/tech/midjourney.png",
+		description: "An AI-powered tool for generating creative and artistic images, often used in digital art and design.",
+		link: "https://www.midjourney.com/",
+		since: "2021",
+		intro: [
+			"Midjourney is an AI-powered tool for generating creative and artistic images, often used in digital art and design.",
+			"It provides a platform for artists and designers to explore new creative possibilities."
+		],
+		experience: [
+			"Utilized Midjourney in projects like Wizard World for generating artistic images and digital content."
+		],
+	},
+	{
+		name: "OpenAI",
+		icon: "openai",
+		tag: "OpenAI",
+		image: "/images/tech/openai.png",
+		description: "An AI research and deployment company, known for developing advanced AI models and technologies.",
+		link: "https://openai.com/",
+		since: "2015",
+		intro: [
+			"OpenAI is an AI research and deployment company, known for developing advanced AI models and technologies.",
+			"It is widely recognized for its contributions to AI research and development, including models like GPT-3 and Dalle."
+		],
+		experience: [
+			"Implemented OpenAI technologies in projects like Wizard World for AI-driven applications and content generation."
+		],
+	},
+	{
+		name: "Biometrics",
+		icon: "biometrics",
+		tag: "Biometrics",
+		image: "/images/tech/biometrics.png",
+		description: "Technologies and methods for recognizing individuals based on physical or behavioral characteristics.",
+		link: "https://en.wikipedia.org/wiki/Biometrics",
+		since: "2000",
+		intro: [
+			"Biometrics involves technologies and methods for recognizing individuals based on physical or behavioral characteristics.",
+			"It is widely used in security systems, authentication, and identity verification."
+		],
+		experience: [
+			"Implemented biometric authentication in projects like Wink for enhanced security and user verification."
 		],
 	},
 	{
@@ -268,178 +692,58 @@ export const techStack: TechStackItem[] = [
 			"It is known for its simplicity and flexibility, allowing developers to create server-side applications quickly."
 		],
 		experience: [
-			"Implemented Express.js in projects like Eat Arcade and 4Tius Fitness Data Tracker for building RESTful APIs, focusing on simplicity and efficiency.",
+			"Implemented Express.js in projects like Eat Arcade for building RESTful APIs, focusing on simplicity and efficiency.",
 			"Utilized Express.js to create scalable and maintainable server-side applications, adhering to the principle of keeping it simple."
 		],
 	},
 	{
-		name: "Stripe",
-		icon: "stripe",
-		tag: "Stripe",
-		image: "/images/tech/stripe.png",
-		description: "A technology company that builds economic infrastructure for the internet.",
-		link: "https://stripe.com/",
+		name: "AngularJS",
+		icon: "angularjs",
+		tag: "AngularJS",
+		image: "/images/tech/angularjs.png",
+		description: "A structural framework for dynamic web apps.",
+		link: "https://angularjs.org/",
 		since: "2010",
 		intro: [
-			"Stripe provides a suite of payment APIs that powers commerce for online businesses of all sizes.",
-			"It is known for its ease of integration and support for a wide range of payment methods."
+			"AngularJS lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly.",
+			"It is fully extensible and works well with other libraries."
 		],
 		experience: [
-			"Integrated Stripe in projects like Eat Arcade for seamless payment processing and user transactions, focusing on user experience and security.",
-			"Utilized Stripe to enable secure and efficient payment solutions, aligning with the principle of automating and securing everything."
+			"Used AngularJS in projects like ARINC Microfids for building interactive and dynamic web applications, focusing on user experience and performance.",
+			"Utilized AngularJS to enhance web applications, aligning with the principle of user experience first."
 		],
 	},
 	{
-		name: "Twilio",
-		icon: "twilio",
-		tag: "Twilio",
-		image: "/images/tech/twilio.png",
-		description: "A cloud communications platform for building SMS, Voice & Messaging applications on an API.",
-		link: "https://www.twilio.com/",
-		since: "2008",
+		name: "MongoDB",
+		icon: "mongodb",
+		tag: "MongoDB",
+		image: "/images/tech/mongodb.png",
+		description: "A document database with the scalability and flexibility that you want with the querying and indexing that you need.",
+		link: "https://www.mongodb.com/",
+		since: "2009",
 		intro: [
-			"Twilio provides APIs for sending and receiving messages, making phone calls, and performing other communication functions.",
-			"It is widely used for integrating communication capabilities into applications."
+			"MongoDB is a document database designed for ease of development and scaling.",
+			"It is known for its flexibility and scalability, making it a popular choice for modern web applications."
 		],
 		experience: [
-			"Used Twilio in projects like Eat Arcade for SMS-based user engagement and notifications, focusing on user experience and reliability.",
-			"Implemented Twilio to enhance communication capabilities, aligning with the principle of user experience first."
+			"Implemented MongoDB in projects like Eat Arcade for efficient data management and querying.",
+			"Utilized MongoDB to enhance web applications, aligning with the principle of user experience first."
 		],
 	},
 	{
-		name: "SASS",
-		icon: "sass",
-		tag: "SASS",
-		image: "/images/tech/sass.png",
-		description: "A preprocessor scripting language that is interpreted or compiled into CSS.",
-		link: "https://sass-lang.com/",
-		since: "2006",
+		name: "Heroku",
+		icon: "heroku",
+		tag: "Heroku",
+		image: "/images/tech/heroku.png",
+		description: "A platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
+		link: "https://www.heroku.com/",
+		since: "2007",
 		intro: [
-			"SASS is a CSS preprocessor that adds power and elegance to the basic language, allowing for variables, nested rules, and more.",
-			"It helps in writing clean, maintainable, and reusable stylesheets."
+			"Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
+			"It is known for its ease of use and support for a wide range of programming languages and frameworks."
 		],
 		experience: [
-			"Utilized SASS in projects like Jockey Hollow Bar and Kitchen for efficient and organized styling, focusing on maintainability and clarity.",
-			"Implemented SASS to enhance the styling process, aligning with the principle of keeping it simple."
-		],
-	},
-	{
-		name: "jQuery",
-		icon: "jquery",
-		tag: "jQuery",
-		image: "/images/tech/jquery.png",
-		description: "A fast, small, and feature-rich JavaScript library.",
-		link: "https://jquery.com/",
-		since: "2006",
-		intro: [
-			"jQuery simplifies HTML document traversal and manipulation, event handling, and animation.",
-			"It is widely used for its ease of use and cross-browser compatibility."
-		],
-		experience: [
-			"Implemented jQuery in projects like Staples and Elder Scrolls Online for dynamic and interactive web features, focusing on user experience and performance.",
-			"Utilized jQuery to enhance web applications, aligning with the principle of user experience first."
-		],
-	},
-	{
-		name: "PHP",
-		icon: "php",
-		tag: "PHP",
-		image: "/images/tech/php.png",
-		description: "A popular general-purpose scripting language that is especially suited to web development.",
-		link: "https://www.php.net/",
-		since: "1995",
-		intro: [
-			"PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language.",
-			"It is known for its ease of use and ability to integrate with various databases."
-		],
-		experience: [
-			"Developed backend solutions using PHP in projects like AMC Yeah TV Facebook App and Elder Scrolls Online, focusing on simplicity and efficiency.",
-			"Utilized PHP to create scalable and maintainable web applications, adhering to the principle of keeping it simple."
-		],
-	},
-	{
-		name: "HTML5",
-		icon: "html5",
-		tag: "HTML5",
-		image: "/images/tech/html5.png",
-		description: "The latest evolution of the standard that defines HTML.",
-		link: "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5",
-		since: "2014",
-		intro: [
-			"HTML5 introduces new elements and attributes that reflect typical usage on modern websites.",
-			"It is designed to support multimedia and graphical content on the web without the need for plugins."
-		],
-		experience: [
-			"Utilized HTML5 in projects like AMC Yeah TV Facebook App and Bureau of Trade for modern web development, focusing on user experience and performance.",
-			"Implemented HTML5 to enhance web applications, aligning with the principle of user experience first."
-		],
-	},
-	{
-		name: "AJAX",
-		icon: "ajax",
-		tag: "AJAX",
-		image: "/images/tech/ajax.png",
-		description: "A set of web development techniques using many web technologies on the client side to create asynchronous web applications.",
-		link: "https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX",
-		since: "2005",
-		intro: [
-			"AJAX allows web pages to be updated asynchronously by exchanging data with a web server behind the scenes.",
-			"This means that it is possible to update parts of a web page, without reloading the whole page."
-		],
-		experience: [
-			"Implemented AJAX in projects like American Express and AMC Yeah TV Facebook App for dynamic content loading, focusing on user experience and performance.",
-			"Utilized AJAX to enhance web applications, aligning with the principle of user experience first."
-		],
-	},
-	{
-		name: "Handlebars",
-		icon: "handlebars",
-		tag: "Handlebars",
-		image: "/images/tech/handlebars.png",
-		description: "A simple templating language.",
-		link: "https://handlebarsjs.com/",
-		since: "2010",
-		intro: [
-			"Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.",
-			"It keeps the view and the code separated, making it easier to manage and maintain."
-		],
-		experience: [
-			"Used Handlebars in projects like AMC Yeah TV Facebook App for templating and dynamic content rendering, focusing on simplicity and maintainability.",
-			"Implemented Handlebars to enhance web applications, aligning with the principle of keeping it simple."
-		],
-	},
-	{
-		name: "CSS",
-		icon: "css",
-		tag: "CSS",
-		image: "/images/tech/css.png",
-		description: "A style sheet language used for describing the presentation of a document written in a markup language like HTML.",
-		link: "https://developer.mozilla.org/en-US/docs/Web/CSS",
-		since: "1996",
-		intro: [
-			"CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
-			"It is used to control the layout of multiple web pages all at once."
-		],
-		experience: [
-			"Applied CSS in projects like American Express and Capoeira Abolicao for styling and layout design, focusing on user experience and performance.",
-			"Utilized CSS to enhance web applications, aligning with the principle of user experience first."
-		],
-	},
-	{
-		name: "Wordpress",
-		icon: "wordpress",
-		tag: "Wordpress",
-		image: "/images/tech/wordpress.png",
-		description: "A free and open-source content management system (CMS) written in PHP and paired with a MySQL or MariaDB database.",
-		link: "https://wordpress.org/",
-		since: "2003",
-		intro: [
-			"WordPress is a popular platform for building websites and blogs, known for its flexibility and ease of use.",
-			"It supports a wide range of plugins and themes, allowing for extensive customization."
-		],
-		experience: [
-			"Developed websites using WordPress in projects like Capoeira Abolicao and EARTH University for content management, focusing on simplicity and flexibility.",
-			"Utilized WordPress to create scalable and maintainable web applications, adhering to the principle of keeping it simple."
+			"Deployed applications on Heroku in projects like Eat Arcade for scalable and efficient cloud hosting."
 		],
 	},
 	{
@@ -460,156 +764,85 @@ export const techStack: TechStackItem[] = [
 		],
 	},
 	{
-		name: "LESS",
-		icon: "less",
-		tag: "LESS",
-		image: "/images/tech/less.png",
-		description: "A backwards-compatible language extension for CSS.",
-		link: "http://lesscss.org/",
-		since: "2009",
+		name: "Stripe",
+		icon: "stripe",
+		tag: "Stripe",
+		image: "/images/tech/stripe.png",
+		description: "A technology company that builds economic infrastructure for the internet.",
+		link: "https://stripe.com/",
+		since: "2010",
 		intro: [
-			"LESS extends CSS with dynamic behavior such as variables, mixins, operations, and functions.",
-			"It allows for more maintainable and extendable stylesheets."
+			"Stripe provides a suite of payment APIs that powers commerce for online businesses of all sizes.",
+			"It is known for its ease of integration and support for a wide range of payment methods."
 		],
 		experience: [
-			"Used LESS in projects like ARINC Microfids for advanced styling and maintainable CSS, focusing on simplicity and maintainability.",
-			"Implemented LESS to enhance the styling process, aligning with the principle of keeping it simple."
+			"Integrated Stripe in projects like Eat Arcade for seamless payment processing and user transactions."
 		],
 	},
 	{
-		name: "Lodash",
-		icon: "lodash",
-		tag: "Lodash",
-		image: "/images/tech/lodash.png",
-		description: "A modern JavaScript utility library delivering modularity, performance, & extras.",
-		link: "https://lodash.com/",
-		since: "2012",
-		intro: [
-			"Lodash makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc.",
-			"It provides utility functions for common programming tasks using the functional programming paradigm."
-		],
-		experience: [
-			"Implemented Lodash in projects like Jockey Hollow Bar and Kitchen for efficient data manipulation and utility functions, focusing on simplicity and performance.",
-			"Utilized Lodash to enhance web applications, aligning with the principle of keeping it simple."
-		],
-	},
-	{
-		name: "Grunt",
-		icon: "grunt",
-		tag: "Grunt",
-		image: "/images/tech/grunt.png",
-		description: "A JavaScript task runner, a tool used to automatically perform frequent tasks such as minification, compilation, unit testing, and linting.",
-		link: "https://gruntjs.com/",
-		since: "2012",
-		intro: [
-			"Grunt is a task runner that automates repetitive tasks like minification, compilation, and testing.",
-			"It is widely used for its ease of use and ability to streamline development workflows."
-		],
-		experience: [
-			"Used Grunt in projects like Jockey Hollow Bar and Kitchen for automating build processes and task management, focusing on simplicity and efficiency.",
-			"Implemented Grunt to enhance development workflows, aligning with the principle of automating and securing everything."
-		],
-	},
-	{
-		name: "Divshot",
-		icon: "divshot",
-		tag: "Divshot",
-		image: "/images/tech/divshot.png",
-		description: "A static web hosting platform for developers.",
-		link: "https://divshot.com/",
-		since: "2013",
-		intro: [
-			"Divshot was a static web hosting platform that provided a simple and efficient way to deploy static websites.",
-			"It was known for its ease of use and integration with modern development workflows."
-		],
-		experience: [
-			"Deployed projects like Jockey Hollow Bar and Kitchen using Divshot for efficient static site hosting, focusing on simplicity and performance.",
-			"Utilized Divshot to enhance web applications, aligning with the principle of open source and portability."
-		],
-	},
-	{
-		name: "JSP (Struts)",
-		icon: "jsp-struts",
-		tag: "JSP (Struts)",
-		image: "/images/tech/jsp-struts.png",
-		description: "A framework for building Java EE web applications.",
-		link: "https://struts.apache.org/",
-		since: "2000",
-		intro: [
-			"Struts is a framework for building Java EE web applications, providing a robust architecture for developing scalable applications.",
-			"It is known for its use of the Model-View-Controller (MVC) design pattern."
-		],
-		experience: [
-			"Developed web applications using JSP (Struts) in projects like American Express for enterprise-level solutions, focusing on simplicity and scalability.",
-			"Utilized JSP (Struts) to create scalable and maintainable web applications, adhering to the principle of keeping it simple."
-		],
-	},
-	{
-		name: "Omniture",
-		icon: "omniture",
-		tag: "Omniture",
-		image: "/images/tech/omniture.png",
-		description: "A web analytics and online business optimization software.",
-		link: "https://www.adobe.com/analytics/omniture.html",
-		since: "1996",
-		intro: [
-			"Omniture provides web analytics and online business optimization software for businesses to measure and optimize their online presence.",
-			"It is widely used for its comprehensive analytics and reporting capabilities."
-		],
-		experience: [
-			"Implemented Omniture in projects like American Express for advanced web analytics and user behavior tracking, focusing on user experience and performance.",
-			"Utilized Omniture to enhance web applications, aligning with the principle of user experience first."
-		],
-	},
-	{
-		name: "Adobe mBox",
-		icon: "adobe-mbox",
-		tag: "Adobe mBox",
-		image: "/images/tech/adobe-mbox.png",
-		description: "A tool for A/B testing and personalization.",
-		link: "https://business.adobe.com/products/target/adobe-target.html",
+		name: "Twilio",
+		icon: "twilio",
+		tag: "Twilio",
+		image: "/images/tech/twilio.png",
+		description: "A cloud communications platform for building SMS, Voice & Messaging applications on an API.",
+		link: "https://www.twilio.com/",
 		since: "2008",
 		intro: [
-			"Adobe mBox is a tool for A/B testing and personalization, allowing businesses to deliver personalized experiences to their users.",
-			"It is known for its ease of use and integration with other Adobe products."
+			"Twilio provides APIs for sending and receiving messages, making phone calls, and performing other communication functions.",
+			"It is widely used for integrating communication capabilities into applications."
 		],
 		experience: [
-			"Used Adobe mBox in projects like American Express for A/B testing and personalized user experiences, focusing on user experience and performance.",
-			"Implemented Adobe mBox to enhance web applications, aligning with the principle of user experience first."
+			"Used Twilio in projects like Eat Arcade for SMS-based user engagement and notifications."
 		],
 	},
 	{
-		name: "Facebook API",
-		icon: "facebook-api",
-		tag: "Facebook API",
-		image: "/images/tech/facebook-api.png",
-		description: "A set of APIs provided by Facebook for developers to interact with Facebook's platform.",
-		link: "https://developers.facebook.com/docs/apis-and-sdks/",
-		since: "2006",
+		name: "Linux",
+		icon: "linux",
+		tag: "Linux",
+		image: "/images/tech/linux.png",
+		description: "An open-source operating system based on Unix, widely used for servers, desktops, and embedded systems.",
+		link: "https://www.linux.org/",
+		since: "1991",
 		intro: [
-			"The Facebook API allows developers to access and interact with Facebook's platform, enabling features like social sharing and user authentication.",
-			"It is widely used for integrating social media features into applications."
+			"Linux is an open-source operating system based on Unix, known for its stability, security, and flexibility.",
+			"It is widely used in servers, desktops, and embedded systems, providing a robust platform for various applications."
 		],
 		experience: [
-			"Integrated Facebook API in projects like AMC Yeah TV Facebook App for social media features and user engagement, focusing on user experience and performance.",
-			"Utilized Facebook API to enhance web applications, aligning with the principle of user experience first."
+			"Utilized Linux in projects like 4Tius Fitness Data Tracker for server management and application deployment."
 		],
 	},
 	{
-		name: "Dojo",
-		icon: "dojo",
-		tag: "Dojo",
-		image: "/images/tech/dojo.png",
-		description: "An open-source modular JavaScript library designed to ease the rapid development of cross-platform, JavaScript/Ajax-based applications and web sites.",
-		link: "https://dojotoolkit.org/",
-		since: "2004",
+		name: "JavaScript",
+		icon: "javascript",
+		tag: "JavaScript",
+		image: "/images/tech/javascript.png",
+		description: "A high-level, just-in-time compiled, object-oriented programming language.",
+		link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+		since: "1995",
 		intro: [
-			"Dojo is a JavaScript toolkit that provides a rich set of features for building web applications, including widgets, data binding, and more.",
-			"It is known for its modular architecture and ease of use."
+			"JavaScript is a versatile programming language that is widely used for web development, enabling interactive and dynamic web pages.",
+			"It is known for its flexibility and support for a wide range of programming paradigms."
 		],
 		experience: [
-			"Used Dojo in projects like American Express for building interactive and dynamic web applications, focusing on user experience and performance.",
-			"Utilized Dojo to enhance web applications, aligning with the principle of user experience first."
+			"Utilized JavaScript in projects like Staples and Gridium for building interactive and dynamic web applications.",
+			"Implemented JavaScript to enhance web applications, aligning with the principle of user experience first."
+		],
+	},
+	{
+		name: "CSS",
+		icon: "css",
+		tag: "CSS",
+		image: "/images/tech/css.png",
+		description: "A style sheet language used for describing the presentation of a document written in a markup language like HTML.",
+		link: "https://developer.mozilla.org/en-US/docs/Web/CSS",
+		since: "1996",
+		intro: [
+			"CSS is a style sheet language used for describing the presentation of a document written in a markup language like HTML.",
+			"It is known for its ability to separate content from design, enabling responsive and visually appealing web pages."
+		],
+		experience: [
+			"Utilized CSS in projects like Staples and Gridium for styling and layout, focusing on user experience and performance.",
+			"Implemented CSS to enhance web applications, aligning with the principle of user experience first."
 		],
 	},
 	{
@@ -625,25 +858,7 @@ export const techStack: TechStackItem[] = [
 			"It is known for its lightweight and modular architecture."
 		],
 		experience: [
-			"Implemented Mootools in projects like Staples for building interactive and dynamic web features, focusing on user experience and performance.",
-			"Utilized Mootools to enhance web applications, aligning with the principle of user experience first."
-		],
-	},
-	{
-		name: "Custom CMS",
-		icon: "custom-cms",
-		tag: "Custom CMS",
-		image: "/images/tech/custom-cms.png",
-		description: "A content management system tailored to specific needs and requirements.",
-		link: "https://en.wikipedia.org/wiki/Content_management_system",
-		since: "2000",
-		intro: [
-			"A custom CMS is a content management system that is built to meet specific needs and requirements, offering flexibility and control over content management.",
-			"It is often used for projects that require unique features and functionality."
-		],
-		experience: [
-			"Developed custom CMS solutions in projects like ITS InfoCom for tailored content management and control, focusing on simplicity and flexibility.",
-			"Utilized custom CMS to create scalable and maintainable web applications, adhering to the principle of keeping it simple."
+			"Implemented Mootools in projects like Staples for building interactive and dynamic web features."
 		],
 	},
 	{
@@ -659,8 +874,24 @@ export const techStack: TechStackItem[] = [
 			"They are widely used in applications that require data visualization and analysis."
 		],
 		experience: [
-			"Implemented data charts in projects like Gridium for interactive and dynamic data visualization, focusing on user experience and performance.",
-			"Utilized data charts to enhance web applications, aligning with the principle of user experience first."
+			"Implemented data charts in projects like Gridium for interactive and dynamic data visualization."
+		],
+	},
+	{
+		name: "Ruby on Rails",
+		icon: "rails",
+		tag: "Ruby on Rails",
+		image: "/images/tech/rails.png",
+		description: "A web application framework written in Ruby, designed to make programming web applications easier.",
+		link: "https://rubyonrails.org/",
+		since: "2004",
+		intro: [
+			"Ruby on Rails is a full-stack web application framework that emphasizes convention over configuration.",
+			"It is known for its developer-friendly syntax and rapid development capabilities."
+		],
+		experience: [
+			"Developed applications like Tikr and ARINC Microfids using Ruby on Rails for robust backend solutions, focusing on simplicity and maintainability.",
+			"Leveraged Ruby on Rails to build scalable and efficient web applications, adhering to the principle of optimizing later."
 		],
 	},
 	{
@@ -678,6 +909,39 @@ export const techStack: TechStackItem[] = [
 		experience: [
 			"Used Faye in projects like ARINC Microfids for real-time messaging and data updates, focusing on user experience and performance.",
 			"Utilized Faye to enhance web applications, aligning with the principle of user experience first."
+		],
+	},
+	{
+		name: "LESS",
+		icon: "less",
+		tag: "LESS",
+		image: "/images/tech/less.png",
+		description: "A backward-compatible language extension for CSS.",
+		link: "https://lesscss.org/",
+		since: "2009",
+		intro: [
+			"LESS is a CSS pre-processor that extends the capabilities of CSS with variables, mixins, and functions.",
+			"It simplifies the process of writing and maintaining stylesheets, making them more readable and reusable."
+		],
+		experience: [
+			"Utilized LESS in projects like ARINC Microfids for efficient and maintainable stylesheet development."
+		],
+	},
+	{
+		name: "Wordpress",
+		icon: "wordpress",
+		tag: "Wordpress",
+		image: "/images/tech/wordpress.png",
+		description: "A free and open-source content management system (CMS) based on PHP and MySQL.",
+		link: "https://wordpress.org/",
+		since: "2003",
+		intro: [
+			"Wordpress is a free and open-source content management system (CMS) based on PHP and MySQL.",
+			"It is known for its ease of use and support for a wide range of plugins and themes, making it a popular choice for building websites and blogs."
+		],
+		experience: [
+			"Utilized Wordpress in projects like Capoeira Abolicao and Panini for building and managing websites, focusing on simplicity and flexibility.",
+			"Implemented Wordpress to enhance web applications, aligning with the principle of user experience first."
 		],
 	},
 ];

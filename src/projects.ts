@@ -16,7 +16,8 @@ export const projects: Project[] = [
       "Wagmi",
       "EVM",
       "ThirdWeb",
-      "AI"
+      "AI",
+      "Alchemy"
     ],
     "type": ["web3", "oss"],
     "link": "https://github.com/blockmatic/basilic-evm",
