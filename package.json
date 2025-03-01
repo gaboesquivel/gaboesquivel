@@ -1,6 +1,6 @@
 {
   "name": "gaboesquivel",
-  "version": "3.3.7",
+  "version": "3.3.8",
   "description": "Gabo Esquivel - Software Engineer",
   "author": "Gabo Esquivel",
   "main": "./dist/index.js",
@@ -13,5 +13,8 @@
   "devDependencies": {
     "tsup": "^8.4.0",
     "typescript": "^5.8.2"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
