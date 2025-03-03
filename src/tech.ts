@@ -316,7 +316,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services.",
 		link: "https://aws.amazon.com/",
-		since: "2006",
+		since: "2015",
 		intro: [
 			"AWS provides a wide range of cloud services, including computing power, storage options, and networking capabilities.",
 			"It is a popular choice for deploying and managing scalable applications in the cloud.",
@@ -334,7 +334,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"Google Cloud Platform, a suite of cloud computing services that runs on the same infrastructure that Google uses internally.",
 		link: "https://cloud.google.com/",
-		since: "2008",
+		since: "2018",
 		intro: [
 			"Google Cloud Platform offers a suite of cloud computing services, providing infrastructure, platform, and software solutions.",
 			"It is known for its scalability, reliability, and integration with Google's ecosystem.",
@@ -342,7 +342,8 @@ export const techStack: TechStackItem[] = [
 		experience: [
 			"Utilized GCP in projects like RareMint and bitcashBank for scalable cloud infrastructure and services.",
 		],
-	},{
+	},
+	{
 		name: "ShadcnUI",
 		icon: "shadcn",
 		tag: "ShadcnUI",
@@ -368,7 +369,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"Powerful asynchronous state management for fetching, caching, and updating data in React applications.",
 		link: "https://tanstack.com/query/latest",
-		since: "2022",
+		since: "2021",
 		intro: [
 			"TanStack Query (formerly React Query) simplifies data fetching, caching, and state management.",
 			"It provides tools for handling loading states, errors, and data synchronization."
@@ -560,7 +561,7 @@ export const techStack: TechStackItem[] = [
 			"Implemented URL-based state management to improve user experience with shareable application states."
 		],
 	},
-	{
+	{	
 		name: "Trigger.dev",
 		icon: "trigger",
 		tag: "Trigger",
