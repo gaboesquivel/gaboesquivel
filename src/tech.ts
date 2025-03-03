@@ -182,24 +182,6 @@ export const techStack: TechStackItem[] = [
 		],
 	},
 	{
-		name: "AI",
-		icon: "ai",
-		tag: "AI",
-		image: "/images/tech/ai.png",
-		description:
-			"Artificial Intelligence technologies and tools for building intelligent applications.",
-		link: "https://en.wikipedia.org/wiki/Artificial_intelligence",
-		since: "2022",
-		intro: [
-			"AI encompasses a range of technologies and tools for building intelligent applications that can learn and adapt.",
-			"It is widely used in various fields, including natural language processing, computer vision, and robotics.",
-		],
-		experience: [
-			"Implemented AI solutions in projects like Masterbots and BitLauncher for enhanced user experiences and automation.",
-			"Utilized AI technologies in projects like Wizard World for AI-driven applications and content generation.",
-		],
-	},
-	{
 		name: "EthersJS",
 		icon: "ethersjs",
 		tag: "Ethers",
@@ -396,9 +378,9 @@ export const techStack: TechStackItem[] = [
 		],
 	},
 	{
-		name: "GCloud",
+		name: "GCP",
 		icon: "gcloud",
-		tag: "GCloud",
+		tag: "GCP",
 		image: "/images/tech/gcloud.png",
 		description:
 			"Google Cloud Platform, a suite of cloud computing services that runs on the same infrastructure that Google uses internally.",
@@ -409,7 +391,7 @@ export const techStack: TechStackItem[] = [
 			"It is known for its scalability, reliability, and integration with Google's ecosystem.",
 		],
 		experience: [
-			"Utilized GCloud in projects like RareMint and bitcashBank for scalable cloud infrastructure and services.",
+			"Utilized GCP in projects like RareMint and bitcashBank for scalable cloud infrastructure and services.",
 		],
 	},
 	{
@@ -461,23 +443,6 @@ export const techStack: TechStackItem[] = [
 		],
 		experience: [
 			"Worked with EOS in projects like Emanate and Make Sense Labs for blockchain application development and integration.",
-		],
-	},
-	{
-		name: "Cloud",
-		icon: "cloud",
-		tag: "Cloud",
-		image: "/images/tech/cloud.png",
-		description:
-			"Cloud computing services that provide scalable and flexible infrastructure for applications.",
-		link: "https://en.wikipedia.org/wiki/Cloud_computing",
-		since: "2006",
-		intro: [
-			"Cloud computing services offer scalable and flexible infrastructure for applications, enabling efficient resource management and deployment.",
-			"They are widely used for hosting, data storage, and application deployment across various industries.",
-		],
-		experience: [
-			"Utilized cloud services in projects like EOS Costa Rica and RareMint for scalable infrastructure and application deployment.",
 		],
 	},
 	{
@@ -534,7 +499,7 @@ export const techStack: TechStackItem[] = [
 	{
 		name: "Flow Blockchain",
 		icon: "flow",
-		tag: "Flow Blockchain",
+		tag: "Flow",
 		image: "/images/tech/flow.png",
 		description:
 			"A fast, decentralized, and developer-friendly blockchain, designed as the foundation for a new generation of games, apps, and digital assets.",
@@ -683,23 +648,6 @@ export const techStack: TechStackItem[] = [
 		],
 		experience: [
 			"Implemented Dalle in projects like Wizard World for AI-driven image generation.",
-		],
-	},
-	{
-		name: "Midjourney",
-		icon: "midjourney",
-		tag: "Midjourney",
-		image: "/images/tech/midjourney.png",
-		description:
-			"An AI-powered tool for generating creative and artistic images, often used in digital art and design.",
-		link: "https://www.midjourney.com/",
-		since: "2021",
-		intro: [
-			"Midjourney is an AI-powered tool for generating creative and artistic images, often used in digital art and design.",
-			"It provides a platform for artists and designers to explore new creative possibilities.",
-		],
-		experience: [
-			"Utilized Midjourney in projects like Wizard World for generating artistic images and digital content.",
 		],
 	},
 	{
@@ -1049,6 +997,223 @@ export const techStack: TechStackItem[] = [
 		experience: [
 			"Implemented DatoCMS in the BitLauncher project for efficient content management and internationalization.",
 			"Leveraged DatoCMS's GraphQL API to create a dynamic and multilingual user interface, enhancing the global reach of the platform.",
+		],
+	},
+	{
+		name: "ShadcnUI",
+		icon: "shadcn",
+		tag: "ShadcnUI",
+		image: "/images/tech/shadcn.png",
+		description:
+			"A collection of beautifully designed components built with Radix UI and Tailwind CSS.",
+		link: "https://ui.shadcn.com/",
+		since: "2022",
+		intro: [
+			"ShadcnUI provides accessible, customizable, and open-source components for building modern web applications.",
+			"It combines the power of Radix UI's accessibility with the flexibility of Tailwind CSS's utility classes."
+		],
+		experience: [
+			"Implemented ShadcnUI in projects like BasilicEVM and bitlauncher for consistent, accessible UI components.",
+			"Utilized ShadcnUI to create responsive and visually appealing interfaces, enhancing user experience across various applications."
+		],
+	},
+	{
+		name: "Trigger.dev",
+		icon: "trigger",
+		tag: "Trigger",
+		image: "/images/tech/trigger.png",
+		description:
+			"A developer-first open source background jobs framework for TypeScript.",
+		link: "https://trigger.dev/",
+		since: "2023",
+		intro: [
+			"Trigger.dev is a framework for creating and managing background jobs with TypeScript.",
+			"It provides a simple way to run code on schedules, webhooks, and in response to events."
+		],
+		experience: [
+			"Utilized Trigger.dev in bitlauncher for scheduling background tasks and processing events.",
+			"Implemented event-driven workflows to automate processes and improve application responsiveness."
+		],
+	},
+	{
+		name: "Supabase",
+		icon: "supabase",
+		tag: "Supabase",
+		image: "/images/tech/supabase.png",
+		description:
+			"An open source Firebase alternative providing all the backend features you need to build a product.",
+		link: "https://supabase.io/",
+		since: "2022",
+		intro: [
+			"Supabase combines the power of PostgreSQL with modern developer tools for building applications quickly.",
+			"It offers authentication, real-time subscriptions, and database management in a single platform."
+		],
+		experience: [
+			"Implemented Supabase in bitlauncher for real-time data subscriptions and user authentication.",
+			"Developed a transaction data indexing system using Supabase for efficient querying and analytics.",
+			"Utilized Supabase's real-time capabilities for building responsive and interactive applications."
+		],
+	},
+	{
+		name: "Stitches",
+		icon: "stitches",
+		tag: "Stitches",
+		image: "/images/tech/stitches.png",
+		description:
+			"A CSS-in-JS library with near-zero runtime, SSR support, and a great developer experience.",
+		link: "https://stitches.dev/",
+		since: "2021",
+		intro: [
+			"Stitches provides a way to write CSS with JavaScript with excellent performance characteristics.",
+			"It offers a powerful theming solution and variant API for building consistent UI components."
+		],
+		experience: [
+			"Used Stitches in bitcashBank for creating a themeable and consistent UI design system.",
+			"Implemented component variants to create flexible and reusable UI elements across the application."
+		],
+	},
+	{
+		name: "Zustand",
+		icon: "zustand",
+		tag: "Zustand",
+		image: "/images/tech/zustand.png",
+		description:
+			"A small, fast, and scalable state management solution for React applications.",
+		link: "https://github.com/pmndrs/zustand",
+		since: "2021",
+		intro: [
+			"Zustand is a minimalistic state management library for React that uses hooks.",
+			"It provides a simple API for creating and consuming global state without boilerplate."
+		],
+		experience: [
+			"Implemented Zustand in bitcashBank for efficient state management across components.",
+			"Utilized Zustand's middleware capabilities to enhance application state with persistence and logging."
+		],
+	},
+	{
+		name: "Zod",
+		icon: "zod",
+		tag: "Zod",
+		image: "/images/tech/zod.png",
+		description:
+			"TypeScript-first schema validation with static type inference.",
+		link: "https://zod.dev/",
+		since: "2022",
+		intro: [
+			"Zod is a schema declaration and validation library designed for TypeScript.",
+			"It allows for building type-safe applications with runtime validation."
+		],
+		experience: [
+			"Utilized Zod in BasilicEVM and bitlauncher for form validation and API request/response typing.",
+			"Implemented schema validation to ensure data integrity and improve error handling in applications."
+		],
+	},
+	{
+		name: "TanStack Query",
+		icon: "tanstack",
+		tag: "Tanstack",
+		image: "/images/tech/tanstack.png",
+		description:
+			"Powerful asynchronous state management for fetching, caching, and updating data in React applications.",
+		link: "https://tanstack.com/query/latest",
+		since: "2022",
+		intro: [
+			"TanStack Query (formerly React Query) simplifies data fetching, caching, and state management.",
+			"It provides tools for handling loading states, errors, and data synchronization."
+		],
+		experience: [
+			"Implemented TanStack Query in BasilicEVM and bitlauncher for efficient data fetching and caching.",
+			"Utilized query invalidation and refetching strategies to keep UI data fresh and responsive."
+		],
+	},
+	{
+		name: "nuqs",
+		icon: "nuqs",
+		tag: "nuqs",
+		image: "/images/tech/nuqs.png",
+		description:
+			"A type-safe URL query state management library for Next.js applications.",
+		link: "https://nuqs.47ng.com/",
+		since: "2023",
+		intro: [
+			"nuqs provides a way to store and synchronize state in URL query parameters with type safety.",
+			"It enables shareable URLs with application state and seamless integration with Next.js."
+		],
+		experience: [
+			"Used nuqs in BasilicEVM and bitlauncher for managing filterable and shareable UI states.",
+			"Implemented URL-based state management to improve user experience with shareable application states."
+		],
+	},
+	{
+		name: "WebAuthn",
+		icon: "webauthn",
+		tag: "WebAuthN",
+		image: "/images/tech/webauthn.png",
+		description:
+			"A web standard for passwordless authentication using public key cryptography.",
+		link: "https://webauthn.io/",
+		since: "2021",
+		intro: [
+			"WebAuthn enables strong, attested, and passwordless authentication for web applications.",
+			"It leverages hardware security keys, biometrics, and platform authenticators for secure login."
+		],
+		experience: [
+			"Set up WebAuthn integration with the EOSIO blockchain for a 'walletless' experience in bitcashBank.",
+			"Implemented secure authentication flows using biometrics and hardware security keys."
+		],
+	},
+	{
+		name: "Terraform",
+		icon: "terraform",
+		tag: "Terraform",
+		image: "/images/tech/terraform.png",
+		description:
+			"An open-source infrastructure as code software tool for building, changing, and versioning infrastructure safely and efficiently.",
+		link: "https://www.terraform.io/",
+		since: "2019",
+		intro: [
+			"Terraform enables you to define and provision infrastructure using a declarative configuration language.",
+			"It supports multiple cloud providers and services, allowing for consistent infrastructure deployment."
+		],
+		experience: [
+			"Used Terraform at EOS Costa Rica for infrastructure provisioning and management.",
+			"Built the architecture for Grant Thornton's custom private blockchain using Terraform and Azure."
+		],
+	},
+	{
+		name: "Redux",
+		icon: "redux",
+		tag: "Redux",
+		image: "/images/tech/redux.png",
+		description:
+			"A predictable state container for JavaScript apps, helping you write applications that behave consistently.",
+		link: "https://redux.js.org/",
+		since: "2016",
+		intro: [
+			"Redux provides a centralized store for state management in JavaScript applications.",
+			"It follows a unidirectional data flow pattern, making state changes predictable and traceable."
+		],
+		experience: [
+			"Implemented Redux in the Tractor Supply mobile app for state management.",
+			"Utilized Redux middleware for handling asynchronous operations and side effects in applications."
+		],
+	},
+	{
+		name: "ViroAR",
+		icon: "viroar",
+		tag: "ViroAR",
+		image: "/images/tech/viroar.png",
+		description:
+			"A platform for building AR applications with React Native.",
+		link: "https://viromedia.com/viroreact",
+		since: "2019",
+		intro: [
+			"ViroAR provides tools and components for creating augmented reality experiences in React Native.",
+			"It enables developers to build cross-platform AR applications with familiar React patterns."
+		],
+		experience: [
+			"Developed an augmented reality feature for the Tractor Supply mobile app using ViroAR.",
+			"Implemented interactive 3D product previews to enhance the shopping experience."
 		],
 	},
 ];

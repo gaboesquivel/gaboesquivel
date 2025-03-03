@@ -3,7 +3,7 @@ export interface Project {
     title: string;
     slug: string;
     description: string;
-    tech: string[];
+    tech: Tag[];
     type: string[];
     link?: string;
     image: string;
@@ -43,7 +43,6 @@ export type Tag =
     | 'Wagmi' 
     | 'EVM' 
     | 'ThirdWeb' 
-    | 'AI' 
     | 'Alchemy' 
     | 'Hardhat' 
     | 'NodeJS' 
@@ -58,18 +57,15 @@ export type Tag =
     | 'AWS' 
     | 'ReactJS' 
     | 'React Native' 
-    | 'Blockchain' 
     | 'EOS' 
     | 'Antelope' 
     | 'C++' 
-    | 'GCloud' 
+    | 'GCP' 
     | 'Serverless' 
     | 'Docker' 
     | 'RXJS' 
-    | 'Flow Blockchain' 
     | 'Niftory' 
     | 'Dalle' 
-    | 'Midjourney' 
     | 'Tailwind' 
     | 'Ruby on Rails' 
     | 'Spree' 
@@ -104,7 +100,7 @@ export type Tag =
     | 'Bootstrap' 
     | 'Faye' 
     | 'LESS'
-    | 'Cloud'
+    | 'Azure'
     | 'Polkadot'
     | 'Substrate'
     | 'Flow'
@@ -114,3 +110,17 @@ export type Tag =
     | 'JavaScript'
     | 'Expo'
     | 'DatoCMS'
+    | 'ShadcnUI'
+    | 'Trigger'
+    | 'Supabase'
+    | 'Stitches'
+    | 'Zustand'
+    | 'Zod'
+    | 'Tanstack'
+    | 'nuqs'
+    | 'WebAuthN'
+    | 'Terraform'
+    | 'Twitter API'
+    | 'eBay API'
+    | 'ViroAR'
+    | 'Redux'
