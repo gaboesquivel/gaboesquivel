@@ -351,7 +351,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"A collection of beautifully designed components built with Radix UI and Tailwind CSS.",
 		link: "https://ui.shadcn.com/",
-		since: "2022",
+		since: "2021",
 		intro: [
 			"ShadcnUI provides accessible, customizable, and open-source components for building modern web applications.",
 			"It combines the power of Radix UI's accessibility with the flexibility of Tailwind CSS's utility classes."
