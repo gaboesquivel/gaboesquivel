@@ -28,7 +28,7 @@ export const projects: Project[] = [
 		],
 		type: ["web3", "oss"],
 		link: "https://github.com/blockmatic/basilic-evm",
-		image: "https://gaboesquivel.com/images/work/basilic-evm.png",
+		image: "https://gaboesquivel.com/images/work/basilic-evm.webp",
 		repo: "https://github.com/blockmatic/basilic-evm",
 		achievements: [
 			"Developed a modular architecture for EVM applications, improving scalability and maintainability.",
