@@ -269,6 +269,37 @@ export const projects: Project[] = [
 		],
 	},
 	{
+		title: "ChainGraph",
+		slug: "chaingraph",
+		description:
+			"This real-time GraphQL toolkit is designed for EOSIO/Antelope blockchain applications, offering features like data subscriptions and querying multiple blockchains.\n As a personal side project during my time at Bitcash, I was responsible for the architectural design, technology selection, and coding of the toolkit, including a real-time blockchain data streaming package.",
+		tech: [
+			"Antelope",
+			"NodeJS",
+			"Docker",
+			"GraphQL",
+			"GCP",
+			"RXJS",
+			"ReactJS",
+			"Docker",
+			"TypeScript",
+		],
+		type: ["web3", "oss", "featured"],
+		link: "https://chaingraph.io",
+		image: "https://gaboesquivel.com/images/work/chaingraph.png",
+		repo: "https://github.com/chaingraph",
+		achievements: [
+			"Developed a real-time GraphQL subscription toolkit for EOSIO/Antelope blockchains.",
+			"Implemented blockchain data indexing and event streaming capabilities.",
+			"Designed an intuitive developer interface for querying multiple blockchain networks.",
+		],
+		story: [
+			"ChainGraph was developed as a real-time GraphQL toolkit for EOSIO/Antelope blockchain applications, providing developers with powerful tools for data subscriptions and querying across multiple blockchains.",
+			"As a personal side project during my time at Bitcash, I took on the responsibility of architectural design, technology selection, and coding of the toolkit. This included developing a real-time blockchain data streaming package that enhanced the platform's capabilities.",
+			"The project reflects my passion for blockchain technology and my commitment to creating open-source tools that empower developers. ChainGraph continues to serve as a valuable resource for those working with EOSIO/Antelope blockchains, showcasing my ability to innovate and deliver impactful solutions.",
+		],
+	},
+	{
 		title: "EOS Costa Rica",
 		slug: "eos-costa-rica",
 		description:
@@ -327,75 +358,19 @@ export const projects: Project[] = [
 		],
 	},
 	{
-		title: "Knowledge.io",
-		slug: "knowledge-io",
-		description:
-			"Knowledge is a platform that rewards users for sharing information, recognized through a token system.\n My role at Knowledge included leading the architecture of the token and supporting systems for a successful ICO, and forming a skilled development team.",
-		tech: [
-			"TypeScript",
-			"Ethereum",
-			"Ethers",
-			"Solidity",
-			"AWS",
-			"Serverless",
-			"GraphQL",
-			"React Native",
-			"NodeJS",
-			"EVM",
-		],
-		type: ["web3", "contract", "oss", "featured"],
-		link: "https://github.com/knowledge/ethereum-contracts",
-		image: "https://gaboesquivel.com/images/work/knowledge.png",
-		repo: "https://github.com/knowledge",
-		achievements: [
-			"Led the development and deployment of Knowledge.io's token system.",
-			"Designed and implemented smart contracts for token rewards and transactions.",
-			"Built a scalable serverless infrastructure to support the platform's growth.",
-		],
-		story: [
-			"Knowledge.io is a platform that incentivizes users to share information by rewarding them with tokens. My role involved leading the architecture of the token and supporting systems, which were crucial for the platform's successful ICO.",
-			"I designed and implemented smart contracts that facilitated token rewards and transactions, ensuring a secure and efficient system. Additionally, I built a scalable serverless infrastructure using AWS, which supported the platform's growth and adaptability.",
-			"By forming a skilled development team, I ensured that Knowledge.io could continue to innovate and expand its offerings. My contributions reflect a commitment to leveraging blockchain technology to create rewarding and engaging user experiences.",
-		],
-	},
-	{
-		title: "ChainGraph",
-		slug: "chaingraph",
-		description:
-			"This real-time GraphQL toolkit is designed for EOSIO/Antelope blockchain applications, offering features like data subscriptions and querying multiple blockchains.\n As a personal side project during my time at Bitcash, I was responsible for the architectural design, technology selection, and coding of the toolkit, including a real-time blockchain data streaming package.",
-		tech: [
-			"Antelope",
-			"NodeJS",
-			"Docker",
-			"GraphQL",
-			"GCP",
-			"RXJS",
-			"ReactJS",
-			"Docker",
-			"TypeScript",
-		],
-		type: ["web3", "oss", "featured"],
-		link: "https://chaingraph.io",
-		image: "https://gaboesquivel.com/images/work/chaingraph.png",
-		repo: "https://github.com/chaingraph",
-		achievements: [
-			"Developed a real-time GraphQL subscription toolkit for EOSIO/Antelope blockchains.",
-			"Implemented blockchain data indexing and event streaming capabilities.",
-			"Designed an intuitive developer interface for querying multiple blockchain networks.",
-		],
-		story: [
-			"ChainGraph was developed as a real-time GraphQL toolkit for EOSIO/Antelope blockchain applications, providing developers with powerful tools for data subscriptions and querying across multiple blockchains.",
-			"As a personal side project during my time at Bitcash, I took on the responsibility of architectural design, technology selection, and coding of the toolkit. This included developing a real-time blockchain data streaming package that enhanced the platform's capabilities.",
-			"The project reflects my passion for blockchain technology and my commitment to creating open-source tools that empower developers. ChainGraph continues to serve as a valuable resource for those working with EOSIO/Antelope blockchains, showcasing my ability to innovate and deliver impactful solutions.",
-		],
-	},
-	{
 		title: "Fantasy Top Shots",
 		slug: "fantasy-top-shots",
 		description:
 			"The mobile app game based on NBA Top Shot NFTs was developed for the 2022 Flow Hackathon. It leverages the popularity of NBA Top Shot NFTs to create an engaging gaming experience.\n My contribution to this project was in the game's design and development, utilizing my skills in blockchain technology and mobile app development.",
-		tech: ["Flow", "NFT", "ReactJS", "Expo", "Tailwind", "TypeScript"],
-		type: ["web3", "hackathon"],
+		tech: [
+			"Flow",
+			"NFT",
+			"ReactJS",
+			"Expo",
+			"Tailwind",
+			"TypeScript",
+		],
+		type: ["web3", "hackathon", "featured"],
 		link: "https://fantasy-top-shot.vercel.app",
 		image: "https://gaboesquivel.com/images/work/fantasy-top-shots.png",
 		video: "https://www.youtube.com/watch?v=Il2aiKhy_ug",
@@ -447,7 +422,7 @@ export const projects: Project[] = [
 			"NFT",
 			"TypeScript",
 		],
-		type: ["ai", "web3", "hackathon"],
+		type: ["ai", "web3", "hackathon", "featured"],
 		link: "https://wizart.world",
 		image: "https://gaboesquivel.com/images/work/wizart-world.png",
 		video: "https://www.youtube.com/watch?v=I_vBUflXHFA",
@@ -463,14 +438,13 @@ export const projects: Project[] = [
 			"The project showcased the potential of combining AI and blockchain technologies, offering innovative solutions for digital content creation and distribution. Wizard World stands as a testament to the collaborative efforts of the Bitlauncher team and the innovative possibilities within the AI and blockchain spaces.",
 		],
 	},
-
 	{
 		title: "dBoard",
 		slug: "dboard",
 		description:
 			"dBoard is a DAO decision-making and community management tool. It allows stakeholders to strategize, debate, and vote on actions for organizational efficiency.\n In this project, my contributions included overseeing the technical architecture and the smart contract development and integration on the webapp.",
 		tech: ["Antelope", "NextJS", "GCP", "GraphQL", "TypeScript", "Docker"],
-		type: ["web3", "featured"			],
+		type: ["web3", "featured"],
 		link: "https://eos.dboard.ai",
 		image: "https://gaboesquivel.com/images/work/dboard.png",
 		repo: "https://github.com/bitcashorg/bitcash-contract-dho",
@@ -483,6 +457,38 @@ export const projects: Project[] = [
 			"dBoard was developed as a comprehensive tool for DAO decision-making and community management, designed to empower stakeholders with the ability to strategize, debate, and vote on organizational actions. My role in the project was pivotal, as I oversaw the technical architecture and the development of smart contracts that facilitated these processes.",
 			"The platform leverages Antelope and Next.js to provide a robust and scalable environment for decentralized governance. By integrating smart contracts, we ensured that community voting mechanisms were secure and transparent, fostering trust and engagement among users.",
 			"Through the implementation of a seamless GraphQL API, dBoard offers improved data interactions, allowing stakeholders to access and analyze information efficiently. This project reflects my commitment to advancing DAO technologies and creating tools that enhance organizational efficiency and community collaboration.",
+		],
+	},
+	{
+		title: "Knowledge.io",
+		slug: "knowledge-io",
+		description:
+			"Knowledge is a platform that rewards users for sharing information, recognized through a token system.\n My role at Knowledge included leading the architecture of the token and supporting systems for a successful ICO, and forming a skilled development team.",
+		tech: [
+			"TypeScript",
+			"Ethereum",
+			"Ethers",
+			"Solidity",
+			"AWS",
+			"Serverless",
+			"GraphQL",
+			"React Native",
+			"NodeJS",
+			"EVM",
+		],
+		type: ["web3", "contract", "oss", "featured"],
+		link: "https://github.com/knowledge/ethereum-contracts",
+		image: "https://gaboesquivel.com/images/work/knowledge.png",
+		repo: "https://github.com/knowledge",
+		achievements: [
+			"Led the development and deployment of Knowledge.io's token system.",
+			"Designed and implemented smart contracts for token rewards and transactions.",
+			"Built a scalable serverless infrastructure to support the platform's growth.",
+		],
+		story: [
+			"Knowledge.io is a platform that incentivizes users to share information by rewarding them with tokens. My role involved leading the architecture of the token and supporting systems, which were crucial for the platform's successful ICO.",
+			"I designed and implemented smart contracts that facilitated token rewards and transactions, ensuring a secure and efficient system. Additionally, I built a scalable serverless infrastructure using AWS, which supported the platform's growth and adaptability.",
+			"By forming a skilled development team, I ensured that Knowledge.io could continue to innovate and expand its offerings. My contributions reflect a commitment to leveraging blockchain technology to create rewarding and engaging user experiences.",
 		],
 	},
 	{
@@ -531,7 +537,7 @@ export const projects: Project[] = [
 			"jQuery",
 			"CSS",
 		],
-		type: ["full-time"],
+		type: ["full-time", "featured"],
 		achievements: [
 			"Enhanced user experience through AJAX-driven interactivity.",
 			"Implemented A/B testing strategies to optimize user engagement.",
@@ -543,7 +549,6 @@ export const projects: Project[] = [
 			"The project was a significant opportunity to work with a leading financial services company, and it allowed me to contribute to a platform that millions of users rely on daily. My contributions helped improve the overall user experience, making it easier and more intuitive for cardmembers to manage their accounts online.",
 		],
 	},
-
 	{
 		title: "AMEX Money Talk",
 		slug: "amex-money-talk",
@@ -570,7 +575,7 @@ export const projects: Project[] = [
 		description:
 			"The official website serves as a central hub for a gaming community, offering news, game guides, and forums.\n My role was to ensure a user-centric design for the website, facilitating easy navigation and engagement with the content, blending aesthetics and functionality for a dynamic digital platform.",
 		tech: ["PHP", "JavaScript", "jQuery", "Facebook API", "Twitter API"],
-		type: ["contract"],
+		type: ["contract", "featured"],
 		link: "http://elderscrollsonline.com",
 		image: "https://gaboesquivel.com/images/work/elder-scrolls.jpg",
 		achievements: [
@@ -598,7 +603,7 @@ export const projects: Project[] = [
 			"require.js",
 			"CSS",
 		],
-		type: ["full-time", "lead"],
+		type: ["full-time", "lead", "featured"],
 		link: "http://yeahtv.com",
 		image: "https://gaboesquivel.com/images/work/yeahtv.jpg",
 		achievements: [
@@ -619,7 +624,7 @@ export const projects: Project[] = [
 			"Tikr is an online store with dynamic, real-time fluctuating prices, offering a unique shopping experience. It operates on the Ruby on Rails-based Spree backend framework.\n My role at Tikr encompassed full-stack development with a focus on frontend development and customization of the Spree backend framework.",
 		link: "http://tikr.com",
 		image: "https://gaboesquivel.com/images/work/tikr.jpg",
-		type: ["contract"],
+		type: ["contract", "featured"],
 		tech: ["Ruby on Rails", "Spree", "Heroku", "Postgres", "jQuery", "SASS"],
 		achievements: [
 			"Developed a dynamic pricing engine using Spree and Ruby on Rails.",
