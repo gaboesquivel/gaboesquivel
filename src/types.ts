@@ -72,7 +72,6 @@ export type Tag =
     | 'Heroku' 
     | 'MongoDB' 
     | 'AngularJS' 
-    | 'Express.js' 
     | 'Stripe' 
     | 'Twilio' 
     | 'SASS' 

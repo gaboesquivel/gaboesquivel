@@ -644,7 +644,6 @@ export const projects: Project[] = [
 			"I designed and developed an SMS subscription system featuring curated dishes from New York City's finest restaurants. The system offered a unique dining experience through mobile technology.\n My responsibilities covered the entire development process, from system design to implementation.",
 		tech: [
 			"NodeJS",
-			"Express.js",
 			"AngularJS",
 			"MongoDB",
 			"Heroku",
