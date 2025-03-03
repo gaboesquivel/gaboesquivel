@@ -111,7 +111,7 @@ export const projects: Project[] = [
 		],
 		type: ["ai", "oss", "featured"],
 		link: "https://masterbots.ai",
-		image: "https://gaboesquivel.com/images/work/masterbots.png",
+		image: "https://gaboesquivel.com/images/work/masterbots.webp",
 		repo: "https://github.com/bitcashorg/masterbots",
 		achievements: [
 			"Integrated AI SDK for internationalization automation and AI-driven workflow.",
@@ -287,7 +287,7 @@ export const projects: Project[] = [
 		type: ["web3", "oss", "featured"],
 		link: "https://chaingraph.io",
 		image: "https://gaboesquivel.com/images/work/chaingraph.png",
-		repo: "https://github.com/chaingraph",
+		repo: "https://github.com/blockmatic/chaingraph",
 		achievements: [
 			"Developed a real-time GraphQL subscription toolkit for EOSIO/Antelope blockchains.",
 			"Implemented blockchain data indexing and event streaming capabilities.",
@@ -362,14 +362,7 @@ export const projects: Project[] = [
 		slug: "fantasy-top-shots",
 		description:
 			"The mobile app game based on NBA Top Shot NFTs was developed for the 2022 Flow Hackathon. It leverages the popularity of NBA Top Shot NFTs to create an engaging gaming experience.\n My contribution to this project was in the game's design and development, utilizing my skills in blockchain technology and mobile app development.",
-		tech: [
-			"Flow",
-			"NFT",
-			"ReactJS",
-			"Expo",
-			"Tailwind",
-			"TypeScript",
-		],
+		tech: ["Flow", "NFT", "ReactJS", "Expo", "Tailwind", "TypeScript"],
 		type: ["web3", "hackathon", "featured"],
 		link: "https://fantasy-top-shot.vercel.app",
 		image: "https://gaboesquivel.com/images/work/fantasy-top-shots.png",
