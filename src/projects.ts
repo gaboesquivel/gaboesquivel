@@ -392,7 +392,7 @@ export const projects: Project[] = [
 		description:
 			"Substrate Contracts UI is a web application for deploying and interacting with WASM smart contracts on Substrate blockchains.\n I contributed to the project by enhancing code quality through multiple open-source contributions and gained experience in building dApps with Substrate.",
 		tech: ["Polkadot", "Substrate", "ReactJS", "Tailwind", "TypeScript"],
-		type: ["web3", "oss", "featured"],
+		type: ["web3", "oss"],
 		link: "https://contracts-ui.substrate.io/",
 		image: "https://gaboesquivel.com/images/work/contracts-ui.png",
 		repo: "https://github.com/paritytech/contracts-ui",
@@ -444,7 +444,7 @@ export const projects: Project[] = [
 		description:
 			"dBoard is a DAO decision-making and community management tool. It allows stakeholders to strategize, debate, and vote on actions for organizational efficiency.\n In this project, my contributions included overseeing the technical architecture and the smart contract development and integration on the webapp.",
 		tech: ["Antelope", "NextJS", "GCP", "GraphQL", "TypeScript", "Docker"],
-		type: ["web3", "featured"],
+		type: ["web3", "oss"],
 		link: "https://eos.dboard.ai",
 		image: "https://gaboesquivel.com/images/work/dboard.png",
 		repo: "https://github.com/bitcashorg/bitcash-contract-dho",
@@ -476,7 +476,7 @@ export const projects: Project[] = [
 			"NodeJS",
 			"EVM",
 		],
-		type: ["web3", "contract", "oss", "featured"],
+		type: ["web3", "contract", "oss"],
 		link: "https://github.com/knowledge/ethereum-contracts",
 		image: "https://gaboesquivel.com/images/work/knowledge.png",
 		repo: "https://github.com/knowledge",
