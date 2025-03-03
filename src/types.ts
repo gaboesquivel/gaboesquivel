@@ -105,7 +105,6 @@ export type Tag =
     | 'Flow'
     | 'OpenAI'
     | 'Biometrics'
-    | 'Linux'
     | 'JavaScript'
     | 'Expo'
     | 'DatoCMS'

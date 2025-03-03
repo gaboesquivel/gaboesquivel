@@ -442,7 +442,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"Software Development Kits for integrating AI capabilities into applications.",
 		link: "https://en.wikipedia.org/wiki/Software_development_kit",
-		since: "2020",
+		since: "2023",
 		intro: [
 			"AI SDKs provide tools and libraries for integrating AI capabilities into applications, enhancing functionality and user experience.",
 			"They are used in various applications, from chatbots to data analysis and automation.",
@@ -459,7 +459,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"Large Language Models used for natural language processing and understanding.",
 		link: "https://en.wikipedia.org/wiki/Language_model",
-		since: "2020",
+		since: "2023",
 		intro: [
 			"LLMs are advanced models used for natural language processing, enabling applications to understand and generate human-like text.",
 			"They are widely used in chatbots, translation services, and content generation.",
@@ -657,7 +657,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"A library for reactive programming using Observables, to make it easier to compose asynchronous or callback-based code.",
 		link: "https://rxjs.dev/",
-		since: "2015",
+		since: "2020",
 		intro: [
 			"RXJS is a library for reactive programming using Observables, enabling developers to compose asynchronous and event-based programs.",
 			"It is widely used in modern web development for handling asynchronous data streams.",
@@ -690,7 +690,7 @@ export const techStack: TechStackItem[] = [
 		image: "/images/tech/tailwind.png",
 		description: "A utility-first CSS framework for rapid UI development.",
 		link: "https://tailwindcss.com/",
-		since: "2017",
+		since: "2022",
 		intro: [
 			"Tailwind CSS provides a set of utility classes that allow developers to build custom designs without leaving their HTML.",
 			"It is known for its flexibility and ability to create responsive and modern user interfaces quickly.",
@@ -708,7 +708,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"A blockchain protocol designed for high performance and scalability, supporting decentralized applications.",
 		link: "https://antelope.io/",
-		since: "2021",
+		since: "2018",
 		intro: [
 			"Antelope is a blockchain protocol designed for high performance and scalability, supporting decentralized applications.",
 			"It offers a robust environment for building and deploying blockchain solutions.",
@@ -725,7 +725,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"A general-purpose programming language created as an extension of the C programming language.",
 		link: "https://en.wikipedia.org/wiki/C%2B%2B",
-		since: "1985",
+		since: "2018",
 		intro: [
 			"C++ is a general-purpose programming language known for its performance and efficiency, widely used in system software, game development, and real-time simulations.",
 			"It supports object-oriented, procedural, and generic programming paradigms.",
@@ -777,7 +777,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"A network protocol that allows arbitrary data—not just tokens—to be transferred across blockchains.",
 		link: "https://polkadot.network/",
-		since: "2020",
+		since: "2023",
 		intro: [
 			"Polkadot is a network protocol that allows arbitrary data—not just tokens—to be transferred across blockchains.",
 			"It is designed to enable a web where our data is our own and isn't stored on a server owned by an intermediary company.",
@@ -794,7 +794,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"A framework for building blockchains, providing a set of tools and libraries for blockchain development.",
 		link: "https://substrate.dev/",
-		since: "2018",
+		since: "2023",
 		intro: [
 			"Substrate is a framework for building blockchains, providing a set of tools and libraries for blockchain development.",
 			"It is known for its flexibility and support for building custom blockchains with ease.",
@@ -811,7 +811,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"A fast, decentralized, and developer-friendly blockchain, designed as the foundation for a new generation of games, apps, and digital assets.",
 		link: "https://www.onflow.org/",
-		since: "2020",
+		since: "2022",
 		intro: [
 			"Flow is a fast, decentralized, and developer-friendly blockchain, designed as the foundation for a new generation of games, apps, and digital assets.",
 			"It is known for its scalability and ease of use, making it a popular choice for NFT and gaming applications.",
@@ -828,7 +828,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"A platform for creating, managing, and distributing NFTs, providing tools and infrastructure for NFT development.",
 		link: "https://niftory.com/",
-		since: "2021",
+		since: "2022",
 		intro: [
 			"Niftory provides a platform for creating, managing, and distributing NFTs, offering tools and infrastructure for NFT development.",
 			"It simplifies the process of building and deploying NFT applications.",
@@ -845,7 +845,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"An AI model developed by OpenAI for generating images from textual descriptions.",
 		link: "https://openai.com/dall-e/",
-		since: "2021",
+		since: "2022",
 		intro: [
 			"Dalle is an AI model developed by OpenAI for generating images from textual descriptions, enabling creative and artistic applications.",
 			"It is widely used for generating unique and creative visual content.",
@@ -862,7 +862,7 @@ export const techStack: TechStackItem[] = [
 		description:
 			"An AI research and deployment company, known for developing advanced AI models and technologies.",
 		link: "https://openai.com/",
-		since: "2020",
+		since: "2022",
 		intro: [
 			"OpenAI is an AI research and deployment company, known for developing advanced AI models and technologies.",
 			"It is widely recognized for its contributions to AI research and development, including models like GPT-3 and Dalle.",
@@ -990,23 +990,6 @@ export const techStack: TechStackItem[] = [
 		],
 		experience: [
 			"Used Twilio in projects like Eat Arcade for SMS-based user engagement and notifications.",
-		],
-	},
-	{
-		name: "Linux",
-		icon: "linux",
-		tag: "Linux",
-		image: "/images/tech/linux.png",
-		description:
-			"An open-source operating system based on Unix, widely used for servers, desktops, and embedded systems.",
-		link: "https://www.linux.org/",
-		since: "2018",
-		intro: [
-			"Linux is an open-source operating system based on Unix, known for its stability, security, and flexibility.",
-			"It is widely used in servers, desktops, and embedded systems, providing a robust platform for various applications.",
-		],
-		experience: [
-			"Utilized Linux in projects like 4Tius Fitness Data Tracker for server management and application deployment.",
 		],
 	},
 	{
