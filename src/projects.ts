@@ -111,7 +111,7 @@ export const projects: Project[] = [
 		],
 		type: ["ai", "oss", "featured"],
 		link: "https://masterbots.ai",
-		image: "https://gaboesquivel.com/images/work/masterbots.webp",
+		image: "https://gaboesquivel.com/images/work/masterbots.png",
 		repo: "https://github.com/bitcashorg/masterbots",
 		achievements: [
 			"Integrated AI SDK for internationalization automation and AI-driven workflow.",
