@@ -73,14 +73,14 @@ export const projects: Project[] = [
 		video: "https://www.youtube.com/watch?v=U6vn3KOEwcQ",
 		repo: "https://github.com/bitcashorg/smartevm",
 		achievements: [
-			"Designed full-stack architecture using Viem, Wagmi, Alchemy, Trigger.dev, Supabase, Next.js 14, and ShadcnUI for a scalable and responsive platform.",
-			"Developed a custom token bridge for swapping USDT, USDC, and BITUSD to USDCred tokens, enabling seamless bidding within the platform.",
-			"Implemented a transaction data indexing system using Supabase for efficient querying, real-time subscriptions, and data aggregation analytics.",
-			"Deployed Gnosis auction Solidity contracts to EOS EVM and created a bidding interface with real-time updates via Supabase subscriptions.",
-			"Developed a wallet interface displaying real-time EVM balances through Wagmi token balance subscriptions and EOS token balances via RPC polling.",
-			"Integrated AI SDK for internationalization automation and established AI-driven development workflow using v0.dev, Anthropic Claude Sonnet, Cursor IDE, and SourceryAI.",
+			"Architected a full-stack solution using Viem, Wagmi, Alchemy, Trigger.dev, Supabase, Next.js 14, and ShadcnUI to ensure a scalable and responsive platform.",
+			"Crafted a custom token bridge for swapping USDT, USDC, and BITUSD to USDCred tokens, facilitating seamless bidding within the platform.",
+			"Implemented a transaction data indexing system with Supabase for efficient querying, real-time subscriptions, and data aggregation analytics.",
+			"Deployed Gnosis auction Solidity contracts to EOS EVM and developed a bidding interface with real-time updates via Supabase subscriptions.",
+			"Created a wallet interface that displays real-time EVM balances through Wagmi token balance subscriptions and EOS token balances via RPC polling.",
 			"Built a custom indexer for EOS EVM using Node.js, Viem EVM event subscriptions, and dFuse stream for EOS.",
-			"Implemented AI SDK integration and chat prompting mechanism for masterbots.ai, featuring specialized AI agents.",
+			"Developed the chatbot assistant at bitlauncher.ai, leveraging tools integration for accessing the latest news and YouTube videos, and RAG for detailed info retrieval.",
+			"Integrated AI SDK for internationalization automation and established an AI-driven development workflow using v0.dev, Anthropic Claude Sonnet, Cursor IDE, and SourceryAI."
 		],
 		story: [
 			"BitLauncher was conceived as a cutting-edge AI and crypto launchpad platform, designed to provide early access to promising AI unicorn startups through token sales and auctions. By creating a decentralized platform, I aimed to democratize the investment process, ensuring that all participants have a fair chance to contribute and benefit.",
@@ -117,6 +117,7 @@ export const projects: Project[] = [
 			"Integrated AI SDK for internationalization automation and AI-driven workflow.",
 			"Developed specialized AI agents and chatbot interfaces for various use cases.",
 			"Set up a scalable Next.js architecture and trained the team for effective implementation.",
+			"Integrated AI-driven development workflow using v0.dev, Anthropic Claude Sonnet, Cursor IDE, and SourceryAI."
 		],
 		story: [
 			"Masterbots.ai was developed to push the boundaries of AI capabilities, moving beyond the limitations of traditional chatbots like ChatGPT. By focusing on domain-specific AI chatbots, the platform provides users with advanced conversational tools that can handle complex tasks and deliver more than just basic information.",
