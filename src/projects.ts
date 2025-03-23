@@ -1261,7 +1261,6 @@ export const projects: Project[] = [
 		image: "https://gaboesquivel.com/images/work/cryptocantina.png",
 		images: [
 			"https://gaboesquivel.com/images/work/cryptocantina-multi.jpg",
-			"https://gaboesquivel.com/images/2018/07/crypto-cantina-cr-london-room.webp",
 			"https://gaboesquivel.com/images/work/cryptocantina-london-room-2.jpg",
 			"https://gaboesquivel.com/images/work/cryptocantina-london-room.jpg",
 			"https://gaboesquivel.com/images/work/cryptocantina-london-room-3.jpg",
