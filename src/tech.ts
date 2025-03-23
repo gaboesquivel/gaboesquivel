@@ -20,39 +20,60 @@ export const techStack: TechStackItem[] = [
 		],
 	},
 	{
-		name: "Solidity",
-		slug: "solidity",
-		tag: "Solidity",
-		image: "/images/tech/solidity.png",
+		name: "Node.js",
+		slug: "nodejs",
+		tag: "NodeJS",
+		image: "/images/tech/nodejs.png",
 		description:
-			"A contract-oriented programming language for writing smart contracts on Ethereum.",
-		link: "https://soliditylang.org/",
-		since: "2017",
+			"A JavaScript runtime built on Chrome's V8 JavaScript engine, designed to build scalable network applications.",
+		link: "https://nodejs.org/",
+		since: "2009",
 		intro: [
-			"Solidity is the primary language for writing smart contracts on Ethereum and other EVM-compatible blockchains.",
-			"It is designed to target the Ethereum Virtual Machine (EVM) and is influenced by C++, Python, and JavaScript.",
+			"Node.js is known for its event-driven, non-blocking I/O model, which makes it lightweight and efficient for building web servers and applications.",
+			"It is widely used for developing server-side and networking applications.",
 		],
 		experience: [
-			"Developed smart contracts for the Knowledge ICO, focusing on security and efficiency, embodying the principle of keeping it simple.",
-			"Contributed to the development of asset-backed NFTs on Ethereum for RareMint, demonstrating the transformative power of blockchain technology.",
-			"Utilized Solidity in projects like BasilicEVM and bitlauncher for smart contract development and blockchain interactions.",
+			"Founded Costa Rica JS, a meetup group that became Central America's largest JavaScript community, promoting open-source and collaborative development.",
+			"Utilized Node.js in projects like Eat Arcade and 4Tius Fitness Data Tracker for building scalable backend services, adhering to the principle of keeping it simple.",
+			"Contributed to the development of decentralized applications like Emanate and Sense Chat, leveraging Node.js for efficient and secure communication.",
+			"Implemented Node.js in projects like Wink for server-side development and real-time data processing.",
 		],
 	},
 	{
-		name: "Foundry",
-		slug: "foundry",
-		tag: "Foundry",
-		image: "/images/tech/foundry.png",
+		name: "ReactJS",
+		slug: "reactjs",
+		tag: "ReactJS",
+		image: "/images/tech/reactjs.png",
 		description:
-			"A blazing fast, portable, and modular toolkit for Ethereum application development.",
-		link: "https://getfoundry.sh/",
-		since: "2024",
+			"A JavaScript library for building user interfaces, maintained by Facebook and a community of individual developers and companies.",
+		link: "https://reactjs.org/",
+		since: "2013",
 		intro: [
-			"Foundry is a toolkit for Ethereum application development, known for its speed and modularity.",
-			"It provides a suite of tools for building, testing, and deploying smart contracts.",
+			"ReactJS is a popular JavaScript library for building user interfaces, particularly for single-page applications.",
+			"It allows developers to create large web applications that can update and render efficiently in response to data changes.",
 		],
 		experience: [
-			"Utilized Foundry in projects like BasilicEVM for efficient smart contract development and testing.",
+			"Utilized ReactJS in various projects to build dynamic and responsive user interfaces.",
+			"Implemented ReactJS in the development of web applications like Eat Arcade and 4Tius Fitness Data Tracker, focusing on performance and maintainability.",
+			"Leveraged ReactJS's component-based architecture to enhance code reusability and scalability in projects like Wink and Sense Chat.",
+		],
+	},
+	{
+		name: "React Native",
+		slug: "react-native",
+		tag: "React Native",
+		image: "/images/tech/react-native.png",
+		description: "A framework for building native apps using React.",
+		link: "https://reactnative.dev/",
+		since: "2015",
+		intro: [
+			"React Native allows developers to build mobile applications using React, enabling a single codebase for both iOS and Android.",
+			"It is known for its ability to create truly native apps with a consistent developer experience.",
+		],
+		experience: [
+			"Developed the first version of Wink's mobile app, focusing on seamless user experience and integration with AWS services.",
+			"Enhanced the Sense.chat app's performance and integrated it with the EOS mainnet for secure transactions.",
+			"Improved Tractor Supply's mobile app by developing an augmented reality feature and optimizing code quality.",
 		],
 	},
 	{
@@ -72,41 +93,6 @@ export const techStack: TechStackItem[] = [
 			"Utilized Next.js in BasilicEVM for building a performance-optimized development stack, enhancing scalability and maintainability.",
 			"Implemented server-side rendering and static site generation in projects like bitlauncher, dBoard, and RareMint to improve load times and SEO.",
 			"Enhanced user experience in Masterbots and ZTX by leveraging Next.js features for seamless integration with blockchain technologies.",
-		],
-	},
-	{
-		name: "Ponder",
-		slug: "ponder",
-		tag: "Ponder",
-		image: "/images/tech/ponder.png",
-		description: "A tool for indexing and querying blockchain data.",
-		link: "https://ponder.io/",
-		since: "2024",
-		intro: [
-			"Ponder is a powerful tool for indexing and querying blockchain data, making it easier to build responsive dApps.",
-			"It provides real-time data processing capabilities, enhancing the performance of decentralized applications.",
-		],
-		experience: [
-			"Utilized Ponder in projects like BasilicEVM for efficient data indexing and real-time updates.",
-			"Implemented Ponder to improve data retrieval and processing in blockchain applications.",
-		],
-	},
-	{
-		name: "PostgreSQL",
-		slug: "postgresql",
-		tag: "Postgres",
-		image: "/images/tech/postgresql.png",
-		description:
-			"A powerful, open-source object-relational database system with a strong reputation for reliability, feature robustness, and performance.",
-		link: "https://www.postgresql.org/",
-		since: "2012",
-		intro: [
-			"PostgreSQL is a highly stable database management system, used by many companies and organizations to store and manage their data.",
-			"It supports advanced data types and performance optimization features, making it a popular choice for complex applications.",
-		],
-		experience: [
-			"Implemented PostgreSQL in projects like BitLauncher and RareMint for efficient data management and querying.",
-			"Utilized PostgreSQL in projects like EOS Costa Rica and bitcashBank for robust database solutions.",
 		],
 	},
 	{
@@ -147,41 +133,6 @@ export const techStack: TechStackItem[] = [
 		],
 	},
 	{
-		name: "EVM",
-		slug: "evm",
-		tag: "EVM",
-		image: "/images/tech/evm.png",
-		description:
-			"The Ethereum Virtual Machine, a runtime environment for smart contracts in Ethereum.",
-		link: "https://ethereum.org/en/developers/docs/evm/",
-		since: "2017",
-		intro: [
-			"The EVM is the runtime environment for smart contracts in Ethereum, enabling decentralized computation.",
-			"It is a key component of the Ethereum blockchain, executing smart contracts and maintaining consensus.",
-		],
-		experience: [
-			"Worked with EVM in projects like BasilicEVM and RareMint for smart contract execution and blockchain interactions.",
-			"Utilized EVM in projects like bitcashBank for decentralized application development.",
-		],
-	},
-	{
-		name: "ThirdWeb",
-		slug: "thirdweb",
-		tag: "ThirdWeb",
-		image: "/images/tech/thirdweb.png",
-		description:
-			"A platform for building and deploying Web3 applications with ease.",
-		link: "https://thirdweb.com/",
-		since: "2024",
-		intro: [
-			"ThirdWeb provides tools and infrastructure for building Web3 applications, simplifying the development process.",
-			"It offers a range of features for deploying smart contracts and managing blockchain interactions.",
-		],
-		experience: [
-			"Utilized ThirdWeb in projects like BasilicEVM for streamlined Web3 application development.",
-		],
-	},
-	{
 		name: "EthersJS",
 		slug: "ethersjs",
 		tag: "Ethers",
@@ -201,6 +152,148 @@ export const techStack: TechStackItem[] = [
 			"Led the architecture of Knowledge.io's token system using EthersJS for secure and efficient blockchain interactions.",
 		],
 	},
+	
+	{
+		name: "Ponder",
+		slug: "ponder",
+		tag: "Ponder",
+		image: "/images/tech/ponder.png",
+		description: "A tool for indexing and querying blockchain data.",
+		link: "https://ponder.io/",
+		since: "2024",
+		intro: [
+			"Ponder is a powerful tool for indexing and querying blockchain data, making it easier to build responsive dApps.",
+			"It provides real-time data processing capabilities, enhancing the performance of decentralized applications.",
+		],
+		experience: [
+			"Utilized Ponder in projects like BasilicEVM for efficient data indexing and real-time updates.",
+			"Implemented Ponder to improve data retrieval and processing in blockchain applications.",
+		],
+	},
+	{
+		name: "PostgreSQL",
+		slug: "postgresql",
+		tag: "Postgres",
+		image: "/images/tech/postgresql.png",
+		description:
+			"A powerful, open-source object-relational database system with a strong reputation for reliability, feature robustness, and performance.",
+		link: "https://www.postgresql.org/",
+		since: "2012",
+		intro: [
+			"PostgreSQL is a highly stable database management system, used by many companies and organizations to store and manage their data.",
+			"It supports advanced data types and performance optimization features, making it a popular choice for complex applications.",
+		],
+		experience: [
+			"Implemented PostgreSQL in projects like BitLauncher and RareMint for efficient data management and querying.",
+			"Utilized PostgreSQL in projects like EOS Costa Rica and bitcashBank for robust database solutions.",
+		],
+	},
+	{
+		name: "EVM",
+		slug: "evm",
+		tag: "EVM",
+		image: "/images/tech/evm.png",
+		description:
+			"The Ethereum Virtual Machine, a runtime environment for smart contracts in Ethereum.",
+		link: "https://ethereum.org/en/developers/docs/evm/",
+		since: "2017",
+		intro: [
+			"The EVM is the runtime environment for smart contracts in Ethereum, enabling decentralized computation.",
+			"It is a key component of the Ethereum blockchain, executing smart contracts and maintaining consensus.",
+		],
+		experience: [
+			"Worked with EVM in projects like BasilicEVM and RareMint for smart contract execution and blockchain interactions.",
+			"Utilized EVM in projects like bitcashBank for decentralized application development.",
+		],
+	},
+	{
+		name: "Solidity",
+		slug: "solidity",
+		tag: "Solidity",
+		image: "/images/tech/solidity.png",
+		description:
+			"A contract-oriented programming language for writing smart contracts on Ethereum.",
+		link: "https://soliditylang.org/",
+		since: "2017",
+		intro: [
+			"Solidity is the primary language for writing smart contracts on Ethereum and other EVM-compatible blockchains.",
+			"It is designed to target the Ethereum Virtual Machine (EVM) and is influenced by C++, Python, and JavaScript.",
+		],
+		experience: [
+			"Developed smart contracts for the Knowledge ICO, focusing on security and efficiency, embodying the principle of keeping it simple.",
+			"Contributed to the development of asset-backed NFTs on Ethereum for RareMint, demonstrating the transformative power of blockchain technology.",
+			"Utilized Solidity in projects like BasilicEVM and bitlauncher for smart contract development and blockchain interactions.",
+		],
+	},
+	{
+		name: "Foundry",
+		slug: "foundry",
+		tag: "Foundry",
+		image: "/images/tech/foundry.png",
+		description:
+			"A blazing fast, portable, and modular toolkit for Ethereum application development.",
+		link: "https://getfoundry.sh/",
+		since: "2024",
+		intro: [
+			"Foundry is a toolkit for Ethereum application development, known for its speed and modularity.",
+			"It provides a suite of tools for building, testing, and deploying smart contracts.",
+		],
+		experience: [
+			"Utilized Foundry in projects like BasilicEVM for efficient smart contract development and testing.",
+		],
+	},
+	{
+		name: "AI SDK",
+		slug: "ai-sdk",
+		tag: "AI SDK",
+		image: "/images/tech/ai-sdk.png",
+		description:
+			"Software Development Kits for integrating AI capabilities into applications.",
+		link: "https://en.wikipedia.org/wiki/Software_development_kit",
+		since: "2023",
+		intro: [
+			"AI SDKs provide tools and libraries for integrating AI capabilities into applications, enhancing functionality and user experience.",
+			"They are used in various applications, from chatbots to data analysis and automation.",
+		],
+		experience: [
+			"Implemented AI SDKs in projects like Masterbots for advanced AI-driven features and automation.",
+		],
+	},
+	{
+		name: "LLMs",
+		slug: "llms",
+		tag: "LLMs",
+		image: "/images/tech/llms.png",
+		description:
+			"Large Language Models used for natural language processing and understanding.",
+		link: "https://en.wikipedia.org/wiki/Language_model",
+		since: "2023",
+		intro: [
+			"LLMs are advanced models used for natural language processing, enabling applications to understand and generate human-like text.",
+			"They are widely used in chatbots, translation services, and content generation.",
+		],
+		experience: [
+			"Utilized LLMs in projects like Masterbots for enhanced natural language processing and user interaction.",
+		],
+	},
+	{
+		name: "ThirdWeb",
+		slug: "thirdweb",
+		tag: "ThirdWeb",
+		image: "/images/tech/thirdweb.png",
+		description:
+			"A platform for building and deploying Web3 applications with ease.",
+		link: "https://thirdweb.com/",
+		since: "2024",
+		intro: [
+			"ThirdWeb provides tools and infrastructure for building Web3 applications, simplifying the development process.",
+			"It offers a range of features for deploying smart contracts and managing blockchain interactions.",
+		],
+		experience: [
+			"Utilized ThirdWeb in projects like BasilicEVM for streamlined Web3 application development.",
+		],
+	},
+
 	{
 		name: "Alchemy",
 		slug: "alchemy",
@@ -236,26 +329,6 @@ export const techStack: TechStackItem[] = [
 		],
 	},
 	{
-		name: "Node.js",
-		slug: "nodejs",
-		tag: "NodeJS",
-		image: "/images/tech/nodejs.png",
-		description:
-			"A JavaScript runtime built on Chrome's V8 JavaScript engine, designed to build scalable network applications.",
-		link: "https://nodejs.org/",
-		since: "2009",
-		intro: [
-			"Node.js is known for its event-driven, non-blocking I/O model, which makes it lightweight and efficient for building web servers and applications.",
-			"It is widely used for developing server-side and networking applications.",
-		],
-		experience: [
-			"Founded Costa Rica JS, a meetup group that became Central America's largest JavaScript community, promoting open-source and collaborative development.",
-			"Utilized Node.js in projects like Eat Arcade and 4Tius Fitness Data Tracker for building scalable backend services, adhering to the principle of keeping it simple.",
-			"Contributed to the development of decentralized applications like Emanate and Sense Chat, leveraging Node.js for efficient and secure communication.",
-			"Implemented Node.js in projects like Wink for server-side development and real-time data processing.",
-		],
-	},
-	{
 		name: "GraphQL",
 		slug: "graphql",
 		tag: "GraphQL",
@@ -273,24 +346,7 @@ export const techStack: TechStackItem[] = [
 			"Utilized GraphQL in projects like EOS Costa Rica for flexible and efficient API development.",
 		],
 	},
-	{
-		name: "React Native",
-		slug: "react-native",
-		tag: "React Native",
-		image: "/images/tech/react-native.png",
-		description: "A framework for building native apps using React.",
-		link: "https://reactnative.dev/",
-		since: "2015",
-		intro: [
-			"React Native allows developers to build mobile applications using React, enabling a single codebase for both iOS and Android.",
-			"It is known for its ability to create truly native apps with a consistent developer experience.",
-		],
-		experience: [
-			"Developed the first version of Wink's mobile app, focusing on seamless user experience and integration with AWS services.",
-			"Enhanced the Sense.chat app's performance and integrated it with the EOS mainnet for secure transactions.",
-			"Improved Tractor Supply's mobile app by developing an augmented reality feature and optimizing code quality.",
-		],
-	},
+
 	{
 		name: "WebGL",
 		slug: "webgl",
@@ -364,7 +420,7 @@ export const techStack: TechStackItem[] = [
 	{
 		name: "TanStack Query",
 		slug: "tanstack",
-		tag: "Tanstack",
+		tag: "TanStack Query",
 		image: "/images/tech/tanstack.png",
 		description:
 			"Powerful asynchronous state management for fetching, caching, and updating data in React applications.",
@@ -377,6 +433,42 @@ export const techStack: TechStackItem[] = [
 		experience: [
 			"Implemented TanStack Query in BasilicEVM and bitlauncher for efficient data fetching and caching.",
 			"Utilized query invalidation and refetching strategies to keep UI data fresh and responsive."
+		],
+	},
+	{
+		name: "TanStack Form",
+		slug: "tanstack-form",
+		tag: "TanStack Form",
+		image: "/images/tech/tanstack-form.png",
+		description:
+			"A powerful form library for React applications, providing easy-to-use hooks for managing form state and validation.",
+		link: "https://tanstack.com/form/latest",
+		since: "2022",
+		intro: [
+			"TanStack Form simplifies form management in React applications, offering hooks for state management and validation.",
+			"It provides a flexible and extensible API for building complex forms with ease."
+		],
+		experience: [
+			"Implemented TanStack Form in projects like BasilicEVM and bitlauncher for efficient form state management and validation.",
+			"Utilized TanStack Form to create dynamic and responsive forms, enhancing user experience."
+		],
+	},
+	{
+		name: "TanStack Start",
+		slug: "tanstack-start",
+		tag: "TanStack Start",
+		image: "/images/tech/tanstack-start.png",
+		description:
+			"A starter kit for building modern web applications with TanStack libraries.",
+		link: "https://tanstack.com/start/latest",
+		since: "2023",
+		intro: [
+			"TanStack Start provides a starter kit for building modern web applications using TanStack libraries.",
+			"It includes pre-configured setups for popular tools and libraries, streamlining the development process."
+		],
+		experience: [
+			"Utilized TanStack Start in projects like BasilicEVM and bitlauncher for quick and efficient project setup.",
+			"Leveraged TanStack Start to integrate TanStack libraries seamlessly, accelerating development workflows."
 		],
 	},
 	{
@@ -432,40 +524,6 @@ export const techStack: TechStackItem[] = [
 		],
 		experience: [
 			"Implemented NFT solutions in projects like RareMint and ZTX for digital asset creation and trading.",
-		],
-	},
-	{
-		name: "AI SDK",
-		slug: "ai-sdk",
-		tag: "AI SDK",
-		image: "/images/tech/ai-sdk.png",
-		description:
-			"Software Development Kits for integrating AI capabilities into applications.",
-		link: "https://en.wikipedia.org/wiki/Software_development_kit",
-		since: "2023",
-		intro: [
-			"AI SDKs provide tools and libraries for integrating AI capabilities into applications, enhancing functionality and user experience.",
-			"They are used in various applications, from chatbots to data analysis and automation.",
-		],
-		experience: [
-			"Implemented AI SDKs in projects like Masterbots for advanced AI-driven features and automation.",
-		],
-	},
-	{
-		name: "LLMs",
-		slug: "llms",
-		tag: "LLMs",
-		image: "/images/tech/llms.png",
-		description:
-			"Large Language Models used for natural language processing and understanding.",
-		link: "https://en.wikipedia.org/wiki/Language_model",
-		since: "2023",
-		intro: [
-			"LLMs are advanced models used for natural language processing, enabling applications to understand and generate human-like text.",
-			"They are widely used in chatbots, translation services, and content generation.",
-		],
-		experience: [
-			"Utilized LLMs in projects like Masterbots for enhanced natural language processing and user interaction.",
 		],
 	},
 	
