@@ -1170,10 +1170,11 @@ export const projects: Project[] = [
 		images: [
 			"https://gaboesquivel.com/images/work/gaboesquivel-javascript-costarica.png",
 			"https://gaboesquivel.com/images/gabo-workshop.jpg",
-			"https://gaboesquivel.com/images/nodeschool.jpg",
+			"https://gaboesquivel.com/images/work/nodeschool.jpg",
 			"https://gaboesquivel.com/images/work/gaboesquivel-workshop.jpg",
+			"https://gaboesquivel.com/images/work/nodeschool-1.jpg",
 			"https://gaboesquivel.com/images/2016/05/paintballjs.jpg",
-			"https://gaboesquivel.com/images/2016/05/gaboesquivel-presentation.jpg",
+			"https://gaboesquivel.com/images/work/gaboesquivel-presentation.jpg",
 		],
 		video: "https://vimeo.com/167755778",
 		achievements: [
@@ -1234,9 +1235,14 @@ export const projects: Project[] = [
 		tech: ["Ethereum", "EOS", "Solidity", "Antelope", "Polkadot", "Substrate"],
 		type: ["other"],
 		link: "https://criptocantina.org",
-		image: "https://gaboesquivel.com/images/work/cryptocantina.jpg",
+		image: "https://gaboesquivel.com/images/work/cryptocantina.png",
 		images: [
-			"https://gaboesquivel.com/images/2018/07/crypto-cantina-cr-london-room.webp"
+			"https://gaboesquivel.com/images/work/cryptocantina-multi.jpg",
+			"https://gaboesquivel.com/images/2018/07/crypto-cantina-cr-london-room.webp",
+			"https://gaboesquivel.com/images/work/cryptocantina-london-room-2.jpg",
+			"https://gaboesquivel.com/images/work/cryptocantina-london-room.jpg",
+			"https://gaboesquivel.com/images/work/cryptocantina-london-room-3.jpg",
+			"https://gaboesquivel.com/images/work/cryptocantina-london-room-4.jpg",
 		],
 		achievements: [
 			"Established a recurring crypto community event every Thursday starting September 2018.",
