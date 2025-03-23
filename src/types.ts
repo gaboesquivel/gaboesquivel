@@ -18,7 +18,7 @@ export interface Project {
 // Define the interface for a tech stack item
 export interface TechStackItem {
     name: string;
-    icon: string;
+    slug: string;
     tag: Tag;
     image: string;
     description: string;

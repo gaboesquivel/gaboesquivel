@@ -3,7 +3,7 @@ import type { TechStackItem } from "./types";
 export const techStack: TechStackItem[] = [
 	{
 		name: "TypeScript",
-		icon: "typescript",
+		slug: "typescript",
 		tag: "TypeScript",
 		image: "/images/tech/typescript.png",
 		description:
@@ -21,7 +21,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Solidity",
-		icon: "solidity",
+		slug: "solidity",
 		tag: "Solidity",
 		image: "/images/tech/solidity.png",
 		description:
@@ -40,7 +40,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Foundry",
-		icon: "foundry",
+		slug: "foundry",
 		tag: "Foundry",
 		image: "/images/tech/foundry.png",
 		description:
@@ -57,7 +57,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Next.js",
-		icon: "nextjs",
+		slug: "nextjs",
 		tag: "NextJS",
 		image: "/images/tech/nextjs.png",
 		description:
@@ -76,7 +76,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Ponder",
-		icon: "ponder",
+		slug: "ponder",
 		tag: "Ponder",
 		image: "/images/tech/ponder.png",
 		description: "A tool for indexing and querying blockchain data.",
@@ -93,7 +93,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "PostgreSQL",
-		icon: "postgresql",
+		slug: "postgresql",
 		tag: "Postgres",
 		image: "/images/tech/postgresql.png",
 		description:
@@ -111,7 +111,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Viem",
-		icon: "viem",
+		slug: "viem",
 		tag: "Viem",
 		image: "/images/tech/viem.png",
 		description:
@@ -130,7 +130,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Wagmi",
-		icon: "wagmi",
+		slug: "wagmi",
 		tag: "Wagmi",
 		image: "/images/tech/wagmi.png",
 		description: "A collection of React hooks for Ethereum.",
@@ -148,7 +148,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "EVM",
-		icon: "evm",
+		slug: "evm",
 		tag: "EVM",
 		image: "/images/tech/evm.png",
 		description:
@@ -166,7 +166,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "ThirdWeb",
-		icon: "thirdweb",
+		slug: "thirdweb",
 		tag: "ThirdWeb",
 		image: "/images/tech/thirdweb.png",
 		description:
@@ -183,7 +183,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "EthersJS",
-		icon: "ethersjs",
+		slug: "ethersjs",
 		tag: "Ethers",
 		image: "/images/tech/ethersjs.png",
 		description:
@@ -203,7 +203,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Alchemy",
-		icon: "alchemy",
+		slug: "alchemy",
 		tag: "Alchemy",
 		image: "/images/tech/alchemy.png",
 		description:
@@ -220,7 +220,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Hardhat",
-		icon: "hardhat",
+		slug: "hardhat",
 		tag: "Hardhat",
 		image: "/images/tech/hardhat.png",
 		description:
@@ -237,7 +237,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Node.js",
-		icon: "nodejs",
+		slug: "nodejs",
 		tag: "NodeJS",
 		image: "/images/tech/nodejs.png",
 		description:
@@ -257,7 +257,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "GraphQL",
-		icon: "graphql",
+		slug: "graphql",
 		tag: "GraphQL",
 		image: "/images/tech/graphql.png",
 		description:
@@ -275,7 +275,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "React Native",
-		icon: "react-native",
+		slug: "react-native",
 		tag: "React Native",
 		image: "/images/tech/react-native.png",
 		description: "A framework for building native apps using React.",
@@ -293,7 +293,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "WebGL",
-		icon: "webgl",
+		slug: "webgl",
 		tag: "WebGL",
 		image: "/images/tech/webgl.png",
 		description:
@@ -310,7 +310,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "AWS",
-		icon: "aws",
+		slug: "aws",
 		tag: "AWS",
 		image: "/images/tech/aws.png",
 		description:
@@ -328,7 +328,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "GCP",
-		icon: "gcloud",
+		slug: "gcloud",
 		tag: "GCP",
 		image: "/images/tech/gcloud.png",
 		description:
@@ -345,7 +345,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "ShadcnUI",
-		icon: "shadcn",
+		slug: "shadcn",
 		tag: "ShadcnUI",
 		image: "/images/tech/shadcn.png",
 		description:
@@ -363,7 +363,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "TanStack Query",
-		icon: "tanstack",
+		slug: "tanstack",
 		tag: "Tanstack",
 		image: "/images/tech/tanstack.png",
 		description:
@@ -381,7 +381,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "WebAuthn",
-		icon: "webauthn",
+		slug: "webauthn",
 		tag: "WebAuthN",
 		image: "/images/tech/webauthn.png",
 		description:
@@ -400,7 +400,7 @@ export const techStack: TechStackItem[] = [
 
 	{
 		name: "Ethereum",
-		icon: "ethereum",
+		slug: "ethereum",
 		tag: "Ethereum",
 		image: "/images/tech/ethereum.png",
 		description:
@@ -419,7 +419,7 @@ export const techStack: TechStackItem[] = [
 
 	{
 		name: "NFT",
-		icon: "nft",
+		slug: "nft",
 		tag: "NFT",
 		image: "/images/tech/nft.png",
 		description:
@@ -436,7 +436,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "AI SDK",
-		icon: "ai-sdk",
+		slug: "ai-sdk",
 		tag: "AI SDK",
 		image: "/images/tech/ai-sdk.png",
 		description:
@@ -453,7 +453,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "LLMs",
-		icon: "llms",
+		slug: "llms",
 		tag: "LLMs",
 		image: "/images/tech/llms.png",
 		description:
@@ -471,7 +471,7 @@ export const techStack: TechStackItem[] = [
 	
 	{
 		name: "Supabase",
-		icon: "supabase",
+		slug: "supabase",
 		tag: "Supabase",
 		image: "/images/tech/supabase.png",
 		description:
@@ -490,7 +490,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Stitches",
-		icon: "stitches",
+		slug: "stitches",
 		tag: "Stitches",
 		image: "/images/tech/stitches.png",
 		description:
@@ -508,7 +508,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Zustand",
-		icon: "zustand",
+		slug: "zustand",
 		tag: "Zustand",
 		image: "/images/tech/zustand.png",
 		description:
@@ -526,7 +526,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Zod",
-		icon: "zod",
+		slug: "zod",
 		tag: "Zod",
 		image: "/images/tech/zod.png",
 		description:
@@ -545,7 +545,7 @@ export const techStack: TechStackItem[] = [
 
 	{
 		name: "nuqs",
-		icon: "nuqs",
+		slug: "nuqs",
 		tag: "nuqs",
 		image: "/images/tech/nuqs.png",
 		description:
@@ -563,7 +563,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{	
 		name: "Trigger.dev",
-		icon: "trigger",
+		slug: "trigger",
 		tag: "Trigger",
 		image: "/images/tech/trigger.png",
 		description:
@@ -581,7 +581,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Terraform",
-		icon: "terraform",
+		slug: "terraform",
 		tag: "Terraform",
 		image: "/images/tech/terraform.png",
 		description:
@@ -599,7 +599,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Redux",
-		icon: "redux",
+		slug: "redux",
 		tag: "Redux",
 		image: "/images/tech/redux.png",
 		description:
@@ -617,7 +617,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Serverless",
-		icon: "serverless",
+		slug: "serverless",
 		tag: "Serverless",
 		image: "/images/tech/serverless.png",
 		description:
@@ -634,7 +634,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Docker",
-		icon: "docker",
+		slug: "docker",
 		tag: "Docker",
 		image: "/images/tech/docker.png",
 		description:
@@ -651,7 +651,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "RXJS",
-		icon: "rxjs",
+		slug: "rxjs",
 		tag: "RXJS",
 		image: "/images/tech/rxjs.png",
 		description:
@@ -668,7 +668,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Expo",
-		icon: "expo",
+		slug: "expo",
 		tag: "Expo",
 		image: "/images/tech/expo.png",
 		description: "A set of tools and services for React Native development.",
@@ -685,7 +685,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Tailwind CSS",
-		icon: "tailwind",
+		slug: "tailwind",
 		tag: "Tailwind",
 		image: "/images/tech/tailwind.png",
 		description: "A utility-first CSS framework for rapid UI development.",
@@ -702,7 +702,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Antelope",
-		icon: "antelope",
+		slug: "antelope",
 		tag: "Antelope",
 		image: "/images/tech/antelope.png",
 		description:
@@ -719,7 +719,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "C++",
-		icon: "cpp",
+		slug: "cpp",
 		tag: "C++",
 		image: "/images/tech/cpp.png",
 		description:
@@ -736,7 +736,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "EOS",
-		icon: "eos",
+		slug: "eos",
 		tag: "EOS",
 		image: "/images/tech/eos.png",
 		description:
@@ -753,7 +753,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Flow Blockchain",
-		icon: "flow",
+		slug: "flow",
 		tag: "Flow",
 		image: "/images/tech/flow.png",
 		description:
@@ -771,7 +771,7 @@ export const techStack: TechStackItem[] = [
 
 	{
 		name: "Polkadot",
-		icon: "polkadot",
+		slug: "polkadot",
 		tag: "Polkadot",
 		image: "/images/tech/polkadot.png",
 		description:
@@ -788,7 +788,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Substrate",
-		icon: "substrate",
+		slug: "substrate",
 		tag: "Substrate",
 		image: "/images/tech/substrate.png",
 		description:
@@ -805,7 +805,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Flow",
-		icon: "flow",
+		slug: "flow",
 		tag: "Flow",
 		image: "/images/tech/flow.png",
 		description:
@@ -822,7 +822,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Niftory",
-		icon: "niftory",
+		slug: "niftory",
 		tag: "Niftory",
 		image: "/images/tech/niftory.png",
 		description:
@@ -839,7 +839,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Dalle",
-		icon: "dalle",
+		slug: "dalle",
 		tag: "Dalle",
 		image: "/images/tech/dalle.png",
 		description:
@@ -856,7 +856,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "OpenAI",
-		icon: "openai",
+		slug: "openai",
 		tag: "OpenAI",
 		image: "/images/tech/openai.png",
 		description:
@@ -873,7 +873,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Biometrics",
-		icon: "biometrics",
+		slug: "biometrics",
 		tag: "Biometrics",
 		image: "/images/tech/biometrics.png",
 		description:
@@ -890,7 +890,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "AngularJS",
-		icon: "angularjs",
+		slug: "angularjs",
 		tag: "AngularJS",
 		image: "/images/tech/angularjs.png",
 		description: "A structural framework for dynamic web apps.",
@@ -907,7 +907,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "MongoDB",
-		icon: "mongodb",
+		slug: "mongodb",
 		tag: "MongoDB",
 		image: "/images/tech/mongodb.png",
 		description:
@@ -925,7 +925,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Heroku",
-		icon: "heroku",
+		slug: "heroku",
 		tag: "Heroku",
 		image: "/images/tech/heroku.png",
 		description:
@@ -942,7 +942,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Bootstrap",
-		icon: "bootstrap",
+		slug: "bootstrap",
 		tag: "Bootstrap",
 		image: "/images/tech/bootstrap.png",
 		description:
@@ -960,7 +960,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Stripe",
-		icon: "stripe",
+		slug: "stripe",
 		tag: "Stripe",
 		image: "/images/tech/stripe.png",
 		description:
@@ -977,7 +977,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Twilio",
-		icon: "twilio",
+		slug: "twilio",
 		tag: "Twilio",
 		image: "/images/tech/twilio.png",
 		description:
@@ -994,7 +994,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "JavaScript",
-		icon: "javascript",
+		slug: "javascript",
 		tag: "JavaScript",
 		image: "/images/tech/javascript.png",
 		description:
@@ -1012,7 +1012,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "CSS",
-		icon: "css",
+		slug: "css",
 		tag: "CSS",
 		image: "/images/tech/css.png",
 		description:
@@ -1030,7 +1030,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Mootools",
-		icon: "mootools",
+		slug: "mootools",
 		tag: "Mootools",
 		image: "/images/tech/mootools.png",
 		description:
@@ -1047,7 +1047,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Data Charts",
-		icon: "data-charts",
+		slug: "data-charts",
 		tag: "Data Charts",
 		image: "/images/tech/data-charts.png",
 		description:
@@ -1064,7 +1064,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Ruby on Rails",
-		icon: "rails",
+		slug: "rails",
 		tag: "Ruby on Rails",
 		image: "/images/tech/rails.png",
 		description:
@@ -1082,7 +1082,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Faye",
-		icon: "faye",
+		slug: "faye",
 		tag: "Faye",
 		image: "/images/tech/faye.png",
 		description:
@@ -1100,7 +1100,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "LESS",
-		icon: "less",
+		slug: "less",
 		tag: "LESS",
 		image: "/images/tech/less.png",
 		description: "A backward-compatible language extension for CSS.",
@@ -1116,7 +1116,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Wordpress",
-		icon: "wordpress",
+		slug: "wordpress",
 		tag: "Wordpress",
 		image: "/images/tech/wordpress.png",
 		description:
@@ -1134,7 +1134,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "Content Management Systems",
-		icon: "cms",
+		slug: "cms",
 		tag: "CMS",
 		image: "/images/tech/cms.png",
 		description:
@@ -1153,7 +1153,7 @@ export const techStack: TechStackItem[] = [
 	},
 	{
 		name: "DatoCMS",
-		icon: "datocms",
+		slug: "datocms",
 		tag: "DatoCMS",
 		image: "/images/tech/datocms.png",
 		description:
@@ -1172,7 +1172,7 @@ export const techStack: TechStackItem[] = [
 	
 	{
 		name: "ViroAR",
-		icon: "viroar",
+		slug: "viroar",
 		tag: "ViroAR",
 		image: "/images/tech/viroar.png",
 		description:
