@@ -2,6 +2,44 @@ import type { Project } from "./types";
 
 export const projects: Project[] = [
 	{
+		title: "Opyn",
+		slug: "opyn",
+		description: 
+			"Opyn is a decentralized options protocol on Arbitrum. I implemented their initial trading interface and data indexing setup for Arbitrum Testnet using Next.js, Ponder, and viem/wagmi.",
+		tech: [
+			"TypeScript",
+			"NextJS",
+			"Foundry",
+			"Solidity",
+			"Viem",
+			"Wagmi",
+			"Ponder",
+			"PostgreSQL",
+			"Supabase",
+			"ShadcnUI",
+			"Tailwind",
+			"Tanstack",
+			"Zod",
+			"nuqs",
+			"EVM",
+			"Ethereum",
+		],
+		type: ["web3", "contract"],
+		link: "https://opyn.co",
+		image: "https://gaboesquivel.com/images/work/opyn.png",
+		achievements: [
+			"Built trading interface with Next.js 14 and React Server Components",
+			"Set up Ponder indexing service with PostgreSQL for chain data",
+			"Integrated viem/wagmi for Arbitrum Testnet interactions",
+			"Implemented type-safe data validation and state management",
+		],
+		story: [
+			"At Opyn, I developed their trading interface using Next.js 14 with React Server Components. The frontend utilized shadcn/ui components built on Radix UI primitives, with Tailwind CSS for styling.",
+			"The data layer was built using Ponder for chain indexing, storing data in PostgreSQL via Supabase. Chain interactions were handled through viem/wagmi with Alchemy RPC endpoints.",
+			"The codebase emphasized type safety throughout, using Zod for schema validation, TanStack Query for data management, and nuqs for URL state handling.",
+		],
+	},
+	{
 		title: "BasilicEVM",
 		slug: "basilic-evm",
 		description:
@@ -1184,45 +1222,7 @@ export const projects: Project[] = [
 		related: [
 			"https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina"
 		],
-	},
-	{
-		title: "Opyn",
-		slug: "opyn",
-		description: 
-			"Opyn is a decentralized options protocol on Arbitrum. I implemented their initial trading interface and data indexing setup for Arbitrum Testnet using Next.js, Ponder, and viem/wagmi.",
-		tech: [
-			"TypeScript",
-			"NextJS",
-			"Foundry",
-			"Solidity",
-			"Viem",
-			"Wagmi",
-			"Ponder",
-			"PostgreSQL",
-			"Supabase",
-			"ShadcnUI",
-			"Tailwind",
-			"Tanstack",
-			"Zod",
-			"nuqs",
-			"EVM",
-			"Ethereum",
-		],
-		type: ["web3", "contract"],
-		link: "https://opyn.co",
-		image: "https://gaboesquivel.com/images/work/opyn.png",
-		achievements: [
-			"Built trading interface with Next.js 14 and React Server Components",
-			"Set up Ponder indexing service with PostgreSQL for chain data",
-			"Integrated viem/wagmi for Arbitrum Testnet interactions",
-			"Implemented type-safe data validation and state management",
-		],
-		story: [
-			"At Opyn, I developed their trading interface using Next.js 14 with React Server Components. The frontend utilized shadcn/ui components built on Radix UI primitives, with Tailwind CSS for styling.",
-			"The data layer was built using Ponder for chain indexing, storing data in PostgreSQL via Supabase. Chain interactions were handled through viem/wagmi with Alchemy RPC endpoints.",
-			"The codebase emphasized type safety throughout, using Zod for schema validation, TanStack Query for data management, and nuqs for URL state handling.",
-		],
-	},
+	}
 	
 	
 ];
