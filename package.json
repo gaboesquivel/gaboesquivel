@@ -1,6 +1,6 @@
 {
 	"name": "gaboesquivel",
-	"version": "3.9.6",
+	"version": "3.9.7",
 	"description": "Gabo Esquivel - Software Engineer",
 	"author": "Gabo Esquivel",
 	"main": "./dist/index.js",
