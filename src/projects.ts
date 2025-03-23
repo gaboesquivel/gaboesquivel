@@ -1089,4 +1089,98 @@ export const projects: Project[] = [
 			"This freelance project allowed me to apply my skills in web development and user experience design, contributing to a platform that offered valuable information and resources to its users.",
 		],
 	},
+	{
+		title: "Costa Rica JS",
+		slug: "costa-rica-js",
+		description:
+			"Costa Rica JS became Central America's largest JavaScript community with over 2000 developers. The community played a crucial role in fostering the region's tech ecosystem as Node.js and modern web frameworks gained prominence.\n As founder, I organized meetups, workshops, and events to build a strong developer community in Central America.",
+		tech: ["JavaScript", "NodeJS", "ReactJS", "TypeScript"],
+		type: ["other"],
+		link: "https://www.meetup.com/costaricajs/",
+		image: "https://gaboesquivel.com/images/bio/nodeschool-costa-rica.jpg",
+		images: [
+			"https://gaboesquivel.com/images/2016/05/paintballjs.jpg",
+			"https://gaboesquivel.com/images/2016/05/nodeschool-international-day.jpg",
+		],
+		video: "https://vimeo.com/167755778",
+		achievements: [
+			"Founded and grew Central America's largest JavaScript community to over 2000 developers.",
+			"Organized regular meetups, workshops, and educational events.",
+			"Fostered the region's tech ecosystem during the rise of Node.js and modern web frameworks.",
+		],
+		story: [
+			"In 2010, I founded Costa Rica JS with the vision of creating a space for JavaScript developers to learn, share, and grow together. What started as local meetups quickly evolved into Central America's largest JavaScript community.",
+			"The community played a vital role in fostering the region's tech ecosystem, particularly as Node.js and modern web frameworks gained prominence. Through regular meetups, workshops, and educational events, we helped developers stay current with emerging technologies and best practices.",
+			"Costa Rica JS became more than just a technical community; it was a catalyst for professional growth and networking in the region's tech sector. The impact of this initiative continues to resonate in Central America's developer ecosystem.",
+		],
+		related: [
+			"https://gaboesquivel.com/blog/2016-06-nodeschool-international-day",
+			"https://gaboesquivel.com/blog/2015-5-paintball.js-recap",
+			"https://gaboesquivel.com/blog/2014-01-developing-software-in-costa-rica"
+		],
+	},
+	{
+		title: "AsoBlockchain",
+		slug: "asoblockchain",
+		description: 
+			"AsoBlockchain is Costa Rica's leading non-profit blockchain association, focused on fostering trust, transparency, and innovation in the country's blockchain ecosystem. The organization drives strategic collaboration between forward-thinking organizations and individuals in the blockchain space, promoting responsible adoption while implementing best practices for sustainable community impact.",
+		tech: ["Ethereum", "EOS", "Antelope", "Solidity", "Polkadot", "Substrate"],
+		type: ["other"],
+		link: "https://asoblockchain.org",
+		image: "https://gaboesquivel.com/images/work/asoblockchain.jpg",
+		images: [
+			"https://gaboesquivel.com/images/work/asoblockchain.jpg",
+			"https://gaboesquivel.com/images/2019/02/ticoblockchain_eosio_workshop.jpg"
+		],
+		video: "https://www.youtube.com/watch?v=-1y0fGs8Xgw",
+		achievements: [
+			"Co-founded Costa Rica's first blockchain association in 2017.",
+			"Established educational partnerships with ADEN International Business School and ULACIT.",
+			"Created CriptoCantinaCR, a successful weekly educational and networking initiative.",
+			"Organized TicoBlockchain, Costa Rica's premier blockchain conference.",
+			"Developed advocacy programs for blockchain policy and regulation.",
+			"Built a vibrant community supporting blockchain innovation and adoption."
+		],
+		story: [
+			"Founded in 2017, AsoBlockchain emerged as Costa Rica's premier blockchain association with a mission to foster trust, transparency, and innovation in the country's blockchain ecosystem. As a co-founder, I helped establish the organization's core principles and strategic direction.",
+			"Through initiatives like CriptoCantina® and TicoBlockchain conference, we've created valuable opportunities for education, networking, and community building. Our partnerships with institutions like ADEN International Business School and ULACIT have strengthened our educational impact, providing members with access to specialized blockchain education and professional development.",
+			"AsoBlockchain actively participates in policy discussions and regulatory frameworks, representing our members' interests while promoting responsible blockchain adoption. The organization continues to play a crucial role in shaping Costa Rica's blockchain landscape through educational programs, industry partnerships, and community initiatives."
+		],
+		related: [
+			"https://gaboesquivel.com/blog/2019-03-ticoblockchain-2019-recap",
+			"https://gaboesquivel.com/blog/2019-01-international-crypto-conference-in-costa-rica",
+			"https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina",
+			"https://gaboesquivel.com/blog/2018-06-blockchain-technology-in-costa-rica"
+		]
+	},
+	{
+		title: "CryptoCantinaCR",
+		slug: "cryptocantinacr",
+		description:
+			"CryptoCantinaCR started as a recurring after-office happy hour event that brought together blockchain, cryptography, and cryptocurrency enthusiasts in Costa Rica. What began as informal Thursday meetups at Central Pub in Paseo Colón has since evolved into a formal educational initiative under CriptoCantina.org, promoting blockchain technology adoption and education.",
+		tech: ["Ethereum", "EOS", "Solidity", "Antelope", "Polkadot", "Substrate"],
+		type: ["other"],
+		link: "https://criptocantina.org",
+		image: "https://gaboesquivel.com/images/work/cryptocantina.jpg",
+		images: [
+			"https://gaboesquivel.com/images/work/cryptocantina.jpg",
+			"https://gaboesquivel.com/bio/crypto-cantina-cr.jpg"
+		],
+		achievements: [
+			"Established a recurring crypto community event every Thursday starting September 2018.",
+			"Created an inclusive space for blockchain enthusiasts to connect and share knowledge.",
+			"Built a forward-thinking community centered around blockchain and distributed consensus technologies.",
+			"Facilitated networking between people from various backgrounds in the crypto space.",
+			"Evolved into a formal educational platform promoting blockchain technology adoption."
+		],
+		story: [
+			"CryptoCantinaCR was launched as a recurring after-office happy hour event, taking place every Thursday at the Central Pub in Paseo Colón. The initiative aimed to create a relaxed environment where individuals passionate about blockchain, cryptography, and cryptocurrency could connect and share ideas.",
+			"The events were designed to be informal and inclusive, with no presentations or formal talks - the focus was entirely on bringing people together and fostering organic connections. This approach helped create a vibrant community where participants could skip the Thursday traffic jams while engaging in meaningful discussions about blockchain technology.",
+			"The initiative has since evolved into CriptoCantina.org, a more structured educational platform led primarily by Karla Córdoba. The organization now focuses on promoting blockchain technology adoption through formal educational initiatives, supporting entrepreneurs, facilitating Web3 tool adoption, and helping newcomers enter the technology sector. This evolution from casual meetups to a formal educational institution demonstrates the community's commitment to advancing blockchain technology in Costa Rica."
+		],
+		related: [
+			"https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina"
+		],
+	},
+	
 ];
