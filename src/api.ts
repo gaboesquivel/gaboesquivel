@@ -20,5 +20,5 @@ export function getProjectsByTechnology(tag: Tag) {
 }
 
 export function gaboLog() {
-    console.log({project: projects, tech: techStack});
+    console.log({ projects, tech: techStack});
 }
