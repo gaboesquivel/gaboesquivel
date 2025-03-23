@@ -1196,15 +1196,18 @@ export const projects: Project[] = [
 		related: [
 			{
 				url: "https://gaboesquivel.com/blog/2016-06-nodeschool-international-day",
-				title: "NodeSchool International Day"
+				title: "NodeSchool International Day",
+				publishedAt: "2016-06-01"
 			},
 			{
 				url: "https://gaboesquivel.com/blog/2015-5-paintball.js-recap",
-				title: "Paintball.js Recap"
+				title: "Paintball.js Recap",
+				publishedAt: "2015-05-01"
 			},
 			{
 				url: "https://gaboesquivel.com/blog/2014-01-developing-software-in-costa-rica",
-				title: "Developing Software in Costa Rica"
+				title: "Developing Software in Costa Rica",
+				publishedAt: "2014-01-01"
 			}
 		],
 	},
@@ -1238,19 +1241,23 @@ export const projects: Project[] = [
 		related: [
 			{
 				url: "https://gaboesquivel.com/blog/2019-03-ticoblockchain-2019-recap",
-				title: "TicoBlockchain 2019 Recap"
+				title: "TicoBlockchain 2019 Recap",
+				publishedAt: "2019-03-01"
 			},
 			{
 				url: "https://gaboesquivel.com/blog/2019-01-international-crypto-conference-in-costa-rica",
-				title: "International Crypto Conference in Costa Rica"
+				title: "International Crypto Conference in Costa Rica",
+				publishedAt: "2019-01-01"
 			},
 			{
 				url: "https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina",
-				title: "Costa Rica Crypto Cantina"
+				title: "Costa Rica Crypto Cantina",
+				publishedAt: "2018-07-01"
 			},
 			{
 				url: "https://gaboesquivel.com/blog/2018-06-blockchain-technology-in-costa-rica",
-				title: "Blockchain Technology in Costa Rica"
+				title: "Blockchain Technology in Costa Rica",
+				publishedAt: "2018-06-01"
 			}
 		]
 	},
@@ -1285,7 +1292,8 @@ export const projects: Project[] = [
 		related: [
 			{
 				url: "https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina",
-				title: "Costa Rica Crypto Cantina"
+				title: "Costa Rica Crypto Cantina",
+				publishedAt: "2018-07-01"
 			}
 		],
 	}
