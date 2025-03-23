@@ -2,6 +2,37 @@ import type { Project } from "./types";
 
 export const projects: Project[] = [
 	{
+		title: "Sfera Legal",
+		slug: "sfera-legal",
+		description:
+			"In a short-term contract, I integrated an AI assistant with both voice and chat capabilities into Sfera Legal's React Native (Expo) mobile app. This assistant empowers lawyers to swiftly access case information, providing contextual legal support, document summaries, and procedural guidance.",
+		tech: [
+			"TypeScript",
+			"React Native",
+			"Expo",
+			"OpenAI",
+			"AI SDK",
+			"Tanstack",
+			"Tailwind",
+			"LLMs",
+		],
+		type: ["ai", "contract", "featured"],
+		link: "https://sferalegal.com",
+		image: "https://gaboesquivel.com/images/work/sferalegal.png",
+		images: ["https://gaboesquivel.com/images/work/sferalegal-admin.png"],
+		achievements: [
+			"Developed a multimodal AI assistant with voice and chat interfaces for a React Native app.",
+			"Implemented RAG architecture for contextual legal support and document summarization.",
+			"Created an admin dashboard with Microsoft SSO and document management features.",
+			"Established a bilingual support system with real-time voice transcription and synthesis.",
+		],
+		story: [
+			"At Sfera Legal, I integrated a sophisticated AI assistant into their React Native mobile app, creating a powerful tool that combines voice and chat interfaces to help lawyers efficiently access case information.",
+			"Utilizing the Vercel AI SDK for chat and OpenAI's Realtime API for voice features, I developed a seamless multimodal interface styled with Tailwind CSS. The assistant employs RAG architecture to deliver contextual legal support, document summaries, and procedural guidance in both Spanish and English.",
+			"I also contributed to an internal admin dashboard using TanStack Start, featuring Microsoft SSO integration, system prompt management, and document categorization for RAG retrieval. This comprehensive solution significantly enhances legal team productivity and streamlines case file access.",
+		],
+	},
+	{
 		title: "Opyn",
 		slug: "opyn",
 		description: 
