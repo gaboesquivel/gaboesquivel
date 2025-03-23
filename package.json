@@ -1,25 +1,25 @@
 {
-  "name": "gaboesquivel",
-  "version": "3.9.5",
-  "description": "Gabo Esquivel - Software Engineer",
-  "author": "Gabo Esquivel",
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
-  "scripts": {
-    "build": "tsup src/index.ts --format cjs,esm --dts",
-    "dev": "tsup src/index.ts --format cjs,esm --dts --watch",
-    "prepublishOnly": "npm run build",
-    "hooks:pre-commit": "biome check --write --staged --no-errors-on-unmatched && git update-index --again",
-    "lint": "biome check .",
-    "lint:fix": "biome check . --write"
-  },
-  "devDependencies": {
-    "simple-git-hooks": "2.11.1",
-    "tsup": "^8.4.0",
-    "typescript": "^5.8.2"
-  },
-  "simple-git-hooks": {
-    "pre-commit": "bun run hooks:pre-commit"
-  },
-  "files": ["dist"]
+	"name": "gaboesquivel",
+	"version": "3.9.6",
+	"description": "Gabo Esquivel - Software Engineer",
+	"author": "Gabo Esquivel",
+	"main": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+	"scripts": {
+		"build": "tsup src/index.ts --format cjs,esm --dts",
+		"dev": "tsup src/index.ts --format cjs,esm --dts --watch",
+		"prepublishOnly": "npm run build",
+		"hooks:pre-commit": "biome check --write --staged --no-errors-on-unmatched && git update-index --again",
+		"lint": "biome check .",
+		"lint:fix": "biome check . --write"
+	},
+	"devDependencies": {
+		"simple-git-hooks": "2.11.1",
+		"tsup": "^8.4.0",
+		"typescript": "^5.8.2"
+	},
+	"simple-git-hooks": {
+		"pre-commit": "bun run hooks:pre-commit"
+	},
+	"files": ["dist"]
 }
