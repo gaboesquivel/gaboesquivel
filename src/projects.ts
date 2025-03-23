@@ -5,7 +5,7 @@ export const projects: Project[] = [
 		title: "Sfera Legal",
 		slug: "sfera-legal",
 		description:
-			"In a short-term contract, I integrated an AI assistant with both voice and chat capabilities into Sfera Legal's React Native (Expo) mobile app. This assistant empowers lawyers to swiftly access case information, providing contextual legal support, document summaries, and procedural guidance.",
+			"AI assistant with both voice and chat capabilities into Sfera Legal's React Native (Expo) mobile app. This assistant empowers lawyers to swiftly access case information, providing contextual legal support, document summaries, and procedural guidance.",
 		tech: [
 			"TypeScript",
 			"React Native",
@@ -1171,7 +1171,6 @@ export const projects: Project[] = [
 			"https://gaboesquivel.com/images/work/gaboesquivel-javascript-costarica.png",
 			"https://gaboesquivel.com/images/gabo-workshop.jpg",
 			"https://gaboesquivel.com/images/work/nodeschool.jpg",
-			"https://gaboesquivel.com/images/work/gaboesquivel-workshop.jpg",
 			"https://gaboesquivel.com/images/work/nodeschool-1.jpg",
 			"https://gaboesquivel.com/images/2016/05/paintballjs.jpg",
 			"https://gaboesquivel.com/images/work/gaboesquivel-presentation.jpg",
@@ -1188,9 +1187,18 @@ export const projects: Project[] = [
 			"Costa Rica JS became more than just a technical community; it was a catalyst for professional growth and networking in the region's tech sector. The impact of this initiative continues to resonate in Central America's developer ecosystem.",
 		],
 		related: [
-			"https://gaboesquivel.com/blog/2016-06-nodeschool-international-day",
-			"https://gaboesquivel.com/blog/2015-5-paintball.js-recap",
-			"https://gaboesquivel.com/blog/2014-01-developing-software-in-costa-rica"
+			{
+				url: "https://gaboesquivel.com/blog/2016-06-nodeschool-international-day",
+				title: "NodeSchool International Day"
+			},
+			{
+				url: "https://gaboesquivel.com/blog/2015-5-paintball.js-recap",
+				title: "Paintball.js Recap"
+			},
+			{
+				url: "https://gaboesquivel.com/blog/2014-01-developing-software-in-costa-rica",
+				title: "Developing Software in Costa Rica"
+			}
 		],
 	},
 	{
@@ -1221,10 +1229,22 @@ export const projects: Project[] = [
 			"AsoBlockchain actively participates in policy discussions and regulatory frameworks, representing our members' interests while promoting responsible blockchain adoption. The organization continues to play a crucial role in shaping Costa Rica's blockchain landscape through educational programs, industry partnerships, and community initiatives."
 		],
 		related: [
-			"https://gaboesquivel.com/blog/2019-03-ticoblockchain-2019-recap",
-			"https://gaboesquivel.com/blog/2019-01-international-crypto-conference-in-costa-rica",
-			"https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina",
-			"https://gaboesquivel.com/blog/2018-06-blockchain-technology-in-costa-rica"
+			{
+				url: "https://gaboesquivel.com/blog/2019-03-ticoblockchain-2019-recap",
+				title: "TicoBlockchain 2019 Recap"
+			},
+			{
+				url: "https://gaboesquivel.com/blog/2019-01-international-crypto-conference-in-costa-rica",
+				title: "International Crypto Conference in Costa Rica"
+			},
+			{
+				url: "https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina",
+				title: "Costa Rica Crypto Cantina"
+			},
+			{
+				url: "https://gaboesquivel.com/blog/2018-06-blockchain-technology-in-costa-rica",
+				title: "Blockchain Technology in Costa Rica"
+			}
 		]
 	},
 	{
@@ -1257,7 +1277,10 @@ export const projects: Project[] = [
 			"The initiative has since evolved into CriptoCantina.org, a more structured educational platform led primarily by Karla Córdoba. The organization now focuses on promoting blockchain technology adoption through formal educational initiatives, supporting entrepreneurs, facilitating Web3 tool adoption, and helping newcomers enter the technology sector. This evolution from casual meetups to a formal educational institution demonstrates the community's commitment to advancing blockchain technology in Costa Rica."
 		],
 		related: [
-			"https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina"
+			{
+				url: "https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina",
+				title: "Costa Rica Crypto Cantina"
+			}
 		],
 	}
 	

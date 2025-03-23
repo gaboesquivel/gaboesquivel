@@ -12,7 +12,7 @@ export interface Project {
     images?: string[];
     achievements: string[];
     story: string[];
-    related?: string[];
+    related?: {url: string, title: string}[];
 }
 
 // Define the interface for a tech stack item
