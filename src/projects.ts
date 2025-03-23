@@ -1099,8 +1099,12 @@ export const projects: Project[] = [
 		link: "https://www.meetup.com/costaricajs/",
 		image: "https://gaboesquivel.com/images/bio/nodeschool-costa-rica.jpg",
 		images: [
+			"https://gaboesquivel.com/images/work/gaboesquivel-javascript-costarica.png",
+			"https://gaboesquivel.com/images/gabo-workshop.jpg",
+			"https://gaboesquivel.com/images/nodeschool.jpg",
+			"https://gaboesquivel.com/images/work/gaboesquivel-workshop.jpg",
 			"https://gaboesquivel.com/images/2016/05/paintballjs.jpg",
-			"https://gaboesquivel.com/images/2016/05/nodeschool-international-day.jpg",
+			"https://gaboesquivel.com/images/2016/05/gaboesquivel-presentation.jpg",
 		],
 		video: "https://vimeo.com/167755778",
 		achievements: [
@@ -1127,9 +1131,9 @@ export const projects: Project[] = [
 		tech: ["Ethereum", "EOS", "Antelope", "Solidity", "Polkadot", "Substrate"],
 		type: ["other"],
 		link: "https://asoblockchain.org",
-		image: "https://gaboesquivel.com/images/work/asoblockchain.jpg",
+		image: "https://gaboesquivel.com/images/2018/06/blockchain-costa-rica.jpg",
 		images: [
-			"https://gaboesquivel.com/images/work/asoblockchain.jpg",
+			"https://gaboesquivel.com/images/work/ticoblockchain.jpg",
 			"https://gaboesquivel.com/images/2019/02/ticoblockchain_eosio_workshop.jpg"
 		],
 		video: "https://www.youtube.com/watch?v=-1y0fGs8Xgw",
@@ -1163,8 +1167,7 @@ export const projects: Project[] = [
 		link: "https://criptocantina.org",
 		image: "https://gaboesquivel.com/images/work/cryptocantina.jpg",
 		images: [
-			"https://gaboesquivel.com/images/work/cryptocantina.jpg",
-			"https://gaboesquivel.com/bio/crypto-cantina-cr.jpg"
+			"https://gaboesquivel.com/images/2018/07/crypto-cantina-cr-london-room.webp"
 		],
 		achievements: [
 			"Established a recurring crypto community event every Thursday starting September 2018.",
