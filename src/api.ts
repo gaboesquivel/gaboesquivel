@@ -15,6 +15,16 @@ export function getTechStackByTag(tag: Tag): TechStackItemWithProjects | null {
     }
 }
 
+export function getTechStackBySlug(slug: string): TechStackItemWithProjects | null {
+    const tech = techStack.find((tech) => tech.slug === slug);
+    if (!tech) return null
+    return {
+        ...tech, 
+        projects: getProjectsByTechnology(tech.tag)
+    }
+}
+
+
 export function getProjectsByTechnology(tag: Tag) {
     return projects.filter((project) => project.tech.includes(tag));
 }
