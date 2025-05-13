@@ -2,10 +2,10 @@ import type { Project } from './types'
 
 export const projects: Project[] = [
   {
-    title: 'Sfera Legal',
-    slug: 'sfera-legal',
+    title: 'legalAgent',
+    slug: 'legalagent',
     description:
-      "AI assistant with both voice and chat capabilities into Sfera Legal's React Native (Expo) mobile app. This assistant empowers lawyers to swiftly access case information, providing contextual legal support, document summaries, and procedural guidance.",
+      "AI assistant with both voice and chat capabilities into legalAgent 's React Native (Expo) mobile app. This assistant empowers lawyers to swiftly access case information, providing contextual legal support, document summaries, and procedural guidance.",
     tech: [
       'TypeScript',
       'React Native',
@@ -19,9 +19,9 @@ export const projects: Project[] = [
       'LLMs',
     ],
     type: ['ai', 'contract', 'featured'],
-    link: 'https://sferalegal.com',
-    image: 'https://gaboesquivel.com/images/work/sferalegal.png',
-    images: ['https://gaboesquivel.com/images/work/sferalegal-admin.png'],
+    link: '',
+    image: 'https://gaboesquivel.com/images/work/legalagent.png',
+    images: [],
     achievements: [
       'Developed a multimodal AI assistant with voice and chat interfaces for a React Native app.',
       'Implemented RAG architecture for contextual legal support and document summarization.',
@@ -29,7 +29,7 @@ export const projects: Project[] = [
       'Established a bilingual support system with real-time voice transcription and synthesis.',
     ],
     story: [
-      'At Sfera Legal, I integrated a sophisticated AI assistant into their React Native mobile app, creating a powerful tool that combines voice and chat interfaces to help lawyers efficiently access case information.',
+      'At legalAgent, I integrated a sophisticated AI assistant into their React Native mobile app, creating a powerful tool that combines voice and chat interfaces to help lawyers efficiently access case information.',
       "Utilizing the Vercel AI SDK for chat and OpenAI's Realtime API for voice features, I developed a seamless multimodal interface styled with Tailwind CSS. The assistant employs RAG architecture to deliver contextual legal support, document summaries, and procedural guidance in both Spanish and English.",
       'I also contributed to an internal admin dashboard using TanStack Start, featuring Microsoft SSO integration, system prompt management, and document categorization for RAG retrieval. This comprehensive solution significantly enhances legal team productivity and streamlines case file access.',
     ],
