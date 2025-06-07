@@ -125,3 +125,4 @@ export type Tag =
   | 'eBay API'
   | 'ViroAR'
   | 'Redux'
+  | 'Redis'
