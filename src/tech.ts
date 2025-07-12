@@ -1232,7 +1232,8 @@ export const techStack: TechStackItem[] = [
     slug: 'viroar',
     tag: 'ViroAR',
     image: '/images/tech/viroar.png',
-    description: 'A platform for building AR applications with React Native.',
+    description:
+      'ViroAR is a React Native platform for building cross-platform AR applications, offering tools for interactive 3D experiences.',
     link: 'https://viromedia.com/viroreact',
     since: '2019',
     intro: [

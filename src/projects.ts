@@ -59,7 +59,7 @@ export const projects: Project[] = [
       'EVM',
       'Ethereum',
     ],
-    type: ['web3', 'contract'],
+    type: ['web3', 'contract', 'featured'],
     link: 'https://opyn.co',
     image: 'https://gaboesquivel.com/images/work/opyn.png',
     achievements: [
