@@ -100,7 +100,7 @@ export const projects: Project[] = [
       'nuqs',
       'Supabase',
     ],
-    type: ['web3', 'oss', 'featured'],
+    type: ['web3', 'oss'],
     link: 'https://github.com/blockmatic/basilic-evm',
     image: 'https://gaboesquivel.com/images/work/basilic-evm.webp',
     repo: 'https://github.com/blockmatic/basilic-evm',
