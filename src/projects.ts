@@ -879,7 +879,7 @@ export const projects: Project[] = [
     description:
       'MyPhoto.com is an online platform for creating personalized photo products. I led the development of an innovative photo editor app and backend services integrated with existing e-commerce systems.\n My leadership role encompassed technical direction and execution, focusing on creating a smooth and intuitive user experience.',
     tech: ['ReactJS', 'NodeJS', 'Redux', 'AWS', 'Docker', 'PostgreSQL'],
-    type: ['contract', 'lead'],
+    type: ['contract'],
     link: 'https://www.myphoto.com/',
     image: 'https://gaboesquivel.com/images/work/photoandgo.jpg',
     achievements: [
