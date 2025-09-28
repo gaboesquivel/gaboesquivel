@@ -879,7 +879,7 @@ export const projects: Project[] = [
     description:
       'MyPhoto.com is an online platform for creating personalized photo products. I led the development of an innovative photo editor app and backend services integrated with existing e-commerce systems.\n My leadership role encompassed technical direction and execution, focusing on creating a smooth and intuitive user experience.',
     tech: ['ReactJS', 'NodeJS', 'Redux', 'AWS', 'Docker', 'PostgreSQL'],
-    type: ['contract'],
+    type: ['contract', 'lead'],
     link: 'https://www.myphoto.com/',
     image: 'https://gaboesquivel.com/images/work/photoandgo.jpg',
     achievements: [
@@ -1201,7 +1201,7 @@ export const projects: Project[] = [
     description:
       "Costa Rica JS became Central America's largest JavaScript community with over 2000 developers. The community played a crucial role in fostering the region's tech ecosystem as Node.js and modern web frameworks gained prominence.\n As founder, I organized meetups, workshops, and events to build a strong developer community in Central America.",
     tech: ['JavaScript', 'NodeJS', 'ReactJS', 'TypeScript'],
-    type: ['other'],
+    type: ['other', 'lead'],
     link: 'https://www.meetup.com/costaricajs/',
     image: 'https://gaboesquivel.com/images/bio/nodeschool-costa-rica.jpg',
     images: [
@@ -1247,7 +1247,7 @@ export const projects: Project[] = [
     description:
       "AsoBlockchain is Costa Rica's leading non-profit blockchain association, focused on fostering trust, transparency, and innovation in the country's blockchain ecosystem. The organization drives strategic collaboration between forward-thinking organizations and individuals in the blockchain space, promoting responsible adoption while implementing best practices for sustainable community impact.",
     tech: ['Ethereum', 'EOS', 'Antelope', 'Solidity', 'Polkadot', 'Substrate'],
-    type: ['other'],
+    type: ['other', 'lead'],
     link: 'https://asoblockchain.org',
     image: 'https://gaboesquivel.com/images/2018/06/blockchain-costa-rica.jpg',
     images: [
@@ -1297,7 +1297,7 @@ export const projects: Project[] = [
     description:
       'CryptoCantinaCR started as a recurring after-office happy hour event that brought together blockchain, cryptography, and cryptocurrency enthusiasts in Costa Rica. What began as informal Thursday meetups at Central Pub in Paseo Colón has since evolved into a formal educational initiative under CriptoCantina.org, promoting blockchain technology adoption and education.',
     tech: ['Ethereum', 'EOS', 'Solidity', 'Antelope', 'Polkadot', 'Substrate'],
-    type: ['other'],
+    type: ['other', 'lead'],
     link: 'https://criptocantina.org',
     image: 'https://gaboesquivel.com/images/work/cryptocantina.png',
     images: [
