@@ -1,6 +1,6 @@
 # Gabo Esquivel ( Gab-o )
 
-Web3 & AI product engineer with 15+ years in full-stack development, I help organizations turn ideas into market-ready products by bridging technical execution, user experience, and business strategy.
+I'm a full-stack software engineer with over 15 years of experience with a focus on emerging technologies and user experience.
 
 Learn more on my website [gaboesquivel.com](https://gaboesquivel.com)
 
