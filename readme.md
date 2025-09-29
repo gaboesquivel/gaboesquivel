@@ -1,6 +1,6 @@
 # Gabo Esquivel ( Gab-o )
 
-My focus is on emerging technologies and user-centric innovation. My expertise spans Web3, cloud, and full-stack web and mobile development, complemented by ongoing explorations in AI 
+Web3 & AI product engineer with 15+ years in full-stack development, I help organizations turn ideas into market-ready products by bridging technical execution, user experience, and business strategy.
 
 Learn more on my website [gaboesquivel.com](https://gaboesquivel.com)
 
