@@ -11,12 +11,14 @@ export const techStack: TechStackItem[] = [
     link: 'https://www.typescriptlang.org/',
     since: '2012',
     intro: [
-      'TypeScript is a superset of JavaScript that adds static types, enhancing code quality and maintainability.',
-      'It is widely used in modern web development for building scalable and robust applications.',
+      'TypeScript is a superset of JavaScript that adds static type definitions, enhancing code quality, maintainability and developer productivity.',
+      'It provides compile-time error checking, improved IDE support with autocompletion, and better documentation through explicit type declarations.',
     ],
     experience: [
-      'Extensively used TypeScript for ensuring type safety and enhancing developer experience across various projects.',
-      'Implemented TypeScript to build scalable and robust applications, leveraging its static typing and modern JavaScript features.',
+      'Implemented TypeScript across all major projects including LegalAgent, Opyn, BasilicEVM, and BitLauncher for type safety and maintainability.',
+      'Developed strict typing standards for EVM blockchain interactions in BasilicEVM, ensuring predictable smart contract interactions.',
+      'Applied TypeScript for RAG architecture implementation in LegalAgent, creating robust data structures for context-aware AI responses.',
+      'Utilized TypeScript with TanStack libraries to create type-safe data fetching, form validation, and state management patterns.',
     ],
   },
   {
@@ -29,14 +31,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://nodejs.org/',
     since: '2009',
     intro: [
-      'Node.js is known for its event-driven, non-blocking I/O model, which makes it lightweight and efficient for building web servers and applications.',
-      'It is widely used for developing server-side and networking applications.',
+      'Node.js provides a JavaScript runtime for server-side applications with an event-driven, non-blocking I/O model that optimizes throughput and scalability.',
+      'It enables building fast, lightweight microservices, API layers, and real-time applications with a unified JavaScript codebase across client and server.',
     ],
     experience: [
-      "Founded Costa Rica JS, a meetup group that became Central America's largest JavaScript community, promoting open-source and collaborative development.",
-      'Utilized Node.js in projects like Eat Arcade and 4Tius Fitness Data Tracker for building scalable backend services, adhering to the principle of keeping it simple.',
-      'Contributed to the development of decentralized applications like Emanate and Sense Chat, leveraging Node.js for efficient and secure communication.',
-      'Implemented Node.js in projects like Wink for server-side development and real-time data processing.',
+      'Built a custom EVM event indexer for BitLauncher using Node.js with Viem subscriptions, efficiently processing blockchain data in real-time.',
+      'Developed ChainGraph, an open-source GraphQL toolkit for blockchain data, using Node.js for real-time data streaming and event processing.',
+      'Created BitcashBank backend infrastructure with Node.js microservices, handling millions in transaction volume across Latin America.',
+      "Led the architecture of Knowledge.io's Ethereum token system and supporting infrastructure using serverless Node.js functions.",
+      "Founded Costa Rica JS, which became Central America's largest JavaScript community, promoting collaborative open-source development.",
     ],
   },
   {
@@ -49,13 +52,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://reactjs.org/',
     since: '2013',
     intro: [
-      'ReactJS is a popular JavaScript library for building user interfaces, particularly for single-page applications.',
-      'It allows developers to create large web applications that can update and render efficiently in response to data changes.',
+      'ReactJS is a declarative, component-based JavaScript library for building user interfaces, emphasizing composition and unidirectional data flow.',
+      'Its virtual DOM implementation and efficient rendering system enable developers to create performant applications with a predictable state model.',
     ],
     experience: [
-      'Utilized ReactJS in various projects to build dynamic and responsive user interfaces.',
-      'Implemented ReactJS in the development of web applications like Eat Arcade and 4Tius Fitness Data Tracker, focusing on performance and maintainability.',
-      "Leveraged ReactJS's component-based architecture to enhance code reusability and scalability in projects like Wink and Sense Chat.",
+      'Implemented React Server Components in Opyn trading interface, building a high-performance, SEO-friendly experience with Next.js 14.',
+      'Developed BitLauncher auction system UI with real-time bidding updates using React with Supabase subscriptions.',
+      'Built the real-time blockchain data visualization components for ChainGraph with React and RxJS for reactive data handling.',
+      'Created responsive admin dashboards for LegalAgent with Microsoft SSO integration and document management features.',
+      'Engineered responsive frontends for RareMint, ZTX, and Emanate, focusing on optimized component architecture and state management.',
     ],
   },
   {
@@ -67,13 +72,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://reactnative.dev/',
     since: '2015',
     intro: [
-      'React Native allows developers to build mobile applications using React, enabling a single codebase for both iOS and Android.',
-      'It is known for its ability to create truly native apps with a consistent developer experience.',
+      'React Native enables building native mobile applications using JavaScript and React, providing a bridge to native components while maintaining a single codebase.',
+      'It offers near-native performance with hot reloading for faster development cycles and access to device-specific APIs and capabilities.',
     ],
     experience: [
-      "Developed the first version of Wink's mobile app, focusing on seamless user experience and integration with AWS services.",
-      "Enhanced the Sense.chat app's performance and integrated it with the EOS mainnet for secure transactions.",
-      "Improved Tractor Supply's mobile app by developing an augmented reality feature and optimizing code quality.",
+      "Developed a multimodal AI assistant with voice and chat interfaces for LegalAgent's mobile app using React Native and Expo.",
+      "Integrated OpenAI's Realtime API for voice transcription and synthesis in a bilingual legal assistant application.",
+      "Enhanced Sense.chat's performance and integrated EOS blockchain for secure encrypted communications and token functionality.",
+      "Built the first version of Wink, Costa Rica's first neo-bank mobile app, with React Native and biometric authentication.",
+      'Implemented augmented reality features for Tractor Supply mobile app using ViroAR for interactive product previews.',
     ],
   },
   {
@@ -86,13 +93,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://nextjs.org/',
     since: '2012',
     intro: [
-      'Next.js is a popular React framework that enables server-side rendering and static site generation for React applications.',
-      'It is known for its performance optimizations and ease of use in building scalable web applications.',
+      'Next.js is a powerful React framework providing hybrid rendering strategies (SSR, SSG, ISR), optimized routing, and enhanced developer experience.',
+      'It offers built-in API routes, image optimization, internationalization support, and seamless deployment through platforms like Vercel.',
     ],
     experience: [
-      'Utilized Next.js in BasilicEVM for building a performance-optimized development stack, enhancing scalability and maintainability.',
-      'Implemented server-side rendering and static site generation in projects like bitlauncher, dBoard, and RareMint to improve load times and SEO.',
-      'Enhanced user experience in Masterbots and ZTX by leveraging Next.js features for seamless integration with blockchain technologies.',
+      "Built Opyn's trading interface with Next.js 14 and React Server Components, creating a highly responsive DeFi application.",
+      'Developed BasilicEVM, a performance-optimized development stack for EVM applications using Next.js 15 with App Router.',
+      "Implemented BitLauncher's auction platform with Next.js 14, integrating real-time blockchain data with Supabase subscriptions.",
+      'Created Masterbots.ai using Next.js with AI SDK for specialized chatbots and automated internationalization features.',
+      'Developed ZTX metaverse web application using Next.js with WebGL and EVM wallet integration for NFT trading functionality.',
     ],
   },
   {
@@ -105,13 +114,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://viem.io/',
     since: '2023',
     intro: [
-      'Viem is a modern library designed to simplify interactions with Ethereum and other EVM-compatible blockchains.',
-      'It provides a robust set of tools for developers to build decentralized applications with ease.',
+      'Viem is a TypeScript interface for EVM blockchains that offers modular architecture, comprehensive type safety, and improved performance over alternatives.',
+      'It provides first-class support for public, private, and contract actions with built-in parsing, validation, and error handling for blockchain interactions.',
     ],
     experience: [
-      'Utilized Viem in projects like BasilicEVM for efficient blockchain interactions and data processing.',
-      'Implemented Viem to enhance the development workflow, focusing on performance and scalability.',
-      'Used Viem in projects like bitlauncher for seamless blockchain integration.',
+      'Implemented Viem in Opyn trading interface for type-safe contract interactions with Arbitrum Testnet via Alchemy RPC endpoints.',
+      'Built a custom EVM event indexer for BitLauncher using Viem EVM event subscriptions, capturing and processing auction data in real-time.',
+      'Developed BasilicEVM with Viem as the core blockchain interaction layer, focusing on type safety and performance optimization.',
+      'Created a custom token bridge for swapping stablecoins to USDCred tokens in BitLauncher using Viem for contract interactions.',
+      'Architected wallet interfaces with Viem for displaying real-time EVM balances through token balance subscriptions.',
     ],
   },
   {
@@ -123,13 +134,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://wagmi.sh/',
     since: '2023',
     intro: [
-      'Wagmi provides a set of React hooks that simplify the process of building Ethereum applications.',
-      'It is designed to work seamlessly with popular libraries like ethers.js and viem.',
+      'Wagmi provides React hooks for EVM interactions, enabling wallet connections, contract reads/writes, and state management with minimal boilerplate.',
+      'It offers modular, type-safe components that work seamlessly with Viem, supporting multiple chains and wallets with efficient caching mechanisms.',
     ],
     experience: [
-      'Implemented Wagmi in projects like BasilicEVM to streamline Ethereum application development.',
-      'Used Wagmi to enhance user experience and simplify blockchain interactions in React applications.',
-      'Utilized Wagmi in projects like bitlauncher for efficient Ethereum interactions.',
+      'Integrated Wagmi with Viem in Opyn trading interface for Arbitrum Testnet interactions, implementing connect wallet functionality.',
+      'Developed BasilicEVM with Wagmi hooks for contract interactions, creating a streamlined developer experience for EVM applications.',
+      'Implemented token balance subscriptions in BitLauncher wallet interface using Wagmi for real-time balance updates.',
+      'Created a multichain wallet connection system for BitLauncher supporting both EOS and EVM chains through Wagmi connectors.',
+      'Built RareMint marketplace using Wagmi for NFT auction participation and transaction signing on Polygon network.',
     ],
   },
   {
@@ -142,14 +155,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://docs.ethers.io/v5/',
     since: '2017',
     intro: [
-      'EthersJS is a library designed to interact with the Ethereum blockchain, providing a simple and consistent interface for developers.',
-      'It is widely used for its ease of use and comprehensive documentation, making it a popular choice for Ethereum development.',
+      'EthersJS is a complete Ethereum library and wallet implementation providing compact, intuitive interfaces for blockchain interaction.',
+      'It offers secure key management, contract abstractions, and utilities for transaction handling with broad provider support for different networks.',
     ],
     experience: [
-      'Utilized EthersJS in projects like BasilicEVM for seamless interaction with the Ethereum blockchain.',
-      'Implemented EthersJS in RareMint for efficient smart contract interactions and NFT data indexing.',
-      'Developed a WebGL EVM wallet connector using EthersJS at ZTX, enabling secure blockchain transactions within the metaverse platform.',
-      "Led the architecture of Knowledge.io's token system using EthersJS for secure and efficient blockchain interactions.",
+      'Developed a WebGL EVM wallet connector for ZTX metaverse platform using EthersJS, enabling NFT trading within the 3D environment.',
+      "Created RareMint's NFT marketplace on Polygon using EthersJS for efficient smart contract interactions and token minting.",
+      'Built an EVM NFT data indexer for RareMint using Moralis streams, Node.js, and EthersJS for tracking ownership changes.',
+      "Led the architecture of Knowledge.io's Ethereum-based token system for their successful ICO, focusing on security and efficiency.",
+      'Implemented wallet functionality for multiple blockchain projects before Viem/Wagmi became available, using EthersJS as the core interface.',
     ],
   },
 
@@ -162,12 +176,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://ponder.io/',
     since: '2024',
     intro: [
-      'Ponder is a powerful tool for indexing and querying blockchain data, making it easier to build responsive dApps.',
-      'It provides real-time data processing capabilities, enhancing the performance of decentralized applications.',
+      'Ponder is a TypeScript framework for indexing blockchain data into PostgreSQL, providing a structured approach to processing on-chain events.',
+      'It offers type-safe database interfaces, built-in caching and syncing capabilities, and optimized query performance for blockchain applications.',
     ],
     experience: [
-      'Utilized Ponder in projects like BasilicEVM for efficient data indexing and real-time updates.',
-      'Implemented Ponder to improve data retrieval and processing in blockchain applications.',
+      'Set up Ponder indexing service with PostgreSQL for Opyn chain data on Arbitrum Testnet, enabling efficient data retrieval.',
+      'Implemented Ponder in BasilicEVM as the standard data layer solution, creating a seamless developer experience for blockchain data.',
+      'Designed transaction data indexing systems with Ponder for real-time analytics and historical querying in DeFi applications.',
+      'Created custom event processors to transform blockchain data into structured database records for efficient application queries.',
+      'Developed GraphQL and REST API layers on top of Ponder-indexed data to provide consistent interfaces for frontend applications.',
     ],
   },
   {
@@ -180,12 +197,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://www.postgresql.org/',
     since: '2012',
     intro: [
-      'PostgreSQL is a highly stable database management system, used by many companies and organizations to store and manage their data.',
-      'It supports advanced data types and performance optimization features, making it a popular choice for complex applications.',
+      'PostgreSQL is a powerful object-relational database system with advanced features like JSON support, full-text search, and robust concurrency.',
+      'It offers exceptional reliability, data integrity, and extensibility with custom data types, functions, and index types for specialized use cases.',
     ],
     experience: [
-      'Implemented PostgreSQL in projects like BitLauncher and RareMint for efficient data management and querying.',
-      'Utilized PostgreSQL in projects like EOS Costa Rica and bitcashBank for robust database solutions.',
+      'Implemented PostgreSQL with Supabase in Opyn and BitLauncher for blockchain data storage and real-time subscriptions.',
+      "Designed ChainGraph's blockchain data model with PostgreSQL, optimizing for high-throughput event processing and complex queries.",
+      'Developed transaction data indexing systems with PostgreSQL in BitcashBank, processing millions in transaction volume.',
+      "Created efficient query patterns for EOS Costa Rica blockchain data using PostgreSQL's JSON capabilities and indexing strategies.",
+      "Built LegalAgent's document management system with PostgreSQL, implementing full-text search for legal document retrieval.",
     ],
   },
   {
@@ -198,12 +218,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://ethereum.org/en/developers/docs/evm/',
     since: '2017',
     intro: [
-      'The EVM is the runtime environment for smart contracts in Ethereum, enabling decentralized computation.',
-      'It is a key component of the Ethereum blockchain, executing smart contracts and maintaining consensus.',
+      'The Ethereum Virtual Machine (EVM) is the runtime environment for executing smart contracts across Ethereum and compatible blockchains.',
+      'It provides a Turing-complete execution environment with deterministic operations, enabling secure, decentralized applications across networks.',
     ],
     experience: [
-      'Worked with EVM in projects like BasilicEVM and RareMint for smart contract execution and blockchain interactions.',
-      'Utilized EVM in projects like bitcashBank for decentralized application development.',
+      'Developed BasilicEVM, a performance-optimized development stack specifically for EVM applications with smart contracts and chain integration.',
+      'Implemented Gnosis auction Solidity contracts on EOS EVM for BitLauncher, creating a cross-chain auction platform.',
+      'Built a custom EVM event indexer using Node.js and Viem for BitLauncher, capturing real-time blockchain data.',
+      'Created a custom token bridge for swapping stablecoins between chains in BitLauncher using EVM smart contracts.',
+      'Developed wallet interfaces for Opyn and RareMint showing real-time EVM balances through token balance subscriptions.',
     ],
   },
   {
@@ -216,13 +239,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://soliditylang.org/',
     since: '2017',
     intro: [
-      'Solidity is the primary language for writing smart contracts on Ethereum and other EVM-compatible blockchains.',
-      'It is designed to target the Ethereum Virtual Machine (EVM) and is influenced by C++, Python, and JavaScript.',
+      'Solidity is a statically-typed, contract-oriented programming language for implementing smart contracts on Ethereum and EVM-compatible blockchains.',
+      'It features contract inheritance, libraries, user-defined types, and event emissions with security practices like access controls and gas optimization.',
     ],
     experience: [
-      'Developed smart contracts for the Knowledge ICO, focusing on security and efficiency, embodying the principle of keeping it simple.',
-      'Contributed to the development of asset-backed NFTs on Ethereum for RareMint, demonstrating the transformative power of blockchain technology.',
-      'Utilized Solidity in projects like BasilicEVM and bitlauncher for smart contract development and blockchain interactions.',
+      'Implemented Gnosis auction Solidity contracts for BitLauncher on EOS EVM, enabling transparent batch auctions with uniform pricing.',
+      "Developed type-safe smart contracts for Opyn's decentralized options protocol on Arbitrum Testnet using Solidity and Foundry.",
+      "Created secure token contracts for Knowledge.io's successful ICO in 2018, focusing on security best practices.",
+      "Built BasilicEVM's core contract templates and integration patterns to streamline EVM application development.",
+      'Designed and implemented NFT contracts for RareMint, enabling fractional ownership of authenticated sports collectibles on Polygon.',
     ],
   },
   {
@@ -235,11 +260,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://getfoundry.sh/',
     since: '2024',
     intro: [
-      'Foundry is a toolkit for Ethereum application development, known for its speed and modularity.',
-      'It provides a suite of tools for building, testing, and deploying smart contracts.',
+      'Foundry is a fast, portable Ethereum development toolkit written in Rust, providing testing, deployment, and interaction capabilities for smart contracts.',
+      'It offers significant performance improvements over JavaScript-based alternatives with features like gas profiling, forking, tracing, and debugging.',
     ],
     experience: [
-      'Utilized Foundry in projects like BasilicEVM for efficient smart contract development and testing.',
+      'Implemented Foundry in BasilicEVM as the standard smart contract development environment for performance and developer experience.',
+      "Developed Opyn's decentralized options protocol contracts using Foundry for comprehensive testing and deployment to Arbitrum Testnet.",
+      'Created BitLauncher auction contracts with Foundry, utilizing its forking capabilities for realistic test environments.',
+      "Optimized gas usage in smart contracts using Foundry's profiling tools, significantly reducing transaction costs.",
+      "Established continuous integration testing pipelines for smart contracts using Foundry's testing framework in multiple projects.",
     ],
   },
   {
@@ -252,11 +281,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://en.wikipedia.org/wiki/Software_development_kit',
     since: '2023',
     intro: [
-      'AI SDKs provide tools and libraries for integrating AI capabilities into applications, enhancing functionality and user experience.',
-      'They are used in various applications, from chatbots to data analysis and automation.',
+      'AI SDKs provide developer frameworks for integrating large language models and AI capabilities into applications with optimized interfaces.',
+      'They offer streaming responses, function calling, structured outputs, and optimized performance with tools for context retrieval and AI agent development.',
     ],
     experience: [
-      'Implemented AI SDKs in projects like Masterbots for advanced AI-driven features and automation.',
+      'Integrated Vercel AI SDK in LegalAgent for chat functionality and OpenAI Realtime API for voice features in a multimodal assistant.',
+      'Implemented RAG architecture in LegalAgent for contextual legal support, document summarization, and bilingual assistance.',
+      'Developed the chatbot assistant at BitLauncher.ai with tools integration for accessing news, YouTube videos, and detailed information.',
+      'Created AI-powered internationalization automation for BitLauncher and Masterbots using AI SDK with template prompting.',
+      'Established AI-driven development workflows using Claude Sonnet in Cursor IDE for efficient coding and documentation generation.',
     ],
   },
   {
@@ -269,11 +302,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://en.wikipedia.org/wiki/Language_model',
     since: '2023',
     intro: [
-      'LLMs are advanced models used for natural language processing, enabling applications to understand and generate human-like text.',
-      'They are widely used in chatbots, translation services, and content generation.',
+      'Large Language Models are neural networks trained on vast text corpora, capable of understanding context, generating human-like text, and solving complex tasks.',
+      'Modern LLMs feature capabilities like few-shot learning, instruction following, tool use, and multi-step reasoning for sophisticated applications.',
     ],
     experience: [
-      'Utilized LLMs in projects like Masterbots for enhanced natural language processing and user interaction.',
+      'Implemented OpenAI GPT-4 in LegalAgent to create a context-aware legal assistant with document summarization capabilities.',
+      'Utilized Claude Sonnet in BitLauncher for generating accurate technical documentation and internationalized content.',
+      'Developed specialized domain chatbots in Masterbots.ai to perform tasks beyond basic information retrieval.',
+      'Created AI-driven development workflows with LLMs for code generation, optimization, and technical documentation.',
+      "Integrated Wizard World with OpenAI's DALL-E models to generate AI images and mint them as NFTs on Flow blockchain.",
     ],
   },
   {
@@ -286,11 +323,15 @@ export const techStack: TechStackItem[] = [
     link: 'https://thirdweb.com/',
     since: '2024',
     intro: [
-      'ThirdWeb provides tools and infrastructure for building Web3 applications, simplifying the development process.',
-      'It offers a range of features for deploying smart contracts and managing blockchain interactions.',
+      'ThirdWeb is a comprehensive Web3 development platform offering pre-built smart contracts, SDK tooling, and infrastructure for blockchain applications.',
+      'It provides wallet connection utilities, NFT tooling, marketplace functionality, and token management with simplified deployment across multiple chains.',
     ],
     experience: [
-      'Utilized ThirdWeb in projects like BasilicEVM for streamlined Web3 application development.',
+      'Integrated ThirdWeb in BasilicEVM to provide standardized contract deployment and interaction patterns for common use cases.',
+      'Implemented NFT contract templates from ThirdWeb in RareMint, accelerating the development of collectible functionality.',
+      'Used ThirdWeb Connect in multiple projects for consistent wallet connection experiences across different blockchain networks.',
+      "Leveraged ThirdWeb's storage solutions for decentralized metadata storage in NFT projects, ensuring content persistence.",
+      'Deployed marketplace contracts using ThirdWeb for rapid prototyping of trading functionality in Web3 applications.',
     ],
   },
 
@@ -858,23 +899,6 @@ export const techStack: TechStackItem[] = [
     ],
     experience: [
       'Utilized Substrate in projects like Substrate Contracts UI for building and deploying custom blockchains.',
-    ],
-  },
-  {
-    name: 'Flow',
-    slug: 'flow',
-    tag: 'Flow',
-    image: '/images/tech/flow.png',
-    description:
-      'A fast, decentralized, and developer-friendly blockchain, designed as the foundation for a new generation of games, apps, and digital assets.',
-    link: 'https://www.onflow.org/',
-    since: '2022',
-    intro: [
-      'Flow is a fast, decentralized, and developer-friendly blockchain, designed as the foundation for a new generation of games, apps, and digital assets.',
-      'It is known for its scalability and ease of use, making it a popular choice for NFT and gaming applications.',
-    ],
-    experience: [
-      'Utilized Flow in projects like Wizard World for NFT integration and digital asset management.',
     ],
   },
   {
