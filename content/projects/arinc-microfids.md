@@ -24,7 +24,8 @@ story:
   - ARINC Microfids is a flight information display system for hotels and airport businesses. It integrates with a Ruby on Rails backend. My responsibilities included frontend development and system integration, ensuring a seamless display of flight information.
   - I integrated the Ruby on Rails backend with AngularJS to enable real-time data updates and user interaction. The system provides accurate and timely flight information to travelers.
   - The implementation used Faye for real-time messaging and data synchronization. This project applied web development skills to create a practical information display system for the travel industry.
-
+order: 35
+year: 2013
 ---
 
 # ARINC Microfids

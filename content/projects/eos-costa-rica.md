@@ -36,7 +36,8 @@ story:
   - Joining EOS Costa Rica at its inception, I helped launch the EOS mainnet and managed validator nodes across multiple EOSIO-based networks to maintain blockchain stability and security.
   - As main architect and tech lead, I built a team and designed the architecture for Grant Thornton's custom private blockchain using Azure, Terraform, EOSIO, and a React client. This implementation provided an enterprise blockchain solution tailored to specific requirements.
   - I also managed open source software development and developer relations to build community engagement. My work at EOS Costa Rica included establishing the custom development services division and expanding technical capabilities within the organization.
-
+order: 11
+year: 2018
 ---
 
 # EOS Costa Rica

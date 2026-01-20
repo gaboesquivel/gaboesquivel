@@ -53,6 +53,8 @@ function formatProject(
     achievements: ${formatArray(project.achievements)},
     story: ${formatArray(project.story)},
     ${project.related ? `related: ${formatRelated(project.related)},` : ''}
+    order: ${project.order},
+    year: ${project.year},
     markdown: ${JSON.stringify(project.markdown)},
     markdownPath: ${JSON.stringify(project.markdownPath)}
   }`

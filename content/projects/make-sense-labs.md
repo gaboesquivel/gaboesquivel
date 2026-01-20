@@ -24,7 +24,8 @@ story:
   - At Make Sense Labs, I worked on Sense.chat, a secure chat and transaction app focusing on user data privacy. I improved the React Native app performance to create a more responsive experience.
   - I integrated the app with the EOS blockchain mainnet to enable secure transactions and token functionality. The implementation included a built-in wallet and token incentives for communities.
   - I also enhanced the app's security and privacy features to strengthen user data protection. The work combined mobile app optimization with blockchain integration.
-
+order: 9
+year: 2019
 ---
 
 # Make Sense Labs

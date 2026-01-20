@@ -39,7 +39,8 @@ story:
   - BitcashBank is a platform for cryptocurrency transactions including buying, trading, depositing, and earning. My initial role involved designing the infrastructure, recruiting technical talent, and training developers to build a solid foundation.
   - As the project progressed, I moved to a consulting role to guide its development. I helped build and optimize BitcashDAO for community-based governance, making the platform more responsive to user requirements.
   - I developed chaingraph.io for real-time data updates and implemented WebAuthn integration with the EOSIO blockchain to create a 'walletless' experience. This implementation allowed for a progressive web app approach that improved security while avoiding app store constraints.
-
+order: 7
+year: 2020
 ---
 
 # bitcashBank

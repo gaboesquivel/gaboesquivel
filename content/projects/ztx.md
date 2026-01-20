@@ -33,7 +33,8 @@ story:
   - ZTX is a web3 metaverse platform that enables creators to build, play, and earn in a blockchain-integrated environment. As a software consultant during its early stages, I helped develop the React application hosting the metaverse experience.
   - I set up the initial architecture using Next.js, TailwindCSS, and Framer Motion to create the application foundation. I also built a WebGL EVM wallet connector with Ethers.js to enable NFT trading functionality within the platform.
   - The project is backed by Jump Crypto and ZEPETO and focuses on providing creators with blockchain technology integration. My work involved connecting frontend experiences with underlying blockchain capabilities.
-
+order: 5
+year: 2022
 ---
 
 # ZTX

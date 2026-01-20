@@ -32,7 +32,8 @@ story:
   - Wink is Costa Rica's first neo-bank, offering a mobile app for online banking without physical branch visits. I developed the first version of their mobile app and backend services within AWS.
   - My responsibilities included technology selection, project planning, and coordinating API integration with partner banks. I implemented biometric authentication to enhance security while keeping the user experience streamlined.
   - The project required forming a development team with the necessary skills to implement the technical requirements. This work applied mobile and cloud technologies to create a digital banking solution for the Costa Rican market.
-
+order: 18
+year: 2015
 ---
 
 # Wink

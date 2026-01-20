@@ -23,7 +23,8 @@ story:
   - Mobtion agency specializes in mobile development services. I designed and developed their responsive website and WordPress CMS. My responsibilities included website design, development, and ensuring seamless content management for the agency.
   - I created a modern and responsive website that effectively showcased their services and capabilities. The design focused on highlighting the agency's mobile development expertise and project portfolio.
   - The implementation included WordPress CMS integration for efficient content management, allowing easy updates and maintenance. This work was completed while at IntergraphiDesign, my first development job, and delivered a functional web presence for a mobile development agency.
-
+order: 41
+year: 2008
 ---
 
 # Mobtion

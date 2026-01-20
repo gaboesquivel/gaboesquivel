@@ -20,6 +20,8 @@ export const ProjectSchema = z.object({
   achievements: z.array(z.string()),
   story: z.array(z.string()),
   related: z.array(RelatedSchema).optional(),
+  order: z.number(),
+  year: z.number(),
 })
 
 export const TechStackItemSchema = z.object({

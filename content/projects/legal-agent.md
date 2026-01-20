@@ -36,7 +36,8 @@ story:
   - At LegalAgent, I integrated an AI assistant into their React Native mobile app with both voice and chat interfaces to help lawyers access case information efficiently.
   - I implemented the Vercel AI SDK for chat functionality and OpenAI's Realtime API for voice features, building a multimodal interface with Tailwind CSS. The assistant uses RAG architecture to provide contextual legal support, document summaries, and procedural guidance in both Spanish and English.
   - I also developed an internal admin dashboard with TanStack Start, adding Microsoft SSO integration, system prompt management, and document categorization for RAG retrieval. This solution improves legal team productivity and simplifies case file access.
-
+order: 1
+year: 2025
 ---
 
 # LegalAgent

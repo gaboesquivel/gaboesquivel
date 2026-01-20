@@ -30,7 +30,8 @@ story:
   - Wizard World is a progressive web app that connects to OpenAI's LLM models to generate AI images and mint them on the Flow blockchain. We developed it for the Flow Hackathon 2022 with the Bitlauncher team.
   - I worked on the app development, focusing on integrating OpenAI's models for image generation and implementing Flow blockchain functionality. The integration enables users to create images with AI and mint them as NFTs in a streamlined process.
   - The project combines AI and blockchain technologies to create a practical application for digital content creation. It demonstrates how AI-generated art can be incorporated into blockchain-based ownership systems.
-
+order: 15
+year: 2022
 ---
 
 # Wizard World

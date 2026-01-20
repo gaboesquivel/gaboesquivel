@@ -25,7 +25,8 @@ story:
   - The official website serves as a central hub for a gaming community, offering news, game guides, and forums. My role was to ensure a user-centric design for the website, facilitating easy navigation and engagement with the content.
   - I worked on balancing visual design with functionality to meet the needs of the gaming community. This included optimizing navigation paths and integrating social media features to improve user experience.
   - The project required understanding gaming community needs and developing appropriate web interfaces. The implementation created an online space where players could access information and connect with others in the community.
-
+order: 21
+year: 2013
 ---
 
 # Elder Scrolls Online

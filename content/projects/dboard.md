@@ -30,7 +30,8 @@ story:
   - dBoard is a DAO decision-making and community management tool that allows stakeholders to strategize, debate, and vote on organizational actions. I oversaw the technical architecture and led smart contract development and integration.
   - The implementation uses Antelope blockchain and Next.js to create a decentralized governance platform. The smart contracts provide secure and transparent community voting mechanisms to enhance trust among participants.
   - I built a GraphQL API to improve data access and analysis for stakeholders. The project focuses on providing practical tools for DAOs to operate more efficiently and make collective decisions.
-
+order: 16
+year: 2020
 ---
 
 # dBoard

@@ -34,7 +34,8 @@ story:
   - Knowledge is a platform that rewards users for sharing information through a token system. My role included leading the architecture of the token and supporting systems for a successful ICO.
   - I designed and implemented smart contracts for token rewards and transactions to create a secure and efficient system. I also built a serverless infrastructure using AWS to support the platform operations.
   - I formed a development team with the necessary technical skills to implement the project requirements. The work focused on applying blockchain technology to create a functional token-based incentive system.
-
+order: 17
+year: 2017
 ---
 
 # Knowledge.io

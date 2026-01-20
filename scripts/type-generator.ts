@@ -24,6 +24,8 @@ export interface Project {
   achievements: string[]
   story: string[]
   related?: { url: string; title: string; publishedAt: string }[]
+  order: number
+  year: number
   markdown: string
   markdownPath: string
 }

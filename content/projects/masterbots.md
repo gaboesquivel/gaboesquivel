@@ -40,7 +40,8 @@ story:
   - Masterbots.ai focuses on domain-specific AI chatbots that go beyond basic information retrieval. The platform provides specialized conversational tools designed to handle more complex tasks than standard chatbots.
   - I integrated AI SDKs and developed specialized agents to enable features like automated internationalization and workflow optimization. These implementations allow the platform to better address diverse user requirements.
   - This project was built with the same team behind bitcash.org and bitlauncher.ai, continuing our collaborative work in AI and blockchain technologies. The platform combines AI capabilities with practical application design.
-
+order: 4
+year: 2024
 ---
 
 # Masterbots

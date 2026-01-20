@@ -31,7 +31,8 @@ story:
   - EOS Rate is a community-driven tool for rating EOS Block Producers, using a radial graph interface and storing ratings on the blockchain. The tool promotes transparency and accountability in the EOS ecosystem.
   - I was responsible for designing the technical architecture and selecting appropriate technologies to build a robust platform. The implementation includes a decentralized rating system with an intuitive visualization interface.
   - The project combines blockchain technology with user-centered design to create a practical tool for the community. EOS Rate provides a resource for EOS participants to make more informed decisions about Block Producers based on community ratings.
-
+order: 12
+year: 2018
 ---
 
 # EOS Rate

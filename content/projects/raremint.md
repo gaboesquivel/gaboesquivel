@@ -36,7 +36,8 @@ story:
   - RareMint digitizes real-world sports collectibles as NFTs for a digital collectible experience. As technical lead, I worked on improving the marketplace performance and maintainability.
   - I built an EVM NFT data indexer using Moralis streams, Node.js, and PostgreSQL for efficient data processing. I also refactored the marketplace using Next.js SSR to improve performance and responsiveness.
   - The integration of Wallet Connect improved transaction security and user experience. My work focused on applying blockchain technology to create a functional digital collectibles platform.
-
+order: 6
+year: 2021
 ---
 
 # RareMint

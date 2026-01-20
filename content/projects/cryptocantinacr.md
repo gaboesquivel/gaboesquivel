@@ -31,7 +31,8 @@ related:
   - url: "https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina"
     title: "Costa Rica Crypto Cantina"
     publishedAt: "2018-07-01"
-
+order: 47
+year: 2018
 ---
 
 # CryptoCantinaCR

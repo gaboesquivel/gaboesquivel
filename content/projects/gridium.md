@@ -24,7 +24,8 @@ story:
   - Gridium is an energy data analytics prototype for visualizing and analyzing energy consumption. It aids in informed energy management decisions. I built the first version of the application, focusing on displaying data collected from various buildings.
   - The implementation included interactive charts for monitoring energy usage patterns in real-time. These visualizations helped users identify trends and anomalies in their energy consumption data.
   - I optimized the UI/UX for better readability and engagement, ensuring users could easily interpret the presented data. The project applied data visualization techniques to make energy consumption information more accessible and actionable.
-
+order: 34
+year: 2013
 ---
 
 # Gridium

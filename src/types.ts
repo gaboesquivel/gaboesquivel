@@ -13,6 +13,8 @@ export interface Project {
   achievements: string[]
   story: string[]
   related?: { url: string; title: string; publishedAt: string }[]
+  order: number
+  year: number
 }
 
 // Define the interface for a tech stack item

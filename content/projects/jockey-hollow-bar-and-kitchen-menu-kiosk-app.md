@@ -27,7 +27,8 @@ story:
   - At Jockey Hollow Bar & Kitchen, I developed the Menu Kiosk App, a responsive web application for tablet kiosks. It simplifies menu selection for patrons and uses Google Spreadsheets for easy updates.
   - The app integrates with Google Spreadsheets for real-time menu management, allowing staff to keep information current and accurate. This implementation addresses the frequent menu changes common in restaurants.
   - As the sole developer, I created an intuitive interface optimized for tablet performance. The kiosk application streamlined the dining experience while providing an efficient solution for displaying menu items.
-
+order: 26
+year: 2013
 ---
 
 # Jockey Hollow Bar and Kitchen Menu Kiosk App

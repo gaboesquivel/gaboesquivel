@@ -38,7 +38,8 @@ related:
   - url: "https://gaboesquivel.com/blog/2018-06-blockchain-technology-in-costa-rica"
     title: "Blockchain Technology in Costa Rica"
     publishedAt: "2018-06-01"
-
+order: 46
+year: 2017
 ---
 
 # AsoBlockchain

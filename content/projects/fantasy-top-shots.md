@@ -28,7 +28,8 @@ story:
   - Fantasy Top Shots was built for the 2022 Flow Hackathon as a mobile game using NBA Top Shot NFTs. The game allows users to utilize their NFT collections in a fantasy sports format.
   - My role included both design and development, applying blockchain and mobile app development skills. The implementation uses Flow blockchain for NFT transaction handling within the game experience.
   - This collaborative project with the Bitlauncher team explores the intersection of blockchain technology and mobile gaming. It provides NFT owners with additional utility for their digital assets through practical gameplay mechanics.
-
+order: 13
+year: 2022
 ---
 
 # Fantasy Top Shots

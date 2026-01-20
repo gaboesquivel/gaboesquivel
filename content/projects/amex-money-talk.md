@@ -21,7 +21,8 @@ story:
   - The National Money Night Talk by American Express promoted financial communication between parents and teenagers. As a Frontend Engineer, I developed the campaign's landing page focusing on user engagement and information delivery.
   - I created a user-friendly interface with easy navigation and interaction features. The implementation used responsive design techniques to provide consistent experiences across different devices.
   - The project supported American Express's financial literacy initiative for families. The landing page needed to effectively present information while encouraging participation in the campaign.
-
+order: 20
+year: 2010
 ---
 
 # AMEX Money Talk

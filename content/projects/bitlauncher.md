@@ -55,7 +55,8 @@ story:
   - BitLauncher is an AI and crypto launchpad platform providing access to AI startups through token sales and auctions. The platform uses a decentralized approach to make the investment process more accessible to participants.
   - The batch auction system creates a transparent environment for token sales, distributing tokens at a uniform price to reduce barriers in fundraising. I implemented Viem, Wagmi, and Supabase to build a responsive user interface and data layer.
   - I developed this project with the team behind bitcash.org, with whom I've been working since 2020. The platform facilitates token sales using blockchain technology while maintaining a focus on accessibility.
-
+order: 3
+year: 2022
 ---
 
 # bitlauncher

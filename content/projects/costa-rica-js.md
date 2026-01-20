@@ -39,7 +39,8 @@ related:
   - url: "https://gaboesquivel.com/blog/2014-01-developing-software-in-costa-rica"
     title: "Developing Software in Costa Rica"
     publishedAt: "2014-01-01"
-
+order: 45
+year: 2010
 ---
 
 # Costa Rica JS

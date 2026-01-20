@@ -42,7 +42,8 @@ achievements:
 ${formatYamlArray(project.achievements)}
 story:
 ${formatYamlArray(project.story)}
-${project.related && project.related.length > 0 ? `related:\n${formatYamlObjectArray(project.related)}\n` : ''}
+${project.related && project.related.length > 0 ? `related:\n${formatYamlObjectArray(project.related)}\n` : ''}order: ${project.order}
+year: ${project.year}
 ---
 
 # ${project.title}

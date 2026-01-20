@@ -39,7 +39,8 @@ story:
   - At Opyn, I built their trading interface with Next.js 14 and React Server Components. The frontend used shadcn/ui components based on Radix UI primitives with Tailwind CSS styling.
   - I implemented Ponder for blockchain data indexing, storing data in PostgreSQL via Supabase. Chain interactions were handled through viem/wagmi with Alchemy RPC endpoints.
   - The implementation prioritized type safety using Zod for schema validation, TanStack Query for data management, and nuqs for URL state handling.
-
+order: 2
+year: 2023
 ---
 
 # Opyn
