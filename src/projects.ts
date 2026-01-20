@@ -58,6 +58,7 @@ export const projects: Project[] = [
       'nuqs',
       'EVM',
       'Ethereum',
+      'Alchemy',
     ],
     type: ['web3', 'contract', 'featured', 'frontend', 'backend'],
     link: 'https://opyn.co',
@@ -143,7 +144,6 @@ export const projects: Project[] = [
       'nuqs',
       'OpenAI',
       'AI SDK',
-      'PostgreSQL',
     ],
     type: [
       'web3',
@@ -199,7 +199,6 @@ export const projects: Project[] = [
       'TanStack Query',
       'Zod',
       'nuqs',
-      'PostgreSQL',
     ],
     type: ['ai', 'oss', 'featured', 'frontend', 'backend', 'fullstack'],
     link: 'https://masterbots.ai',
@@ -761,7 +760,7 @@ export const projects: Project[] = [
     link: 'http://tikr.com',
     image: 'https://gaboesquivel.com/images/work/tikr.jpg',
     type: ['contract', 'featured', 'frontend'],
-    tech: ['Ruby on Rails', 'Spree', 'Heroku', 'Postgres', 'jQuery', 'SASS'],
+    tech: ['Ruby on Rails', 'Spree', 'Heroku', 'PostgreSQL', 'jQuery', 'SASS'],
     achievements: [
       'Developed a dynamic pricing engine using Spree and Ruby on Rails.',
       'Implemented a real-time price fluctuation system for enhanced user engagement.',

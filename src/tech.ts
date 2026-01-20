@@ -190,7 +190,7 @@ export const techStack: TechStackItem[] = [
   {
     name: 'PostgreSQL',
     slug: 'postgresql',
-    tag: 'Postgres',
+    tag: 'PostgreSQL',
     image: '/images/tech/postgresql.png',
     description:
       'A powerful, open-source object-relational database system with a strong reputation for reliability, feature robustness, and performance.',

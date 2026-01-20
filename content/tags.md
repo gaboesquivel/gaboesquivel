@@ -1,0 +1,95 @@
+---
+tags:
+  - AI SDK
+  - AJAX
+  - AWS
+  - Artificial Intelligence
+  - Adobe mBox
+  - Alchemy
+  - AngularJS
+  - Antelope
+  - Azure
+  - Biometrics
+  - Blockchain
+  - Bootstrap
+  - Brightcove API
+  - C++
+  - CMS
+  - CSS
+  - Data Charts
+  - DatoCMS
+  - Divshot
+  - Docker
+  - Dojo
+  - Ethereum
+  - Ethers
+  - Expo
+  - Facebook API
+  - Faye
+  - Flow
+  - Foundry
+  - GCP
+  - GraphQL
+  - Grapnel.js
+  - Grunt
+  - Handlebars
+  - Hardhat
+  - Heroku
+  - JSP (Struts)
+  - JavaScript
+  - LESS
+  - Lodash
+  - MongoDB
+  - Mootools
+  - NFT
+  - NextJS
+  - Niftory
+  - NodeJS
+  - Omniture
+  - OpenAI
+  - PHP
+  - Polkadot
+  - Ponder
+  - PostgreSQL
+  - RXJS
+  - React Native
+  - ReactJS
+  - Redis
+  - Redux
+  - Ruby on Rails
+  - SASS
+  - Serverless
+  - ShadcnUI
+  - Solidity
+  - Spree
+  - Stitches
+  - Stripe
+  - Substrate
+  - Supabase
+  - Tailwind
+  - TanStack Form
+  - TanStack Query
+  - TanStack Start
+  - Terraform
+  - Trigger
+  - Twilio
+  - Twitter API
+  - TypeScript
+  - Viem
+  - ViroAR
+  - Wagmi
+  - WebAuthN
+  - WebGL
+  - Wordpress
+  - Zod
+  - Zustand
+  - eBay API
+  - jQuery
+  - nuqs
+  - require.js
+---
+
+# Technology Tags
+
+This file defines all valid tags used across projects and tech stack.
+The tags array is used to generate the TypeScript `Tag` union type.
