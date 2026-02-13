@@ -23,6 +23,8 @@ type:
   - frontend
   - backend
   - fullstack
+  - startup
+  - institution
 link: "https://eoscostarica.io"
 image: "https://gaboesquivel.com/images/work/eoscostarica.png"
 repo: "https://github.com/eoscostarica"

@@ -15,6 +15,7 @@ type:
   - lead
   - featured
   - frontend
+  - institution
 link: "http://yeahtv.com"
 image: "https://gaboesquivel.com/images/work/yeahtv.jpg"
 

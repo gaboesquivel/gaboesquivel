@@ -37,6 +37,7 @@ type:
   - frontend
   - backend
   - fullstack
+  - startup
 link: "https://bitlauncher.ai"
 image: "https://gaboesquivel.com/images/work/bitlauncher.png"
 repo: "https://github.com/bitcashorg/smartevm"

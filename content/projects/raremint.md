@@ -22,6 +22,7 @@ type:
   - frontend
   - backend
   - fullstack
+  - startup
 link: "https://raremint.com"
 image: "https://gaboesquivel.com/images/work/raremint.png"
 

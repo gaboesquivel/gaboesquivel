@@ -22,6 +22,7 @@ type:
   - mobile
   - backend
   - fullstack
+  - startup
 link: ""
 image: "https://gaboesquivel.com/images/work/legalagent.png"
 

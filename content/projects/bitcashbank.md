@@ -26,6 +26,7 @@ type:
   - backend
   - fullstack
   - mobile
+  - startup
 link: "https://bitcash.org"
 image: "https://gaboesquivel.com/images/work/bitcash-bank.png"
 repo: "https://github.com/bitcashorg"

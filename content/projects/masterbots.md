@@ -26,6 +26,7 @@ type:
   - frontend
   - backend
   - fullstack
+  - startup
 link: "https://masterbots.ai"
 image: "https://gaboesquivel.com/images/work/masterbots.png"
 repo: "https://github.com/bitcashorg/masterbots"

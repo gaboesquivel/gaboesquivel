@@ -19,6 +19,8 @@ type:
   - backend
   - fullstack
   - frontend
+  - startup
+  - institution
 link: "https://holawink.com"
 image: "https://gaboesquivel.com/images/work/wink.png"
 

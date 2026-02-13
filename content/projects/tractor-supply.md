@@ -13,6 +13,7 @@ tech:
 type:
   - contract
   - mobile
+  - institution
 link: "https://www.tractorsupply.com/tsc/cms/app"
 image: "https://gaboesquivel.com/images/work/tractor-supply.png"
 

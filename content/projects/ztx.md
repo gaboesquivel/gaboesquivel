@@ -20,6 +20,7 @@ type:
   - featured
   - frontend
   - fullstack
+  - startup
 link: "https://ztx.io"
 image: "https://gaboesquivel.com/images/work/ztx.png"
 

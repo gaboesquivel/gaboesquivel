@@ -8,6 +8,7 @@ tech:
 type:
   - other
   - frontend
+  - institution
 link: "https://www.youtube.com/watch?v=a2vDoYyXIJQ"
 image: "https://gaboesquivel.com/images/work/money-talk.jpg"
 

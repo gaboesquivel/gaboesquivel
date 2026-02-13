@@ -15,6 +15,7 @@ type:
   - full-time
   - featured
   - frontend
+  - institution
 link: "https://www.americanexpress.com/"
 image: "https://gaboesquivel.com/images/work/amex.jpg"
 
