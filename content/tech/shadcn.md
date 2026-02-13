@@ -10,8 +10,7 @@ intro:
   - ShadcnUI provides accessible, customizable, and open-source components for building modern web applications.
   - It combines the power of Radix UI's accessibility with the flexibility of Tailwind CSS's utility classes.
 experience:
-  - Implemented ShadcnUI in projects like BasilicEVM and bitlauncher for consistent, accessible UI components.
-  - Utilized ShadcnUI to create responsive and visually appealing interfaces, enhancing user experience across various applications.
+  - Implemented ShadcnUI in Opyn and BitLauncher for consistent, accessible UI components.
 ---
 
 # ShadcnUI

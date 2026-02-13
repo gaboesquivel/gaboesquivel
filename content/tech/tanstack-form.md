@@ -10,7 +10,7 @@ intro:
   - TanStack Form simplifies form management in React applications, offering hooks for state management and validation.
   - It provides a flexible and extensible API for building complex forms with ease.
 experience:
-  - Implemented TanStack Form in projects like BasilicEVM and bitlauncher for efficient form state management and validation.
+  - Implemented TanStack Form in LegalAgent for form state management and validation in the admin dashboard.
   - Utilized TanStack Form to create dynamic and responsive forms, enhancing user experience.
 ---
 

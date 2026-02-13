@@ -11,10 +11,8 @@ intro:
   - It offers exceptional reliability, data integrity, and extensibility with custom data types, functions, and index types for specialized use cases.
 experience:
   - Implemented PostgreSQL with Supabase in Opyn and BitLauncher for blockchain data storage and real-time subscriptions.
-  - Designed ChainGraph's blockchain data model with PostgreSQL, optimizing for high-throughput event processing and complex queries.
-  - Developed transaction data indexing systems with PostgreSQL in BitcashBank, processing millions in transaction volume.
-  - Created efficient query patterns for EOS Costa Rica blockchain data using PostgreSQL's JSON capabilities and indexing strategies.
-  - Built LegalAgent's document management system with PostgreSQL, implementing full-text search for legal document retrieval.
+  - Designed ChainGraph's blockchain data model with PostgreSQL for event processing and queries.
+  - Built EVM NFT data indexer for RareMint using PostgreSQL with Moralis streams.
 ---
 
 # PostgreSQL

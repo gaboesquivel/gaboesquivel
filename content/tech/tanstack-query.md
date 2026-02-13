@@ -10,8 +10,7 @@ intro:
   - TanStack Query (formerly React Query) simplifies data fetching, caching, and state management.
   - It provides tools for handling loading states, errors, and data synchronization.
 experience:
-  - Implemented TanStack Query in BasilicEVM and bitlauncher for efficient data fetching and caching.
-  - Utilized query invalidation and refetching strategies to keep UI data fresh and responsive.
+  - Implemented TanStack Query in Opyn and BitLauncher for efficient data fetching and caching.
 ---
 
 # TanStack Query

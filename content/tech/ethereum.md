@@ -12,7 +12,6 @@ intro:
   - It is widely used for its flexibility and support for a wide range of decentralized applications.
 experience:
   - Utilized Ethereum and the EVM in projects like Knowledge.io, RareMint, Opyn, and BitLauncher for building decentralized applications and smart contracts.
-  - Developed BasilicEVM, a performance-optimized development stack specifically for EVM applications with smart contracts and chain integration.
   - Implemented Gnosis auction Solidity contracts on EOS EVM for BitLauncher, creating a cross-chain auction platform.
   - Built custom EVM event indexers using Node.js and Viem for capturing real-time blockchain data.
   - Created wallet interfaces showing real-time EVM balances through token balance subscriptions.

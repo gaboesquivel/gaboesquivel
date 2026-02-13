@@ -10,8 +10,7 @@ intro:
   - Zod is a schema declaration and validation library designed for TypeScript.
   - It allows for building type-safe applications with runtime validation.
 experience:
-  - Utilized Zod in BasilicEVM and bitlauncher for form validation and API request/response typing.
-  - Implemented schema validation to ensure data integrity and improve error handling in applications.
+  - Utilized Zod in Opyn and BitLauncher for form validation and API request/response typing.
 ---
 
 # Zod

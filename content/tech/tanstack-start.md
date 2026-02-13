@@ -10,7 +10,7 @@ intro:
   - TanStack Start provides a starter kit for building modern web applications using TanStack libraries.
   - It includes pre-configured setups for popular tools and libraries, streamlining the development process.
 experience:
-  - Utilized TanStack Start in projects like BasilicEVM and bitlauncher for quick and efficient project setup.
+  - Utilized TanStack Start in LegalAgent for the admin dashboard with Microsoft SSO and document management.
   - Leveraged TanStack Start to integrate TanStack libraries seamlessly, accelerating development workflows.
 ---
 

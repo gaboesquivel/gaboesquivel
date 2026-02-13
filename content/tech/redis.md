@@ -10,7 +10,7 @@ intro:
   - Redis is a high-performance, low-latency key-value store that supports various data structures.
   - It is widely used for caching, session management, real-time analytics, and message queuing.
 experience:
-  - Utilized Redis for caching and real-time data processing in projects like BitcashBank and LegalAgent.
+  - Utilized Redis for caching and real-time data processing in LegalAgent.
 ---
 
 # Redis

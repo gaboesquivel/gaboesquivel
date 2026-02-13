@@ -10,9 +10,7 @@ intro:
   - Supabase combines the power of PostgreSQL with modern developer tools for building applications quickly.
   - It offers authentication, real-time subscriptions, and database management in a single platform.
 experience:
-  - Implemented Supabase in bitlauncher for real-time data subscriptions and user authentication.
-  - Developed a transaction data indexing system using Supabase for efficient querying and analytics.
-  - Utilized Supabase's real-time capabilities for building responsive and interactive applications.
+  - Implemented Supabase in BitLauncher for real-time data subscriptions, transaction indexing, and user authentication.
 ---
 
 # Supabase

@@ -11,8 +11,7 @@ intro:
   - They enable non-technical users to maintain websites and digital platforms without requiring coding knowledge.
 experience:
   - Developed custom CMS solutions for clients like ITS InfoCom, streamlining content management and updates.
-  - Implemented and customized various CMS platforms to meet specific client requirements and enhance user experience.
-  - Utilized DatoCMS in the BitLauncher project for efficient content management and internationalization.
+  - Used DatoCMS on the BitLauncher blog for content management with AI internationalization via Claude scripts.
 ---
 
 # Content Management Systems

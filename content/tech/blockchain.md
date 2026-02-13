@@ -12,11 +12,9 @@ intro:
   - It provides a foundation for cryptocurrencies, smart contracts, decentralized applications, and various Web3 innovations.
   - Blockchain technology eliminates the need for intermediaries by creating trust through cryptographic verification and consensus mechanisms.
 experience:
-  - Worked with multiple blockchain platforms including Ethereum, Antelope, Flow, and Polkadot across various projects.
-  - Developed blockchain-based applications for DeFi, NFTs, DAOs, and decentralized governance systems.
-  - Built custom blockchain infrastructure, indexers, and data processing systems for real-time on-chain data access.
-  - Implemented smart contracts, token systems, and cross-chain integrations for various Web3 projects.
-  - Led blockchain development teams and contributed to open-source blockchain projects and communities.
+  - Built applications on Ethereum (Knowledge.io, RareMint, Opyn, BitLauncher), Antelope (BitcashBank, ChainGraph, Emanate), Flow (Wizard World, Fantasy Top Shots), and Polkadot (Substrate Contracts UI).
+  - Developed DeFi auction platforms, NFT marketplaces, token systems, and real-time blockchain indexers.
+  - Contributed to open-source blockchain projects including ChainGraph and Substrate Contracts UI.
 ---
 
 # Blockchain

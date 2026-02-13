@@ -10,8 +10,7 @@ intro:
   - nuqs provides a way to store and synchronize state in URL query parameters with type safety.
   - It enables shareable URLs with application state and seamless integration with Next.js.
 experience:
-  - Used nuqs in BasilicEVM and bitlauncher for managing filterable and shareable UI states.
-  - Implemented URL-based state management to improve user experience with shareable application states.
+  - Used nuqs in Opyn and BitLauncher for managing filterable and shareable UI states.
 ---
 
 # nuqs

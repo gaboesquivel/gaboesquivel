@@ -12,10 +12,8 @@ intro:
   - It offers modular, type-safe components that work seamlessly with Viem, supporting multiple chains and wallets with efficient caching mechanisms.
 experience:
   - Integrated Wagmi with Viem in Opyn trading interface for Arbitrum Testnet interactions, implementing connect wallet functionality.
-  - Developed BasilicEVM with Wagmi hooks for contract interactions, creating a streamlined developer experience for EVM applications.
   - Implemented token balance subscriptions in BitLauncher wallet interface using Wagmi for real-time balance updates.
   - Created a multichain wallet connection system for BitLauncher supporting both EOS and EVM chains through Wagmi connectors.
-  - Built RareMint marketplace using Wagmi for NFT auction participation and transaction signing on Polygon network.
 ---
 
 # Wagmi
