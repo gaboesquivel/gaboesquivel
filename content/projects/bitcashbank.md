@@ -1,7 +1,7 @@
 ---
 title: "bitcashBank"
 slug: "bitcashbank"
-description: "Bitcash is an established crypto banking platform with over 50,000 users across Latin America, handling millions in transaction volume through its regulated financial infrastructure. The platform integrates with local banking systems in multiple countries and features BitcashDAO for community governance of its decentralized finance products.\n At Bitcash, my role from the start focused on infrastructure design, tech recruitment, and developer training. I later transitioned to a consulting role to guide the platform's continuous adaptation and success."
+description: "At Bitcash, my role from the start focused on infrastructure design, tech recruitment, and developer training. I later transitioned to a consulting role to guide the platform's continuous adaptation and success."
 tech:
   - Antelope
   - C++
