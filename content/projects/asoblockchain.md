@@ -1,7 +1,7 @@
 ---
 title: "AsoBlockchain"
 slug: "asoblockchain"
-description: "AsoBlockchain, founded in 2017, is Costa Rica's first and leading non-profit blockchain association. The organization has trained over 1000 developers, partnered with major universities like ULACIT and ADEN Business School, and played a key role in shaping national cryptocurrency regulations through collaboration with the Central Bank and other regulatory bodies. Through initiatives like TicoBlockchain conference and CriptoCantina, it has become the primary driver of blockchain adoption in Central America."
+description: "A Costa Rican nonprofit association for blockchain education, industry collaboration, events, and policy engagement."
 tech:
   - Blockchain
 type:
@@ -44,4 +44,4 @@ year: 2017
 
 # AsoBlockchain
 
-AsoBlockchain, founded in 2017, is Costa Rica's first and leading non-profit blockchain association. The organization has trained over 1000 developers, partnered with major universities like ULACIT and ADEN Business School, and played a key role in shaping national cryptocurrency regulations through collaboration with the Central Bank and other regulatory bodies. Through initiatives like TicoBlockchain conference and CriptoCantina, it has become the primary driver of blockchain adoption in Central America.
+A Costa Rican nonprofit association for blockchain education, industry collaboration, events, and policy engagement.

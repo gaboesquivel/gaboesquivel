@@ -1,7 +1,8 @@
 ---
 title: "EOS Costa Rica"
 slug: "eos-costa-rica"
-description: "EOS Costa Rica is a leading block producer and infrastructure provider for EOSIO/Antelope blockchains, maintaining critical network nodes and developing custom blockchain solutions. The company is recognized for its contributions to the EOS mainnet and enterprise blockchain implementations.\n Joining EOS Costa Rica at its inception, I played a key role in the EOS mainnet launch, managed validators for multiple networks, and helped establish the custom development services division. My major contribution included leading the architecture for a custom private blockchain for Grant Thornton."
+description: "A blockchain infrastructure and development company operating EOSIO validators and delivering public and private-chain systems."
+role: "Lead Engineer"
 tech:
   - Antelope
   - C++
@@ -44,5 +45,4 @@ year: 2018
 
 # EOS Costa Rica
 
-EOS Costa Rica is a leading block producer and infrastructure provider for EOSIO/Antelope blockchains, maintaining critical network nodes and developing custom blockchain solutions. The company is recognized for its contributions to the EOS mainnet and enterprise blockchain implementations.
- Joining EOS Costa Rica at its inception, I played a key role in the EOS mainnet launch, managed validators for multiple networks, and helped establish the custom development services division. My major contribution included leading the architecture for a custom private blockchain for Grant Thornton.
+A blockchain infrastructure and development company operating EOSIO validators and delivering public and private-chain systems.

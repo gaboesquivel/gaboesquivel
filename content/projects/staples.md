@@ -1,7 +1,7 @@
 ---
 title: "Staples"
 slug: "staples"
-description: "Staples, a Fortune 500 company with over $20B in annual revenue, is one of the world's largest office supply retailers with 1000+ stores and a major e-commerce presence serving millions of customers. Their website processes billions in online sales annually.\n My role as a frontend developer involved creating user-friendly and efficient navigation elements, contributing to the overall user experience on their e-commerce platform."
+description: "Responsive navigation and commerce interfaces for Staples' office-supply ecommerce platform."
 tech:
   - JavaScript
   - CSS
@@ -28,5 +28,4 @@ year: 2011
 
 # Staples
 
-Staples, a Fortune 500 company with over $20B in annual revenue, is one of the world's largest office supply retailers with 1000+ stores and a major e-commerce presence serving millions of customers. Their website processes billions in online sales annually.
- My role as a frontend developer involved creating user-friendly and efficient navigation elements, contributing to the overall user experience on their e-commerce platform.
+Responsive navigation and commerce interfaces for Staples' office-supply ecommerce platform.

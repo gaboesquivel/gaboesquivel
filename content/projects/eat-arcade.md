@@ -1,7 +1,7 @@
 ---
 title: "Eat Arcade"
 slug: "eat-arcade"
-description: "I designed and developed an SMS subscription system featuring curated dishes from New York City's finest restaurants. The system offered a unique dining experience through mobile technology.\n My responsibilities covered the entire development process, from system design to implementation."
+description: "An SMS restaurant subscription service combining curated dishes, text messaging, online payments, and a web application."
 tech:
   - NodeJS
   - AngularJS
@@ -34,5 +34,4 @@ year: 2013
 
 # Eat Arcade
 
-I designed and developed an SMS subscription system featuring curated dishes from New York City's finest restaurants. The system offered a unique dining experience through mobile technology.
- My responsibilities covered the entire development process, from system design to implementation.
+An SMS restaurant subscription service combining curated dishes, text messaging, online payments, and a web application.

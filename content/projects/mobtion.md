@@ -1,7 +1,7 @@
 ---
 title: "Mobtion"
 slug: "mobtion"
-description: "Mobtion agency specializes in mobile development services. I designed and developed their responsive website and WordPress CMS.\n My responsibilities included website design, development, and ensuring seamless content management for the agency."
+description: "A responsive agency website and WordPress content system for Mobtion's mobile-development services."
 tech:
   - JavaScript
   - CSS
@@ -29,5 +29,4 @@ year: 2008
 
 # Mobtion
 
-Mobtion agency specializes in mobile development services. I designed and developed their responsive website and WordPress CMS.
- My responsibilities included website design, development, and ensuring seamless content management for the agency.
+A responsive agency website and WordPress content system for Mobtion's mobile-development services.

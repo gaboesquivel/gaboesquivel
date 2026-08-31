@@ -1,7 +1,7 @@
 ---
 title: "Wizard World"
 slug: "wizard-world"
-description: "Wizart.world is a groundbreaking platform at the intersection of AI and blockchain that connects to OpenAI's DALL-E models to generate AI images and mint them as NFTs on the Flow blockchain. Developed during the Flow Hackathon 2022, the project was among the first to combine generative AI with blockchain-based ownership rights for digital art.\n My role involved the app's development, focusing on integrating OpenAI's models for image generation and ensuring smooth functionality with the Flow blockchain through Niftory's NFT infrastructure."
+description: "A Flow Hackathon PWA for generating images with OpenAI and minting them as NFTs through Niftory."
 tech:
   - NextJS
   - ReactJS
@@ -15,7 +15,6 @@ type:
   - ai
   - web3
   - hackathon
-  - featured
   - frontend
 link: "https://wizart.world"
 image: "https://gaboesquivel.com/images/work/wizart-world.png"
@@ -36,5 +35,4 @@ year: 2022
 
 # Wizard World
 
-Wizart.world is a groundbreaking platform at the intersection of AI and blockchain that connects to OpenAI's DALL-E models to generate AI images and mint them as NFTs on the Flow blockchain. Developed during the Flow Hackathon 2022, the project was among the first to combine generative AI with blockchain-based ownership rights for digital art.
- My role involved the app's development, focusing on integrating OpenAI's models for image generation and ensuring smooth functionality with the Flow blockchain through Niftory's NFT infrastructure.
+A Flow Hackathon PWA for generating images with OpenAI and minting them as NFTs through Niftory.

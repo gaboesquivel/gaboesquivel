@@ -1,7 +1,7 @@
 ---
 title: "ScotiaTico"
 slug: "scotiatico"
-description: "Scotiabank, a top 5 Canadian bank with over $1T in assets and operations in 50+ countries, maintains a significant presence in Costa Rica through its ScotiaBank Costa Rica division. Their customer communication initiatives are critical to maintaining their 25M+ global customer relationships.\n I developed the ScotiaTico newsletter, a key communication tool for bank updates and information. My responsibility was crafting an engaging and informative newsletter layout, enhancing communication between the bank and its customers."
+description: "A customer newsletter for Scotiabank Costa Rica, designed to present bank updates and information."
 tech:
   - JavaScript
   - CSS
@@ -28,5 +28,4 @@ year: 2008
 
 # ScotiaTico
 
-Scotiabank, a top 5 Canadian bank with over $1T in assets and operations in 50+ countries, maintains a significant presence in Costa Rica through its ScotiaBank Costa Rica division. Their customer communication initiatives are critical to maintaining their 25M+ global customer relationships.
- I developed the ScotiaTico newsletter, a key communication tool for bank updates and information. My responsibility was crafting an engaging and informative newsletter layout, enhancing communication between the bank and its customers.
+A customer newsletter for Scotiabank Costa Rica, designed to present bank updates and information.

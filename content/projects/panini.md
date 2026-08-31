@@ -1,7 +1,7 @@
 ---
 title: "Panini"
 slug: "panini"
-description: "Panini, a project I worked on, provided a unique service or product in its field.\n My role in this project was focused on technical development and implementation."
+description: "A WordPress website project focused on frontend performance, browser compatibility, and interface improvements."
 tech:
   - JavaScript
   - CSS
@@ -28,5 +28,4 @@ year: 2008
 
 # Panini
 
-Panini, a project I worked on, provided a unique service or product in its field.
- My role in this project was focused on technical development and implementation.
+A WordPress website project focused on frontend performance, browser compatibility, and interface improvements.

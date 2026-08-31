@@ -14,6 +14,7 @@ export interface Project {
   title: string
   slug: string
   description: string
+  role?: string
   tech: Tag[]
   type: string[]
   link?: string

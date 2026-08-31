@@ -1,7 +1,7 @@
 ---
 title: "Gridium"
 slug: "gridium"
-description: "Gridium is a recognized provider of energy analytics software for commercial buildings, helping facility managers optimize energy usage and reduce costs through data-driven insights. Their platform processes data from thousands of buildings to identify savings opportunities.\n I built the first version of the application, focusing on displaying data collected from various buildings."
+description: "An energy-analytics application with interactive charts for monitoring commercial-building consumption data."
 tech:
   - JavaScript
   - Data Charts
@@ -30,5 +30,4 @@ year: 2013
 
 # Gridium
 
-Gridium is a recognized provider of energy analytics software for commercial buildings, helping facility managers optimize energy usage and reduce costs through data-driven insights. Their platform processes data from thousands of buildings to identify savings opportunities.
- I built the first version of the application, focusing on displaying data collected from various buildings.
+An energy-analytics application with interactive charts for monitoring commercial-building consumption data.

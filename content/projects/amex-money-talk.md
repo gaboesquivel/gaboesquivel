@@ -1,7 +1,7 @@
 ---
 title: "AMEX Money Talk"
 slug: "amex-money-talk"
-description: "The National Money Night Talk by American Express aimed to promote financial communication between parents and teenagers.\n As a Frontend Engineer, I developed the campaign's landing page, focusing on user engagement and information delivery."
+description: "An American Express family-finance campaign centered on conversations between parents and teenagers."
 tech:
   - JavaScript
   - CSS
@@ -28,5 +28,4 @@ year: 2010
 
 # AMEX Money Talk
 
-The National Money Night Talk by American Express aimed to promote financial communication between parents and teenagers.
- As a Frontend Engineer, I developed the campaign's landing page, focusing on user engagement and information delivery.
+An American Express family-finance campaign centered on conversations between parents and teenagers.

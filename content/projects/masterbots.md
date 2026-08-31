@@ -1,7 +1,7 @@
 ---
 title: "Masterbots"
 slug: "masterbots"
-description: "Masterbots.ai is a platform that aims to elevate AI beyond ChatGPT by providing specialized chatbots, social sharing features, and user-friendly innovation. It features domain-specific AI chatbots that can perform more advanced tasks beyond basic information lookup or simple conversations."
+description: "A platform for domain-specific AI assistants with specialized interfaces, social sharing, and multilingual support."
 tech:
   - NextJS
   - NodeJS
@@ -22,7 +22,6 @@ tech:
 type:
   - ai
   - oss
-  - featured
   - frontend
   - backend
   - fullstack
@@ -47,4 +46,4 @@ year: 2024
 
 # Masterbots
 
-Masterbots.ai is a platform that aims to elevate AI beyond ChatGPT by providing specialized chatbots, social sharing features, and user-friendly innovation. It features domain-specific AI chatbots that can perform more advanced tasks beyond basic information lookup or simple conversations.
+A platform for domain-specific AI assistants with specialized interfaces, social sharing, and multilingual support.

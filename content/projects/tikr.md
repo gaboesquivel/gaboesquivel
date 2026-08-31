@@ -1,7 +1,7 @@
 ---
 title: "Tikr"
 slug: "tikr"
-description: "Tikr is an online store with dynamic, real-time fluctuating prices, offering a unique shopping experience. It operates on the Ruby on Rails-based Spree backend framework.\n My role at Tikr encompassed full-stack development with a focus on frontend development and customization of the Spree backend framework."
+description: "An online store built on Spree with realtime price changes, a custom Rails backend, and a responsive storefront."
 tech:
   - Ruby on Rails
   - Spree
@@ -11,7 +11,6 @@ tech:
   - SASS
 type:
   - contract
-  - featured
   - frontend
 link: "http://tikr.com"
 image: "https://gaboesquivel.com/images/work/tikr.jpg"
@@ -32,5 +31,4 @@ year: 2013
 
 # Tikr
 
-Tikr is an online store with dynamic, real-time fluctuating prices, offering a unique shopping experience. It operates on the Ruby on Rails-based Spree backend framework.
- My role at Tikr encompassed full-stack development with a focus on frontend development and customization of the Spree backend framework.
+An online store built on Spree with realtime price changes, a custom Rails backend, and a responsive storefront.

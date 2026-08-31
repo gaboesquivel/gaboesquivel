@@ -1,7 +1,7 @@
 ---
 title: "Trivenzor"
 slug: "trivenzor"
-description: "For Trivenzor, a hypertension medication, I developed a responsive landing page for patient and healthcare provider information.\n My work involved creating a user-friendly and informative digital platform, emphasizing medical information clarity and accessibility."
+description: "A responsive medical information site for Trivenzor, designed for patients and healthcare providers."
 tech:
   - JavaScript
   - CSS
@@ -28,5 +28,4 @@ year: 2011
 
 # Trivenzor
 
-For Trivenzor, a hypertension medication, I developed a responsive landing page for patient and healthcare provider information.
- My work involved creating a user-friendly and informative digital platform, emphasizing medical information clarity and accessibility.
+A responsive medical information site for Trivenzor, designed for patients and healthcare providers.

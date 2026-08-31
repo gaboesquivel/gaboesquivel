@@ -1,7 +1,8 @@
 ---
-title: "bitlauncher"
+title: "Bitlauncher"
 slug: "bitlauncher"
-description: "BitLauncher is an AI and crypto launchpad platform that provides early access to promising AI unicorn startups through token sales and auctions. It features a batch auction system for token sales, ensuring fair and transparent price discovery. Participants bid during a fixed period, and tokens are distributed at a uniform price, eliminating manipulation and ensuring equal opportunities for all investors."
+description: "An AI and crypto launchpad for token sales, batch auctions, cross-chain wallets, bridges, and indexed market data."
+role: "Software Engineer"
 tech:
   - TypeScript
   - Solidity
@@ -60,6 +61,6 @@ order: 3
 year: 2022
 ---
 
-# bitlauncher
+# Bitlauncher
 
-BitLauncher is an AI and crypto launchpad platform that provides early access to promising AI unicorn startups through token sales and auctions. It features a batch auction system for token sales, ensuring fair and transparent price discovery. Participants bid during a fixed period, and tokens are distributed at a uniform price, eliminating manipulation and ensuring equal opportunities for all investors.
+An AI and crypto launchpad for token sales, batch auctions, cross-chain wallets, bridges, and indexed market data.

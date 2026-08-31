@@ -1,7 +1,7 @@
 ---
 title: "Earth"
 slug: "earth"
-description: "EARTH University offers education in agricultural sciences. I was responsible for building their main website, blog, and newsletter.\n My work involved creating a digital platform for information dissemination and community engagement, focusing on usability and content management."
+description: "EARTH University's website, WordPress content system, responsive blog, and newsletter for agricultural-science education."
 tech:
   - JavaScript
   - CSS
@@ -28,5 +28,4 @@ year: 2008
 
 # Earth
 
-EARTH University offers education in agricultural sciences. I was responsible for building their main website, blog, and newsletter.
- My work involved creating a digital platform for information dissemination and community engagement, focusing on usability and content management.
+EARTH University's website, WordPress content system, responsive blog, and newsletter for agricultural-science education.

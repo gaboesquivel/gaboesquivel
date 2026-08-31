@@ -1,7 +1,7 @@
 ---
 title: "4Tius Fitness Data Tracker"
 slug: "4tius-fitness-data-tracker"
-description: "The 4Tius app is a centralized platform for monitoring fitness data, integrating with Fitbit. It includes a web dashboard and API.\n As a Fullstack software engineer, I led the development of both the web application and backend systems, ensuring seamless integration and user-friendly functionality."
+description: "A Fitbit-connected fitness data platform with a responsive analytics dashboard and secure API."
 tech:
   - NodeJS
   - AWS
@@ -31,5 +31,4 @@ year: 2013
 
 # 4Tius Fitness Data Tracker
 
-The 4Tius app is a centralized platform for monitoring fitness data, integrating with Fitbit. It includes a web dashboard and API.
- As a Fullstack software engineer, I led the development of both the web application and backend systems, ensuring seamless integration and user-friendly functionality.
+A Fitbit-connected fitness data platform with a responsive analytics dashboard and secure API.

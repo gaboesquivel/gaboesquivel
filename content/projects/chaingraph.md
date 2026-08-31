@@ -1,7 +1,7 @@
 ---
 title: "ChainGraph"
 slug: "chaingraph"
-description: "This real-time GraphQL toolkit is designed for EOSIO/Antelope blockchain applications, offering features like data subscriptions and querying multiple blockchains.\n As a personal side project during my time at Bitcash, I was responsible for the architectural design, technology selection, and coding of the toolkit, including a real-time blockchain data streaming package."
+description: "An open-source GraphQL toolkit for indexing, streaming, and querying EOSIO and Antelope blockchain data."
 tech:
   - Antelope
   - NodeJS
@@ -14,7 +14,6 @@ tech:
 type:
   - web3
   - oss
-  - featured
   - backend
 link: "https://chaingraph.io"
 image: "https://gaboesquivel.com/images/work/chaingraph.png"
@@ -35,5 +34,4 @@ year: 2020
 
 # ChainGraph
 
-This real-time GraphQL toolkit is designed for EOSIO/Antelope blockchain applications, offering features like data subscriptions and querying multiple blockchains.
- As a personal side project during my time at Bitcash, I was responsible for the architectural design, technology selection, and coding of the toolkit, including a real-time blockchain data streaming package.
+An open-source GraphQL toolkit for indexing, streaming, and querying EOSIO and Antelope blockchain data.

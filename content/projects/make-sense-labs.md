@@ -1,7 +1,7 @@
 ---
 title: "Make Sense Labs"
 slug: "make-sense-labs"
-description: "Sense.chat, developed by Sense/Make Sense Labs (backed by Tim Draper and other notable investors), was one of the first crypto messaging apps to implement self-sovereign identity and encrypted communications on blockchain. The app gained recognition at major tech conferences and blockchain events.\n My role at Sense involved enhancing the React Native app's performance and integrating it with the EOS mainnet for secure messaging and token functionality."
+description: "A React Native messaging and wallet app with EOS transactions, token functionality, and privacy features."
 tech:
   - React Native
   - TypeScript
@@ -9,7 +9,6 @@ tech:
 type:
   - web3
   - contract
-  - featured
   - mobile
 link: "https://www.youtube.com/watch?v=2DJxzYDaAz8"
 image: "https://gaboesquivel.com/images/work/sense-chat.png"
@@ -30,5 +29,4 @@ year: 2019
 
 # Make Sense Labs
 
-Sense.chat, developed by Sense/Make Sense Labs (backed by Tim Draper and other notable investors), was one of the first crypto messaging apps to implement self-sovereign identity and encrypted communications on blockchain. The app gained recognition at major tech conferences and blockchain events.
- My role at Sense involved enhancing the React Native app's performance and integrating it with the EOS mainnet for secure messaging and token functionality.
+A React Native messaging and wallet app with EOS transactions, token functionality, and privacy features.

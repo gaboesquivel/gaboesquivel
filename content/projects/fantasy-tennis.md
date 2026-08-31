@@ -1,7 +1,7 @@
 ---
 title: "Fantasy Tennis"
 slug: "fantasy-tennis"
-description: "FanSlam Fantasy Tennis is a strategic game for ATP, WTA, and Grand Slam tournaments. I designed and built both the frontend and backend.\n As a fullstack developer, my work encompassed creating an engaging and functional gaming experience, integrating strategy and user interface design."
+description: "A fantasy-tennis strategy game for ATP, WTA, and Grand Slam tournaments with responsive gameplay and live data."
 tech:
   - JavaScript
   - CSS
@@ -29,5 +29,4 @@ year: 2013
 
 # Fantasy Tennis
 
-FanSlam Fantasy Tennis is a strategic game for ATP, WTA, and Grand Slam tournaments. I designed and built both the frontend and backend.
- As a fullstack developer, my work encompassed creating an engaging and functional gaming experience, integrating strategy and user interface design.
+A fantasy-tennis strategy game for ATP, WTA, and Grand Slam tournaments with responsive gameplay and live data.

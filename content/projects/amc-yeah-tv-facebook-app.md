@@ -1,7 +1,8 @@
 ---
 title: "AMC Yeah TV Facebook App"
 slug: "amc-yeah-tv-facebook-app"
-description: "An online movie streaming service allows watching movies in chapters with detailed information and interactive games.\n I was responsible for the frontend architecture design, integrating the game app with Facebook and the backoffice system with Brightcove web services for video streaming and editing."
+description: "An interactive movie-streaming experience with chapter navigation, Facebook integration, in-player content, and Brightcove tooling."
+role: "Lead UI Engineer"
 tech:
   - PHP
   - Facebook API
@@ -13,7 +14,6 @@ tech:
 type:
   - full-time
   - lead
-  - featured
   - frontend
   - institution
 link: "http://yeahtv.com"
@@ -35,5 +35,4 @@ year: 2012
 
 # AMC Yeah TV Facebook App
 
-An online movie streaming service allows watching movies in chapters with detailed information and interactive games.
- I was responsible for the frontend architecture design, integrating the game app with Facebook and the backoffice system with Brightcove web services for video streaming and editing.
+An interactive movie-streaming experience with chapter navigation, Facebook integration, in-player content, and Brightcove tooling.

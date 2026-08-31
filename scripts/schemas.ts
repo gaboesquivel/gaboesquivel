@@ -10,6 +10,7 @@ export const ProjectSchema = z.object({
   title: z.string(),
   slug: z.string(),
   description: z.string(),
+  role: z.string().optional(),
   tech: z.array(z.string()),
   type: z.array(z.string()),
   link: z.string().optional(),

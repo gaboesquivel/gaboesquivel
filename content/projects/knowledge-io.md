@@ -1,7 +1,8 @@
 ---
 title: "Knowledge.io"
 slug: "knowledge-io"
-description: "Knowledge.io was one of the first blockchain platforms aimed at knowledge-sharing with a token-based reward system. The project successfully completed its ICO in 2018, raising funds to build a decentralized knowledge ecosystem that included partnerships with advertising networks to monetize user expertise.\n My role at Knowledge included leading the architecture of the Ethereum-based token and supporting systems for their successful ICO, and forming a skilled development team across three countries."
+description: "A tokenized knowledge platform with an ERC-20 token, marketplace, wallet dashboard, and mobile trivia game."
+role: "Software Engineer"
 tech:
   - TypeScript
   - Ethereum
@@ -40,5 +41,4 @@ year: 2017
 
 # Knowledge.io
 
-Knowledge.io was one of the first blockchain platforms aimed at knowledge-sharing with a token-based reward system. The project successfully completed its ICO in 2018, raising funds to build a decentralized knowledge ecosystem that included partnerships with advertising networks to monetize user expertise.
- My role at Knowledge included leading the architecture of the Ethereum-based token and supporting systems for their successful ICO, and forming a skilled development team across three countries.
+A tokenized knowledge platform with an ERC-20 token, marketplace, wallet dashboard, and mobile trivia game.

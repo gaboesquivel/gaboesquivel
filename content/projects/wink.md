@@ -1,7 +1,8 @@
 ---
 title: "Wink"
 slug: "wink"
-description: "Wink, Costa Rica's first neo-bank, offers a mobile app for online banking, eliminating the need for physical branch visits.\n I developed the first version of Wink's mobile app and backend services within AWS. My role involved API integration with partner banks and forming a dedicated development team."
+description: "Costa Rica's first neo-bank, delivered through a React Native mobile app, AWS backend, partner-bank APIs, and biometrics."
+role: "Lead Engineer"
 tech:
   - TypeScript
   - AWS
@@ -40,5 +41,4 @@ year: 2015
 
 # Wink
 
-Wink, Costa Rica's first neo-bank, offers a mobile app for online banking, eliminating the need for physical branch visits.
- I developed the first version of Wink's mobile app and backend services within AWS. My role involved API integration with partner banks and forming a dedicated development team.
+Costa Rica's first neo-bank, delivered through a React Native mobile app, AWS backend, partner-bank APIs, and biometrics.

@@ -1,7 +1,7 @@
 ---
 title: "ARINC Microfids"
 slug: "arinc-microfids"
-description: "ARINC, now part of Collins Aerospace (a Raytheon Technologies subsidiary), is an industry leader in aviation communications and information technology serving 80% of the world's airports. Their Microfids system provides real-time flight information displays for hotels and airport businesses globally.\n My responsibilities included frontend development and system integration, ensuring a seamless display of flight information through a Ruby on Rails backend."
+description: "A realtime flight-information display for hotels and airport businesses, backed by Ruby on Rails."
 tech:
   - Ruby on Rails
   - AngularJS
@@ -30,5 +30,4 @@ year: 2013
 
 # ARINC Microfids
 
-ARINC, now part of Collins Aerospace (a Raytheon Technologies subsidiary), is an industry leader in aviation communications and information technology serving 80% of the world's airports. Their Microfids system provides real-time flight information displays for hotels and airport businesses globally.
- My responsibilities included frontend development and system integration, ensuring a seamless display of flight information through a Ruby on Rails backend.
+A realtime flight-information display for hotels and airport businesses, backed by Ruby on Rails.

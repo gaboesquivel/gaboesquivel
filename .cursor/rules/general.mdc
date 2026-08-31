@@ -4,20 +4,20 @@ alwaysApply: true
 
 # General Context
 
-The gaboesquivel NPM package is a TypeScript package that contains structured data about projects, technologies, and professional experience. This package serves as the single source of truth for portfolio information used across multiple platforms.
+The gaboesquivel NPM package is the structured fact source for Gabo Esquivel's projects and technology experience.
 
 ## Purpose
 
-This package provides data and API functions for generating CV landing pages on gaboesquivel.com, showcasing work and projects, and displaying information in the GitHub profile. The README.md file from this package is displayed on the GitHub profile when someone runs `npx gaboesquivel`.
+The package supplies project and technology data to gaboesquivel.com, the CLI, and the GitHub profile. The website owns page-level positioning and career narrative.
 
 ## Package Structure
 
-The package exports projects data, tech stack information, and query functions. Projects include details like title, slug, description, technology tags, achievements, story narratives, and related content links. The tech stack contains technology names, descriptions, experience narratives, and project associations.
+The package exports project data, technology data, and query functions. Projects include titles, slugs, descriptions, technology tags, achievements, story records, links, and presentation metadata. Technology records describe practical experience and project associations.
 
 ## Usage
 
-The package is consumed by gaboesquivel.com to render project pages, tech stack pages, work showcases, and CV content. It includes a CLI tool accessible via `npx gaboesquivel` that displays project and technology information in the terminal.
+gaboesquivel.com consumes the exports for project cards, project pages, work listings, and technology pages. The CLI is available through `npx gaboesquivel`.
 
 ## Development Guidelines
 
-When working with this package, maintain data accuracy and consistency. All project and technology information should be fact-based and verified. Use the writer skill when creating or updating content within this package to ensure consistency with the established writing style.
+Maintain factual accuracy and consistent slugs, tags, dates, and relationships. Use the writer skill for project copy. Do not add site narrative, invent facts, or describe this package as a source of CV landing-page prose.

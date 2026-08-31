@@ -1,7 +1,7 @@
 ---
 title: "Substrate Contracts UI"
 slug: "substrate-contracts-ui"
-description: "Substrate Contracts UI is a key developer tool maintained by Parity Technologies (founded by Ethereum co-founder Dr. Gavin Wood) for the Polkadot ecosystem, which has a market cap exceeding $7B. The UI simplifies WASM smart contract deployment and interaction on Substrate-based blockchains used by dozens of major projects.\n I contributed to the project by enhancing code quality through multiple open-source contributions and gained experience in building dApps with Substrate."
+description: "An open-source React interface for deploying and interacting with WASM smart contracts on Substrate."
 tech:
   - Polkadot
   - Substrate
@@ -31,5 +31,4 @@ year: 2021
 
 # Substrate Contracts UI
 
-Substrate Contracts UI is a key developer tool maintained by Parity Technologies (founded by Ethereum co-founder Dr. Gavin Wood) for the Polkadot ecosystem, which has a market cap exceeding $7B. The UI simplifies WASM smart contract deployment and interaction on Substrate-based blockchains used by dozens of major projects.
- I contributed to the project by enhancing code quality through multiple open-source contributions and gained experience in building dApps with Substrate.
+An open-source React interface for deploying and interacting with WASM smart contracts on Substrate.

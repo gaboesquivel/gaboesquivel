@@ -1,7 +1,7 @@
 ---
 title: "Jockey Hollow Bar and Kitchen Menu Kiosk App"
 slug: "jockey-hollow-bar-and-kitchen-menu-kiosk-app"
-description: "At Jockey Hollow Bar & Kitchen, I developed the Menu Kiosk App, a responsive web application for tablet kiosks. It simplifies menu selection for patrons and uses Google Spreadsheets for easy updates.\n As the sole developer, my role involved creating an intuitive and efficient digital menu solution, enhancing the dining experience."
+description: "A responsive tablet menu kiosk with Google Sheets updates and performance tuned for restaurant service."
 tech:
   - SASS
   - jQuery
@@ -33,5 +33,4 @@ year: 2013
 
 # Jockey Hollow Bar and Kitchen Menu Kiosk App
 
-At Jockey Hollow Bar & Kitchen, I developed the Menu Kiosk App, a responsive web application for tablet kiosks. It simplifies menu selection for patrons and uses Google Spreadsheets for easy updates.
- As the sole developer, my role involved creating an intuitive and efficient digital menu solution, enhancing the dining experience.
+A responsive tablet menu kiosk with Google Sheets updates and performance tuned for restaurant service.

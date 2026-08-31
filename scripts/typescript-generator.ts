@@ -43,6 +43,7 @@ function formatProject(
     title: ${JSON.stringify(project.title)},
     slug: ${JSON.stringify(project.slug)},
     description: ${JSON.stringify(project.description)},
+    ${project.role !== undefined ? `role: ${JSON.stringify(project.role)},` : ''}
     tech: ${formatArray(project.tech)},
     type: ${formatArray(project.type)},
     ${project.link !== undefined ? `link: ${JSON.stringify(project.link)},` : ''}

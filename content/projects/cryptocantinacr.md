@@ -1,7 +1,7 @@
 ---
 title: "CryptoCantinaCR"
 slug: "cryptocantinacr"
-description: "CryptoCantinaCR, established in September 2018, became Costa Rica's most influential blockchain community with over 500 regular participants and recognition from national media outlets like La Nación and El Financiero. What began as informal Thursday meetups has evolved into a formal educational initiative under CriptoCantina.org, which has trained hundreds of developers and influenced national cryptocurrency policy through engagement with government officials and regulators."
+description: "A weekly Costa Rican meetup for open discussion about blockchain, cryptography, and cryptocurrency."
 tech:
   - Blockchain
 type:
@@ -37,4 +37,4 @@ year: 2018
 
 # CryptoCantinaCR
 
-CryptoCantinaCR, established in September 2018, became Costa Rica's most influential blockchain community with over 500 regular participants and recognition from national media outlets like La Nación and El Financiero. What began as informal Thursday meetups has evolved into a formal educational initiative under CriptoCantina.org, which has trained hundreds of developers and influenced national cryptocurrency policy through engagement with government officials and regulators.
+A weekly Costa Rican meetup for open discussion about blockchain, cryptography, and cryptocurrency.

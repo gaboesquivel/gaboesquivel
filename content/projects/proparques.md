@@ -1,7 +1,7 @@
 ---
 title: "Proparques"
 slug: "proparques"
-description: "ProParques is a nonprofit for national park sustainability. I developed their responsive landing page and an interactive national park map.\n My role included web design and development, focusing on user interaction and information accessibility for park exploration."
+description: "A responsive nonprofit website with an interactive map for exploring Costa Rica's national parks."
 tech:
   - JavaScript
   - CSS
@@ -28,5 +28,4 @@ year: 2008
 
 # Proparques
 
-ProParques is a nonprofit for national park sustainability. I developed their responsive landing page and an interactive national park map.
- My role included web design and development, focusing on user interaction and information accessibility for park exploration.
+A responsive nonprofit website with an interactive map for exploring Costa Rica's national parks.

@@ -1,7 +1,7 @@
 ---
 title: "Capoeira Abolicao"
 slug: "capoeira-abolicao"
-description: "Capoeira Abolição is a Brazilian martial arts group. I volunteered to create their promotional website, showcasing their professors and community.\n My involvement included website design and development, highlighting the group's activities and global presence."
+description: "A promotional website for Capoeira Abolição's instructors, activities, and international martial-arts community."
 tech:
   - JavaScript
   - Wordpress
@@ -29,5 +29,4 @@ year: 2008
 
 # Capoeira Abolicao
 
-Capoeira Abolição is a Brazilian martial arts group. I volunteered to create their promotional website, showcasing their professors and community.
- My involvement included website design and development, highlighting the group's activities and global presence.
+A promotional website for Capoeira Abolição's instructors, activities, and international martial-arts community.

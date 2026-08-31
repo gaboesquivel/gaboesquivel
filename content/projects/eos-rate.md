@@ -1,7 +1,7 @@
 ---
 title: "EOS Rate"
 slug: "eos-rate"
-description: "EOS Rate is a community-driven tool for rating EOS Block Producers, featuring a radial graph and community input stored on the blockchain.\n In this project, I was responsible for the technical architecture and selecting the appropriate technology."
+description: "A community rating tool for EOS block producers with onchain ratings, GraphQL data, and a radial comparison interface."
 tech:
   - Antelope
   - C++
@@ -14,7 +14,6 @@ tech:
 type:
   - web3
   - oss
-  - featured
   - frontend
   - backend
   - fullstack
@@ -37,5 +36,4 @@ year: 2018
 
 # EOS Rate
 
-EOS Rate is a community-driven tool for rating EOS Block Producers, featuring a radial graph and community input stored on the blockchain.
- In this project, I was responsible for the technical architecture and selecting the appropriate technology.
+A community rating tool for EOS block producers with onchain ratings, GraphQL data, and a radial comparison interface.

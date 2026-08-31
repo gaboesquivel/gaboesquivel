@@ -1,7 +1,8 @@
 ---
-title: "bitcashBank"
+title: "Bitcash"
 slug: "bitcashbank"
-description: "At Bitcash, my role from the start focused on infrastructure design, tech recruitment, and developer training. I later transitioned to a consulting role to guide the platform's continuous adaptation and success."
+description: "A fiat-to-stablecoin and cryptocurrency exchange with peer-to-peer trading, realtime chat, browser signing, and EOS data."
+role: "Lead Engineer"
 tech:
   - Antelope
   - C++
@@ -19,9 +20,8 @@ tech:
   - Zustand
 type:
   - web3
-  - contract
+  - part-time
   - lead
-  - featured
   - frontend
   - backend
   - fullstack
@@ -37,14 +37,13 @@ achievements:
   - Built and optimized BitcashDAO for efficient community governance.
   - Developed robust GraphQL APIs for seamless blockchain data retrieval.
 story:
-  - BitcashBank is a platform for cryptocurrency transactions including buying, trading, depositing, and earning. My initial role involved designing the infrastructure, recruiting technical talent, and training developers to build a solid foundation.
-  - As the project progressed, I moved to a consulting role to guide its development. I helped build and optimize BitcashDAO for community-based governance, making the platform more responsive to user requirements.
-  - I developed chaingraph.io for real-time data updates and implemented WebAuthn integration with the EOSIO blockchain to create a 'walletless' experience. This implementation allowed for a progressive web app approach that improved security while avoiding app store constraints.
+  - Bitcash was a fiat-to-stablecoin and crypto exchange. As Lead Engineer, I architected its React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack and built its peer-to-peer exchange, realtime chat, and matching engine.
+  - I developed a realtime EOS indexer with Node.js worker threads, binary deserialization, and PostgreSQL on Google Cloud.
+  - I implemented WebAuthn for in-browser transaction signing and used Supabase subscriptions and webhooks for QR-based signature requests.
 order: 7
 year: 2020
 ---
 
-# bitcashBank
+# Bitcash
 
-Bitcash is an established crypto banking platform with over 50,000 users across Latin America, handling millions in transaction volume through its regulated financial infrastructure. The platform integrates with local banking systems in multiple countries and features BitcashDAO for community governance of its decentralized finance products.
- At Bitcash, my role from the start focused on infrastructure design, tech recruitment, and developer training. I later transitioned to a consulting role to guide the platform's continuous adaptation and success.
+A fiat-to-stablecoin and cryptocurrency exchange with peer-to-peer trading, realtime chat, browser signing, and EOS data.

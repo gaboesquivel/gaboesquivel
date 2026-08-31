@@ -1,7 +1,7 @@
 ---
 title: "Emanate"
 slug: "emanate"
-description: "Emanate is a blockchain-based music platform that raised over $2M in funding and partnered with major artists and labels. The platform features their native EMT token for artist payments and uses smart contracts to ensure transparent royalty distribution.\n At Emanate, I maintained the ReactJS web app streaming platform and developed back-office tools for artist revenue distribution, working with a distributed team across Australia, Europe, and the Americas."
+description: "A blockchain music-streaming platform with token-based artist payments and back-office revenue tools."
 tech:
   - ReactJS
   - TypeScript
@@ -11,7 +11,6 @@ tech:
 type:
   - web3
   - contract
-  - featured
   - frontend
 link: "https://emanate.live"
 image: "https://gaboesquivel.com/images/work/emanate.png"
@@ -32,5 +31,4 @@ year: 2019
 
 # Emanate
 
-Emanate is a blockchain-based music platform that raised over $2M in funding and partnered with major artists and labels. The platform features their native EMT token for artist payments and uses smart contracts to ensure transparent royalty distribution.
- At Emanate, I maintained the ReactJS web app streaming platform and developed back-office tools for artist revenue distribution, working with a distributed team across Australia, Europe, and the Americas.
+A blockchain music-streaming platform with token-based artist payments and back-office revenue tools.

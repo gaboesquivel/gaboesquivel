@@ -1,7 +1,7 @@
 ---
 title: "Living with Dryness"
 slug: "living-with-dryness"
-description: "The Living with Dryness project involved crafting a responsive landing page focused on providing information and resources.\n As the developer, I ensured a pixel-perfect design and user-friendly navigation, catering to the project's specific audience and needs."
+description: "A responsive medical information page designed to make dryness-related resources easy to read and find."
 tech:
   - JavaScript
   - CSS
@@ -28,5 +28,4 @@ year: 2011
 
 # Living with Dryness
 
-The Living with Dryness project involved crafting a responsive landing page focused on providing information and resources.
- As the developer, I ensured a pixel-perfect design and user-friendly navigation, catering to the project's specific audience and needs.
+A responsive medical information page designed to make dryness-related resources easy to read and find.

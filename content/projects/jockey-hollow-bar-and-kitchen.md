@@ -1,7 +1,7 @@
 ---
 title: "Jockey Hollow Bar and Kitchen"
 slug: "jockey-hollow-bar-and-kitchen"
-description: "Jockey Hollow Bar and Kitchen, located in Morristown's historic Vail Mansion (built 1917), is a renowned multi-concept restaurant by acclaimed restaurateur Chris Cannon. The venue features The Oyster Bar, The Vail Bar, The Dining Room, and The Rathskeller, earning recognition from The New York Times and other major publications.\n My work focused on developing the main responsive landing page, ensuring an inviting and informative digital gateway to the restaurant's offerings."
+description: "A responsive website presenting Jockey Hollow's multi-concept restaurant and dining spaces."
 tech:
   - SASS
   - jQuery
@@ -33,5 +33,4 @@ year: 2013
 
 # Jockey Hollow Bar and Kitchen
 
-Jockey Hollow Bar and Kitchen, located in Morristown's historic Vail Mansion (built 1917), is a renowned multi-concept restaurant by acclaimed restaurateur Chris Cannon. The venue features The Oyster Bar, The Vail Bar, The Dining Room, and The Rathskeller, earning recognition from The New York Times and other major publications.
- My work focused on developing the main responsive landing page, ensuring an inviting and informative digital gateway to the restaurant's offerings.
+A responsive website presenting Jockey Hollow's multi-concept restaurant and dining spaces.

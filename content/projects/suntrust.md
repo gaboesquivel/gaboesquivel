@@ -1,7 +1,7 @@
 ---
 title: "SunTrust"
 slug: "suntrust"
-description: "SunTrust (now Truist after merging with BB&T), was a major financial institution with over $220B in assets serving 4.5M+ households. Their Solid Salutes campaign was a key digital initiative to strengthen community engagement and brand loyalty.\n I developed the entire campaign website, focusing on design and user interaction. My role included overseeing the website's development from concept to implementation, emphasizing user engagement and visual appeal."
+description: "A SunTrust campaign website for creating and sharing personalized video salutes."
 tech:
   - JavaScript
   - CSS
@@ -27,5 +27,4 @@ year: 2011
 
 # SunTrust
 
-SunTrust (now Truist after merging with BB&T), was a major financial institution with over $220B in assets serving 4.5M+ households. Their Solid Salutes campaign was a key digital initiative to strengthen community engagement and brand loyalty.
- I developed the entire campaign website, focusing on design and user interaction. My role included overseeing the website's development from concept to implementation, emphasizing user engagement and visual appeal.
+A SunTrust campaign website for creating and sharing personalized video salutes.

@@ -1,7 +1,8 @@
 ---
 title: "LegalAgent"
 slug: "legal-agent"
-description: "AI assistant with both voice and chat capabilities into LegalAgent's React Native (Expo) mobile app. This assistant empowers lawyers to swiftly access case information, providing contextual legal support, document summaries, and procedural guidance."
+description: "An AI legal platform with Expo voice and chat, RAG for case and document context, and administrative controls."
+role: "Software Engineer"
 tech:
   - TypeScript
   - React Native
@@ -43,4 +44,4 @@ year: 2025
 
 # LegalAgent
 
-AI assistant with both voice and chat capabilities into LegalAgent's React Native (Expo) mobile app. This assistant empowers lawyers to swiftly access case information, providing contextual legal support, document summaries, and procedural guidance.
+An AI legal platform with Expo voice and chat, RAG for case and document context, and administrative controls.

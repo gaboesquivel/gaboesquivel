@@ -1,7 +1,7 @@
 ---
 title: "Bureau of Trade (Beta)"
 slug: "bureau-of-trade-beta"
-description: "Bureau of Trade (Beta) is an online store offering a range of products, with a frontend integrated with eBay's API for diverse shopping experiences.\n As the sole Fullstack developer, my focus was on frontend development, responsive design, and animations, along with eBay API integration."
+description: "An online store with an eBay-backed catalog, responsive browsing, and animated product interfaces."
 tech:
   - PHP
   - eBay API
@@ -30,5 +30,4 @@ year: 2013
 
 # Bureau of Trade (Beta)
 
-Bureau of Trade (Beta) is an online store offering a range of products, with a frontend integrated with eBay's API for diverse shopping experiences.
- As the sole Fullstack developer, my focus was on frontend development, responsive design, and animations, along with eBay API integration.
+An online store with an eBay-backed catalog, responsive browsing, and animated product interfaces.

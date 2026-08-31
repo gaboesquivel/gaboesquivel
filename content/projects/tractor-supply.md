@@ -1,7 +1,7 @@
 ---
 title: "Tractor Supply"
 slug: "tractor-supply"
-description: "Tractor Supply Company, a Fortune 500 company with over 2,000 stores and $10B+ in annual revenue, is America's largest rural lifestyle retailer. Their mobile app serves millions of customers with features like product browsing, exclusive offers, account management, and augmented reality product previews.\n As a consultant, I enhanced the app's performance and code quality, and developed its augmented reality feature, improving user experience and engagement."
+description: "A React Native retail app with product browsing, account tools, and augmented-reality previews powered by ViroAR."
 tech:
   - React Native
   - ReactJS
@@ -32,5 +32,4 @@ year: 2020
 
 # Tractor Supply
 
-Tractor Supply Company, a Fortune 500 company with over 2,000 stores and $10B+ in annual revenue, is America's largest rural lifestyle retailer. Their mobile app serves millions of customers with features like product browsing, exclusive offers, account management, and augmented reality product previews.
- As a consultant, I enhanced the app's performance and code quality, and developed its augmented reality feature, improving user experience and engagement.
+A React Native retail app with product browsing, account tools, and augmented-reality previews powered by ViroAR.

@@ -1,7 +1,8 @@
 ---
 title: "American Express"
 slug: "american-express"
-description: "American Express, a Fortune 100 company with over 100M cardmembers globally and $180B+ in annual revenue, operates one of the world's largest payment networks. Their website serves millions of users daily for account management and financial services.\n My responsibility was focused on front-end development, including Object-Oriented JavaScript, AJAX for a fluid user experience, and implementing A/B Testing and usage analytics."
+description: "American Express cardmember and marketing web experiences with responsive interfaces, experimentation, and analytics."
+role: "UI Engineer"
 tech:
   - JSP (Struts)
   - Omniture
@@ -13,7 +14,6 @@ tech:
   - AJAX
 type:
   - full-time
-  - featured
   - frontend
   - institution
 link: "https://www.americanexpress.com/"
@@ -35,5 +35,4 @@ year: 2009
 
 # American Express
 
-American Express, a Fortune 100 company with over 100M cardmembers globally and $180B+ in annual revenue, operates one of the world's largest payment networks. Their website serves millions of users daily for account management and financial services.
- My responsibility was focused on front-end development, including Object-Oriented JavaScript, AJAX for a fluid user experience, and implementing A/B Testing and usage analytics.
+American Express cardmember and marketing web experiences with responsive interfaces, experimentation, and analytics.

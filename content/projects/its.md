@@ -1,7 +1,7 @@
 ---
 title: "ITS"
 slug: "its"
-description: "ITS InfoCom, an IT multinational, focuses on Remote Infrastructure Management. I implemented their primary website, CMS, and CRM integration.\n My role was to create and integrate digital solutions for the company, focusing on web presence and customer relationship management."
+description: "ITS InfoCom's corporate website, content-management system, and CRM integration for remote infrastructure services."
 tech:
   - JavaScript
   - CSS
@@ -29,5 +29,4 @@ year: 2008
 
 # ITS
 
-ITS InfoCom, an IT multinational, focuses on Remote Infrastructure Management. I implemented their primary website, CMS, and CRM integration.
- My role was to create and integrate digital solutions for the company, focusing on web presence and customer relationship management.
+ITS InfoCom's corporate website, content-management system, and CRM integration for remote infrastructure services.

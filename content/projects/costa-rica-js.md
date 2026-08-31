@@ -1,7 +1,7 @@
 ---
 title: "Costa Rica JS"
 slug: "costa-rica-js"
-description: "Costa Rica JS, founded in 2010, grew to become Central America's largest JavaScript community with over 2000 developers. The community played a crucial role in fostering the region's tech ecosystem during the rise of Node.js, organizing major events like NodeSchool International Day and hosting speakers from companies like Mozilla and Netflix.\n As founder, I organized regular meetups, workshops, and the annual JSConf Costa Rica, helping establish Costa Rica as a growing tech hub in Latin America."
+description: "A JavaScript community founded in 2010 that grew past 2,000 developers through meetups, NodeSchool, and JSConf Costa Rica."
 tech:
   - JavaScript
   - NodeJS
@@ -45,5 +45,4 @@ year: 2010
 
 # Costa Rica JS
 
-Costa Rica JS, founded in 2010, grew to become Central America's largest JavaScript community with over 2000 developers. The community played a crucial role in fostering the region's tech ecosystem during the rise of Node.js, organizing major events like NodeSchool International Day and hosting speakers from companies like Mozilla and Netflix.
- As founder, I organized regular meetups, workshops, and the annual JSConf Costa Rica, helping establish Costa Rica as a growing tech hub in Latin America.
+A JavaScript community founded in 2010 that grew past 2,000 developers through meetups, NodeSchool, and JSConf Costa Rica.

@@ -1,7 +1,7 @@
 ---
 title: "Fantasy Top Shots"
 slug: "fantasy-top-shots"
-description: "This mobile app game built on NBA Top Shot NFTs was developed for the 2022 Flow Hackathon. It integrates with NBA Top Shot's marketplace, which has processed over $1B in NFT transactions and is officially licensed by the NBA. The game received recognition at the Flow Hackathon among hundreds of participating projects.\n My contribution to this project was in the game's design and development, utilizing my skills in blockchain technology and mobile app development."
+description: "A Flow Hackathon mobile game using NBA Top Shot NFTs through a React Native and Expo interface."
 tech:
   - Flow
   - NFT
@@ -13,7 +13,6 @@ tech:
 type:
   - web3
   - hackathon
-  - featured
   - mobile
 link: "https://fantasy-top-shot.vercel.app"
 image: "https://gaboesquivel.com/images/work/fantasy-top-shots.png"
@@ -34,5 +33,4 @@ year: 2022
 
 # Fantasy Top Shots
 
-This mobile app game built on NBA Top Shot NFTs was developed for the 2022 Flow Hackathon. It integrates with NBA Top Shot's marketplace, which has processed over $1B in NFT transactions and is officially licensed by the NBA. The game received recognition at the Flow Hackathon among hundreds of participating projects.
- My contribution to this project was in the game's design and development, utilizing my skills in blockchain technology and mobile app development.
+A Flow Hackathon mobile game using NBA Top Shot NFTs through a React Native and Expo interface.

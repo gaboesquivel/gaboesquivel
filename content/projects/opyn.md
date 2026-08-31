@@ -1,7 +1,8 @@
 ---
 title: "Opyn"
 slug: "opyn"
-description: "Opyn is a decentralized options protocol on Arbitrum that raised $6.7M Series A funding led by Paradigm. Their main product Squeeth is a notable DeFi-native derivative. I implemented their initial trading interface and data indexing setup for Arbitrum Testnet using Next.js, Ponder, and viem/wagmi."
+description: "A decentralized options protocol on Arbitrum with a Next.js trading interface and indexed onchain data."
+role: "Software Engineer"
 tech:
   - TypeScript
   - NextJS
@@ -45,4 +46,4 @@ year: 2023
 
 # Opyn
 
-Opyn is a decentralized options protocol on Arbitrum that raised $6.7M Series A funding led by Paradigm. Their main product Squeeth is a notable DeFi-native derivative. I implemented their initial trading interface and data indexing setup for Arbitrum Testnet using Next.js, Ponder, and viem/wagmi.
+A decentralized options protocol on Arbitrum with a Next.js trading interface and indexed onchain data.
