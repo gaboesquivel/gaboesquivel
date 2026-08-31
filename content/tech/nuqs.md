@@ -8,7 +8,7 @@ link: "https://nuqs.47ng.com/"
 since: "2023"
 intro:
   - nuqs provides a way to store and synchronize state in URL query parameters with type safety.
-  - It enables shareable URLs with application state and seamless integration with Next.js.
+  - It keeps UI state in the URL so filters and views can be shared, and it works with Next.js App Router.
 experience:
   - Used nuqs in Opyn and BitLauncher for managing filterable and shareable UI states.
 ---

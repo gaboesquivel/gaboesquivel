@@ -18,15 +18,14 @@ images:
   - https://gaboesquivel.com/images/work/cryptocantina-london-room-3.jpg
   - https://gaboesquivel.com/images/work/cryptocantina-london-room-4.jpg
 achievements:
-  - Established a recurring crypto community event every Thursday starting September 2018.
-  - Created an inclusive space for blockchain enthusiasts to connect and share knowledge.
-  - Built a forward-thinking community centered around blockchain and distributed consensus technologies.
-  - Facilitated networking between people from various backgrounds in the crypto space.
-  - Evolved into a formal educational platform promoting blockchain technology adoption.
+  - Started a weekly Thursday meetup in September 2018 at Central Pub in Paseo Colón.
+  - "Kept the format informal: no presentations, no talks, just open discussion."
+  - Brought together people working on blockchain, cryptography, and cryptocurrency in Costa Rica.
+  - Handed the initiative to Karla Córdoba as it became CriptoCantina.org, a structured education program.
 story:
-  - CryptoCantinaCR started as a recurring after-office happy hour event that brought together blockchain, cryptography, and cryptocurrency enthusiasts in Costa Rica. What began as informal Thursday meetups at Central Pub in Paseo Colón has since evolved into a formal educational initiative under CriptoCantina.org.
-  - The events were designed to be casual and inclusive, with no presentations or formal talks, focusing on organic connections and discussions. This format created a space where participants could engage in meaningful conversations about blockchain technology.
-  - The initiative later evolved into CriptoCantina.org, a more structured educational platform led by Karla Córdoba. This organization now focuses on formal blockchain education, entrepreneur support, and helping newcomers enter the technology sector.
+  - "CryptoCantinaCR started as a Thursday after-office meetup I helped start in 2018 at Central Pub in Paseo Colón. The brief was simple: people working on blockchain, cryptography, and cryptocurrency in Costa Rica, talking without a stage."
+  - I kept the format informal on purpose. No presentations, no talks. The point was conversation, not a speaker calendar.
+  - The meetup later became CriptoCantina.org, a structured education program led by Karla Córdoba. I started the weekly gathering; she turned it into the school.
 related:
   - url: "https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina"
     title: "Costa Rica Crypto Cantina"

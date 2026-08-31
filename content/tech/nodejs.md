@@ -13,9 +13,9 @@ intro:
 experience:
   - Built a custom EVM event indexer for BitLauncher using Node.js with Viem subscriptions, efficiently processing blockchain data in real-time.
   - Developed ChainGraph, an open-source GraphQL toolkit for blockchain data, using Node.js for real-time data streaming and event processing.
-  - Created BitcashBank backend infrastructure with Node.js microservices, handling millions in transaction volume across Latin America.
-  - Led the architecture of Knowledge.io's Ethereum token system and supporting infrastructure using serverless Node.js functions.
-  - Founded Costa Rica JS, which became Central America's largest JavaScript community, promoting collaborative open-source development.
+  - "Built Bitcash's backend in Node.js: matching engine, realtime chat, and the EOS indexer."
+  - Built Knowledge.io's token and marketplace services as serverless Node.js functions.
+  - Founded Costa Rica JS in 2010; the community grew past 2,000 developers.
 ---
 
 # Node.js

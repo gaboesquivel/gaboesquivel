@@ -10,7 +10,7 @@ intro:
   - Stripe provides a suite of payment APIs that powers commerce for online businesses of all sizes.
   - It is known for its ease of integration and support for a wide range of payment methods.
 experience:
-  - Integrated Stripe in projects like Eat Arcade for seamless payment processing and user transactions.
+  - Integrated Stripe on Eat Arcade so SMS subscriptions could be billed.
 ---
 
 # Stripe

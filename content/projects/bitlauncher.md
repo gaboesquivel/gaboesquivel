@@ -45,18 +45,18 @@ repo: "https://github.com/bitcashorg/smartevm"
 video: "https://www.youtube.com/watch?v=U6vn3KOEwcQ"
 images: []
 achievements:
-  - Architected a full-stack solution using Viem, Wagmi, Alchemy, Trigger.dev, Supabase, Next.js 14, and ShadcnUI to ensure a scalable and responsive platform.
-  - Crafted a custom token bridge for swapping USDT, USDC, and BITUSD to USDCred tokens, facilitating seamless bidding within the platform.
+  - Architected the platform on Next.js 14, Supabase, viem, wagmi, Alchemy, Trigger.dev, and shadcn/ui.
+  - Built a token bridge for swapping USDT, USDC, and BITUSD to USDCred so bids could settle in protocol tokens.
   - Implemented a transaction data indexing system with Supabase for efficient querying, real-time subscriptions, and data aggregation analytics.
   - Deployed Gnosis auction Solidity contracts to EOS EVM and developed a bidding interface with real-time updates via Supabase subscriptions.
   - Created a wallet interface that displays real-time EVM balances through Wagmi token balance subscriptions and EOS token balances via RPC polling.
   - Built a custom indexer for EOS EVM using Node.js, Viem EVM event subscriptions, and dFuse stream for EOS.
-  - Developed the chatbot assistant at bitlauncher.ai, leveraging tools integration for accessing the latest news and YouTube videos, and RAG for detailed info retrieval.
+  - Developed the chatbot at bitlauncher.ai, with tool calls for news and YouTube and RAG for longer answers.
   - Integrated AI SDK for internationalization automation and established an AI-driven development workflow using v0.dev, Anthropic Claude Sonnet, Cursor IDE, and SourceryAI.
 story:
-  - BitLauncher is an AI and crypto launchpad platform providing access to AI startups through token sales and auctions. The platform uses a decentralized approach to make the investment process more accessible to participants.
-  - The batch auction system creates a transparent environment for token sales, distributing tokens at a uniform price to reduce barriers in fundraising. I implemented Viem, Wagmi, and Supabase to build a responsive user interface and data layer.
-  - I developed this project with the team behind bitcash.org, with whom I've been working since 2020. The platform facilitates token sales using blockchain technology while maintaining a focus on accessibility.
+  - "BitLauncher is an AI and crypto launchpad: token sales and batch auctions for early access to AI startups. I architected the Next.js, Supabase, viem, and wagmi stack."
+  - The auction sells at a uniform price. I built the bidding interface, the token bridge, wallets with live balances, and indexers for EOS EVM and EOS.
+  - I built this with the bitcash.org team I have worked with since 2020. I also wired AI SDK work for Masterbots and the i18n automation.
 order: 3
 year: 2022
 ---

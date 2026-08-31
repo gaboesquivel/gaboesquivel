@@ -11,3 +11,4 @@ src/generated
 .agents
 .claude
 
+.DS_Store

@@ -10,8 +10,7 @@ intro:
   - Ruby on Rails is a full-stack web application framework that emphasizes convention over configuration.
   - It is known for its developer-friendly syntax and rapid development capabilities.
 experience:
-  - Developed applications like Tikr and ARINC Microfids using Ruby on Rails for robust backend solutions, focusing on simplicity and maintainability.
-  - Leveraged Ruby on Rails to build scalable and efficient web applications, adhering to the principle of optimizing later.
+  - Built Tikr's storefront backend and ARINC Microfids on Rails, keeping the server side conventional so the frontend could stay current.
 ---
 
 # Ruby on Rails

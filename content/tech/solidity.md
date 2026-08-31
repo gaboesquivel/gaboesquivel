@@ -13,7 +13,7 @@ intro:
 experience:
   - Implemented Gnosis auction Solidity contracts for BitLauncher on EOS EVM, enabling transparent batch auctions with uniform pricing.
   - Developed type-safe smart contracts for Opyn's decentralized options protocol on Arbitrum Testnet using Solidity and Foundry.
-  - Created secure token contracts for Knowledge.io's successful ICO in 2018, focusing on security best practices.
+  - Wrote the ERC-20 contracts for Knowledge.io's 2018 mainnet ICO.
 ---
 
 # Solidity

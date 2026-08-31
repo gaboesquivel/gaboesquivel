@@ -22,13 +22,13 @@ image: "https://gaboesquivel.com/images/work/yeahtv.jpg"
 
 images: []
 achievements:
-  - Designed and built a scalable frontend architecture for an interactive movie experience.
-  - Integrated Brightcove video streaming API for seamless movie playback.
-  - Implemented Facebook API features for user engagement and monetization.
+  - Designed and built the frontend architecture for an interactive movie player.
+  - Integrated Brightcove for streaming, chapter playback, and back-office editing.
+  - Implemented Facebook API features for identity, sharing, and in-player content.
 story:
-  - An online movie streaming service allows watching movies in chapters with detailed information and interactive games. I was responsible for the frontend architecture design, integrating the game app with Facebook and the backoffice system with Brightcove web services for video streaming and editing.
-  - I built a scalable and interactive platform that focused on user engagement through video playback and social features. The implementation used the Brightcove API for streaming functionality and content management.
-  - The project combined entertainment content with technical features to create an interactive viewing experience. The integration with Facebook's platform allowed for social sharing and user identification within the application.
+  - "YEAH! was AMC's interactive streaming movie service: classic genre films with chapter navigation and bonus content inside the player. As Lead UI Engineer I owned the frontend architecture."
+  - "I integrated the player with Facebook for identity and sharing, and the back office with Brightcove for streaming and editing. Each curated film carried hundreds of interactive elements: trivia, interviews, quizzes."
+  - The work sat between a creative team and a backend team. The screen had to play the film and the extras without fighting the player.
 order: 22
 year: 2012
 ---

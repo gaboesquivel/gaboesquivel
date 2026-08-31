@@ -7,10 +7,10 @@ description: "A blockchain development platform that provides infrastructure and
 link: "https://www.alchemy.com/"
 since: "2020"
 intro:
-  - Alchemy offers a suite of tools and infrastructure for building decentralized applications on blockchain networks.
-  - It is known for its reliability and performance, supporting developers in building scalable blockchain solutions.
+  - Alchemy provides RPC, APIs, and development tools for building on Ethereum and other EVM networks.
+  - I used it as the node layer rather than running my own.
 experience:
-  - Used Alchemy in projects like BitLauncher for reliable blockchain infrastructure and development support.
+  - Used Alchemy as the RPC and development layer on BitLauncher.
 ---
 
 # Alchemy

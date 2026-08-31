@@ -1,7 +1,7 @@
 ---
 title: "Panini"
 slug: "panini"
-description: "A WordPress website project focused on frontend performance, browser compatibility, and interface improvements."
+description: "A WordPress site for Panini: frontend performance, browser compatibility, and interface work."
 tech:
   - JavaScript
   - CSS
@@ -28,4 +28,4 @@ year: 2008
 
 # Panini
 
-A WordPress website project focused on frontend performance, browser compatibility, and interface improvements.
+A WordPress site for Panini: frontend performance, browser compatibility, and interface work.

@@ -34,7 +34,7 @@ images: []
 achievements:
   - Integrated AI SDK for internationalization automation and AI-driven workflow.
   - Developed specialized AI agents and chatbot interfaces for various use cases.
-  - Set up a scalable Next.js architecture and trained the team for effective implementation.
+  - Set up the Next.js application structure and trained the team on it.
   - Integrated AI-driven development workflow using v0.dev, Anthropic Claude Sonnet, Cursor IDE, and SourceryAI.
 story:
   - Masterbots.ai focuses on domain-specific AI chatbots that go beyond basic information retrieval. The platform provides specialized conversational tools designed to handle more complex tasks than standard chatbots.

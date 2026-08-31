@@ -10,7 +10,7 @@ intro:
   - C++ is a general-purpose programming language known for its performance and efficiency, widely used in system software, game development, and real-time simulations.
   - It supports object-oriented, procedural, and generic programming paradigms.
 experience:
-  - Utilized C++ in projects like bitcashBank and EOS Costa Rica for high-performance application development.
+  - Wrote C++ at Bitcash and EOS Costa Rica for indexing and chain-adjacent services.
 ---
 
 # C++

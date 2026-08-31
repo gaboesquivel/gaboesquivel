@@ -1,7 +1,7 @@
 ---
 title: "Jockey Hollow Bar and Kitchen"
 slug: "jockey-hollow-bar-and-kitchen"
-description: "A responsive website presenting Jockey Hollow's multi-concept restaurant and dining spaces."
+description: "A responsive site for Jockey Hollow Bar and Kitchen, a historic mansion with four dining concepts."
 tech:
   - SASS
   - jQuery
@@ -21,7 +21,7 @@ image: "https://gaboesquivel.com/images/work/jockey-hollow.png"
 images: []
 achievements:
   - Developed a fully responsive landing page with a focus on user experience.
-  - Optimized page speed and performance for seamless navigation.
+  - Cut page weight so the landing page loaded on the connections diners actually had.
   - Integrated dynamic content features to showcase the restaurant's offerings effectively.
 story:
   - Jockey Hollow Bar and Kitchen, located in a historic mansion, features four distinct dining concepts. I developed their responsive landing page as an informative gateway to the restaurant's offerings.
@@ -33,4 +33,4 @@ year: 2013
 
 # Jockey Hollow Bar and Kitchen
 
-A responsive website presenting Jockey Hollow's multi-concept restaurant and dining spaces.
+A responsive site for Jockey Hollow Bar and Kitchen, a historic mansion with four dining concepts.

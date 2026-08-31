@@ -8,7 +8,7 @@ link: "https://stitches.dev/"
 since: "2021"
 intro:
   - Stitches provides a way to write CSS with JavaScript with excellent performance characteristics.
-  - It offers a powerful theming solution and variant API for building consistent UI components.
+  - It has a theming model and a variant API for component styles.
 experience:
   - Used Stitches in bitcashBank for creating a themeable and consistent UI design system.
   - Implemented component variants to create flexible and reusable UI elements across the application.

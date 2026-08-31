@@ -10,7 +10,7 @@ intro:
   - Serverless computing allows developers to build and run applications without managing the underlying infrastructure.
   - It is known for its scalability and cost-effectiveness, enabling developers to focus on code rather than server management.
 experience:
-  - Implemented serverless architectures in projects like Knowledge.io for scalable and efficient application deployment.
+  - Implemented serverless functions for Knowledge.io's token and marketplace services.
 ---
 
 # Serverless

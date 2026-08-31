@@ -3,7 +3,7 @@ name: "Zustand"
 slug: "zustand"
 tag: "Zustand"
 image: "/images/tech/zustand.png"
-description: "A small, fast, and scalable state management solution for React applications."
+description: "A small React state library with a hook API and little boilerplate."
 link: "https://github.com/pmndrs/zustand"
 since: "2021"
 intro:
@@ -16,4 +16,4 @@ experience:
 
 # Zustand
 
-A small, fast, and scalable state management solution for React applications.
+A small React state library with a hook API and little boilerplate.

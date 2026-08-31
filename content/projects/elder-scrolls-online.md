@@ -18,7 +18,7 @@ image: "https://gaboesquivel.com/images/work/elder-scrolls.jpg"
 images: []
 achievements:
   - Designed and implemented a user-centric website for the gaming community.
-  - Optimized site navigation for a seamless user experience.
+  - Rebuilt navigation so news, guides, and forums were reachable without hunting.
   - Integrated social media features to enhance community engagement.
 story:
   - The official website serves as a central hub for a gaming community, offering news, game guides, and forums. My role was to ensure a user-centric design for the website, facilitating easy navigation and engagement with the content.

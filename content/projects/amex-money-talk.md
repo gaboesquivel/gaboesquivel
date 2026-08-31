@@ -16,7 +16,7 @@ image: "https://gaboesquivel.com/images/work/money-talk.jpg"
 images: []
 achievements:
   - Developed an engaging landing page to enhance user interaction.
-  - Implemented responsive design for a seamless experience across devices.
+  - Built a responsive landing page that held up on phones as well as desktops.
   - Optimized page performance to improve load times and accessibility.
 story:
   - The National Money Night Talk by American Express promoted financial communication between parents and teenagers. As a Frontend Engineer, I developed the campaign's landing page focusing on user engagement and information delivery.

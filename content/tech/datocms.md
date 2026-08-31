@@ -7,8 +7,8 @@ description: "A headless CMS that offers a flexible content management solution 
 link: "https://www.datocms.com/"
 since: "2020"
 intro:
-  - DatoCMS is a headless content management system that provides a flexible and powerful solution for managing content across multiple platforms.
-  - It offers a user-friendly interface, robust API, and seamless integration with modern development frameworks.
+  - DatoCMS is a headless CMS for managing content across sites and apps.
+  - Editors get a structured UI; the app reads the content through its API.
 experience:
   - Implemented DatoCMS on the BitLauncher blog for content management, with AI-powered internationalization using Claude scripts.
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Trivenzor"
 slug: "trivenzor"
-description: "A responsive medical information site for Trivenzor, designed for patients and healthcare providers."
+description: "A responsive medical information site for Trivenzor, written for patients and for clinicians."
 tech:
   - JavaScript
   - CSS
@@ -28,4 +28,4 @@ year: 2011
 
 # Trivenzor
 
-A responsive medical information site for Trivenzor, designed for patients and healthcare providers.
+A responsive medical information site for Trivenzor, written for patients and for clinicians.

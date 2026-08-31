@@ -1,7 +1,7 @@
 ---
 title: "ScotiaTico"
 slug: "scotiatico"
-description: "A customer newsletter for Scotiabank Costa Rica, designed to present bank updates and information."
+description: "A WordPress customer newsletter for Scotiabank Costa Rica: bank updates in a layout staff could maintain."
 tech:
   - JavaScript
   - CSS
@@ -28,4 +28,4 @@ year: 2008
 
 # ScotiaTico
 
-A customer newsletter for Scotiabank Costa Rica, designed to present bank updates and information.
+A WordPress customer newsletter for Scotiabank Costa Rica: bank updates in a layout staff could maintain.

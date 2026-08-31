@@ -11,7 +11,7 @@ intro:
   - Google Cloud Platform offers a suite of cloud computing services, providing infrastructure, platform, and software solutions.
   - It is known for its scalability, reliability, and integration with Google's ecosystem.
 experience:
-  - Utilized GCP in projects like RareMint and bitcashBank for scalable cloud infrastructure and services.
+  - "Ran RareMint and Bitcash on GCP: indexers, APIs, and the data they wrote."
 ---
 
 # GCP

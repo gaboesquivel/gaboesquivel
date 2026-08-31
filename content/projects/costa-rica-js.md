@@ -22,13 +22,13 @@ images:
   - https://gaboesquivel.com/images/2016/05/paintballjs.jpg
   - https://gaboesquivel.com/images/work/gaboesquivel-presentation.jpg
 achievements:
-  - Founded and grew Central America's largest JavaScript community to over 2000 developers.
-  - Organized regular meetups, workshops, and educational events.
-  - Fostered the region's tech ecosystem during the rise of Node.js and modern web frameworks.
+  - Founded Costa Rica JS in 2010 and grew it past 2,000 developers.
+  - Organized regular meetups, workshops, NodeSchool events, and JSConf Costa Rica.
+  - Ran hands-on workshops as Node.js and modern web frameworks arrived in the region.
 story:
-  - Costa Rica JS became Central America's largest JavaScript community with over 2000 developers. The community played a crucial role in fostering the region's tech ecosystem as Node.js and modern web frameworks gained prominence.
-  - As founder, I organized regular meetups, workshops, and educational events to help developers learn emerging technologies and best practices. These activities supported professional development and knowledge sharing.
-  - The community served as a networking platform and career development resource for the region's tech sector. We focused on practical skills development through hands-on workshops and collaborative learning experiences.
+  - Costa Rica JS is a JavaScript community I founded in 2010. It grew past 2,000 developers through meetups, NodeSchool, and JSConf Costa Rica.
+  - As founder I organized the meetups, workshops, and conferences. The point was practical skill-building as Node.js and modern web frameworks arrived, not a networking club with a speaker at the front.
+  - The community became a place people used to learn, hire, and get hired. Workshops stayed hands-on so the knowledge transferred.
 related:
   - url: "https://gaboesquivel.com/blog/2016-06-nodeschool-international-day"
     title: "NodeSchool International Day"

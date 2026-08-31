@@ -7,10 +7,10 @@ description: "A JavaScript API for rendering interactive 3D and 2D graphics with
 link: "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API"
 since: "2018"
 intro:
-  - WebGL is a powerful API for rendering 3D and 2D graphics in web browsers, enabling interactive visual experiences.
+  - WebGL is a browser API for rendering 3D and 2D graphics.
   - It is widely used in gaming, data visualization, and interactive web applications.
 experience:
-  - Utilized WebGL in projects like ZTX for creating immersive 3D environments and visualizations.
+  - Built the WebGL wallet connection in ZTX so a live session could sign from inside the world.
 ---
 
 # WebGL

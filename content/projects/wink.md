@@ -1,7 +1,7 @@
 ---
 title: "Wink"
 slug: "wink"
-description: "Costa Rica's first neo-bank, delivered through a React Native mobile app, AWS backend, partner-bank APIs, and biometrics."
+description: "Costa Rica's first neobank, delivered through a React Native mobile app, AWS backend, partner-bank APIs, and biometrics."
 role: "Lead Engineer"
 tech:
   - TypeScript
@@ -29,16 +29,16 @@ video: "https://www.youtube.com/watch?v=rfeISMW_OVc"
 images: []
 achievements:
   - Developed the first version of Wink's mobile banking app.
-  - Integrated API connections with partner banks for seamless transactions.
+  - Integrated partner-bank APIs so deposits, transfers, and account data could move through the app.
   - Designed and implemented biometric authentication for enhanced security.
 story:
-  - Wink is Costa Rica's first neo-bank, offering a mobile app for online banking without physical branch visits. I developed the first version of their mobile app and backend services within AWS.
-  - My responsibilities included technology selection, project planning, and coordinating API integration with partner banks. I implemented biometric authentication to enhance security while keeping the user experience streamlined.
-  - The project required forming a development team with the necessary skills to implement the technical requirements. This work applied mobile and cloud technologies to create a digital banking solution for the Costa Rican market.
+  - "Wink is Costa Rica's first neobank: a mobile app for banking without a branch visit. I built the first version of the app and the AWS backend it depended on."
+  - I chose the stack, planned the work, and coordinated partner-bank API integration. I also implemented biometric authentication so KYC and login did not need a branch visit.
+  - Launch required forming a development team that did not exist yet. A neobank has no useful version without the partner integrations, the auth, and the people to operate them.
 order: 18
 year: 2015
 ---
 
 # Wink
 
-Costa Rica's first neo-bank, delivered through a React Native mobile app, AWS backend, partner-bank APIs, and biometrics.
+Costa Rica's first neobank, delivered through a React Native mobile app, AWS backend, partner-bank APIs, and biometrics.

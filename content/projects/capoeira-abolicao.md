@@ -1,7 +1,7 @@
 ---
 title: "Capoeira Abolicao"
 slug: "capoeira-abolicao"
-description: "A promotional website for Capoeira Abolição's instructors, activities, and international martial-arts community."
+description: "A promotional WordPress site for Capoeira Abolição: instructors, activities, and the group's international presence."
 tech:
   - JavaScript
   - Wordpress
@@ -18,7 +18,7 @@ images: []
 achievements:
   - Designed and developed a responsive website for Capoeira Abolição.
   - Implemented interactive elements to showcase community events.
-  - Optimized site performance for a seamless user experience.
+  - Tuned page weight so the site loaded on the connections people actually had.
 story:
   - Capoeira Abolição is a Brazilian martial arts group. I volunteered to create their promotional website, showcasing their professors and community. My involvement included website design and development, highlighting the group's activities and global presence.
   - I built a responsive website using JavaScript, WordPress, CSS, and Bootstrap to create an engaging online presence. The site featured interactive elements to highlight community events and Capoeira fundamentals.
@@ -29,4 +29,4 @@ year: 2008
 
 # Capoeira Abolicao
 
-A promotional website for Capoeira Abolição's instructors, activities, and international martial-arts community.
+A promotional WordPress site for Capoeira Abolição: instructors, activities, and the group's international presence.

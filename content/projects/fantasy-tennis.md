@@ -17,7 +17,7 @@ image: "https://gaboesquivel.com/images/work/fantasy-tennis.jpg"
 images: []
 achievements:
   - Designed and developed a strategic fantasy tennis gaming platform.
-  - Built a responsive UI for seamless gameplay across devices.
+  - Built a responsive UI so the game played on phones as well as desktops.
   - Integrated dynamic tournament data for real-time game updates.
 story:
   - FanSlam Fantasy Tennis is a strategic game for ATP, WTA, and Grand Slam tournaments. I designed and built both the frontend and backend. As a fullstack developer, my work encompassed creating an engaging and functional gaming experience, integrating strategy and user interface design.

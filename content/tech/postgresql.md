@@ -3,11 +3,11 @@ name: "PostgreSQL"
 slug: "postgresql"
 tag: "PostgreSQL"
 image: "/images/tech/postgresql.png"
-description: "A powerful, open-source object-relational database system with a strong reputation for reliability, feature robustness, and performance."
+description: "An open-source object-relational database with JSON support, full-text search, and strong concurrency controls."
 link: "https://www.postgresql.org/"
 since: "2012"
 intro:
-  - PostgreSQL is a powerful object-relational database system with advanced features like JSON support, full-text search, and robust concurrency.
+  - PostgreSQL is an object-relational database with JSON support, full-text search, and MVCC concurrency.
   - It offers exceptional reliability, data integrity, and extensibility with custom data types, functions, and index types for specialized use cases.
 experience:
   - Implemented PostgreSQL with Supabase in Opyn and BitLauncher for blockchain data storage and real-time subscriptions.
@@ -17,4 +17,4 @@ experience:
 
 # PostgreSQL
 
-A powerful, open-source object-relational database system with a strong reputation for reliability, feature robustness, and performance.
+An open-source object-relational database with JSON support, full-text search, and strong concurrency controls.

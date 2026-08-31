@@ -3,7 +3,7 @@ name: "TanStack Form"
 slug: "tanstack-form"
 tag: "TanStack Form"
 image: "/images/tech/tanstack-form.png"
-description: "A powerful form library for React applications, providing easy-to-use hooks for managing form state and validation."
+description: "A React form library with hooks for state and validation."
 link: "https://tanstack.com/form/latest"
 since: "2022"
 intro:
@@ -16,4 +16,4 @@ experience:
 
 # TanStack Form
 
-A powerful form library for React applications, providing easy-to-use hooks for managing form state and validation.
+A React form library with hooks for state and validation.

@@ -28,7 +28,7 @@ achievements:
 story:
   - At American Express, I worked on front-end development for their website where cardmembers manage financial accounts. I used Object-Oriented JavaScript and AJAX techniques to create a responsive user experience.
   - I implemented A/B testing to optimize engagement and integrated analytics for tracking usage patterns and performance. This work required understanding user needs and translating them into functional interfaces.
-  - The project involved contributing to a financial platform used by millions of cardmembers daily. My development work focused on making account management more intuitive and accessible through the web interface.
+  - "The work sat on cardmember and marketing surfaces that people used to manage accounts. I focused on making those screens clearer: comparison sliders, landing pages, and the jQuery migration from Dojo."
 order: 19
 year: 2009
 ---

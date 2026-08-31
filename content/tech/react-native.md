@@ -13,7 +13,7 @@ experience:
   - Developed a multimodal AI assistant with voice and chat interfaces for LegalAgent's mobile app using React Native and Expo.
   - Integrated OpenAI's Realtime API for voice transcription and synthesis in a bilingual legal assistant application.
   - Enhanced Sense.chat's performance and integrated EOS blockchain for secure encrypted communications and token functionality.
-  - Built the first version of Wink, Costa Rica's first neo-bank mobile app, with React Native and biometric authentication.
+  - Built the first version of Wink, Costa Rica's first neobank mobile app, with React Native and biometric authentication.
   - Implemented augmented reality features for Tractor Supply mobile app using ViroAR for interactive product previews.
 ---
 

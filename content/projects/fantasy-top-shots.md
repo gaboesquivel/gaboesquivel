@@ -21,7 +21,7 @@ video: "https://www.youtube.com/watch?v=Il2aiKhy_ug"
 images: []
 achievements:
   - Designed and developed the mobile game using Flow blockchain technology.
-  - Integrated NBA Top Shot NFTs for an immersive gaming experience.
+  - Wired NBA Top Shot NFTs into the game so collections could be used as a roster.
   - Implemented responsive UI and smooth gameplay mechanics using React Native and Expo.
 story:
   - Fantasy Top Shots was built for the 2022 Flow Hackathon as a mobile game using NBA Top Shot NFTs. The game allows users to utilize their NFT collections in a fantasy sports format.

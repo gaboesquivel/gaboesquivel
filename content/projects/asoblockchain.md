@@ -17,14 +17,14 @@ images:
 achievements:
   - Co-founded Costa Rica's first blockchain association in 2017.
   - Established educational partnerships with ADEN International Business School and ULACIT.
-  - Created CriptoCantinaCR, a successful weekly educational and networking initiative.
-  - Organized TicoBlockchain, Costa Rica's premier blockchain conference.
+  - Started CriptoCantinaCR, a weekly meetup that later became a formal education program.
+  - Organized TicoBlockchain, Costa Rica's first international crypto and blockchain conference.
   - Developed advocacy programs for blockchain policy and regulation.
-  - Built a vibrant community supporting blockchain innovation and adoption.
+  - Ran educational programs, industry partnerships, and community events for members.
 story:
-  - AsoBlockchain is Costa Rica's leading non-profit blockchain association, focused on fostering trust, transparency, and innovation in the country's blockchain ecosystem. As a co-founder, I helped establish the organization's core principles and strategic direction.
-  - We developed initiatives like CriptoCantina and TicoBlockchain conference to create opportunities for education and community building. Our partnerships with institutions like ADEN Business School and ULACIT expanded access to specialized blockchain education.
-  - The association participates in policy discussions and regulatory frameworks to represent members' interests while promoting responsible blockchain adoption. Our work includes educational programs, industry partnerships, and community building.
+  - AsoBlockchain is a Costa Rican nonprofit for blockchain education, industry collaboration, events, and policy. As a co-founder, I helped set the organization's direction and first programs.
+  - I helped start CriptoCantina and TicoBlockchain as education and gathering points, and worked on partnerships with ADEN Business School and ULACIT so there was somewhere to learn the technology.
+  - I also took part in policy discussions around regulation, representing members while keeping the association's work on education, partnerships, and events.
 related:
   - url: "https://gaboesquivel.com/blog/2019-03-ticoblockchain-2019-recap"
     title: "TicoBlockchain 2019 Recap"

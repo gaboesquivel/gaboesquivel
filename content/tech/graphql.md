@@ -7,7 +7,7 @@ description: "A query language for your API, and a server-side runtime for execu
 link: "https://graphql.org/"
 since: "2015"
 intro:
-  - GraphQL provides a more efficient, powerful, and flexible alternative to REST, allowing clients to request exactly the data they need.
+  - GraphQL lets the client ask for the fields it needs, instead of a fixed REST payload.
   - It is widely used in modern web applications for its ability to streamline data fetching and improve performance.
 experience:
   - Implemented GraphQL in ChainGraph for real-time blockchain data querying and subscriptions.

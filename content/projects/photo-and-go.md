@@ -20,12 +20,12 @@ image: "https://gaboesquivel.com/images/work/photoandgo.jpg"
 
 images: []
 achievements:
-  - Developed a photo editor app with seamless e-commerce integration.
-  - Led technical execution, ensuring a smooth and intuitive user experience.
-  - Implemented AWS infrastructure for scalable cloud storage and processing.
+  - Built a photo editor that posted finished products into the existing commerce system.
+  - Led technical direction on the editor and the services behind it.
+  - Ran image storage and processing on AWS.
 story:
-  - MyPhoto.com is an online platform for creating personalized photo products. I led the development of an innovative photo editor app and backend services integrated with existing e-commerce systems.
-  - My leadership role encompassed technical direction and execution, focusing on creating a smooth and intuitive user experience. I built the photo editor application with seamless e-commerce integration and implemented AWS infrastructure for cloud storage and image processing.
+  - MyPhoto.com is an online platform for personalized photo products. I led the photo editor and the backend that plugged into the existing commerce system.
+  - "I owned technical direction on the editor: cropping, layouts, and sending a finished product into checkout. Image storage and processing ran on AWS."
   - The project required balancing technical requirements with usability considerations for customers creating custom photo products. My work delivered a functional photo customization solution integrated with e-commerce capabilities.
 order: 29
 year: 2014

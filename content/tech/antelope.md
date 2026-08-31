@@ -8,7 +8,7 @@ link: "https://antelope.io/"
 since: "2018"
 intro:
   - Antelope is a blockchain protocol designed for high performance and scalability, supporting decentralized applications.
-  - It offers a robust environment for building and deploying blockchain solutions.
+  - "It is the protocol behind EOSIO-based chains: accounts, contracts, and block production."
 experience:
   - Worked with Antelope in projects like bitcashBank and ChainGraph for blockchain application development.
 ---

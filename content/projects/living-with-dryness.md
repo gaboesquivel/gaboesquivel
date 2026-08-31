@@ -1,7 +1,7 @@
 ---
 title: "Living with Dryness"
 slug: "living-with-dryness"
-description: "A responsive medical information page designed to make dryness-related resources easy to read and find."
+description: "A responsive medical information page for dryness-related resources, laid out to be readable on a phone."
 tech:
   - JavaScript
   - CSS
@@ -28,4 +28,4 @@ year: 2011
 
 # Living with Dryness
 
-A responsive medical information page designed to make dryness-related resources easy to read and find.
+A responsive medical information page for dryness-related resources, laid out to be readable on a phone.

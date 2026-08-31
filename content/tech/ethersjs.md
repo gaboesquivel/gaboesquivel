@@ -13,7 +13,7 @@ experience:
   - Developed a WebGL EVM wallet connector for ZTX metaverse platform using EthersJS, enabling NFT trading within the 3D environment.
   - Created RareMint's NFT marketplace on Polygon using EthersJS for efficient smart contract interactions and token minting.
   - Built an EVM NFT data indexer for RareMint using Moralis streams, Node.js, and EthersJS for tracking ownership changes.
-  - Led the architecture of Knowledge.io's Ethereum-based token system for their successful ICO, focusing on security and efficiency.
+  - Led Knowledge.io's Ethereum token system for the 2018 mainnet ICO.
   - Implemented wallet functionality for multiple blockchain projects before Viem/Wagmi became available, using EthersJS as the core interface.
 ---
 
