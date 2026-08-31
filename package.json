@@ -5,7 +5,9 @@
   "author": "Gabo Esquivel",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "bin": "./dist/cli.js",
+  "bin": {
+    "gaboesquivel": "dist/cli.js"
+  },
   "scripts": {
     "generate": "tsx scripts/generate.ts",
     "build": "npm run generate && tsup src/index.ts src/cli.ts --format cjs,esm --dts",
