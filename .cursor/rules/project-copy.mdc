@@ -1,27 +1,13 @@
 ---
-description: Fact sourcing and voice for project markdown
+description: Project markdown featured allowlist and extra fields
 glob: "content/projects/**"
 alwaysApply: false
 ---
 
 # Project Copy
 
-Follow `@.cursor/rules/soul.mdc` and use the writer skill.
+Use the installed `gabo` skill for voice and field split (`description` / `role` / `achievements` / `story`).
 
-## Description
-
-- Describe what the project is and does, not Gabo's contribution.
-- Use one or two short sentences and stay near 160 characters when possible.
-- Keep the description useful as metadata and a standalone masonry card.
-- Put ownership and implementation detail in `role`, `achievements`, and `story`.
-- Avoid pitch-deck framing, fundraising, TAM, and parent-company audience claims unless they are essential project facts.
-
-## Facts
-
-- Package markdown owns project technology, architecture, achievements, links, and year.
-- The website CV owns employment title and duration.
-- Use `role` only when the CV verifies it.
-- Keep `featured` only for `legal-agent`, `wink`, `ztx`, `bitlauncher`, `opyn`, and `eos-costa-rica`.
-- Do not add `tier` or `outcome` fields.
-
-Never invent users, reactions, quotes, dates, metrics, titles, or anecdotes. Preserve valid achievements, technology tags, story details, and links when compressing.
+- `featured` only: `legal-agent`, `wink`, `ztx`, `bitlauncher`, `opyn`, `eos-costa-rica`.
+- Do not add `tier` or `outcome`.
+- Preserve verified tags, achievements, story details, and links when compressing. No pitch-deck, TAM, or fundraising unless essential to the project.

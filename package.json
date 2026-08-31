@@ -14,6 +14,9 @@
     "dev": "tsup src/index.ts src/cli.ts --format cjs,esm --dts --watch",
     "prepublishOnly": "npm run build",
     "hooks:pre-commit": "biome check --write --staged --no-errors-on-unmatched && git update-index --again",
+    "skills:install": "bunx skills@latest add ./node_modules/gaboesquivel-skills --skill gabo -a cursor -a claude-code -y",
+    "skills:update": "bunx skills@latest update gabo",
+    "postinstall": "bun run skills:install",
     "lint": "biome check .",
     "lint:fix": "biome check . --write"
   },
@@ -24,6 +27,7 @@
     "fast-glob": "^3.3.0",
     "gray-matter": "^4.0.3",
     "simple-git-hooks": "2.11.1",
+    "gaboesquivel-skills": "link:gaboesquivel-skills",
     "tsup": "^8.4.0",
     "tsx": "^4.7.0",
     "typescript": "^5.8.2",

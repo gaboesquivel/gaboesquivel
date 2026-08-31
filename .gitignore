@@ -8,3 +8,6 @@ node_modules
 __dev
 dist
 src/generated
+.agents
+.claude
+

@@ -1,23 +1,10 @@
 ---
+description: This package is the project/tech fact source; the website owns narrative
 alwaysApply: true
 ---
 
-# General Context
+# Package
 
-The gaboesquivel NPM package is the structured fact source for Gabo Esquivel's projects and technology experience.
-
-## Purpose
-
-The package supplies project and technology data to gaboesquivel.com, the CLI, and the GitHub profile. The website owns page-level positioning and career narrative.
-
-## Package Structure
-
-The package exports project data, technology data, and query functions. Projects include titles, slugs, descriptions, technology tags, achievements, story records, links, and presentation metadata. Technology records describe practical experience and project associations.
-
-## Usage
-
-gaboesquivel.com consumes the exports for project cards, project pages, work listings, and technology pages. The CLI is available through `npx gaboesquivel`.
-
-## Development Guidelines
-
-Maintain factual accuracy and consistent slugs, tags, dates, and relationships. Use the writer skill for project copy. Do not add site narrative, invent facts, or describe this package as a source of CV landing-page prose.
+- Fact source for projects and technologies used by gaboesquivel.com, the CLI (`npx gaboesquivel`), and the GitHub profile.
+- The website owns career narrative and page positioning. Do not add site narrative or CV landing-page prose here.
+- Writing copy: use the installed `gabo` skill. Field constraints: project-copy rule on `content/projects/**`.
