@@ -3,9 +3,9 @@
 import chalk from 'chalk'
 import prompts from 'prompts'
 import * as api from './api'
+import * as projects from './generated/projects'
 import * as tech from './generated/tech'
-import * as projects from './projects'
-import type { Project } from './types'
+import type { Project } from './generated/types'
 
 declare const process: {
   argv: string[]

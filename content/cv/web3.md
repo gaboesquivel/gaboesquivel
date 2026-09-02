@@ -18,7 +18,7 @@ skills:
   - label: Languages
     keywords: TypeScript, JavaScript, Solidity, SQL
   - label: Frontend
-    keywords: React, Next.js, Remix, React Native, Tailwind, shadcn/ui
+    keywords: React, Next.js, React Native, Tailwind, shadcn/ui
   - label: Backend
     keywords: Node.js, PostgreSQL, Supabase, Hasura GraphQL, Redis
   - label: Cloud & Infra
@@ -43,7 +43,7 @@ featured:
   - company: RareMint
     achievements:
       - Built an NFT indexer with Moralis streams, Node.js, and PostgreSQL.
-      - Improved marketplace responsiveness with Remix, Tailwind CSS, and GraphQL.
+      - Refactored the marketplace with Next.js SSR, Tailwind CSS, and GraphQL.
       - Integrated WalletConnect and supported the first Pokémon card auctions on Polygon.
   - company: Bitcash
     achievements:

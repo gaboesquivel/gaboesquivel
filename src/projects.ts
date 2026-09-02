@@ -1,3 +1,4 @@
+// DO NOT EDIT — leftover migration input
 import type { Project } from './types'
 
 export const projects: Project[] = [

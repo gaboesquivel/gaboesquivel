@@ -30,7 +30,7 @@ story:
   - I helped move a large frontend from Dojo to jQuery while keeping experimentation and measurement in place on live financial surfaces.
 experienceCompany: "American Express"
 order: 19
-year: 2009
+year: 2010
 ---
 
 # American Express

@@ -48,6 +48,15 @@ const parseDurationStartYear = (duration: string) => {
   return match ? Number.parseInt(match[0], 10) : null
 }
 
+const FEATURED_PROJECT_SLUGS = new Set([
+  'legal-agent',
+  'wink',
+  'ztx',
+  'bitlauncher',
+  'opyn',
+  'eos-costa-rica',
+])
+
 function validateProjects({
   projects,
   experienceCompanies,
@@ -58,6 +67,19 @@ function validateProjects({
   tags: Set<string>
 }) {
   for (const { data: project, markdownPath } of projects) {
+    if (project.description.includes('\n'))
+      throw new Error(
+        `${markdownPath}: description must be a single line — found a newline`,
+      )
+
+    if (
+      project.type.includes('featured') &&
+      !FEATURED_PROJECT_SLUGS.has(project.slug)
+    )
+      throw new Error(
+        `${markdownPath}: featured is limited to ${[...FEATURED_PROJECT_SLUGS].join(', ')}`,
+      )
+
     if (project.link === '#' || project.link?.includes('example.com'))
       throw new Error(
         `${markdownPath}: invalid project link "${project.link}" — omit the field instead`,

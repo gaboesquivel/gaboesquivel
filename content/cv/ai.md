@@ -24,11 +24,13 @@ skills:
 featured:
   - company: LegalAgent
   - company: Bitlauncher
-    description: AI and crypto launchpad, with domain-specific assistants at masterbots.ai.
+    description: >-
+      AI and crypto launchpad for token sales, auctions, wallets, and indexed
+      market data.
     achievements:
-      - Built specialized assistant interfaces for masterbots.ai.
-      - Built the bitlauncher.ai chatbot with RAG and tool calls for news and video.
       - Built the launchpad on Next.js 14, Supabase, viem, and wagmi.
+      - Built the bitlauncher.ai chatbot with RAG and tool calls for news and video.
+      - Integrated AI SDKs and prompting for masterbots.ai.
   - company: Opyn
     achievements:
       - Prototyped an LLM assistant for onboarding and support.

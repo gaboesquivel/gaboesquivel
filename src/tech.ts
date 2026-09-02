@@ -1,3 +1,4 @@
+// DO NOT EDIT — leftover migration input
 import type { TechStackItem } from './types'
 
 export const techStack: TechStackItem[] = [

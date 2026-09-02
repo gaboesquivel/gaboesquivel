@@ -13,7 +13,7 @@ skills:
   - label: Languages
     keywords: TypeScript, JavaScript, SQL
   - label: Frontend
-    keywords: React, Next.js, Remix, React Native, Expo, Tailwind, shadcn/ui, TanStack
+    keywords: React, Next.js, React Native, Expo, Tailwind, shadcn/ui, TanStack
   - label: Backend
     keywords: Node.js, PostgreSQL, Supabase, GraphQL, Redis
   - label: Cloud & Infra

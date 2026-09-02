@@ -9,7 +9,7 @@ description: >-
   auctions, and WalletConnect.
 achievements:
   - 'Built an NFT indexer with Moralis streams, Node.js, and PostgreSQL.'
-  - 'Improved marketplace responsiveness with Remix, Tailwind CSS, and GraphQL.'
+  - 'Refactored the marketplace with Next.js SSR, Tailwind CSS, and GraphQL.'
   - Integrated WalletConnect for connections and transactions.
   - Supported the first Pokémon card auctions on Polygon.
 techStack:
@@ -18,7 +18,7 @@ techStack:
   - Node.js
   - PostgreSQL
   - Google Cloud
-  - Remix
+  - Next.js
   - TailwindCSS
   - GraphQL
   - TypeScript
