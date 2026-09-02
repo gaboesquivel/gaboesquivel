@@ -3,16 +3,16 @@ name: "Tailwind CSS"
 slug: "tailwind"
 tag: "Tailwind"
 image: "/images/tech/tailwind.png"
-description: "A utility-first CSS framework for rapid UI development."
+description: "Utility-first styling for trading interfaces, AI dashboards, virtual-world shells, and marketplace UIs across Next.js and React apps."
 link: "https://tailwindcss.com/"
 since: "2022"
-intro:
-  - Tailwind CSS provides a set of utility classes that allow developers to build custom designs without leaving their HTML.
-  - It is known for its flexibility and ability to create responsive and modern user interfaces quickly.
 experience:
-  - Used Tailwind CSS in ZTX, Fantasy Top Shots, Wizard World, Opyn, BitLauncher, and Masterbots for responsive UI design.
+  - Set up ZTX's Next.js architecture with Tailwind CSS and Framer Motion for the virtual-world experience.
+  - Implemented Opyn's trading interface with shadcn/ui components styled through Tailwind CSS.
+  - Styled LegalAgent's admin dashboard and multimodal assistant UI with Tailwind CSS.
+  - Composed BitLauncher's auction and wallet screens with Tailwind on Next.js 14.
 ---
 
 # Tailwind CSS
 
-A utility-first CSS framework for rapid UI development.
+Utility-first styling for trading interfaces, AI dashboards, virtual-world shells, and marketplace UIs across Next.js and React apps.

@@ -3,18 +3,16 @@ name: "TypeScript"
 slug: "typescript"
 tag: "TypeScript"
 image: "/images/tech/typescript.png"
-description: "A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale."
+description: "JavaScript with static types for safer refactors, richer editor tooling, and shared contracts across clients and services."
 link: "https://www.typescriptlang.org/"
 since: "2012"
 featuredOrder: 7
-intro:
-  - TypeScript is a superset of JavaScript that adds static type definitions, enhancing code quality, maintainability and developer productivity.
-  - It provides compile-time error checking, improved IDE support with autocompletion, and better documentation through explicit type declarations.
 experience:
-  - Implemented TypeScript across projects including LegalAgent, Opyn, and BitLauncher for type safety and maintainability.
-  - Applied TypeScript for RAG architecture in LegalAgent and EVM contract interactions in Opyn and BitLauncher.
+  - Typed Opyn's options data layer and React components against Ponder-indexed schemas and Zod validators.
+  - Shared contract ABIs and indexer handlers in Bitlauncher's TypeScript monorepo for auctions and bridges.
+  - Standardized LegalAgent's admin, mobile, and API packages on TypeScript for retrieval and form flows.
 ---
 
 # TypeScript
 
-A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
+JavaScript with static types for safer refactors, richer editor tooling, and shared contracts across clients and services.

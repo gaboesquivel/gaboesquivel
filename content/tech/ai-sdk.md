@@ -3,19 +3,15 @@ name: "AI SDK"
 slug: "ai-sdk"
 tag: "AI SDK"
 image: "/images/tech/ai-sdk.png"
-description: "Software Development Kits for integrating AI capabilities into applications."
-link: "https://en.wikipedia.org/wiki/Software_development_kit"
+description: "Vercel's TypeScript toolkit for streaming LLM responses, tool calling, and structured outputs in React and Node.js apps."
+link: "https://ai-sdk.dev/"
 since: "2023"
-intro:
-  - AI SDKs provide developer frameworks for integrating large language models and AI capabilities into applications with optimized interfaces.
-  - They offer streaming responses, function calling, structured outputs, and optimized performance with tools for context retrieval and AI agent development.
 experience:
-  - Integrated Vercel AI SDK in LegalAgent for chat functionality and OpenAI Realtime API for voice features in a multimodal assistant.
-  - Implemented RAG architecture in LegalAgent for contextual legal support, document summarization, and bilingual assistance.
-  - Developed the chatbot assistant at BitLauncher.ai with tools integration for accessing news, YouTube videos, and detailed information.
-  - Created AI-powered internationalization automation for BitLauncher and Masterbots using template prompting.
+  - Wired LegalAgent's chat UI to the Vercel AI SDK with streaming responses and tool calls for legal workflows.
+  - Built Bitlauncher's site chatbot with AI SDK tools for news, video, and structured product answers.
+  - Automated Masterbots and Bitlauncher locale copy generation with AI SDK prompt templates.
 ---
 
 # AI SDK
 
-Software Development Kits for integrating AI capabilities into applications.
+Vercel's TypeScript toolkit for streaming LLM responses, tool calling, and structured outputs in React and Node.js apps.

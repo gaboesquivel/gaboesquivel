@@ -3,16 +3,15 @@ name: "NFT"
 slug: "nft"
 tag: "NFT"
 image: "/images/tech/nft.png"
-description: "Non-Fungible Tokens, unique digital assets that represent ownership of a specific item or piece of content."
-link: "https://en.wikipedia.org/wiki/Non-fungible_token"
+description: "On-chain collectibles in Polygon marketplaces, virtual-world commerce, and hackathon minting flows."
+link: "https://ethereum.org/en/developers/docs/standards/tokens/erc-721/"
 since: "2022"
-intro:
-  - NFTs are unique digital assets that represent ownership of a specific item or piece of content, often used in art, gaming, and collectibles.
-  - They are built on blockchain technology, ensuring authenticity and provenance.
 experience:
-  - Implemented NFT solutions in projects like RareMint and ZTX for digital asset creation and trading.
+  - Built RareMint's Polygon marketplace for minting, listing, and trading ERC-721 collectibles.
+  - Connected ZTX's in-world commerce to NFT inventory and wallet signing for player-owned items.
+  - Minted Wizard World hackathon assets on Flow after OpenAI image generation in the PWA.
 ---
 
 # NFT
 
-Non-Fungible Tokens, unique digital assets that represent ownership of a specific item or piece of content.
+On-chain collectibles in Polygon marketplaces, virtual-world commerce, and hackathon minting flows.

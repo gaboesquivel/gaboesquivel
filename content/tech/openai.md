@@ -3,16 +3,15 @@ name: "OpenAI"
 slug: "openai"
 tag: "OpenAI"
 image: "/images/tech/openai.png"
-description: "An AI research and deployment company, known for developing advanced AI models and technologies."
+description: "APIs and models for chat, embeddings, image generation, and realtime voice used in production assistant products."
 link: "https://openai.com/"
 since: "2022"
-intro:
-  - OpenAI is an AI research and deployment company, known for developing advanced AI models and technologies.
-  - It provides models for natural language and image generation, including GPT and DALL-E.
 experience:
-  - Integrated DALL-E in Wizard World for AI-generated image creation and NFT minting on the Flow blockchain.
+  - Integrated OpenAI Realtime voice in LegalAgent's multimodal assistant for spoken legal intake and responses.
+  - Powered Bitlauncher's public chatbot and Masterbots domain assistants with OpenAI chat models.
+  - Used DALL·E in Wizard World to generate images that players minted as Flow NFTs during the hackathon build.
 ---
 
 # OpenAI
 
-An AI research and deployment company, known for developing advanced AI models and technologies.
+APIs and models for chat, embeddings, image generation, and realtime voice used in production assistant products.

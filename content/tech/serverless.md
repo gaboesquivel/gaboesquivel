@@ -3,16 +3,15 @@ name: "Serverless"
 slug: "serverless"
 tag: "Serverless"
 image: "/images/tech/serverless.png"
-description: "A cloud computing execution model where the cloud provider dynamically manages the allocation of machine resources."
+description: "AWS Lambda execution for neobank backends, virtual-world services, and token marketplace APIs."
 link: "https://www.serverless.com/"
 since: "2015"
-intro:
-  - Serverless computing allows developers to build and run applications without managing the underlying infrastructure.
-  - It is known for its scalability and cost-effectiveness, enabling developers to focus on code rather than server management.
 experience:
-  - Implemented serverless functions for Knowledge.io's token and marketplace services.
+  - Built Wink's AWS serverless backend for partner-bank API integration and mobile app services.
+  - Deployed ZTX's Next.js and wallet services on AWS serverless infrastructure during early product development.
+  - Led Knowledge.io's serverless AWS stack for the ERC-20 token, marketplace, and wallet services.
 ---
 
 # Serverless
 
-A cloud computing execution model where the cloud provider dynamically manages the allocation of machine resources.
+AWS Lambda execution for neobank backends, virtual-world services, and token marketplace APIs.

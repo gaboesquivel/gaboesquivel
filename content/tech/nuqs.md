@@ -3,16 +3,15 @@ name: "nuqs"
 slug: "nuqs"
 tag: "nuqs"
 image: "/images/tech/nuqs.png"
-description: "A type-safe URL query state management library for Next.js applications."
+description: "URL state synchronization for auction filters, trading views, and shareable assistant pages on Next.js."
 link: "https://nuqs.47ng.com/"
 since: "2023"
-intro:
-  - nuqs provides a way to store and synchronize state in URL query parameters with type safety.
-  - It keeps UI state in the URL so filters and views can be shared, and it works with Next.js App Router.
 experience:
-  - Used nuqs in Opyn and BitLauncher for managing filterable and shareable UI states.
+  - Synced BitLauncher's auction filters and wallet views with URL state through nuqs on Next.js.
+  - Managed Opyn's trading interface URL state with nuqs alongside TanStack Query and Zod validation.
+  - Wired Masterbots' assistant views to shareable URL parameters with nuqs on Next.js.
 ---
 
 # nuqs
 
-A type-safe URL query state management library for Next.js applications.
+URL state synchronization for auction filters, trading views, and shareable assistant pages on Next.js.

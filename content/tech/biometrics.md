@@ -3,16 +3,14 @@ name: "Biometrics"
 slug: "biometrics"
 tag: "Biometrics"
 image: "/images/tech/biometrics.png"
-description: "Technologies and methods for recognizing individuals based on physical or behavioral characteristics."
-link: "https://en.wikipedia.org/wiki/Biometrics"
+description: "Device-bound identity verification for Wink neobank login and Bitcash exchange authentication."
+link: "https://fidoalliance.org/fido2/"
 since: "2020"
-intro:
-  - Biometrics involves technologies and methods for recognizing individuals based on physical or behavioral characteristics.
-  - It is widely used in security systems, authentication, and identity verification.
 experience:
-  - Implemented biometric authentication in projects like Wink for enhanced security and user verification.
+  - Implemented biometric authentication on Wink so KYC and login worked without a branch visit.
+  - Integrated biometric verification into Bitcash's exchange alongside WebAuthn transaction signing.
 ---
 
 # Biometrics
 
-Technologies and methods for recognizing individuals based on physical or behavioral characteristics.
+Device-bound identity verification for Wink neobank login and Bitcash exchange authentication.

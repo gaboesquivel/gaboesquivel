@@ -3,16 +3,15 @@ name: "Supabase"
 slug: "supabase"
 tag: "Supabase"
 image: "/images/tech/supabase.png"
-description: "An open source Firebase alternative providing all the backend features you need to build a product."
+description: "PostgreSQL-backed realtime layer for auction indexing, options data, and QR signature flows in Web3 products."
 link: "https://supabase.io/"
 since: "2022"
-intro:
-  - Supabase combines the power of PostgreSQL with modern developer tools for building applications quickly.
-  - It offers authentication, real-time subscriptions, and database management in a single platform.
 experience:
-  - Implemented Supabase in BitLauncher for real-time data subscriptions, transaction indexing, and user authentication.
+  - Architected BitLauncher on Supabase for transaction indexing, real-time auction subscriptions, and data aggregation.
+  - Indexed Opyn's onchain options data in PostgreSQL through Supabase alongside Ponder.
+  - Used Supabase subscriptions and webhooks on Bitcash for QR-based signature request flows.
 ---
 
 # Supabase
 
-An open source Firebase alternative providing all the backend features you need to build a product.
+PostgreSQL-backed realtime layer for auction indexing, options data, and QR signature flows in Web3 products.

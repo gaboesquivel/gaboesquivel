@@ -3,20 +3,16 @@ name: "Ethers.js"
 slug: "ethersjs"
 tag: "Ethers"
 image: "/images/tech/ethersjs.png"
-description: "A library for interacting with the Ethereum blockchain and its ecosystem."
-link: "https://docs.ethers.io/v5/"
+description: "A compact JavaScript library for Ethereum wallets, providers, and contract calls before the Viem/Wagmi stack."
+link: "https://docs.ethers.org/"
 since: "2017"
-intro:
-  - EthersJS is a complete Ethereum library and wallet implementation providing compact, intuitive interfaces for blockchain interaction.
-  - It offers secure key management, contract abstractions, and utilities for transaction handling with broad provider support for different networks.
 experience:
-  - Developed a WebGL EVM wallet connector for ZTX metaverse platform using EthersJS, enabling NFT trading within the 3D environment.
-  - Created RareMint's NFT marketplace on Polygon using EthersJS for efficient smart contract interactions and token minting.
-  - Built an EVM NFT data indexer for RareMint using Moralis streams, Node.js, and EthersJS for tracking ownership changes.
-  - Led Knowledge.io's Ethereum token system for the 2018 mainnet ICO.
-  - Implemented wallet functionality for multiple blockchain projects before Viem/Wagmi became available, using EthersJS as the core interface.
+  - Built ZTX's WebGL wallet connector with Ethers.js so players signed NFT trades inside the metaverse client.
+  - Ran RareMint's Polygon marketplace minting and ownership flows through Ethers.js contract interfaces.
+  - Indexed RareMint NFT transfers with Moralis streams, Node.js, and Ethers.js event parsing.
+  - Led Knowledge.io's 2018 ERC-20 ICO contract interactions with Ethers.js providers and wallets.
 ---
 
-# EthersJS
+# Ethers.js
 
-A library for interacting with the Ethereum blockchain and its ecosystem.
+A compact JavaScript library for Ethereum wallets, providers, and contract calls before the Viem/Wagmi stack.

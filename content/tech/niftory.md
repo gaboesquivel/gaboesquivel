@@ -3,16 +3,13 @@ name: "Niftory"
 slug: "niftory"
 tag: "Niftory"
 image: "/images/tech/niftory.png"
-description: "A platform for creating, managing, and distributing NFTs, providing tools and infrastructure for NFT development."
+description: "Flow NFT minting infrastructure for Wizard World hackathon assets generated with OpenAI image models."
 link: "https://niftory.com/"
 since: "2022"
-intro:
-  - Niftory provides a platform for creating, managing, and distributing NFTs, offering tools and infrastructure for NFT development.
-  - It simplifies the process of building and deploying NFT applications.
 experience:
-  - Used Niftory in projects like Wizard World for NFT creation and management.
+  - Minted Wizard World AI-generated images as Flow NFTs through Niftory during the Flow Hackathon.
 ---
 
 # Niftory
 
-A platform for creating, managing, and distributing NFTs, providing tools and infrastructure for NFT development.
+Flow NFT minting infrastructure for Wizard World hackathon assets generated with OpenAI image models.

@@ -3,20 +3,18 @@ name: "React"
 slug: "reactjs"
 tag: "ReactJS"
 image: "/images/tech/reactjs.png"
-description: "A JavaScript library for building user interfaces, maintained by Facebook and a community of individual developers and companies."
-link: "https://reactjs.org/"
+description: "Component model for web UIs across trading interfaces, admin dashboards, and marketplace screens in Next.js and standalone apps."
+link: "https://react.dev/"
 since: "2013"
-intro:
-  - ReactJS is a declarative, component-based JavaScript library for building user interfaces, emphasizing composition and unidirectional data flow.
-  - Its virtual DOM implementation and efficient rendering system enable developers to create performant applications with a predictable state model.
+featuredOrder: 8
 experience:
-  - Built Opyn's trading interface with React Server Components on Next.js 14.
-  - Developed BitLauncher auction system UI with real-time bidding updates using React with Supabase subscriptions.
-  - Built the real-time blockchain data visualization components for ChainGraph with React and RxJS for reactive data handling.
-  - Created responsive admin dashboards for LegalAgent with Microsoft SSO integration and document management features.
-  - Engineered responsive frontends for RareMint, ZTX, and Emanate, focusing on optimized component architecture and state management.
+  - Composed Opyn's options trading views with React Server Components over Ponder-indexed chain data.
+  - Composed Bitlauncher's live auction and wallet screens with React state fed by Supabase realtime channels.
+  - Implemented LegalAgent's admin dashboards in React with Microsoft SSO and document management flows.
+  - Refactored RareMint's marketplace UI during a Next.js SSR performance pass with component-level code splitting.
+  - Shipped ZTX's Next.js shell that embeds WebGL wallet flows for in-world NFT trading.
 ---
 
-# ReactJS
+# React
 
-A JavaScript library for building user interfaces, maintained by Facebook and a community of individual developers and companies.
+Component model for web UIs across trading interfaces, admin dashboards, and marketplace screens in Next.js and standalone apps.

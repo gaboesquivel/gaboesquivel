@@ -3,20 +3,16 @@ name: "React Native"
 slug: "react-native"
 tag: "React Native"
 image: "/images/tech/react-native.png"
-description: "A framework for building native apps using React."
+description: "Cross-platform mobile for neobank apps, AI assistants, retail AR previews, and hackathon game builds."
 link: "https://reactnative.dev/"
 since: "2015"
-intro:
-  - React Native enables building native mobile applications using JavaScript and React, providing a bridge to native components while maintaining a single codebase.
-  - It offers near-native performance with hot reloading for faster development cycles and access to device-specific APIs and capabilities.
 experience:
-  - Developed a multimodal AI assistant with voice and chat interfaces for LegalAgent's mobile app using React Native and Expo.
-  - Integrated OpenAI's Realtime API for voice transcription and synthesis in a bilingual legal assistant application.
-  - Enhanced Sense.chat's performance and integrated EOS blockchain for secure encrypted communications and token functionality.
-  - Built the first version of Wink, Costa Rica's first neobank mobile app, with React Native and biometric authentication.
-  - Implemented augmented reality features for Tractor Supply mobile app using ViroAR for interactive product previews.
+  - Built LegalAgent's multimodal AI assistant with voice and chat interfaces in React Native and Expo.
+  - Shipped the first version of Wink, Costa Rica's neobank mobile app, on React Native with partner-bank API integration.
+  - Added ViroAR product previews to the Tractor Supply retail app on their existing React Native codebase.
+  - Built Fantasy Top Shots as a Flow Hackathon game with React Native, Expo, and NBA Top Shot NFT rosters.
 ---
 
 # React Native
 
-A framework for building native apps using React.
+Cross-platform mobile for neobank apps, AI assistants, retail AR previews, and hackathon game builds.

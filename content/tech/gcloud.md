@@ -3,17 +3,16 @@ name: "GCP"
 slug: "gcloud"
 tag: "GCP"
 image: "/images/tech/gcloud.png"
-description: "Google Cloud Platform, a suite of cloud computing services that runs on the same infrastructure that Google uses internally."
+description: "Google Cloud compute, storage, and managed services for APIs, indexers, databases, and containerized workloads."
 link: "https://cloud.google.com/"
 since: "2018"
-featuredOrder: 10
-intro:
-  - Google Cloud Platform offers a suite of cloud computing services, providing infrastructure, platform, and software solutions.
-  - It is known for its scalability, reliability, and integration with Google's ecosystem.
+featuredOrder: 11
 experience:
-  - "Ran RareMint and Bitcash on GCP: indexers, APIs, and the data they wrote."
+  - Hosted Bitcash's React, Node.js, PostgreSQL, and EOS indexer stack on Google Cloud with worker-thread deserialization.
+  - Ran RareMint's NFT indexer APIs and Polygon data pipelines on GCP infrastructure.
+  - Deployed ChainGraph services and Bitlauncher's backend workloads on Google Cloud.
 ---
 
 # GCP
 
-Google Cloud Platform, a suite of cloud computing services that runs on the same infrastructure that Google uses internally.
+Google Cloud compute, storage, and managed services for APIs, indexers, databases, and containerized workloads.

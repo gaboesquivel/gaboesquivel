@@ -3,16 +3,13 @@ name: "WebAuthn"
 slug: "webauthn"
 tag: "WebAuthN"
 image: "/images/tech/webauthn.png"
-description: "A web standard for passwordless authentication using public key cryptography."
+description: "In-browser transaction signing for Bitcash's peer-to-peer crypto exchange without external wallet extensions."
 link: "https://webauthn.io/"
 since: "2021"
-intro:
-  - WebAuthn enables strong, attested, and passwordless authentication for web applications.
-  - It uses hardware keys, biometrics, and platform authenticators instead of a password.
 experience:
-  - Set up WebAuthn integration with the EOSIO blockchain for a walletless experience in BitcashBank.
+  - Implemented WebAuthn for in-browser transaction signing on Bitcash's peer-to-peer crypto exchange.
 ---
 
 # WebAuthn
 
-A web standard for passwordless authentication using public key cryptography.
+In-browser transaction signing for Bitcash's peer-to-peer crypto exchange without external wallet extensions.

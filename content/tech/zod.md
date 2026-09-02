@@ -3,16 +3,15 @@ name: "Zod"
 slug: "zod"
 tag: "Zod"
 image: "/images/tech/zod.png"
-description: "TypeScript-first schema validation with static type inference."
+description: "Runtime schema validation for auction payloads, trading inputs, and assistant configuration across Next.js apps."
 link: "https://zod.dev/"
 since: "2022"
-intro:
-  - Zod is a schema declaration and validation library designed for TypeScript.
-  - It allows for building type-safe applications with runtime validation.
 experience:
-  - Utilized Zod in Opyn and BitLauncher for form validation and API request/response typing.
+  - Validated BitLauncher auction and wallet payloads with Zod across the Next.js and Supabase stack.
+  - Enforced type-safe chain and API inputs on Opyn's trading interface with Zod schema validation.
+  - Structured Masterbots assistant configuration and API contracts with Zod on Next.js.
 ---
 
 # Zod
 
-TypeScript-first schema validation with static type inference.
+Runtime schema validation for auction payloads, trading inputs, and assistant configuration across Next.js apps.

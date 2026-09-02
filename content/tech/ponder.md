@@ -3,16 +3,13 @@ name: "Ponder"
 slug: "ponder"
 tag: "Ponder"
 image: "/images/tech/ponder.png"
-description: "A tool for indexing and querying blockchain data."
-link: "https://ponder.io/"
+description: "On-chain event indexer that persists options chain data to PostgreSQL for Opyn's Next.js trading interface."
+link: "https://ponder.sh/"
 since: "2024"
-intro:
-  - Ponder is a TypeScript framework for indexing blockchain data into PostgreSQL, providing a structured approach to processing on-chain events.
-  - It offers type-safe database interfaces, built-in caching and syncing capabilities, and optimized query performance for blockchain applications.
 experience:
-  - Set up Ponder indexing service with PostgreSQL for Opyn chain data on Arbitrum Testnet, enabling efficient data retrieval.
+  - Ran Ponder for Opyn on Arbitrum Testnet, persisting options chain data in PostgreSQL for the Next.js trading UI.
 ---
 
 # Ponder
 
-A tool for indexing and querying blockchain data.
+On-chain event indexer that persists options chain data to PostgreSQL for Opyn's Next.js trading interface.

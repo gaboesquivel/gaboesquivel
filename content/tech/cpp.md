@@ -3,16 +3,15 @@ name: "C++"
 slug: "cpp"
 tag: "C++"
 image: "/images/tech/cpp.png"
-description: "A general-purpose programming language created as an extension of the C programming language."
-link: "https://en.wikipedia.org/wiki/C%2B%2B"
+description: "Performance-critical indexing and EOSIO node software for exchange backends, validators, and onchain rating contracts."
+link: "https://isocpp.org/"
 since: "2018"
-intro:
-  - C++ is a general-purpose programming language known for its performance and efficiency, widely used in system software, game development, and real-time simulations.
-  - It supports object-oriented, procedural, and generic programming paradigms.
 experience:
-  - Wrote C++ at Bitcash and EOS Costa Rica for indexing and chain-adjacent services.
+  - Wrote C++ indexing services at Bitcash for realtime EOS blockchain data deserialization.
+  - Built EOS Costa Rica validator and private-chain infrastructure with C++ EOSIO node software.
+  - Implemented onchain rating storage for EOS Rate with C++ smart contract logic on EOSIO.
 ---
 
 # C++
 
-A general-purpose programming language created as an extension of the C programming language.
+Performance-critical indexing and EOSIO node software for exchange backends, validators, and onchain rating contracts.

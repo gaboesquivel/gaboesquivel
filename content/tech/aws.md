@@ -3,17 +3,16 @@ name: "AWS"
 slug: "aws"
 tag: "AWS"
 image: "/images/tech/aws.png"
-description: "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services."
+description: "Cloud infrastructure for neobank backends, virtual-world services, token marketplaces, and image processing workloads."
 link: "https://aws.amazon.com/"
 since: "2015"
-intro:
-  - AWS provides a wide range of cloud services, including computing power, storage options, and networking capabilities.
-  - It is a common place to run application services, storage, and networking in production.
 experience:
-  - Ran Wink's backend and Photo and Go's image processing on AWS.
-  - Used AWS services on Emanate for the streaming app and back office.
+  - Built Wink's serverless AWS backend for partner-bank API integration and the neobank mobile app.
+  - Deployed ZTX's Next.js virtual-world and wallet services on AWS during early product development.
+  - Led Knowledge.io's serverless AWS infrastructure for the token, marketplace, and wallet services.
+  - Ran Photo and Go image storage and processing workloads on AWS for the commerce editor.
 ---
 
 # AWS
 
-Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services.
+Cloud infrastructure for neobank backends, virtual-world services, token marketplaces, and image processing workloads.

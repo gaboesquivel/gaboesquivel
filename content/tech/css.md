@@ -3,17 +3,15 @@ name: "CSS"
 slug: "css"
 tag: "CSS"
 image: "/images/tech/css.png"
-description: "A style sheet language used for describing the presentation of a document written in a markup language like HTML."
+description: "Layout and responsive styling for ecommerce navigation, energy dashboards, and early client marketing sites."
 link: "https://developer.mozilla.org/en-US/docs/Web/CSS"
 since: "2009"
-intro:
-  - CSS is a style sheet language used for describing the presentation of a document written in a markup language like HTML.
-  - It is known for its ability to separate content from design, enabling responsive and visually appealing web pages.
 experience:
-  - Utilized CSS in projects like Staples and Gridium for styling and layout, focusing on user experience and performance.
-  - Implemented CSS to enhance web applications, aligning with the principle of user experience first.
+  - Rebuilt Staples' ecommerce navigation and responsive UI components for smaller screens.
+  - Styled Gridium's energy-analytics charts and dashboard for readable consumption data.
+  - Laid out Capoeira Abolicao's WordPress site with responsive CSS and Bootstrap grids.
 ---
 
 # CSS
 
-A style sheet language used for describing the presentation of a document written in a markup language like HTML.
+Layout and responsive styling for ecommerce navigation, energy dashboards, and early client marketing sites.

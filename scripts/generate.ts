@@ -10,7 +10,8 @@ import {
   parseTagsMarkdown,
   parseTechMarkdown,
 } from './markdown-parser'
-import type { ExperienceData, ProjectData } from './schemas'
+import type { ExperienceData, ProjectData, TechStackItemData } from './schemas'
+import { validateTechEvidence } from './tech-evidence'
 import { generateTagType } from './type-generator'
 import {
   generateCvTypeScript,
@@ -100,6 +101,44 @@ function validateProjectDates({
   }
 }
 
+function validateTech({
+  tech,
+  techCategorySlugs,
+}: {
+  tech: Array<{ data: TechStackItemData; markdownPath: string }>
+  techCategorySlugs: Set<string>
+}) {
+  const featuredOrders = new Map<number, string>()
+
+  for (const { data, markdownPath } of tech) {
+    if (data.link.includes('wikipedia.org'))
+      throw new Error(
+        `${markdownPath}: official link must not be Wikipedia — use product or docs URL`,
+      )
+
+    if (data.link.includes('developer.mozilla.org/en-US/docs/Glossary'))
+      throw new Error(
+        `${markdownPath}: official link must not be MDN Glossary — use product or docs URL`,
+      )
+
+    if (data.featuredOrder !== undefined) {
+      const existing = featuredOrders.get(data.featuredOrder)
+      if (existing)
+        throw new Error(
+          `${markdownPath}: duplicate featuredOrder ${data.featuredOrder} (also used by ${existing})`,
+        )
+      featuredOrders.set(data.featuredOrder, markdownPath)
+    }
+  }
+
+  for (const slug of techCategorySlugs) {
+    if (!tech.some((entry) => entry.data.slug === slug))
+      throw new Error(
+        `techCategories key "${slug}" has no matching content/tech markdown file`,
+      )
+  }
+}
+
 async function main() {
   console.log('🚀 Starting markdown generation...')
 
@@ -173,6 +212,75 @@ async function main() {
 
     validateProjects({ projects, experienceCompanies, tags: allTags })
     validateProjectDates({ projects, experience })
+
+    const techCategorySlugs = new Set([
+      'typescript',
+      'javascript',
+      'reactjs',
+      'nextjs',
+      'nodejs',
+      'postgresql',
+      'graphql',
+      'blockchain',
+      'solidity',
+      'foundry',
+      'hardhat',
+      'viem',
+      'wagmi',
+      'ethersjs',
+      'ponder',
+      'ethereum',
+      'antelope',
+      'nft',
+      'alchemy',
+      'ai-sdk',
+      'artificial-intelligence',
+      'openai',
+      'aws',
+      'react-native',
+      'tailwind',
+      'shadcn',
+      'webgl',
+      'css',
+      'angularjs',
+      'bootstrap',
+      'stitches',
+      'redux',
+      'zustand',
+      'tanstack-query',
+      'tanstack-form',
+      'tanstack-start',
+      'nuqs',
+      'expo',
+      'viroar',
+      'less',
+      'mootools',
+      'data-charts',
+      'supabase',
+      'mongodb',
+      'redis',
+      'rails',
+      'faye',
+      'rxjs',
+      'webauthn',
+      'trigger',
+      'zod',
+      'serverless',
+      'cpp',
+      'biometrics',
+      'stripe',
+      'twilio',
+      'niftory',
+      'cms',
+      'datocms',
+      'wordpress',
+      'gcloud',
+      'docker',
+      'terraform',
+      'heroku',
+    ])
+    validateTech({ tech, techCategorySlugs })
+    validateTechEvidence({ projects, tech })
 
     console.log(`🏷️  Generating Tag type with ${tags.length} tags...`)
     generateTagType(tags, GENERATED_DIR)

@@ -3,17 +3,13 @@ name: "Stitches"
 slug: "stitches"
 tag: "Stitches"
 image: "/images/tech/stitches.png"
-description: "A CSS-in-JS library with near-zero runtime, SSR support, and a great developer experience."
+description: "CSS-in-JS styling for Bitcash's React exchange interface alongside Zustand client state."
 link: "https://stitches.dev/"
 since: "2021"
-intro:
-  - Stitches provides a way to write CSS with JavaScript with excellent performance characteristics.
-  - It has a theming model and a variant API for component styles.
 experience:
-  - Used Stitches in bitcashBank for creating a themeable and consistent UI design system.
-  - Implemented component variants to create flexible and reusable UI elements across the application.
+  - Styled Bitcash's React exchange interface with Stitches alongside Zustand for client state.
 ---
 
 # Stitches
 
-A CSS-in-JS library with near-zero runtime, SSR support, and a great developer experience.
+CSS-in-JS styling for Bitcash's React exchange interface alongside Zustand client state.

@@ -3,16 +3,15 @@ name: "Heroku"
 slug: "heroku"
 tag: "Heroku"
 image: "/images/tech/heroku.png"
-description: "A platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud."
+description: "Hosted deployments for subscription apps, Rails backends, restaurant sites, and early ecommerce prototypes."
 link: "https://www.heroku.com/"
 since: "2018"
-intro:
-  - Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
-  - It is known for its ease of use and support for a wide range of programming languages and frameworks.
 experience:
-  - Deployed Eat Arcade on Heroku.
+  - Deployed Eat Arcade's Node.js, MongoDB, and AngularJS subscription app on Heroku with Stripe and Twilio.
+  - Hosted ARINC Microfids' Ruby on Rails flight-information backend on Heroku for hotel and airport displays.
+  - Deployed Tikr's Spree and Ruby on Rails dynamic-pricing store on Heroku with PostgreSQL.
 ---
 
 # Heroku
 
-A platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+Hosted deployments for subscription apps, Rails backends, restaurant sites, and early ecommerce prototypes.

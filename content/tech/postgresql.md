@@ -3,18 +3,16 @@ name: "PostgreSQL"
 slug: "postgresql"
 tag: "PostgreSQL"
 image: "/images/tech/postgresql.png"
-description: "An open-source object-relational database with JSON support, full-text search, and strong concurrency controls."
+description: "Relational store for auction indexing, options chain data, exchange backends, and blockchain subscription pipelines."
 link: "https://www.postgresql.org/"
 since: "2012"
-intro:
-  - PostgreSQL is an object-relational database with JSON support, full-text search, and MVCC concurrency.
-  - It offers exceptional reliability, data integrity, and extensibility with custom data types, functions, and index types for specialized use cases.
 experience:
-  - Implemented PostgreSQL with Supabase in Opyn and BitLauncher for blockchain data storage and real-time subscriptions.
-  - Designed ChainGraph's blockchain data model with PostgreSQL for event processing and queries.
-  - Built EVM NFT data indexer for RareMint using PostgreSQL with Moralis streams.
+  - Indexed BitLauncher auction and transaction data in PostgreSQL through Supabase.
+  - Stored Opyn's Ponder-indexed options chain data in PostgreSQL via Supabase.
+  - Ran Bitcash's peer-to-peer exchange, chat, and EOS indexer on PostgreSQL with Hasura.
+  - Persisted ChainGraph blockchain subscription data in PostgreSQL for GraphQL queries.
 ---
 
 # PostgreSQL
 
-An open-source object-relational database with JSON support, full-text search, and strong concurrency controls.
+Relational store for auction indexing, options chain data, exchange backends, and blockchain subscription pipelines.

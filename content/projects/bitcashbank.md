@@ -13,6 +13,7 @@ tech:
   - NodeJS
   - GraphQL
   - PostgreSQL
+  - Supabase
   - TypeScript
   - Tailwind
   - Stitches

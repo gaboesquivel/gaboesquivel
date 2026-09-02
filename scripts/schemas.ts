@@ -35,7 +35,6 @@ export const TechStackItemSchema = z.object({
   description: z.string(),
   link: z.string(),
   since: z.string(),
-  intro: z.array(z.string()),
   experience: z.array(z.string()),
   featuredOrder: z.number().optional(),
   aliases: z.array(z.string()).optional(),

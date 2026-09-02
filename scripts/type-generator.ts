@@ -41,7 +41,6 @@ export interface TechStackItem {
   description: string
   link: string
   since: string
-  intro: string[]
   experience: string[]
   featuredOrder?: number
   aliases?: string[]

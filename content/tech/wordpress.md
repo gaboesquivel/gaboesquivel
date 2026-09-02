@@ -3,17 +3,15 @@ name: "WordPress"
 slug: "wordpress"
 tag: "Wordpress"
 image: "/images/tech/wordpress.png"
-description: "A free and open-source content management system (CMS) based on PHP and MySQL."
+description: "Content management for medical information sites, community promotions, and editorial publishing in early client work."
 link: "https://wordpress.org/"
 since: "2009"
-intro:
-  - Wordpress is a free and open-source content management system (CMS) based on PHP and MySQL.
-  - It is known for its ease of use and support for a wide range of plugins and themes, making it a popular choice for building websites and blogs.
 experience:
-  - Utilized Wordpress in projects like Capoeira Abolicao and Panini for building and managing websites, focusing on simplicity and flexibility.
-  - Implemented Wordpress to enhance web applications, aligning with the principle of user experience first.
+  - Built Living with Dryness as a responsive WordPress medical information page for mobile readability.
+  - Developed Capoeira Abolicao's promotional WordPress site with Bootstrap for instructors and community events.
+  - Built the ScotiaTico WordPress site for medical information and resource navigation.
 ---
 
-# Wordpress
+# WordPress
 
-A free and open-source content management system (CMS) based on PHP and MySQL.
+Content management for medical information sites, community promotions, and editorial publishing in early client work.

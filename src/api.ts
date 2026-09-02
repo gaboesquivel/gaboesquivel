@@ -25,35 +25,29 @@ export type TechCategory =
   | 'cloud-devops'
 
 const techCategories: Record<string, TechCategory[]> = {
-  typescript: ['featured', 'frontend', 'backend'],
-  javascript: ['featured', 'frontend', 'backend'],
-  reactjs: ['featured', 'frontend'],
-  nextjs: ['featured', 'frontend', 'backend'],
-  nodejs: ['featured', 'backend'],
-  postgresql: ['featured', 'backend'],
-  graphql: ['featured', 'frontend', 'backend'],
-  evm: ['featured', 'web3', 'backend'],
-  solidity: ['featured', 'web3', 'backend'],
-  foundry: ['featured', 'web3', 'backend'],
-  hardhat: ['featured', 'web3', 'backend'],
-  viem: ['featured', 'web3', 'backend'],
-  wagmi: ['featured', 'web3', 'frontend', 'backend'],
-  ethersjs: ['featured', 'web3', 'backend'],
-  ponder: ['featured', 'web3', 'backend'],
-  ethereum: ['featured', 'web3', 'backend'],
-  eos: ['web3', 'backend'],
-  antelope: ['featured', 'web3', 'backend'],
-  flow: ['web3', 'backend'],
-  polkadot: ['web3', 'backend'],
-  substrate: ['web3', 'backend'],
-  nft: ['featured', 'web3', 'backend'],
-  thirdweb: ['web3', 'backend'],
-  alchemy: ['featured', 'web3', 'backend'],
-  'ai-sdk': ['featured', 'ai', 'backend'],
-  llms: ['ai', 'backend'],
-  openai: ['featured', 'ai', 'backend'],
-  dalle: ['ai', 'backend'],
-  aws: ['featured', 'cloud-devops'],
+  typescript: ['frontend', 'backend'],
+  javascript: ['frontend', 'backend'],
+  reactjs: ['frontend'],
+  nextjs: ['frontend', 'backend'],
+  nodejs: ['backend'],
+  postgresql: ['backend'],
+  graphql: ['frontend', 'backend'],
+  blockchain: ['web3'],
+  solidity: ['web3', 'backend'],
+  foundry: ['web3', 'backend'],
+  hardhat: ['web3', 'backend'],
+  viem: ['web3', 'backend'],
+  wagmi: ['web3', 'frontend', 'backend'],
+  ethersjs: ['web3', 'backend'],
+  ponder: ['web3', 'backend'],
+  ethereum: ['web3', 'backend'],
+  antelope: ['web3', 'backend'],
+  nft: ['web3', 'backend'],
+  alchemy: ['web3', 'backend'],
+  'ai-sdk': ['ai', 'backend'],
+  'artificial-intelligence': ['ai'],
+  openai: ['ai', 'backend'],
+  aws: ['cloud-devops'],
   'react-native': ['frontend'],
   tailwind: ['frontend'],
   shadcn: ['frontend'],
@@ -91,8 +85,8 @@ const techCategories: Record<string, TechCategory[]> = {
   cms: ['backend'],
   datocms: ['backend'],
   wordpress: ['backend'],
-  gcloud: ['featured', 'cloud-devops'],
-  docker: ['featured', 'cloud-devops'],
+  gcloud: ['cloud-devops'],
+  docker: ['cloud-devops'],
   terraform: ['cloud-devops'],
   heroku: ['cloud-devops'],
 }
@@ -105,9 +99,9 @@ export function filterTechByCategory(
   techStack: TechStackItem[],
   category: string,
 ): TechStackItem[] {
-  if (category === 'all') {
-    return techStack
-  }
+  if (category === 'all') return techStack
+  if (category === 'featured')
+    return techStack.filter((tech) => tech.featuredOrder !== undefined)
   return techStack.filter((tech) => {
     const categories = getTechCategories(tech)
     return categories.includes(category as TechCategory)

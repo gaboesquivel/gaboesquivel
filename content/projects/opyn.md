@@ -6,6 +6,7 @@ role: "Software Engineer"
 tech:
   - TypeScript
   - NextJS
+  - ReactJS
   - Foundry
   - Solidity
   - Viem

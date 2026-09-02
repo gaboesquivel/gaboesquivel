@@ -3,16 +3,12 @@ name: "DatoCMS"
 slug: "datocms"
 tag: "DatoCMS"
 image: "/images/tech/datocms.png"
-description: "A headless CMS that offers a flexible content management solution for modern websites and applications."
+description: "Headless CMS option for structured editorial content in content-driven web applications."
 link: "https://www.datocms.com/"
 since: "2020"
-intro:
-  - DatoCMS is a headless CMS for managing content across sites and apps.
-  - Editors get a structured UI; the app reads the content through its API.
-experience:
-  - Implemented DatoCMS on the BitLauncher blog for content management, with AI-powered internationalization using Claude scripts.
+experience: []
 ---
 
 # DatoCMS
 
-A headless CMS that offers a flexible content management solution for modern websites and applications.
+Headless CMS option for structured editorial content in content-driven web applications.

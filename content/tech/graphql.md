@@ -3,17 +3,16 @@ name: "GraphQL"
 slug: "graphql"
 tag: "GraphQL"
 image: "/images/tech/graphql.png"
-description: "A query language for your API, and a server-side runtime for executing queries by using a type system you define for your data."
+description: "Typed API layer for blockchain subscriptions, exchange data, onchain ratings, and marketplace services."
 link: "https://graphql.org/"
 since: "2015"
-intro:
-  - GraphQL lets the client ask for the fields it needs, instead of a fixed REST payload.
-  - It is widely used in modern web applications for its ability to streamline data fetching and improve performance.
 experience:
-  - Implemented GraphQL in ChainGraph for real-time blockchain data querying and subscriptions.
-  - Utilized GraphQL in EOS Costa Rica and BitcashBank for API development.
+  - Built ChainGraph's real-time GraphQL subscription toolkit for EOSIO and Antelope blockchain data.
+  - Exposed Bitcash's indexed EOS trading data through GraphQL APIs over Hasura and PostgreSQL.
+  - Developed EOS Rate's GraphQL API for reading onchain block-producer ratings and comparison UI.
+  - Integrated Knowledge.io marketplace and wallet services with GraphQL in the serverless AWS stack.
 ---
 
 # GraphQL
 
-A query language for your API, and a server-side runtime for executing queries by using a type system you define for your data.
+Typed API layer for blockchain subscriptions, exchange data, onchain ratings, and marketplace services.

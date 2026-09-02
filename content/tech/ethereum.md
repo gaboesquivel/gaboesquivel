@@ -3,20 +3,16 @@ name: "Ethereum"
 slug: "ethereum"
 tag: "Ethereum"
 image: "/images/tech/ethereum.png"
-description: "A decentralized platform that enables developers to build and deploy smart contracts and decentralized applications using the Ethereum Virtual Machine (EVM)."
+description: "EVM contracts and deployments behind token products, NFT marketplaces, options protocols, and cross-chain auction systems."
 link: "https://ethereum.org/"
 since: "2017"
 featuredOrder: 3
-intro:
-  - Ethereum is a decentralized platform that enables developers to build and deploy smart contracts and decentralized applications.
-  - It is widely used for its flexibility and support for a wide range of decentralized applications.
 experience:
-  - Utilized Ethereum and the EVM in projects like Knowledge.io, RareMint, Opyn, and BitLauncher for building decentralized applications and smart contracts.
-  - Implemented Gnosis auction Solidity contracts on EOS EVM for BitLauncher, creating a cross-chain auction platform.
-  - Built custom EVM event indexers using Node.js and Viem for capturing real-time blockchain data.
-  - Created wallet interfaces showing real-time EVM balances through token balance subscriptions.
+  - Deployed Knowledge.io token and marketplace contracts on Ethereum mainnet and test networks.
+  - Shipped RareMint's NFT marketplace and Opyn's options protocol on Arbitrum-compatible EVM chains.
+  - Ran Gnosis auction contracts on EOS EVM for Bitlauncher batch sales with uniform clearing prices.
 ---
 
 # Ethereum
 
-A decentralized platform that enables developers to build and deploy smart contracts and decentralized applications.
+EVM contracts and deployments behind token products, NFT marketplaces, options protocols, and cross-chain auction systems.

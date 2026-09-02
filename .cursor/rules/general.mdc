@@ -7,4 +7,4 @@ alwaysApply: true
 
 - Fact source for projects, technologies, employment record, and printable CV variants used by gaboesquivel.com, the CLI (`npx gaboesquivel`), and the GitHub profile.
 - The website owns career narrative and page positioning. Do not add site narrative or CV landing-page prose here.
-- Writing copy: use the installed `gabo` skill. Field constraints: project-copy rule on `content/projects/**`.
+- Writing copy: use the installed `gabo` skill. Field constraints: project-copy rule on `content/projects/**`; tech-copy rule on `content/tech/**`.

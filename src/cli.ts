@@ -3,8 +3,8 @@
 import chalk from 'chalk'
 import prompts from 'prompts'
 import * as api from './api'
+import * as tech from './generated/tech'
 import * as projects from './projects'
-import * as tech from './tech'
 import type { Project } from './types'
 
 declare const process: {

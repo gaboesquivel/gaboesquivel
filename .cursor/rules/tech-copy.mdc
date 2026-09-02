@@ -1,0 +1,21 @@
+---
+description: Tech markdown field split, evidence rules, and featured allowlist
+glob: "content/tech/**"
+alwaysApply: false
+---
+
+# Tech Copy
+
+Use the installed `gabo` skill for voice and field split (`description` / `experience`).
+
+- `description`: what the technology is in this stack, one sentence, near 160 characters, usable as a masonry card and metadata. Technology-centered, not first-person career. Not a glossary or Wikipedia paragraph.
+- `experience`: first-person implementation; named shipped projects; this technology's role only. Verify against `content/projects` and `content/experience`. No invented metrics, users, or lessons. If two tech pages name the same project, the sentence must differ.
+- **Tool pages** (default): every `experience` bullet must name a project whose `tech` array includes this `tag`. `bun run generate` fails otherwise.
+- **Umbrella pages only** (`blockchain`, `artificial-intelligence`, `cms`): bullets may name a project that tags a child in the same area (Ethereum/Solidity/Antelope; AI SDK/OpenAI; WordPress/DatoCMS) or whose story names the domain. Still must name a real project file.
+- Evidence rule: a named project must exist under `content/projects`. Prefer that the project tags this `tag`. If the story names the tech but the tag is missing, add the tag on the project in a separate editorial call — do not silently invent tags unless the story already states the tech. If neither tag nor story supports the bullet, delete the bullet.
+- Prefer 2–4 bullets on long-tail pages. Featured may go to ~5. Do not list every tagged project as a bullet.
+- `featuredOrder`: unique integers; membership in featured is having this field.
+- `name`: canonical display (React, Next.js, Node.js, WordPress, Ethers.js, shadcn/ui, Bitlauncher in bullets). Do not change public slugs (`reactjs`, `nextjs`, `nodejs`).
+- `link`: official docs or product URL, not Wikipedia or MDN Glossary.
+- `since`: optional sort/display year, not employment. Do not show on the site. Do not bulk-recompute from `min(project.year)`.
+- No `intro`. No site narrative, capability theses, or `/bio` worldview. No "user experience first".

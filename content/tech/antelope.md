@@ -3,16 +3,16 @@ name: "Antelope"
 slug: "antelope"
 tag: "Antelope"
 image: "/images/tech/antelope.png"
-description: "A blockchain protocol designed for high performance and scalability, supporting decentralized applications."
+description: "High-throughput chain protocol behind exchange backends, GraphQL indexers, multichain auctions, and music marketplaces."
 link: "https://antelope.io/"
 since: "2018"
-intro:
-  - Antelope is a blockchain protocol designed for high performance and scalability, supporting decentralized applications.
-  - "It is the protocol behind EOSIO-based chains: accounts, contracts, and block production."
 experience:
-  - Worked with Antelope in projects like bitcashBank and ChainGraph for blockchain application development.
+  - Built Bitcash's peer-to-peer exchange, chat, and EOS indexer on Antelope infrastructure with Node.js services.
+  - Indexed Antelope chain data for ChainGraph's open-source GraphQL toolkit.
+  - Shipped Bitlauncher's multichain auction product with Antelope and EOS EVM contract deployments.
+  - Delivered Emanate's music marketplace against Antelope accounts and contract APIs.
 ---
 
 # Antelope
 
-A blockchain protocol designed for high performance and scalability, supporting decentralized applications.
+High-throughput chain protocol behind exchange backends, GraphQL indexers, multichain auctions, and music marketplaces.

@@ -3,17 +3,15 @@ name: "AngularJS"
 slug: "angularjs"
 tag: "AngularJS"
 image: "/images/tech/angularjs.png"
-description: "A structural framework for dynamic web apps."
+description: "SPA framework for subscription apps, flight-information dashboards, and fitness trackers in early full-stack products."
 link: "https://angularjs.org/"
 since: "2018"
-intro:
-  - AngularJS lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly.
-  - It is fully extensible and works well with other libraries.
 experience:
-  - Used AngularJS in projects like ARINC Microfids for building interactive and dynamic web applications, focusing on user experience and performance.
-  - Utilized AngularJS to enhance web applications, aligning with the principle of user experience first.
+  - Built Eat Arcade's full-stack subscription app with AngularJS, Node.js, and MongoDB on Heroku.
+  - Connected ARINC Microfids' AngularJS frontend to a Ruby on Rails backend for live flight boards.
+  - Developed the 4Tius Fitness Data Tracker dashboard with AngularJS and secure API endpoints.
 ---
 
 # AngularJS
 
-A structural framework for dynamic web apps.
+SPA framework for subscription apps, flight-information dashboards, and fitness trackers in early full-stack products.

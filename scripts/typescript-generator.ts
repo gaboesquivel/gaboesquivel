@@ -155,7 +155,6 @@ function formatTech(tech: TechStackItemData): string {
     description: ${JSON.stringify(tech.description)},
     link: ${JSON.stringify(tech.link)},
     since: ${JSON.stringify(tech.since)},
-    intro: ${formatArray(tech.intro)},
     experience: ${formatArray(tech.experience)}${tech.featuredOrder !== undefined ? `,\n    featuredOrder: ${tech.featuredOrder}` : ''}
   }`
 }

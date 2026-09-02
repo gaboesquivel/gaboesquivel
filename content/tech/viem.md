@@ -3,20 +3,16 @@ name: "Viem"
 slug: "viem"
 tag: "Viem"
 image: "/images/tech/viem.png"
-description: "A library for interacting with Ethereum and other EVM-compatible blockchains."
-link: "https://viem.io/"
+description: "TypeScript client for EVM contract reads, event subscriptions, and wallet interactions in trading and auction systems."
+link: "https://viem.sh/"
 since: "2023"
 featuredOrder: 5
-intro:
-  - Viem is a TypeScript interface for EVM blockchains that offers modular architecture, comprehensive type safety, and improved performance over alternatives.
-  - It provides first-class support for public, private, and contract actions with built-in parsing, validation, and error handling for blockchain interactions.
 experience:
-  - Implemented Viem in Opyn trading interface for type-safe contract interactions with Arbitrum Testnet via Alchemy RPC endpoints.
-  - Built a custom EVM event indexer for BitLauncher using Viem EVM event subscriptions, capturing and processing auction data in real-time.
-  - Created a custom token bridge for swapping stablecoins to USDCred tokens in BitLauncher using Viem for contract interactions.
-  - Architected wallet interfaces with Viem for displaying real-time EVM balances through token balance subscriptions.
+  - Connected Opyn's trading UI to Arbitrum Testnet contracts through Viem with Alchemy RPC endpoints.
+  - Indexed Bitlauncher auction events with Viem subscriptions and persisted fills for the Next.js client.
+  - Implemented Bitlauncher's stablecoin-to-USDCred bridge and wallet balance views with Viem contract calls.
 ---
 
 # Viem
 
-A library for interacting with Ethereum and other EVM-compatible blockchains.
+TypeScript client for EVM contract reads, event subscriptions, and wallet interactions in trading and auction systems.

@@ -3,17 +3,16 @@ name: "JavaScript"
 slug: "javascript"
 tag: "JavaScript"
 image: "/images/tech/javascript.png"
-description: "A high-level, just-in-time compiled, object-oriented programming language."
+description: "Client and server scripting for community platforms, ecommerce navigation, energy dashboards, and early full-stack products."
 link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
 since: "2009"
-intro:
-  - JavaScript is a versatile programming language that is widely used for web development, enabling interactive and dynamic web pages.
-  - It is known for its flexibility and support for a wide range of programming paradigms.
 experience:
-  - Utilized JavaScript in projects like Staples and Gridium for building interactive and dynamic web applications.
-  - Implemented JavaScript to enhance web applications, aligning with the principle of user experience first.
+  - Founded Costa Rica JS in 2010 and grew the community past 2,000 developers through meetups, NodeSchool, and JSConf.
+  - Built Elder Scrolls Online's official community site with JavaScript for news, guides, and forum navigation.
+  - Rebuilt Staples' ecommerce navigation and responsive UI components with JavaScript.
+  - Built Gridium's energy-analytics prototype with JavaScript-driven interactive charts.
 ---
 
 # JavaScript
 
-A high-level, just-in-time compiled, object-oriented programming language.
+Client and server scripting for community platforms, ecommerce navigation, energy dashboards, and early full-stack products.

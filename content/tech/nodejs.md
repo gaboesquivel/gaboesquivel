@@ -3,21 +3,17 @@ name: "Node.js"
 slug: "nodejs"
 tag: "NodeJS"
 image: "/images/tech/nodejs.png"
-description: "A JavaScript runtime built on Chrome's V8 JavaScript engine, designed to build scalable network applications."
+description: "Server runtime for EVM indexers, Antelope workers, exchange backends, and serverless API functions in production systems."
 link: "https://nodejs.org/"
 since: "2009"
-featuredOrder: 9
-intro:
-  - Node.js provides a JavaScript runtime for server-side applications with an event-driven, non-blocking I/O model that optimizes throughput and scalability.
-  - It enables building fast, lightweight microservices, API layers, and real-time applications with a unified JavaScript codebase across client and server.
+featuredOrder: 10
 experience:
-  - Built a custom EVM event indexer for BitLauncher using Node.js with Viem subscriptions, efficiently processing blockchain data in real-time.
-  - Developed ChainGraph, an open-source GraphQL toolkit for blockchain data, using Node.js for real-time data streaming and event processing.
-  - "Built Bitcash's backend in Node.js: matching engine, realtime chat, and the EOS indexer."
-  - Built Knowledge.io's token and marketplace services as serverless Node.js functions.
-  - Founded Costa Rica JS in 2010; the community grew past 2,000 developers.
+  - Indexed Bitlauncher EVM events in Node.js with Viem subscriptions and wrote auction state to PostgreSQL.
+  - Streamed Antelope blocks into ChainGraph's GraphQL layer with Node.js workers and PostgreSQL storage.
+  - Ran Bitcash's matching engine, realtime chat, and EOS indexer services on Node.js.
+  - Deployed Knowledge.io token and marketplace logic as serverless Node.js functions.
 ---
 
 # Node.js
 
-A JavaScript runtime built on Chrome's V8 JavaScript engine, designed to build scalable network applications.
+Server runtime for EVM indexers, Antelope workers, exchange backends, and serverless API functions in production systems.
