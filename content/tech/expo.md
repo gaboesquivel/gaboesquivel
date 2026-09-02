@@ -3,7 +3,7 @@ name: "Expo"
 slug: "expo"
 tag: "Expo"
 image: "/images/tech/expo.png"
-description: "React Native toolchain for LegalAgent's voice assistant and Flow Hackathon game builds with over-the-air updates."
+description: "React Native toolchain for LegalAgent's voice assistant and Flow Hackathon game builds."
 link: "https://expo.dev/"
 since: "2017"
 experience:
@@ -13,4 +13,4 @@ experience:
 
 # Expo
 
-React Native toolchain for LegalAgent's voice assistant and Flow Hackathon game builds with over-the-air updates.
+React Native toolchain for LegalAgent's voice assistant and Flow Hackathon game builds.

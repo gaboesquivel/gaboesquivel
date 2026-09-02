@@ -22,9 +22,9 @@ image: "https://gaboesquivel.com/images/work/amex.jpg"
 
 images: []
 achievements:
-  - Enhanced user experience through AJAX-driven interactivity.
-  - Implemented A/B testing strategies to optimize user engagement.
-  - Developed analytics integrations to track usage and improve performance.
+  - Moved the frontend from Dojo to jQuery.
+  - 'Built credit-card marketing screens: comparison sliders and landing pages.'
+  - Wired responsive layouts, A/B testing, and analytics.
 story:
   - "At American Express I built cardmember and marketing web experiences: comparison sliders, landing pages, responsive layouts, A/B testing, and analytics."
   - I helped move a large frontend from Dojo to jQuery while keeping experimentation and measurement in place on live financial surfaces.

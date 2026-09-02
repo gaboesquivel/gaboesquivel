@@ -3,7 +3,7 @@ name: "Content Management Systems"
 slug: "cms"
 tag: "CMS"
 image: "/images/tech/cms.png"
-description: "Custom content platforms for corporate sites with CRM integration alongside WordPress client work."
+description: "Custom CMS for ITS InfoCom's corporate site, including CRM integration."
 link: "https://wordpress.org/"
 since: "2009"
 experience:
@@ -12,4 +12,4 @@ experience:
 
 # Content Management Systems
 
-Custom content platforms for corporate sites with CRM integration alongside WordPress client work.
+Custom CMS for ITS InfoCom's corporate site, including CRM integration.

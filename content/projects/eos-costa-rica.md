@@ -32,13 +32,13 @@ repo: "https://github.com/eoscostarica"
 video: "https://www.youtube.com/watch?v=-1y0fGs8Xgw&"
 images: []
 achievements:
-  - Played a key role in the EOS mainnet launch, ensuring network stability and security.
-  - Led the development of a custom private blockchain for Grant Thornton.
-  - Managed validator nodes across multiple EOSIO-based networks.
+  - Helped launch EOS mainnet and operated EOSIO validators.
+  - Built a private EOSIO chain for Grant Thornton Labs on Azure, Terraform, EOSIO, and React; shipped an MVP for intercompany transactions and tax workflows using a stablecoin, hashing, and IPFS.
+  - Built the EOS Rate frontend with React and Styled Components.
 story:
-  - Joining EOS Costa Rica at its inception, I helped launch the EOS mainnet and managed validator nodes across multiple EOSIO-based networks to maintain blockchain stability and security.
-  - As main architect and tech lead, I built a team and designed the architecture for Grant Thornton's custom private blockchain using Azure, Terraform, EOSIO, and a React client. This implementation provided an enterprise blockchain solution tailored to specific requirements.
-  - I also managed open source software development and developer relations to build community engagement. My work at EOS Costa Rica included establishing the custom development services division and expanding technical capabilities within the organization.
+  - I helped launch the EOS mainnet and operated validator nodes across EOSIO-based networks.
+  - As architect and tech lead I designed a private EOSIO chain for Grant Thornton Labs on Azure, Terraform, EOSIO, and React. The MVP covered intercompany transactions and tax workflows with a stablecoin, hashing, and IPFS.
+  - I also ran open-source work and developer relations, including workshops around TicoBlockchain.cr and CryptoCantinaCR.
 experienceCompany: "EOS Costa Rica"
 order: 11
 year: 2018

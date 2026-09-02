@@ -33,15 +33,14 @@ image: "https://gaboesquivel.com/images/work/opyn.png"
 
 images: []
 achievements:
-  - Built trading interface with Next.js 14 and React Server Components
-  - Set up Ponder indexing service with PostgreSQL for chain data
-  - Integrated viem/wagmi for Arbitrum Testnet interactions
-  - Implemented type-safe data validation and state management
-  - Prototyped an LLM assistant for onboarding and support
+  - Built the Next.js 14 trading interface with React Server Components.
+  - Integrated the protocol and Arbitrum testnet with viem and wagmi.
+  - Indexed onchain data with Ponder, PostgreSQL, and Supabase.
+  - Prototyped an LLM assistant for onboarding and support.
 story:
   - At Opyn, I built their trading interface with Next.js 14 and React Server Components. The frontend used shadcn/ui components based on Radix UI primitives with Tailwind CSS styling.
   - I implemented Ponder for blockchain data indexing, storing data in PostgreSQL via Supabase. Chain interactions were handled through viem/wagmi with Alchemy RPC endpoints.
-  - The implementation prioritized type safety using Zod for schema validation, TanStack Query for data management, and nuqs for URL state handling.
+  - I also prototyped an LLM assistant for onboarding and support.
 experienceCompany: "Opyn"
 order: 2
 year: 2024

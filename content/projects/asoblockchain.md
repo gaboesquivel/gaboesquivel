@@ -17,13 +17,13 @@ images:
 achievements:
   - Co-founded Costa Rica's first blockchain association in 2017.
   - Established educational partnerships with ADEN International Business School and ULACIT.
-  - Started CriptoCantinaCR, a weekly meetup that later became a formal education program.
+  - Started CryptoCantinaCR, a weekly meetup that later became a formal education program.
   - Organized TicoBlockchain, Costa Rica's first international crypto and blockchain conference.
   - Developed advocacy programs for blockchain policy and regulation.
   - Ran educational programs, industry partnerships, and community events for members.
 story:
   - AsoBlockchain is a Costa Rican nonprofit for blockchain education, industry collaboration, events, and policy. As a co-founder, I helped set the organization's direction and first programs.
-  - I helped start CriptoCantina and TicoBlockchain as education and gathering points, and worked on partnerships with ADEN Business School and ULACIT so there was somewhere to learn the technology.
+  - I helped start CryptoCantinaCR and TicoBlockchain as education and gathering points, and worked on partnerships with ADEN Business School and ULACIT so there was somewhere to learn the technology.
   - I also took part in policy discussions around regulation, representing members while keeping the association's work on education, partnerships, and events.
 related:
   - url: "2019-03-ticoblockchain-2019-recap"
