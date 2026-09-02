@@ -12,7 +12,6 @@ type:
   - frontend
   - backend
   - fullstack
-link: "https://example.com/18techs"
 image: "https://gaboesquivel.com/images/work/4tius.jpg"
 
 

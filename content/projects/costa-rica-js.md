@@ -5,8 +5,6 @@ description: "A JavaScript community founded in 2010 that grew past 2,000 develo
 tech:
   - JavaScript
   - NodeJS
-  - ReactJS
-  - TypeScript
 type:
   - other
   - lead
@@ -30,13 +28,13 @@ story:
   - As founder I organized the meetups, workshops, and conferences. The point was practical skill-building as Node.js and modern web frameworks arrived, not a networking club with a speaker at the front.
   - The community became a place people used to learn, hire, and get hired. Workshops stayed hands-on so the knowledge transferred.
 related:
-  - url: "https://gaboesquivel.com/blog/2016-06-nodeschool-international-day"
+  - url: "2016-06-nodeschool-international-day"
     title: "NodeSchool International Day"
     publishedAt: "2016-06-01"
-  - url: "https://gaboesquivel.com/blog/2015-5-paintball.js-recap"
+  - url: "2015-5-paintball.js-recap"
     title: "Paintball.js Recap"
     publishedAt: "2015-05-01"
-  - url: "https://gaboesquivel.com/blog/2014-01-developing-software-in-costa-rica"
+  - url: "2014-01-developing-software-in-costa-rica"
     title: "Developing Software in Costa Rica"
     publishedAt: "2014-01-01"
 order: 45

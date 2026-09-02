@@ -1,5 +1,5 @@
 ---
-name: "ReactJS"
+name: "React"
 slug: "reactjs"
 tag: "ReactJS"
 image: "/images/tech/reactjs.png"

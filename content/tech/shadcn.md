@@ -1,5 +1,5 @@
 ---
-name: "ShadcnUI"
+name: "shadcn/ui"
 slug: "shadcn"
 tag: "ShadcnUI"
 image: "/images/tech/shadcn.png"

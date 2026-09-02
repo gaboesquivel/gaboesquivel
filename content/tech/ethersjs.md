@@ -1,5 +1,5 @@
 ---
-name: "EthersJS"
+name: "Ethers.js"
 slug: "ethersjs"
 tag: "Ethers"
 image: "/images/tech/ethersjs.png"

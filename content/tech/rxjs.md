@@ -1,5 +1,5 @@
 ---
-name: "RXJS"
+name: "RxJS"
 slug: "rxjs"
 tag: "RXJS"
 image: "/images/tech/rxjs.png"

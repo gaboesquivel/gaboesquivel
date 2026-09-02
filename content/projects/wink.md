@@ -35,6 +35,7 @@ story:
   - "Wink is Costa Rica's first neobank: a mobile app for banking without a branch visit. I built the first version of the app and the AWS backend it depended on."
   - I chose the stack, planned the work, and coordinated partner-bank API integration. I also implemented biometric authentication so KYC and login did not need a branch visit.
   - Launch required forming a development team that did not exist yet. A neobank has no useful version without the partner integrations, the auth, and the people to operate them.
+experienceCompany: "Wink"
 order: 18
 year: 2015
 ---

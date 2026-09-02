@@ -21,6 +21,8 @@ export const ProjectSchema = z.object({
   achievements: z.array(z.string()),
   story: z.array(z.string()),
   related: z.array(RelatedSchema).optional(),
+  experienceCompany: z.string().optional(),
+  aliases: z.array(z.string()).optional(),
   order: z.number(),
   year: z.number(),
 })
@@ -36,6 +38,7 @@ export const TechStackItemSchema = z.object({
   intro: z.array(z.string()),
   experience: z.array(z.string()),
   featuredOrder: z.number().optional(),
+  aliases: z.array(z.string()).optional(),
 })
 
 export const ExperienceSchema = z.object({

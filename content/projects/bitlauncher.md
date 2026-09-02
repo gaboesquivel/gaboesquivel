@@ -54,9 +54,10 @@ achievements:
   - Developed the chatbot at bitlauncher.ai, with tool calls for news and YouTube and RAG for longer answers.
   - Integrated AI SDK for internationalization automation and established an AI-driven development workflow using v0.dev, Anthropic Claude Sonnet, Cursor IDE, and SourceryAI.
 story:
-  - "BitLauncher is an AI and crypto launchpad: token sales and batch auctions for early access to AI startups. I architected the Next.js, Supabase, viem, and wagmi stack."
+  - "Bitlauncher is an AI and crypto launchpad: token sales and batch auctions for early access to AI startups. I architected the Next.js, Supabase, viem, and wagmi stack."
   - The auction sells at a uniform price. I built the bidding interface, the token bridge, wallets with live balances, and indexers for EOS EVM and EOS.
   - I built this with the bitcash.org team I have worked with since 2020. I also wired AI SDK work for Masterbots and the i18n automation.
+experienceCompany: "Bitlauncher"
 order: 3
 year: 2022
 ---

@@ -33,8 +33,8 @@ achievements:
   - Built a serverless AWS infrastructure for the token, marketplace, and wallet services.
 story:
   - Knowledge is a platform that rewards sharing information with an ERC-20 token. I led the token architecture and the systems around the 2018 mainnet ICO.
-  - I designed and implemented smart contracts for token rewards and transactions to create a secure and efficient system. I also built a serverless infrastructure using AWS to support the platform operations.
-  - I formed a development team with the necessary technical skills to implement the project requirements. The work focused on applying blockchain technology to create a functional token-based incentive system.
+  - I designed and implemented smart contracts for token rewards and transactions, then built a serverless AWS stack for the token, marketplace, and wallet services.
+experienceCompany: "Knowledge"
 order: 17
 year: 2017
 ---

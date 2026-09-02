@@ -37,9 +37,8 @@ achievements:
   - Set up the Next.js application structure and trained the team on it.
   - Integrated AI-driven development workflow using v0.dev, Anthropic Claude Sonnet, Cursor IDE, and SourceryAI.
 story:
-  - Masterbots.ai focuses on domain-specific AI chatbots that go beyond basic information retrieval. The platform provides specialized conversational tools designed to handle more complex tasks than standard chatbots.
-  - I integrated AI SDKs and developed specialized agents to enable features like automated internationalization and workflow optimization. These implementations allow the platform to better address diverse user requirements.
-  - This project was built with the same team behind bitcash.org and bitlauncher.ai, continuing our collaborative work in AI and blockchain technologies. The platform combines AI capabilities with practical application design.
+  - Masterbots is a platform for domain-specific AI assistants with specialized interfaces, social sharing, and multilingual support.
+  - I integrated the AI SDK for internationalization automation, set up the Next.js application structure, and built specialized agent interfaces on top of it.
 order: 4
 year: 2024
 ---

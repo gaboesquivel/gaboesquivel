@@ -18,7 +18,7 @@ skills:
       LLMs, OpenAI, AI SDK, RAG, Embeddings, Vector Search, Agent Workflows,
       Realtime Voice
   - label: Frontend
-    keywords: React, Next.js, React Native, Expo, Tailwind, Shadcn UI, Tanstack
+    keywords: React, Next.js, React Native, Expo, Tailwind, shadcn/ui, TanStack
   - label: Backend
     keywords: Node.js, PostgreSQL, Supabase, Redis, GraphQL
   - label: Cloud & Infra

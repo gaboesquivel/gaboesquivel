@@ -14,7 +14,6 @@ tech:
   - GraphQL
   - PostgreSQL
   - TypeScript
-  - ShadcnUI
   - Tailwind
   - Stitches
   - Zustand
@@ -41,6 +40,7 @@ story:
   - Bitcash was a fiat-to-stablecoin and crypto exchange. As Lead Engineer, I architected its React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack and built its peer-to-peer exchange, realtime chat, and matching engine.
   - I developed a realtime EOS indexer with Node.js worker threads, binary deserialization, and PostgreSQL on Google Cloud.
   - I implemented WebAuthn for in-browser transaction signing and used Supabase subscriptions and webhooks for QR-based signature requests.
+experienceCompany: "Bitcash"
 order: 7
 year: 2020
 ---

@@ -18,7 +18,7 @@ skills:
   - label: Languages
     keywords: TypeScript, JavaScript, Solidity, SQL
   - label: Frontend
-    keywords: React, Next.js, Remix, React Native, Tailwind, Shadcn UI
+    keywords: React, Next.js, Remix, React Native, Tailwind, shadcn/ui
   - label: Backend
     keywords: Node.js, PostgreSQL, Supabase, Hasura GraphQL, Redis
   - label: Cloud & Infra

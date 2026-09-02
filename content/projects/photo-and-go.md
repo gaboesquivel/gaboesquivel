@@ -25,8 +25,7 @@ achievements:
   - Ran image storage and processing on AWS.
 story:
   - MyPhoto.com is an online platform for personalized photo products. I led the photo editor and the backend that plugged into the existing commerce system.
-  - "I owned technical direction on the editor: cropping, layouts, and sending a finished product into checkout. Image storage and processing ran on AWS."
-  - The project required balancing technical requirements with usability considerations for customers creating custom photo products. My work delivered a functional photo customization solution integrated with e-commerce capabilities.
+  - I owned cropping, layouts, checkout handoff, and AWS-backed image storage and processing.
 order: 29
 year: 2014
 ---

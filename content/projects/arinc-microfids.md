@@ -11,7 +11,6 @@ tech:
 type:
   - contract
   - frontend
-link: ""
 image: "https://gaboesquivel.com/images/work/arinc.png"
 
 

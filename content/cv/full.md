@@ -19,7 +19,7 @@ skills:
   - label: Web3
     keywords: Foundry, Hardhat, Viem, Wagmi, Ponder, Ethers
   - label: Frontend
-    keywords: React, Next.js, Tailwind, Shadcn UI, React Native, Expo, Tanstack
+    keywords: React, Next.js, Tailwind, shadcn/ui, React Native, Expo, TanStack
   - label: Backend
     keywords: Node.js, PostgreSQL, Supabase, Prisma, Drizzle, GraphQL
   - label: Cloud & Infra

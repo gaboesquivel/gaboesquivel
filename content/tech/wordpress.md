@@ -1,5 +1,5 @@
 ---
-name: "Wordpress"
+name: "WordPress"
 slug: "wordpress"
 tag: "Wordpress"
 image: "/images/tech/wordpress.png"

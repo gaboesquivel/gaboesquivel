@@ -10,6 +10,7 @@ import {
   parseTagsMarkdown,
   parseTechMarkdown,
 } from './markdown-parser'
+import type { ExperienceData, ProjectData } from './schemas'
 import { generateTagType } from './type-generator'
 import {
   generateCvTypeScript,
@@ -38,6 +39,64 @@ function validateCvFeatured({
         )
       }
     }
+  }
+}
+
+const parseDurationStartYear = (duration: string) => {
+  const match = duration.match(/\b(19|20)\d{2}\b/)
+  return match ? Number.parseInt(match[0], 10) : null
+}
+
+function validateProjects({
+  projects,
+  experienceCompanies,
+  tags,
+}: {
+  projects: Array<{ data: ProjectData; markdownPath: string }>
+  experienceCompanies: Set<string>
+  tags: Set<string>
+}) {
+  for (const { data: project, markdownPath } of projects) {
+    if (project.link === '#' || project.link?.includes('example.com'))
+      throw new Error(
+        `${markdownPath}: invalid project link "${project.link}" — omit the field instead`,
+      )
+
+    if (
+      project.experienceCompany &&
+      !experienceCompanies.has(project.experienceCompany)
+    )
+      throw new Error(
+        `${markdownPath}: experienceCompany "${project.experienceCompany}" not found in experience`,
+      )
+
+    for (const tag of project.tech) {
+      if (!tags.has(tag))
+        throw new Error(`${markdownPath}: unknown tech tag "${tag}"`)
+    }
+  }
+}
+
+function validateProjectDates({
+  projects,
+  experience,
+}: {
+  projects: Array<{ data: ProjectData; markdownPath: string }>
+  experience: Array<{ data: ExperienceData }>
+}) {
+  const durationByCompany = new Map(
+    experience.map((entry) => [entry.data.company, entry.data.duration]),
+  )
+
+  for (const { data: project, markdownPath } of projects) {
+    if (!project.experienceCompany) continue
+    const duration = durationByCompany.get(project.experienceCompany)
+    if (!duration) continue
+    const startYear = parseDurationStartYear(duration)
+    if (startYear && project.year < startYear)
+      console.warn(
+        `⚠️  ${markdownPath}: year ${project.year} is before employment start (${duration})`,
+      )
   }
 }
 
@@ -111,6 +170,9 @@ async function main() {
     }
 
     const tags = Array.from(allTags).sort()
+
+    validateProjects({ projects, experienceCompanies, tags: allTags })
+    validateProjectDates({ projects, experience })
 
     console.log(`🏷️  Generating Tag type with ${tags.length} tags...`)
     generateTagType(tags, GENERATED_DIR)

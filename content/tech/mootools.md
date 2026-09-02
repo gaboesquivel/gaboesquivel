@@ -1,5 +1,5 @@
 ---
-name: "Mootools"
+name: "MooTools"
 slug: "mootools"
 tag: "Mootools"
 image: "/images/tech/mootools.png"

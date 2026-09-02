@@ -14,7 +14,6 @@ tech:
 type:
   - contract
   - frontend
-link: "#"
 image: "https://gaboesquivel.com/images/work/jockey-hollow-menu.png"
 
 

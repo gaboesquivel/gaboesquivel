@@ -26,16 +26,16 @@ story:
   - I helped start CriptoCantina and TicoBlockchain as education and gathering points, and worked on partnerships with ADEN Business School and ULACIT so there was somewhere to learn the technology.
   - I also took part in policy discussions around regulation, representing members while keeping the association's work on education, partnerships, and events.
 related:
-  - url: "https://gaboesquivel.com/blog/2019-03-ticoblockchain-2019-recap"
+  - url: "2019-03-ticoblockchain-2019-recap"
     title: "TicoBlockchain 2019 Recap"
     publishedAt: "2019-03-01"
-  - url: "https://gaboesquivel.com/blog/2019-01-international-crypto-conference-in-costa-rica"
+  - url: "2019-01-international-crypto-conference-in-costa-rica"
     title: "International Crypto Conference in Costa Rica"
     publishedAt: "2019-01-01"
-  - url: "https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina"
+  - url: "2018-07-costa-rica-crypto-cantina"
     title: "Costa Rica Crypto Cantina"
     publishedAt: "2018-07-01"
-  - url: "https://gaboesquivel.com/blog/2018-06-blockchain-technology-in-costa-rica"
+  - url: "2018-06-blockchain-technology-in-costa-rica"
     title: "Blockchain Technology in Costa Rica"
     publishedAt: "2018-06-01"
 order: 46

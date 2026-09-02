@@ -25,6 +25,8 @@ export interface Project {
   achievements: string[]
   story: string[]
   related?: { url: string; title: string; publishedAt: string }[]
+  experienceCompany?: string
+  aliases?: string[]
   order: number
   year: number
   markdown: string
@@ -42,6 +44,7 @@ export interface TechStackItem {
   intro: string[]
   experience: string[]
   featuredOrder?: number
+  aliases?: string[]
 }
 
 export interface TechStackItemWithProjects extends TechStackItem {
