@@ -44,6 +44,13 @@ story:
 experienceCompany: "Opyn"
 order: 2
 year: 2023
+related:
+  - url: "2025-11-bullish-2026"
+    title: "Bullish 2026"
+    publishedAt: "2025-11-01"
+  - url: "2026-01-tokenization"
+    title: "Tokenization"
+    publishedAt: "2026-01-01"
 ---
 
 # Opyn

@@ -12,11 +12,9 @@ highlights:
   - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
 skills:
   - label: Languages
-    keywords: TypeScript, JavaScript, Python, SQL
+    keywords: TypeScript, JavaScript, SQL
   - label: AI / ML
-    keywords: >-
-      LLMs, OpenAI, AI SDK, RAG, Embeddings, Vector Search, Agent Workflows,
-      Realtime Voice
+    keywords: LLMs, OpenAI, AI SDK, RAG, Realtime Voice
   - label: Frontend
     keywords: React, Next.js, React Native, Expo, Tailwind, shadcn/ui, TanStack
   - label: Backend

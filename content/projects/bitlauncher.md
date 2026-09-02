@@ -27,6 +27,7 @@ tech:
   - nuqs
   - OpenAI
   - AI SDK
+  - Artificial Intelligence
 type:
   - web3
   - ai
@@ -59,7 +60,17 @@ story:
   - I built this with the bitcash.org team I have worked with since 2020. I also wired AI SDK work for Masterbots and the i18n automation.
 experienceCompany: "Bitlauncher"
 order: 3
-year: 2022
+year: 2023
+related:
+  - url: "2024-07-viem-wagmi-ethers"
+    title: "Viem, Wagmi, and Ethers"
+    publishedAt: "2024-07-01"
+  - url: "2024-07-ai-and-web3"
+    title: "AI and Web3"
+    publishedAt: "2024-07-01"
+  - url: "2025-11-web3-and-ai"
+    title: "Web3 and AI"
+    publishedAt: "2025-11-01"
 ---
 
 # Bitlauncher

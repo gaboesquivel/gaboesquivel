@@ -11,13 +11,13 @@ highlights:
   - Shipped LegalAgent as an Expo assistant and a TanStack Start admin on one retrieval system
 skills:
   - label: Languages
-    keywords: TypeScript, JavaScript, Python, SQL
+    keywords: TypeScript, JavaScript, SQL
   - label: Frontend
     keywords: React, Next.js, Remix, React Native, Expo, Tailwind, shadcn/ui, TanStack
   - label: Backend
-    keywords: Node.js, PostgreSQL, Supabase, Prisma, Drizzle, GraphQL, Redis
+    keywords: Node.js, PostgreSQL, Supabase, GraphQL, Redis
   - label: Cloud & Infra
-    keywords: AWS, GCP, Azure, Docker, Vercel, Pulumi, Terraform, Serverless
+    keywords: AWS, GCP, Azure, Docker, Vercel, Terraform, Serverless
   - label: AI & Web3
     keywords: LLMs, AI SDK, RAG, EVM, Viem, Wagmi, Solidity
 featured:

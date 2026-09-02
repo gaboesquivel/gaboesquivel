@@ -40,6 +40,13 @@ story:
 experienceCompany: "LegalAgent"
 order: 1
 year: 2025
+related:
+  - url: "2025-05-typescript-rag"
+    title: "TypeScript RAG"
+    publishedAt: "2025-05-01"
+  - url: "2025-09-why-expo"
+    title: "Why Expo"
+    publishedAt: "2025-09-01"
 ---
 
 # LegalAgent

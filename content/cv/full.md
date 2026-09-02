@@ -13,17 +13,17 @@ highlights:
   - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
 skills:
   - label: Languages
-    keywords: TypeScript, JavaScript, Python, Solidity, SQL
+    keywords: TypeScript, JavaScript, Solidity, SQL
   - label: AI / ML
-    keywords: LLMs, AI SDK, RAG, Embeddings, Vector Search, Agent Workflows
+    keywords: LLMs, AI SDK, RAG
   - label: Web3
     keywords: Foundry, Hardhat, Viem, Wagmi, Ponder, Ethers
   - label: Frontend
     keywords: React, Next.js, Tailwind, shadcn/ui, React Native, Expo, TanStack
   - label: Backend
-    keywords: Node.js, PostgreSQL, Supabase, Prisma, Drizzle, GraphQL
+    keywords: Node.js, PostgreSQL, Supabase, GraphQL
   - label: Cloud & Infra
-    keywords: AWS, GCP, Azure, Docker, Vercel, Pulumi, Terraform, Serverless
+    keywords: AWS, GCP, Azure, Docker, Vercel, Terraform, Serverless
 featured:
   - company: LegalAgent
   - company: Bitlauncher
