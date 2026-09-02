@@ -1,6 +1,11 @@
 import { mkdirSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
-import type { ProjectData, TechStackItemData } from './schemas'
+import type {
+  CvVariantData,
+  ExperienceData,
+  ProjectData,
+  TechStackItemData,
+} from './schemas'
 
 export function generateJSON(
   projects: Array<{
@@ -10,6 +15,16 @@ export function generateJSON(
   }>,
   tech: Array<{
     data: TechStackItemData
+    markdown: string
+    markdownPath: string
+  }>,
+  experience: Array<{
+    data: ExperienceData
+    markdown: string
+    markdownPath: string
+  }>,
+  cvVariants: Array<{
+    data: CvVariantData
     markdown: string
     markdownPath: string
   }>,
@@ -39,6 +54,24 @@ export function generateJSON(
   writeFileSync(
     join(outputDir, 'tags.json'),
     JSON.stringify(tags, null, 2),
+    'utf-8',
+  )
+
+  const experienceData = [...experience]
+    .sort((a, b) => a.data.order - b.data.order)
+    .map((e) => e.data)
+  writeFileSync(
+    join(outputDir, 'experience.json'),
+    JSON.stringify(experienceData, null, 2),
+    'utf-8',
+  )
+
+  const cvData = Object.fromEntries(
+    cvVariants.map((cv) => [cv.data.key, cv.data]),
+  )
+  writeFileSync(
+    join(outputDir, 'cv.json'),
+    JSON.stringify(cvData, null, 2),
     'utf-8',
   )
 }

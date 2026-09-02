@@ -1,10 +1,20 @@
+import { cvVariants } from './generated/cv'
+import { experience } from './generated/experience'
 import { projects } from './generated/projects'
 import { techStack } from './generated/tech'
 import type {
+  CvExperience,
+  CvKey,
+  CvVariant,
   Tag,
   TechStackItem,
   TechStackItemWithProjects,
 } from './generated/types'
+
+export const cvKeys = ['full', 'ai', 'web3', 'fullstack'] as const
+
+export type { CvExperience, CvKey, CvVariant } from './generated/types'
+export { experience, cvVariants } from './generated'
 
 export type TechCategory =
   | 'featured'
@@ -139,5 +149,28 @@ export function getProjectsByTechnologySlug(slug: string) {
 }
 
 export function gaboLog() {
-  console.log({ projects, tech: techStack })
+  console.log({ projects, tech: techStack, experience, cvVariants })
+}
+
+const selectEntries = ({ variant }: { variant: CvVariant }): CvExperience[] => {
+  const { featured } = variant
+  if (!featured) return experience
+
+  return experience.flatMap((entry) => {
+    const override = featured.find((role) => role.company === entry.company)
+    return override ? [{ ...entry, ...override }] : []
+  })
+}
+
+const isFocusKey = (
+  value: string | undefined,
+): value is Exclude<CvKey, 'full'> =>
+  value === 'ai' || value === 'web3' || value === 'fullstack'
+
+export const resolveCv = ({ focus }: { focus?: string | string[] }) => {
+  const value = Array.isArray(focus) ? focus[0] : focus
+  const key: CvKey = isFocusKey(value) ? value : 'full'
+  const variant = cvVariants[key]
+
+  return { key, variant, entries: selectEntries({ variant }) }
 }

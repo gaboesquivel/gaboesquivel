@@ -47,6 +47,54 @@ export interface TechStackItem {
 export interface TechStackItemWithProjects extends TechStackItem {
   projects: Project[]
 }
+
+export type CvLocation = 'Remote' | 'Hybrid' | 'On-site'
+export type CvEmploymentType = 'Full-time' | 'Part-time' | 'Contract'
+
+export interface CvExperience {
+  company: string
+  title: string
+  location: CvLocation
+  type: CvEmploymentType
+  duration: string
+  description: string
+  achievements: string[]
+  techStack: string[]
+  order: number
+}
+
+export interface CvSkill {
+  label: string
+  keywords: string
+}
+
+export interface CvFeatured {
+  company: string
+  description?: string
+  achievements?: string[]
+}
+
+export interface CvMetadata {
+  title: string
+  description: string
+  keywords?: string[]
+  openGraph: {
+    title: string
+    description: string
+  }
+}
+
+export type CvKey = 'full' | 'ai' | 'web3' | 'fullstack'
+
+export interface CvVariant {
+  professionalTitle: string
+  summary: string
+  highlights: string[]
+  skills: CvSkill[]
+  featured?: CvFeatured[]
+  also?: string
+  metadata: CvMetadata
+}
 `
 
   writeFileSync(join(outputDir, 'types.ts'), typesContent, 'utf-8')

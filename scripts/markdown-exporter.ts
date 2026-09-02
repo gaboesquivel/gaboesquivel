@@ -6,10 +6,14 @@ export async function exportMarkdownFiles(outputDir: string) {
   const contentDir = join(outputDir, 'content')
   const projectsDir = join(contentDir, 'projects')
   const techDir = join(contentDir, 'tech')
+  const experienceDir = join(contentDir, 'experience')
+  const cvDir = join(contentDir, 'cv')
 
   // Create directories
   mkdirSync(projectsDir, { recursive: true })
   mkdirSync(techDir, { recursive: true })
+  mkdirSync(experienceDir, { recursive: true })
+  mkdirSync(cvDir, { recursive: true })
 
   // Copy project markdown files
   const projectFiles = await glob('content/projects/*.md')
@@ -26,6 +30,22 @@ export async function exportMarkdownFiles(outputDir: string) {
     const filename = file.split('/').pop()
     if (filename) {
       copyFileSync(file, join(techDir, filename))
+    }
+  }
+
+  const experienceFiles = await glob('content/experience/*.md')
+  for (const file of experienceFiles) {
+    const filename = file.split('/').pop()
+    if (filename) {
+      copyFileSync(file, join(experienceDir, filename))
+    }
+  }
+
+  const cvFiles = await glob('content/cv/*.md')
+  for (const file of cvFiles) {
+    const filename = file.split('/').pop()
+    if (filename) {
+      copyFileSync(file, join(cvDir, filename))
     }
   }
 
