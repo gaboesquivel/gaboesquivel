@@ -13,6 +13,7 @@
         "@types/node": "^20.11.25",
         "@types/prompts": "^2.4.9",
         "fast-glob": "^3.3.0",
+        "gaboesquivel-skills": "link:gaboesquivel-skills",
         "gray-matter": "^4.0.3",
         "simple-git-hooks": "2.11.1",
         "tsup": "^8.4.0",
@@ -212,6 +213,8 @@
     "foreground-child": ["foreground-child@3.3.1", "", { "dependencies": { "cross-spawn": "^7.0.6", "signal-exit": "^4.0.1" } }, "sha512-gIXjKqtFuWEgzFRJA9WCQeSJLZDjgJUOMCMzxtvFq/37KojM1BFGufqsCy0r4qSQmYLsZYMeyRqzIWOMup03sw=="],
 
     "fsevents": ["fsevents@2.3.3", "", { "os": "darwin" }, "sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw=="],
+
+    "gaboesquivel-skills": ["gaboesquivel-skills@link:gaboesquivel-skills", {}],
 
     "get-tsconfig": ["get-tsconfig@4.13.0", "", { "dependencies": { "resolve-pkg-maps": "^1.0.0" } }, "sha512-1VKTZJCwBrvbd+Wn3AOgQP/2Av+TfTCOlE4AcRJE72W1ksZXbAx8PPBR9RzgTeSPzlPMHrbANMH3LbltH73wxQ=="],
 

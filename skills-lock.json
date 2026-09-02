@@ -2,10 +2,9 @@
   "version": 1,
   "skills": {
     "gabo": {
-      "source": "gaboesquivel/gaboesquivel-skills",
-      "sourceType": "github",
-      "skillPath": "skills/gabo/SKILL.md",
-      "computedHash": "faf63411424630c0f42bcd769d1b4beb0dffcfd5b48953ea89dfbe6848beb1c7"
+      "source": "./node_modules/gaboesquivel-skills",
+      "sourceType": "local",
+      "computedHash": "8ec0e7e3b1480d045593e681b977a9af56be3819f67cf6f8c500bbfe35412c3b"
     }
   }
 }
