@@ -12,7 +12,7 @@ achievements:
     EOSIO, and React; shipped an MVP for intercompany transactions and tax
     workflows using a stablecoin, hashing, and IPFS.
   - Built the EOS Rate frontend with React and Styled Components.
-  - Ran workshops and community work around TicoBlockchain.cr and CryptoCantinaCR.
+  - Onboarded engineers and ran workshops around TicoBlockchain.cr and CryptoCantinaCR.
 techStack:
   - EOSIO
   - React

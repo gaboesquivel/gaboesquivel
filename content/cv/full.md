@@ -2,15 +2,16 @@
 key: full
 professionalTitle: Senior Product Engineer
 summary: >-
-  I build software products where the interface, the services, and the model or
-  chain underneath have to work as one thing. Recent work is production AI
-  assistants and the product layer around blockchain systems. 15+ years across
-  TypeScript, React, Next.js, and cloud. Fluent in English, Spanish, Portuguese,
-  and Italian.
+  I build software products where product decisions, the interface, and the
+  model or chain underneath have to work as one thing. Recent work spans
+  production AI assistants and the product layer around blockchain systems. 15+
+  years across TypeScript, React, Next.js, and cloud. Fluent in English, Spanish,
+  Portuguese, and Italian.
 highlights:
-  - Shipped a production AI legal assistant with voice, chat, and retrieval in React Native
-  - Built wallets, token flows, auctions, and trading interfaces across EVM and Antelope
+  - 12+ years building 0→1 products for startups and growth-stage teams
   - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
+  - Tuned a production AI legal assistant for attorney tone, gender, and persona, improving speed and optimizing tool calling in React Native
+  - Built wallets, token flows, auctions, and trading interfaces across EVM and Antelope
 skills:
   - label: Languages
     keywords: TypeScript, JavaScript, Solidity, SQL
@@ -27,10 +28,6 @@ skills:
 featured:
   - company: LegalAgent
   - company: Bitlauncher
-    achievements:
-      - Built the launchpad on Next.js 14, Supabase, viem, and wagmi.
-      - Built token bridge and auction flows with wallet UX and realtime balance updates.
-      - Integrated AI SDKs and prompting for masterbots.ai.
   - company: Opyn
     achievements:
       - Built the Next.js 14 trading interface with React Server Components.

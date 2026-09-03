@@ -29,11 +29,11 @@ video: "https://www.youtube.com/watch?v=h58y6UzZ7RA"
 images: []
 achievements:
   - Set up the initial React architecture using Next.js, TailwindCSS, and Framer Motion.
-  - Developed a WebGL EVM wallet connector using Ethers.js.
+  - Developed a WebGL EVM wallet connector using MetaMask and Ethers.js.
   - Implemented advanced analytics and reporting using Google Tag Manager.
 story:
-  - ZTX is a Web3 virtual world with cryptocurrency-backed digital asset ownership. As a Software Engineer during its early stages, I helped develop the React application hosting the virtual-world experience.
-  - I set up the initial architecture using Next.js, TailwindCSS, and Framer Motion to create the application foundation. I also built a WebGL EVM wallet connector with Ethers.js to enable NFT trading functionality within the platform.
+  - ZTX is a Web3 virtual world with cryptocurrency-backed digital asset ownership. I built the React application that hosted the virtual-world experience.
+  - I set up the initial architecture using Next.js, TailwindCSS, and Framer Motion to create the application foundation. I also built a WebGL EVM wallet connector with MetaMask and Ethers.js to enable NFT trading functionality within the platform.
   - The product is a consumer world with a live wallet session inside WebGL. I connected the Next.js experience to signing and NFT trading so the chain receded behind the screen.
 experienceCompany: "ZTX"
 order: 5

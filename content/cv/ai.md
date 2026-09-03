@@ -1,14 +1,15 @@
 ---
 key: ai
-professionalTitle: Senior Full Stack Engineer, AI Products
+professionalTitle: Senior Product Engineer, AI
 summary: >-
   I build production AI products: voice and chat assistants, retrieval, and the
   admin tools a team needs to run them after launch. 15+ years across TypeScript,
   React Native, Next.js, and cloud. Fluent in English, Spanish, Portuguese, and
   Italian.
 highlights:
-  - Shipped a production AI legal assistant with voice, chat, and retrieval in React Native
   - 12+ years building 0→1 products for startups and growth-stage teams
+  - Tuned a production AI legal assistant for attorney tone, gender, and persona, improving speed and optimizing tool calling in React Native
+  - Built the bitlauncher.ai RAG chatbot and Masterbots chat prompting on production launchpad products
   - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
 skills:
   - label: Languages
@@ -25,12 +26,11 @@ featured:
   - company: LegalAgent
   - company: Bitlauncher
     description: >-
-      AI and crypto launchpad for token sales, auctions, wallets, and indexed
-      market data.
+      AI and crypto launchpad with retrieval, research tools, and specialized assistant work.
     achievements:
-      - Built the launchpad on Next.js 14, Supabase, viem, and wagmi.
-      - Built the bitlauncher.ai chatbot with RAG and tool calls for news and video.
-      - Integrated AI SDKs and prompting for masterbots.ai.
+      - Owned product direction, roadmap priorities, and delivery planning while remaining hands-on in architecture.
+      - Built the bitlauncher.ai chatbot with RAG and tools for current news and video.
+      - Implemented Masterbots prompting and AI-assisted internationalization.
   - company: Opyn
     achievements:
       - Prototyped an LLM assistant for onboarding and support.

@@ -1,6 +1,6 @@
 # Gabo Esquivel ( Gab-o )
 
-I'm a full-stack software engineer with over 15 years of experience with a focus on emerging technologies and user experience.
+I'm a product engineer working across AI, Web3, and full-stack systems. 15+ years shipping software from Costa Rica.
 
 Learn more on my website [gaboesquivel.com](https://gaboesquivel.com)
 

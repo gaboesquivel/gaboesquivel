@@ -1,23 +1,20 @@
 ---
 company: Bitlauncher
-title: Software Engineer
+title: Product Engineer
 type: Full-time
 location: Remote
 duration: Nov 2023 – Nov 2025
 description: >-
-  AI and crypto launchpad for token sales, auctions, wallets, and indexed market
-  data.
+  Helped take Bitlauncher from concept through delivery, owning product direction,
+  technical decisions, and hands-on implementation.
 achievements:
-  - 'Built the launchpad on Next.js 14, Supabase, viem, and wagmi.'
-  - 'Built token bridge flows for USDT, USDC, and BITUSD into protocol tokens.'
+  - Owned roadmap priorities, scope, technical direction, and delivery planning.
+  - Led a two-person core engineering team and coordinated up to five part-time contributors.
+  - Architected and built the platform using Next.js, Supabase, viem, and wagmi.
+  - Built auctions, token bridges, wallet flows, realtime balances, and indexed market data across EOS EVM and EOS.
   - >-
-    Integrated Gnosis auction contracts with wallet UX and realtime balance
-    updates.
-  - Built a custom EVM indexer using WebSocket event subscriptions.
-  - Integrated AI SDKs and prompting for masterbots.ai.
-  - >-
-    Set up an AI-assisted engineering workflow with Claude, v0.dev, Cursor, and
-    SourceryAI.
+    Built the bitlauncher.ai RAG chatbot with news and video tools, implemented
+    Masterbots prompting, and added AI-assisted internationalization.
 techStack:
   - Viem
   - Wagmi
@@ -36,4 +33,3 @@ techStack:
   - OpenAI
 order: 2
 ---
-

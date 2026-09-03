@@ -1,8 +1,8 @@
 ---
 title: "Bitlauncher"
 slug: "bitlauncher"
-description: "An AI and crypto launchpad for token sales, batch auctions, cross-chain wallets, bridges, and indexed market data."
-role: "Software Engineer"
+description: "AI and crypto launchpad for token sales, batch auctions, cross-chain wallets, bridges, indexed market data, and AI-assisted investor tools."
+role: "Product Engineer"
 tech:
   - TypeScript
   - Solidity
@@ -52,12 +52,13 @@ achievements:
   - Deployed Gnosis auction Solidity contracts to EOS EVM and developed a bidding interface with real-time updates via Supabase subscriptions.
   - Created a wallet interface that displays real-time EVM balances through Wagmi token balance subscriptions and EOS token balances via RPC polling.
   - Built a custom indexer for EOS EVM using Node.js, Viem EVM event subscriptions, and dFuse stream for EOS.
-  - Developed the chatbot at bitlauncher.ai, with tool calls for news and YouTube and RAG for longer answers.
-  - Integrated AI SDK for internationalization automation and established an AI-driven development workflow using v0.dev, Anthropic Claude Sonnet, Cursor IDE, and SourceryAI.
+  - Developed the chatbot at bitlauncher.ai, with tool calls for current news and YouTube content, and RAG for longer answers.
+  - Implemented Masterbots prompting and AI-assisted internationalization.
+  - Introduced an AI-assisted engineering workflow using v0.dev, Claude Sonnet, Cursor IDE, and SourceryAI.
 story:
-  - "Bitlauncher is an AI and crypto launchpad: token sales and batch auctions for early access to AI startups. I architected the Next.js, Supabase, viem, and wagmi stack."
-  - The auction sells at a uniform price. I built the bidding interface, the token bridge, wallets with live balances, and indexers for EOS EVM and EOS.
-  - I built this with the bitcash.org team I have worked with since 2020. I also wired AI SDK work for Masterbots and the i18n automation.
+  - Bitlauncher was an AI and crypto launchpad I helped form with a business partner.
+  - The engineering team had two full-time developers, with up to five part-time contributors working on specific tickets. I coordinated delivery while remaining hands-on across the stack.
+  - The product combined onchain auctions, wallet and bridge flows, indexed market data, and AI tools for project research.
 experienceCompany: "Bitlauncher"
 order: 3
 year: 2023
@@ -75,4 +76,4 @@ related:
 
 # Bitlauncher
 
-An AI and crypto launchpad for token sales, batch auctions, cross-chain wallets, bridges, and indexed market data.
+AI and crypto launchpad for token sales, batch auctions, cross-chain wallets, bridges, indexed market data, and AI-assisted investor tools.

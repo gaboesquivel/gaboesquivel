@@ -17,8 +17,10 @@ achievements:
     Built WebAuthn key management for in-browser transaction signing without an
     external wallet.
   - >-
-    Built QR signature requests for partner apps with Supabase subscriptions and
-    webhooks.
+    Built QR signature requests so bitlauncher.ai and other partner apps could
+    authenticate and sign through the Bitcash session, using Supabase
+    subscriptions and webhooks.
+  - Set up initial EOS contract multisig while DAO voting tools were still in development.
 techStack:
   - React
   - Vite

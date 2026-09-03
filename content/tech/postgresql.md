@@ -7,7 +7,7 @@ description: "Relational store for auction indexing, options chain data, exchang
 link: "https://www.postgresql.org/"
 since: "2012"
 experience:
-  - Indexed BitLauncher auction and transaction data in PostgreSQL through Supabase.
+  - Indexed Bitlauncher auction and transaction data in PostgreSQL through Supabase.
   - Stored Opyn's Ponder-indexed options chain data in PostgreSQL via Supabase.
   - Ran Bitcash's peer-to-peer exchange, chat, and EOS indexer on PostgreSQL with Hasura.
   - Persisted ChainGraph blockchain subscription data in PostgreSQL for GraphQL queries.

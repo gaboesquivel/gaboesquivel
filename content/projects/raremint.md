@@ -30,7 +30,7 @@ video: "https://www.youtube.com/watch?v=2wh32w7N9xg"
 images:
   - https://gaboesquivel.com/images/work/raremint-perf.jpeg
 achievements:
-  - Built an EVM NFT data indexer using Moralis streams, Node.js, and PostgreSQL.
+  - Built an EVM NFT data indexer using Moralis streams, Node.js, and PostgreSQL on Google Cloud.
   - Refactored the marketplace using Next.js SSR for improved performance and responsiveness.
   - Integrated Wallet Connect for secure transactions and improved user experience.
 story:

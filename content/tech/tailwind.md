@@ -10,7 +10,7 @@ experience:
   - Set up ZTX's Next.js architecture with Tailwind CSS and Framer Motion for the virtual-world experience.
   - Implemented Opyn's trading interface with shadcn/ui components styled through Tailwind CSS.
   - Styled LegalAgent's admin dashboard and multimodal assistant UI with Tailwind CSS.
-  - Composed BitLauncher's auction and wallet screens with Tailwind on Next.js 14.
+  - Composed Bitlauncher's auction and wallet screens with Tailwind on Next.js 14.
 ---
 
 # Tailwind CSS

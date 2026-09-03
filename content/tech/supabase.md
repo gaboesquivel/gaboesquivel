@@ -7,7 +7,7 @@ description: "PostgreSQL-backed realtime layer for auction indexing, options dat
 link: "https://supabase.io/"
 since: "2022"
 experience:
-  - Architected BitLauncher on Supabase for transaction indexing, real-time auction subscriptions, and data aggregation.
+  - Architected Bitlauncher on Supabase for transaction indexing, real-time auction subscriptions, and data aggregation.
   - Indexed Opyn's onchain options data in PostgreSQL through Supabase alongside Ponder.
   - Used Supabase subscriptions and webhooks on Bitcash for QR-based signature request flows.
 ---

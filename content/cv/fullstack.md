@@ -1,6 +1,6 @@
 ---
 key: fullstack
-professionalTitle: Senior Full Stack Engineer
+professionalTitle: Senior Product Engineer, Full Stack
 summary: >-
   I build the interface and the services behind it, on web and mobile. 15+ years
   across TypeScript, React, React Native, Next.js, Node.js, PostgreSQL, and
@@ -8,7 +8,8 @@ summary: >-
 highlights:
   - 12+ years building 0→1 products for startups and growth-stage teams
   - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
-  - Shipped LegalAgent as an Expo assistant and a TanStack Start admin on one retrieval system
+  - Built token bridge and auction flows across contracts, wallet state, indexed data, and interface
+  - Delivered full-stack systems in fintech, AI, Web3, marketplaces, and consumer software
 skills:
   - label: Languages
     keywords: TypeScript, JavaScript, SQL
@@ -28,9 +29,10 @@ featured:
       - Built the TanStack Start admin with Microsoft SSO, document management, and retrieval categories.
   - company: Bitlauncher
     achievements:
+      - Owned product decisions and delivery planning while architecting the full stack.
       - Built the launchpad on Next.js 14, Supabase, viem, and wagmi.
-      - Built token bridge and auction flows with wallet UX and realtime balance updates.
-      - Built transaction indexing with Supabase for queries, subscriptions, and analytics.
+      - Built token bridge and auction flows across contracts, wallet state, indexed data, and interface.
+      - Indexed transactions in Supabase for queries, subscriptions, and analytics.
   - company: Bitcash
     achievements:
       - Built the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack.

@@ -7,7 +7,7 @@ description: "Background job runner for Bitlauncher's auction indexing and proce
 link: "https://trigger.dev/"
 since: "2023"
 experience:
-  - Ran BitLauncher's background indexing and auction processing jobs on Trigger.dev alongside the Next.js platform.
+  - Ran Bitlauncher's background indexing and auction processing jobs on Trigger.dev alongside the Next.js platform.
 ---
 
 # Trigger.dev

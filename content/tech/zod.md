@@ -7,7 +7,7 @@ description: "Runtime schema validation for auction payloads, trading inputs, an
 link: "https://zod.dev/"
 since: "2022"
 experience:
-  - Validated BitLauncher auction and wallet payloads with Zod across the Next.js and Supabase stack.
+  - Validated Bitlauncher auction and wallet payloads with Zod across the Next.js and Supabase stack.
   - Enforced type-safe chain and API inputs on Opyn's trading interface with Zod schema validation.
   - Structured Masterbots assistant configuration and API contracts with Zod on Next.js.
 ---

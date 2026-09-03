@@ -1,15 +1,16 @@
 ---
 key: web3
-professionalTitle: Senior Full Stack Engineer, Web3
+professionalTitle: Senior Product Engineer, Web3
 summary: >-
   I build the product layer around blockchain systems: wallets, trading
   interfaces, token flows, indexers, and the services that sit between a chain
   and the person using it. 15+ years across EVM networks and Antelope. Fluent in
   English, Spanish, Portuguese, and Italian.
 highlights:
+  - 12+ years building 0→1 products for startups and growth-stage teams
+  - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
   - Built wallets, bridges, auctions, and trading interfaces across EVM, Arbitrum, Polygon, and Antelope
   - Developed onchain indexers with Ponder, Moralis streams, and custom WebSocket subscriptions
-  - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
 skills:
   - label: Web3
     keywords: >-
@@ -26,8 +27,8 @@ skills:
 featured:
   - company: Bitlauncher
     achievements:
-      - Built the launchpad on Next.js 14, Supabase, viem, and wagmi.
-      - Built token bridge flows for USDT, USDC, and BITUSD into protocol tokens.
+      - Owned product and technical direction for the launchpad from concept through delivery.
+      - Built bridge flows for USDT, USDC, and BITUSD into protocol tokens.
       - Integrated Gnosis auction contracts with wallet UX and realtime balance updates.
       - Built a custom EVM indexer using WebSocket event subscriptions.
   - company: Opyn
