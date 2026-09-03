@@ -37,7 +37,7 @@ achievements:
   - Built the EOS Rate frontend with React and Styled Components.
 story:
   - I helped launch the EOS mainnet and operated validator nodes across EOSIO-based networks.
-  - As architect and tech lead I designed a private EOSIO chain for Grant Thornton Labs on Azure, Terraform, EOSIO, and React. The MVP covered intercompany transactions and tax workflows with a stablecoin, hashing, and IPFS.
+  - I built a private EOSIO chain for Grant Thornton Labs on Azure, Terraform, EOSIO, and React. The MVP covered intercompany transactions and tax workflows with a stablecoin, hashing, and IPFS.
   - I also ran open-source work and developer relations, including workshops around TicoBlockchain.cr and CryptoCantinaCR.
 experienceCompany: "EOS Costa Rica"
 order: 11

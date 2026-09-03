@@ -35,13 +35,12 @@ images: []
 achievements:
   - Architected the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack.
   - Built the peer-to-peer exchange, realtime chat, and matching engine.
-  - Built BitcashDAO for community governance.
-  - Developed GraphQL APIs over indexed EOS data for the trading interface.
+  - Built a realtime EOS indexer with Node.js worker threads, binary deserialization, and PostgreSQL.
+  - Built WebAuthn key management for in-browser transaction signing without an external wallet.
   - Added EOS contract multisig while BitcashDAO voting was still being built.
 story:
-  - Bitcash was a fiat-to-stablecoin and crypto exchange. I architected its React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack and built its peer-to-peer exchange, realtime chat, and matching engine.
-  - I developed a realtime EOS indexer with Node.js worker threads, binary deserialization, and PostgreSQL on Google Cloud.
-  - I implemented WebAuthn for in-browser transaction signing. QR requests, over Supabase subscriptions and webhooks, let bitlauncher.ai and other partner apps authenticate and sign through the Bitcash session.
+  - Bitcash was a fiat-to-stablecoin and crypto exchange. I architected the stack and built the peer-to-peer exchange, realtime chat, and matching engine.
+  - Browser signing without an external wallet was the constraint. QR signature requests over Supabase subscriptions and webhooks later let bitlauncher.ai and other partner apps authenticate and sign through the Bitcash session.
   - The exchange never found traction past about 500 users, mostly in developing-country markets. Marketing and distribution stayed behind the product.
 experienceCompany: "Bitcash"
 order: 7

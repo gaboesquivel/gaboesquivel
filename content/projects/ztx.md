@@ -29,11 +29,11 @@ video: "https://www.youtube.com/watch?v=h58y6UzZ7RA"
 images: []
 achievements:
   - Set up the initial React architecture using Next.js, TailwindCSS, and Framer Motion.
-  - Developed a WebGL EVM wallet connector using MetaMask and Ethers.js.
-  - Implemented advanced analytics and reporting using Google Tag Manager.
+  - Developed a WebGL EVM wallet connector using MetaMask, Ethers.js, and a custom JavaScript event system.
+  - Wired analytics through Google Tag Manager.
 story:
   - ZTX is a Web3 virtual world with cryptocurrency-backed digital asset ownership. I built the React application that hosted the virtual-world experience.
-  - I set up Next.js, Tailwind, and Framer Motion as the host app, then wired a WebGL wallet session with MetaMask and Ethers.js for signing and NFT trading.
+  - Signing and NFT trading had to happen without leaving the WebGL world, so the wallet session lived inside that surface rather than in a separate app chrome.
   - The product is a consumer world with a live wallet session inside WebGL. I connected the Next.js experience to signing and NFT trading so the chain receded behind the screen.
 experienceCompany: "ZTX"
 order: 5

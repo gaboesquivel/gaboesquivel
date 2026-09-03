@@ -48,7 +48,7 @@ images: []
 achievements:
   - Architected the platform on Next.js 14, Supabase, viem, wagmi, Alchemy, Trigger.dev, and shadcn/ui.
   - Built a token bridge for swapping USDT, USDC, and BITUSD to USDCred so bids could settle in protocol tokens.
-  - Implemented a transaction data indexing system with Supabase for efficient querying, real-time subscriptions, and data aggregation analytics.
+  - Indexed transactions in Supabase for queries, realtime subscriptions, and aggregate market data.
   - Deployed Gnosis auction Solidity contracts to EOS EVM and developed a bidding interface with real-time updates via Supabase subscriptions.
   - Created a wallet interface that displays real-time EVM balances through Wagmi token balance subscriptions and EOS token balances via RPC polling.
   - Built a custom indexer for EOS EVM using Node.js, Viem EVM event subscriptions, and dFuse stream for EOS.
@@ -56,9 +56,9 @@ achievements:
   - Implemented Masterbots prompting and AI-assisted internationalization.
   - Introduced an AI-assisted engineering workflow using v0.dev, Claude Sonnet, Cursor IDE, and SourceryAI.
 story:
-  - Bitlauncher was an AI and crypto launchpad I helped form with a business partner.
+  - Bitlauncher was an AI and crypto launchpad I helped form with a business partner. I owned product direction, scope, technical decisions, and delivery from concept through implementation.
   - The engineering team had two full-time developers, with up to five part-time contributors working on specific tickets. I coordinated delivery while remaining hands-on across the stack.
-  - The product combined onchain auctions, wallet and bridge flows, indexed market data, and AI tools for project research.
+  - The product combined onchain auctions, wallet and bridge flows, indexed market data, and AI tools for project research. My work covered the boundaries between those systems rather than a single layer.
 experienceCompany: "Bitlauncher"
 order: 3
 year: 2023

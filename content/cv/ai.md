@@ -8,7 +8,7 @@ summary: >-
   Italian.
 highlights:
   - 12+ years building 0→1 products for startups and growth-stage teams
-  - Tuned a production AI legal assistant for attorney tone, gender, and persona, improving speed and optimizing tool calling in React Native
+  - Shipped a production AI legal assistant with voice, chat, and retrieval in React Native
   - Built the bitlauncher.ai RAG chatbot and Masterbots chat prompting on production launchpad products
   - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
 skills:
@@ -34,8 +34,6 @@ featured:
   - company: Opyn
     achievements:
       - Prototyped an LLM assistant for onboarding and support.
-      - Built the Next.js 14 trading interface with React Server Components.
-      - Indexed onchain data with Ponder, PostgreSQL, and Supabase.
   - company: Bitcash
     achievements:
       - Built the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack.

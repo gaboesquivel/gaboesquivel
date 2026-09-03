@@ -38,9 +38,8 @@ achievements:
   - Indexed onchain data with Ponder, PostgreSQL, and Supabase.
   - Prototyped an LLM assistant for onboarding and support.
 story:
-  - At Opyn I set up the Next.js app structure and the data-fetching path the trading interface sits on.
-  - I built the trading interface with Next.js 14 and React Server Components, using shadcn/ui and Tailwind. Ponder indexed onchain data into PostgreSQL via Supabase; chain calls went through viem and wagmi with Alchemy RPCs.
-  - I also prototyped an LLM assistant for onboarding and support.
+  - Opyn is a decentralized options protocol on Arbitrum. The trading UI needed indexed protocol state, not a page of raw RPC reads.
+  - I set up the Next.js app structure and the data-fetching path the interface sits on, with Ponder over PostgreSQL and Supabase.
 experienceCompany: "Opyn"
 order: 2
 year: 2024

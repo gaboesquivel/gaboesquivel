@@ -28,14 +28,14 @@ repo: "https://github.com/knowledge"
 
 images: []
 achievements:
-  - Led the development and deployment of Knowledge.io's token system.
-  - Designed and implemented smart contracts for token rewards and transactions.
+  - Deployed Knowledge.io's ERC-20 token for the 2018 mainnet ICO.
+  - Implemented smart contracts for token rewards and transactions.
   - Built a serverless AWS infrastructure for the token, marketplace, and wallet services.
   - Built the React and Web3.js marketplace and wallet dashboard around the ERC-20 token.
   - Maintained the React Native trivia game as the token-reward client.
 story:
-  - Knowledge is a platform that rewards sharing information with an ERC-20 token. I led the token architecture and the systems around the 2018 mainnet ICO.
-  - I designed and implemented smart contracts for token rewards and transactions, then built a serverless AWS stack for the token, marketplace, and wallet services.
+  - Knowledge is a platform that rewards sharing information with an ERC-20 token. I built the token architecture and the systems around the 2018 mainnet ICO.
+  - I implemented smart contracts for token rewards and transactions, then built a serverless AWS stack for the token, marketplace, and wallet services.
   - I also built the marketplace and wallet screens in React and Web3.js, and maintained the React Native trivia game as the reward client.
 experienceCompany: "Knowledge"
 order: 17

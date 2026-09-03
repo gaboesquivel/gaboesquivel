@@ -30,7 +30,7 @@ images: []
 achievements:
   - Developed the first version of Wink's mobile banking app.
   - Integrated partner-bank APIs so deposits, transfers, and account data could move through the app.
-  - Designed and implemented biometric authentication for enhanced security.
+  - Built biometric KYC with a React Native native bridge.
 story:
   - "Wink is Costa Rica's first neobank: a mobile app for banking without a branch visit. I built the first version of the app and the AWS backend it depended on."
   - I chose the stack, planned the work, and coordinated partner-bank API integration. I also implemented biometric authentication so KYC and login did not need a branch visit.

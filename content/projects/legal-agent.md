@@ -15,6 +15,7 @@ tech:
   - Tailwind
   - Artificial Intelligence
   - Redis
+  - PostgreSQL
   - ReactJS
 type:
   - ai
@@ -29,15 +30,15 @@ image: "https://gaboesquivel.com/images/work/legalagent.png"
 
 images: []
 achievements:
-  - Developed a multimodal AI assistant with voice and chat interfaces for a React Native app.
-  - Implemented RAG architecture for contextual legal support and document summarization.
-  - Created an admin dashboard with Microsoft SSO and document management features.
-  - Established a bilingual support system with real-time voice transcription and synthesis.
+  - Shipped a multimodal AI assistant with voice and chat in a React Native Expo app.
+  - Built RAG for case context, document summaries, and procedural guidance.
+  - Built an admin dashboard with Microsoft SSO, prompt management, and document categorization.
+  - Shipped bilingual voice with realtime transcription and speech synthesis.
   - Adjusted persona and tool calling in the Expo client after attorney sessions.
 story:
   - At LegalAgent I added a voice and chat assistant to their React Native app for case context, documents, and procedures.
   - I implemented the Vercel AI SDK for chat and OpenAI's Realtime API for voice, with Tailwind on the multimodal UI. RAG supplied case context, document summaries, and procedural guidance in Spanish and English. Attorney feedback changed persona and tool calling in that Expo client.
-  - "I also developed an internal admin dashboard with TanStack Start: Microsoft SSO, system prompt management, and document categorization for RAG retrieval."
+  - "I also built an internal admin dashboard with TanStack Start: Microsoft SSO, system prompt management, and document categorization for RAG retrieval."
 experienceCompany: "LegalAgent"
 order: 1
 year: 2025
