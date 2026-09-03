@@ -26,7 +26,7 @@ featured:
     achievements:
       - Shipped a voice and chat assistant in React Native (Expo).
       - Built RAG for case context and document summaries.
-      - "Built the TanStack Start admin: Microsoft SSO, documents, and retrieval."
+      - Built the admin with Microsoft SSO, documents, and retrieval.
   - company: Bitlauncher
     achievements:
       - Owned product decisions and delivery planning while architecting the full stack.

@@ -9,9 +9,9 @@ description: >-
   technical decisions, and hands-on implementation.
 achievements:
   - Owned roadmap priorities, scope, technical direction, and delivery planning.
-  - Automated the AI-assisted development workflow with v0.dev, Claude Sonnet, Cursor, and SourceryAI.
+  - Automated the AI-assisted workflow with v0.dev, Claude Sonnet, Cursor, and SourceryAI.
   - Architected and built the platform using Next.js, Supabase, viem, and wagmi.
-  - Built auctions, token bridges, wallet flows, realtime balances, and indexed market data across EOS EVM and EOS.
+  - Built auctions, token bridges, wallet flows, realtime balances, and indexed market data across.
   - >-
     Built the bitlauncher.ai RAG chatbot with news and video tools, implemented
     Masterbots prompting, and added AI-assisted internationalization.
@@ -24,7 +24,6 @@ techStack:
   - Next.js
   - ShadcnUI
   - Solidity
-  - EOS EVM
   - Node.js
   - AI SDK
   - Claude Sonnet

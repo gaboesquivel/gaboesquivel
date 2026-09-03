@@ -54,7 +54,7 @@ achievements:
   - Built a custom indexer for EOS EVM using Node.js, Viem EVM event subscriptions, and dFuse stream for EOS.
   - Developed the chatbot at bitlauncher.ai, with tool calls for current news and YouTube content, and RAG for longer answers.
   - Implemented Masterbots prompting and AI-assisted internationalization.
-  - Introduced an AI-assisted engineering workflow using v0.dev, Claude Sonnet, Cursor IDE, and SourceryAI.
+  - Automated the AI-assisted workflow with v0.dev, Claude Sonnet, Cursor, and SourceryAI.
 story:
   - Bitlauncher was an AI and crypto launchpad I helped form with a business partner. I owned product direction, scope, technical decisions, and delivery from concept through implementation.
   - The engineering team had two full-time developers, with up to five part-time contributors working on specific tickets. I coordinated delivery while remaining hands-on across the stack.
