@@ -8,7 +8,7 @@ summary: >-
   Italian.
 highlights:
   - 12+ years building 0→1 products for startups and growth-stage teams
-  - Shipped a production AI legal assistant with voice, chat, and retrieval in React Native
+  - Shipped an AI legal assistant with voice, chat, and retrieval in React Native
   - Built the bitlauncher.ai RAG chatbot and Masterbots chat prompting on production launchpad products
   - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
 skills:

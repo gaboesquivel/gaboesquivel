@@ -10,7 +10,7 @@ summary: >-
 highlights:
   - 12+ years building 0→1 products for startups and growth-stage teams
   - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
-  - Shipped a production AI legal assistant with voice, chat, and retrieval in React Native
+  - Shipped an AI legal assistant with voice, chat, and retrieval in React Native
   - Built wallets, token flows, auctions, and trading interfaces across EVM and Antelope
 skills:
   - label: Languages

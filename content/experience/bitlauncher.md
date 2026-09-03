@@ -9,7 +9,7 @@ description: >-
   technical decisions, and hands-on implementation.
 achievements:
   - Owned roadmap priorities, scope, technical direction, and delivery planning.
-  - Led a two-person core engineering team and coordinated up to five part-time contributors.
+  - Automated the AI-assisted development workflow with v0.dev, Claude Sonnet, Cursor, and SourceryAI.
   - Architected and built the platform using Next.js, Supabase, viem, and wagmi.
   - Built auctions, token bridges, wallet flows, realtime balances, and indexed market data across EOS EVM and EOS.
   - >-
