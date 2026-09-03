@@ -1,7 +1,7 @@
 {
   "name": "gaboesquivel",
   "version": "6.1.0",
-  "description": "Gabo Esquivel - Software Engineer",
+  "description": "Gabo Esquivel - Product Engineer",
   "author": "Gabo Esquivel",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",

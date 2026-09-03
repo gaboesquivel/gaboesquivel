@@ -34,13 +34,12 @@ function displayBanner() {
     COLORS.title(`
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║          ${chalk.bold.yellow('Gabo Esquivel')} - ${chalk.bold.cyan('Software Engineer')}          ║
+║          ${chalk.bold.yellow('Gabo Esquivel')} - ${chalk.bold.cyan('Product Engineer')}           ║
 ║                                                                   ║
-║  ${COLORS.success('Full-stack engineer')} with ${COLORS.highlight('15+ years')} of experience              ║
-║  ${COLORS.success('Web3 specialist')} since ${COLORS.highlight('2017')}                                    ║
-║  ${COLORS.success('Node.js expert')} with ${COLORS.highlight('10+ years')}                                ║
-║  ${COLORS.success('React & TypeScript')} advanced expertise                    ║
-║  ${COLORS.success('Currently exploring AI')}                                   ║
+║  ${COLORS.success('15+ years')} building software products                                 ║
+║  ${COLORS.success('12+ years')} leading 0→1 product work                                   ║
+║  ${COLORS.success('AI, Web3, Full-Stack')}                                                 ║
+║  ${COLORS.success('Web3')} since ${COLORS.highlight('2017')}                                                 ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 `),
