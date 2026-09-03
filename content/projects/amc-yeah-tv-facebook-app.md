@@ -26,7 +26,7 @@ achievements:
   - Integrated Brightcove for streaming, chapter playback, and back-office editing.
   - Implemented Facebook API features for identity, sharing, and in-player content.
 story:
-  - "YEAH! was AMC's interactive streaming movie service: classic genre films with chapter navigation and bonus content inside the player. As Lead UI Engineer I owned the frontend architecture."
+  - "YEAH! was AMC's interactive streaming movie service: classic genre films with chapter navigation and bonus content inside the player. I owned the frontend architecture."
   - "I integrated the player with Facebook for identity and sharing, and the back office with Brightcove for streaming and editing. Each curated film carried 400+ interactive elements: trivia, interviews, quizzes."
   - Five frontend engineers sat between AMC's creative team and the backend team. The screen had to play the film and the extras without fighting the player.
 experienceCompany: "AMC Networks"

@@ -31,11 +31,11 @@ images:
   - https://gaboesquivel.com/images/work/raremint-perf.jpeg
 achievements:
   - Built an EVM NFT data indexer using Moralis streams, Node.js, and PostgreSQL on Google Cloud.
-  - Refactored the marketplace using Next.js SSR for improved performance and responsiveness.
-  - Integrated Wallet Connect for secure transactions and improved user experience.
+  - Refactored the marketplace to Next.js SSR with Tailwind and GraphQL.
+  - Integrated WalletConnect for connections and transactions.
 story:
   - RareMint digitized real-world sports collectibles as NFTs. I worked on marketplace performance, wallet integration, and its first Pokémon card auctions on Polygon.
-  - I built an EVM NFT data indexer using Moralis streams, Node.js, and PostgreSQL, then refactored the marketplace with Next.js SSR for faster listing and auction flows.
+  - I built the Moralis-streams indexer on Node.js, PostgreSQL, and Google Cloud, then moved the marketplace to Next.js SSR for listing and auction flows.
 experienceCompany: "RareMint"
 order: 6
 year: 2021

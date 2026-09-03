@@ -14,7 +14,7 @@ achievements:
     Built the TanStack Start admin with Microsoft SSO, document management, and
     retrieval categories.
   - Shipped bilingual voice with realtime transcription and speech synthesis.
-  - Worked with the firm's attorneys on how they used the assistant, then tuned persona and tool calling from that feedback.
+  - Sat with the firm's attorneys on how they used the assistant, then adjusted persona and tool calling from that feedback.
 techStack:
   - TypeScript
   - React Native

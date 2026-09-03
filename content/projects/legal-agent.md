@@ -33,10 +33,10 @@ achievements:
   - Implemented RAG architecture for contextual legal support and document summarization.
   - Created an admin dashboard with Microsoft SSO and document management features.
   - Established a bilingual support system with real-time voice transcription and synthesis.
-  - From attorney sessions, set tone, gender, speed, and how tools were called.
+  - Adjusted persona and tool calling in the Expo client after attorney sessions.
 story:
-  - At LegalAgent, I integrated an AI assistant into their React Native mobile app with both voice and chat interfaces to help lawyers access case information efficiently.
-  - I implemented the Vercel AI SDK for chat functionality and OpenAI's Realtime API for voice features, building a multimodal interface with Tailwind CSS. The assistant uses RAG architecture to provide contextual legal support, document summaries, and procedural guidance in both Spanish and English. Attorney sessions decided tone, gender, and speed; I changed tool calling in the Expo client to match.
+  - At LegalAgent I added a voice and chat assistant to their React Native app for case context, documents, and procedures.
+  - I implemented the Vercel AI SDK for chat and OpenAI's Realtime API for voice, with Tailwind on the multimodal UI. RAG supplied case context, document summaries, and procedural guidance in Spanish and English. Attorney feedback changed persona and tool calling in that Expo client.
   - "I also developed an internal admin dashboard with TanStack Start: Microsoft SSO, system prompt management, and document categorization for RAG retrieval."
 experienceCompany: "LegalAgent"
 order: 1

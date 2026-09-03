@@ -1,6 +1,6 @@
 # Gabo Esquivel ( Gab-o )
 
-I'm a product engineer working across AI, Web3, and full-stack systems. 15+ years shipping software from Costa Rica.
+I'm a product engineer. AI, Web3, and full-stack systems from Costa Rica, US Mountain Time.
 
 Learn more on my website [gaboesquivel.com](https://gaboesquivel.com)
 
