@@ -9,11 +9,11 @@ description: >-
   and biometrics (holawink.com).
 achievements:
   - Built the React Native app and AWS backend.
+  - Built biometric KYC with a React Native native bridge.
+  - Coordinated with partner-bank teams and vendors on the first version.
   - >-
     Integrated partner-bank APIs so deposits, transfers, and account data moved
     through the app.
-  - Built biometric KYC with a React Native native bridge.
-  - Coordinated with partner-bank teams and vendors on the first version.
 techStack:
   - React Native
   - React
