@@ -3,7 +3,9 @@
 I build software products end to end, moving between product decisions, interface design, application architecture, and the systems underneath.
 
 My recent work spans AI-powered applications, Web3 systems, fintech, and full-stack product engineering across web and mobile. I work across the stack, from user-facing experiences and APIs to backend systems, integrations, and infrastructure.
-Learn more on my website [gaboesquivel.com](https://gaboesquivel.com)
+Learn more on my website 
+
+[gaboesquivel.com](https://gaboesquivel.com)
 
 ------
 
