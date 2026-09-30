@@ -7,7 +7,7 @@ description: "Infrastructure-as-code for provisioning private EOSIO blockchains 
 link: "https://www.terraform.io/"
 since: "2019"
 experience:
-  - Provisioned Grant Thornton's private EOSIO blockchain on Azure with Terraform at EOS Costa Rica.
+  - Provisioned a private EOSIO blockchain for a consulting firm's labs on Azure with Terraform at EOS Costa Rica.
 ---
 
 # Terraform

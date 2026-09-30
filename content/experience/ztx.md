@@ -10,6 +10,9 @@ achievements:
     Built a WebGL EVM wallet connector with MetaMask, Ethers.js, and a custom
     JavaScript event system.
   - >-
+    Kept the wallet session inside WebGL so players signed and traded NFTs
+    without leaving the virtual world.
+  - >-
     Set up the Next.js app that hosted the virtual world, with Tailwind and
     Framer Motion.
   - Wired analytics through Google Tag Manager.

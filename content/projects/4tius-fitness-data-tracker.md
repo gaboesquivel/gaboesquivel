@@ -19,11 +19,10 @@ images: []
 achievements:
   - Designed and developed a fitness data tracking system with Fitbit integration.
   - Built a responsive web dashboard for real-time analytics and monitoring.
-  - Implemented secure API endpoints for efficient data communication.
+  - Implemented secure API endpoints between the app and fitness devices.
 story:
-  - The 4Tius app is a Fitbit-connected fitness data platform with a web dashboard and API. I led the web application and the backend that ingested device data.
-  - I designed a responsive web dashboard for real-time fitness analytics and monitoring, allowing users to track their progress effectively. The Fitbit integration ensured accurate and current data throughout the application.
-  - The implementation included secure API endpoints for efficient communication between the app and fitness devices. The project focused on making fitness data more accessible and actionable for users through technology.
+  - 4TIUS is a wellness and fitness software company; on this contract I led the web dashboard and API for tracking activity data from wearables, including Fitbit, with MongoDB and AngularJS on AWS.
+  - I designed the responsive analytics views for steps, distance, calories, and sleep-style metrics, and built the secure API layer between the dashboard and the devices so coaches and users could read progress without manual exports.
 order: 30
 year: 2013
 ---

@@ -19,13 +19,15 @@ image: "https://gaboesquivel.com/images/work/jockey-hollow-menu.png"
 
 images: []
 achievements:
-  - Developed a user-friendly menu kiosk app to enhance restaurant service.
+  - Built a menu kiosk web app for the restaurant's tablets.
   - Wired Google Spreadsheets so kitchen staff could change the menu without a deploy.
-  - Optimized app performance for smooth operation on tablet devices.
+  - Tuned performance for tablet hardware.
 story:
-  - At Jockey Hollow Bar & Kitchen, I developed the Menu Kiosk App, a responsive web application for tablet kiosks. It simplifies menu selection for patrons and uses Google Spreadsheets for easy updates.
-  - The app integrates with Google Spreadsheets for real-time menu management, allowing staff to keep information current and accurate. This implementation addresses the frequent menu changes common in restaurants.
-  - As the sole developer, I created an intuitive interface optimized for tablet performance. The kiosk application streamlined the dining experience while providing an efficient solution for displaying menu items.
+  - >-
+    At Jockey Hollow Bar and Kitchen I built a menu kiosk as a responsive web app
+    for tablets in the dining rooms, separate from the marketing site but on the
+    same stack (SASS, jQuery, Grunt, and Heroku).
+  - Menus across four concepts change often, so the kiosk read from Google Spreadsheets and kitchen staff could update items without a deploy. I was the only developer on the kiosk and tuned the UI for tablet hardware in a busy restaurant.
 order: 26
 year: 2013
 ---

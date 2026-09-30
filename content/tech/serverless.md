@@ -7,9 +7,9 @@ description: "AWS Lambda execution for neobank backends, virtual-world services,
 link: "https://www.serverless.com/"
 since: "2015"
 experience:
-  - Built Wink's AWS serverless backend for partner-bank API integration and mobile app services.
-  - Deployed ZTX's Next.js and wallet services on AWS serverless infrastructure during early product development.
-  - Led Knowledge.io's serverless AWS stack for the ERC-20 token, marketplace, and wallet services.
+  - Ran Wink's partner-bank integrations and mobile app services as AWS Lambda functions.
+  - Ran ZTX's wallet services as serverless functions while the virtual world was in early development.
+  - Split Knowledge.io's token, marketplace, and wallet APIs into serverless functions around the ERC-20 token.
 ---
 
 # Serverless

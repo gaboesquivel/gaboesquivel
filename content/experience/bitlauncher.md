@@ -10,8 +10,17 @@ description: >-
 achievements:
   - Owned roadmap priorities, scope, technical direction, and delivery planning.
   - Automated the AI-assisted workflow with v0.dev, Claude Sonnet, Cursor, and SourceryAI.
-  - Architected and built the platform using Next.js, Supabase, viem, and wagmi.
-  - Built auctions, token bridges, wallet flows, realtime balances, and indexed market data across.
+  - Architected and built the platform using Next.js 14, Supabase, viem, and wagmi.
+  - >-
+    Built a token bridge that swapped USDT, USDC, and BITUSD to USDCred so bids
+    settled in protocol tokens.
+  - >-
+    Deployed Gnosis auction contracts to EOS EVM and built the bidding interface
+    with realtime updates through Supabase subscriptions.
+  - Built wallet screens with realtime EVM and EOS token balances.
+  - >-
+    Indexed transactions in Supabase and built a custom EOS EVM indexer with
+    Node.js, Viem event subscriptions, and dFuse.
   - >-
     Built the bitlauncher.ai RAG chatbot with news and video tools, implemented
     Masterbots prompting, and added AI-assisted internationalization.

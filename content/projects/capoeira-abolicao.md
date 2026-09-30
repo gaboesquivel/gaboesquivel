@@ -20,9 +20,8 @@ achievements:
   - Implemented interactive elements to showcase community events.
   - Tuned page weight so the site loaded on the connections people actually had.
 story:
-  - Capoeira Abolição is a Brazilian martial arts group. I volunteered to create their promotional website, showcasing their professors and community. My involvement included website design and development, highlighting the group's activities and global presence.
-  - I built a responsive website using JavaScript, WordPress, CSS, and Bootstrap to create an engaging online presence. The site featured interactive elements to highlight community events and Capoeira fundamentals.
-  - This volunteer project combined my web development skills with my personal involvement in the Capoeira community. The implementation served as a resource for both existing members and potential new students interested in the martial art.
+  - Capoeira Abolição is a Brazilian martial arts group. I volunteered to design and build their promotional website, which presents the group's professors, activities, and international presence.
+  - I built it as a responsive site with JavaScript, WordPress, CSS, and Bootstrap, with interactive elements for community events and Capoeira fundamentals aimed at both current members and prospective students.
 order: 36
 year: 2008
 ---

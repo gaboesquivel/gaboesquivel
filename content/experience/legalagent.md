@@ -9,8 +9,10 @@ description: >-
   and procedures.
 achievements:
   - Shipped a voice and chat assistant in React Native (Expo).
-  - Built RAG for case context and document summaries.
-  - Built the admin with Microsoft SSO, documents, and retrieval.
+  - Built RAG for case context, document summaries, and procedural guidance.
+  - >-
+    Built the TanStack Start admin with Microsoft SSO, system prompt management,
+    and document categorization for retrieval.
   - Shipped bilingual voice with realtime transcription and speech synthesis.
   - Tuned the AI agent's persona and AI SDK tool-calling from attorney usage.
 techStack:

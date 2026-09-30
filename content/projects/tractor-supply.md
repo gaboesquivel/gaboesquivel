@@ -20,12 +20,12 @@ image: "https://gaboesquivel.com/images/work/tractor-supply.png"
 
 images: []
 achievements:
-  - Enhanced app performance and code quality for a smoother user experience.
-  - Developed an augmented reality feature to preview products interactively.
-  - Implemented TypeScript for improved maintainability and scalability.
+  - Improved performance and code quality in the existing React Native app.
+  - Built the augmented-reality feature for previewing products.
+  - Introduced TypeScript to the codebase for maintainability.
 story:
-  - The Tractor Supply mobile app offers features like product browsing, exclusive offers, account management, and an augmented reality feature for product previews. As a consultant, I enhanced the app's performance and code quality, and developed its augmented reality feature, improving user experience and engagement.
-  - I implemented TypeScript to improve code maintainability and scalability, ensuring the app could adapt to future requirements. My work focused on technical improvements and feature development for their existing React Native application.
+  - The Tractor Supply mobile app covers product browsing, exclusive offers, account management, and augmented-reality product previews. As a consultant on their existing React Native app, I improved performance and code quality and built the augmented-reality feature.
+  - I also introduced TypeScript to the codebase to make the app more maintainable.
 order: 28
 year: 2020
 ---

@@ -44,7 +44,7 @@ also: >-
   and marketplace at RareMint (2021–2022), and a WebGL wallet connector for ZTX
   (2022–2023). Earlier chain work includes EOS Costa Rica (2018–2020), where I led
   engineering through the EOS mainnet launch and built a private-chain MVP for
-  Grant Thornton Labs; Emanate (2019–2020); and Knowledge (2017–2018), deploying
+  a consulting firm's private-chain MVP; Emanate (2019–2020); and Knowledge (2017–2018), deploying
   an ERC-20 token and its marketplace. I led frontend for AMC Networks' interactive
   streaming service YEAH! (2012–2014) and built card marketing products at American
   Express (2010–2012).

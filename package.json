@@ -1,6 +1,6 @@
 {
   "name": "gaboesquivel",
-  "version": "6.4.0",
+  "version": "7.0.0",
   "description": "Gabo Esquivel - Product Engineer",
   "author": "Gabo Esquivel",
   "main": "./dist/index.js",
@@ -15,7 +15,7 @@
     "prepublishOnly": "npm run build",
     "hooks:pre-commit": "biome check --write --staged --no-errors-on-unmatched && git update-index --again",
     "skills:install": "bunx skills@latest add ./node_modules/gaboesquivel-skills --skill gabo -a cursor -a claude-code -y",
-    "skills:update": "bunx skills@latest update gabo",
+    "skills:update": "bun run skills:install && bunx skills@latest update -p -y",
     "postinstall": "bun run skills:install",
     "lint": "biome check .",
     "lint:fix": "biome check . --write"

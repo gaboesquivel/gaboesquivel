@@ -3,12 +3,12 @@ key: ai
 professionalTitle: Senior Product Engineer, AI
 summary: >-
   I build production AI products: voice and chat assistants, retrieval, and the
-  admin tools a team needs to run them after launch. 15+ years across TypeScript,
-  React Native, Next.js, and cloud. Fluent in English, Spanish, Portuguese, and
-  Italian.
+  admin tools a team needs to run them after launch, on top of 15+ years of
+  TypeScript, React Native, Next.js, and cloud work. Fluent in English, Spanish,
+  Portuguese, and Italian.
 highlights:
   - 12+ years building 0→1 products for startups and growth-stage teams
-  - Shipped an AI legal assistant with voice, chat, and retrieval in React Native
+  - Shipped LegalAgent's bilingual voice and chat assistant with RAG over case context and documents
   - Built the bitlauncher.ai RAG chatbot and Masterbots chat prompting on production launchpad products
   - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
 skills:
@@ -41,11 +41,11 @@ featured:
       - Built WebAuthn key management for in-browser transaction signing without an external wallet.
   - company: Wink
 also: >-
-  Between those roles I led engineering at EOS Costa Rica (2018–2020) through
-  the EOS mainnet launch and a private-chain MVP for Grant Thornton Labs, and
-  worked on Emanate's streaming platform (2019–2020). From 2021 to 2023 I built
-  an NFT indexer and marketplace at RareMint (2021–2022) and a WebGL wallet
-  connector for ZTX (2022–2023). Earlier I led frontend for AMC Networks' YEAH!
+  Between those roles I led engineering at EOS Costa Rica (2018–2020), from the
+  EOS mainnet launch to a consulting firm's private-chain MVP, and worked on
+  Emanate's streaming platform (2019–2020). On the Web3 side I also built
+  RareMint's NFT indexer and marketplace (2021–2022) and ZTX's WebGL wallet
+  connector (2022–2023). Earlier I led frontend for AMC Networks' YEAH!
   (2012–2014) and built card marketing products at American Express (2010–2012).
 metadata:
   title: Gabo Esquivel - AI Product Engineering CV

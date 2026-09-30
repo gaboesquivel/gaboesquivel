@@ -15,9 +15,9 @@ image: "https://gaboesquivel.com/images/work/wordpress-earth-pai.jpg"
 images: []
 achievements:
   - Developed a content management system for EARTH University's website.
-  - Designed a responsive and accessible blog for community engagement.
+  - Designed a responsive and accessible blog for the university community.
 story:
-  - WordPress site, blog, and newsletter for EARTH University while at IntergraphiDesign (my first development job).
+  - I built EARTH University's WordPress site, blog, and newsletter while at IntergraphiDesign, my first development job.
 order: 38
 year: 2008
 ---

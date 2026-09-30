@@ -1,7 +1,7 @@
 ---
 title: "Elder Scrolls Online"
 slug: "elder-scrolls-online"
-description: "The official Elder Scrolls Online website for game news, guides, forums, and community content."
+description: "The official Elder Scrolls Online website for game news, guides, media, and community posts ahead of beta."
 tech:
   - PHP
   - JavaScript
@@ -17,17 +17,21 @@ image: "https://gaboesquivel.com/images/work/elder-scrolls.jpg"
 
 images: []
 achievements:
-  - Designed and implemented a user-centric website for the gaming community.
-  - Rebuilt navigation so news, guides, and forums were reachable without hunting.
-  - Integrated social media features to enhance community engagement.
+  - Designed and built the community website for game news, guides, and media.
+  - Rebuilt navigation so Game Guide, Story, Alliance War, Media, and News were reachable without hunting.
+  - Integrated social media features into the community pages.
 story:
-  - The official website serves as a central hub for a gaming community, offering news, game guides, and forums. My role was to ensure a user-centric design for the website, facilitating easy navigation and engagement with the content.
-  - I worked on balancing visual design with functionality to meet the needs of the gaming community. This included optimizing navigation paths and integrating social media features to improve user experience.
-  - The project required understanding gaming community needs and developing appropriate web interfaces. The implementation created an online space where players could access information and connect with others in the community.
+  - >-
+    The Elder Scrolls Online site at elderscrollsonline.com carried beta-era
+    content for ZeniMax Online's MMO: Game Guide, Story, the three alliances,
+    Media, and News (including beta signups in early 2013). I designed and built
+    the frontend, and most of the work went into navigation between those
+    sections and the community posts that ran alongside them.
+  - I balanced the game's visual design against what players needed to find quickly, and wired Facebook, Twitter, and YouTube into the community pages.
 order: 21
 year: 2013
 ---
 
 # Elder Scrolls Online
 
-The official Elder Scrolls Online website for game news, guides, forums, and community content.
+The official Elder Scrolls Online website for game news, guides, media, and community posts ahead of beta.

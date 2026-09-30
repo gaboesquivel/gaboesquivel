@@ -3,7 +3,7 @@ name: "Docker"
 slug: "docker"
 tag: "Docker"
 image: "/images/tech/docker.png"
-description: "Container packaging and orchestration for consistent local development, CI builds, and production deployments."
+description: "Container packaging for ChainGraph's indexer and Photo and Go's releases, and for matching dev and cloud environments in Masterbots and Bitlauncher."
 link: "https://www.docker.com/"
 since: "2013"
 featuredOrder: 12
@@ -15,4 +15,4 @@ experience:
 
 # Docker
 
-Container packaging and orchestration for consistent local development, CI builds, and production deployments.
+Container packaging for ChainGraph's indexer and Photo and Go's releases, and for matching dev and cloud environments in Masterbots and Bitlauncher.

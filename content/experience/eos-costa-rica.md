@@ -8,7 +8,8 @@ description: 'Block producer: EOSIO infrastructure and public and private-chain 
 achievements:
   - Helped launch EOS mainnet and operated EOSIO validators.
   - >-
-    Built a private EOSIO chain for Grant Thornton Labs on Azure, Terraform,
+    Built a private EOSIO chain for a global accounting and consulting firm's
+    labs on Azure, Terraform,
     EOSIO, and React; shipped an MVP for intercompany transactions and tax
     workflows using a stablecoin, hashing, and IPFS.
   - Built the EOS Rate frontend with React and Styled Components.

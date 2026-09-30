@@ -1,7 +1,7 @@
 ---
 title: "Opyn"
 slug: "opyn"
-description: "A decentralized options protocol on Arbitrum with a Next.js trading interface and indexed onchain data."
+description: "Opyn Markets perpetuals on Arbitrum with a Next.js trading interface and indexed onchain data."
 role: "Software Engineer"
 tech:
   - TypeScript
@@ -38,8 +38,8 @@ achievements:
   - Indexed onchain data with Ponder, PostgreSQL, and Supabase.
   - Prototyped an LLM assistant for onboarding and support.
 story:
-  - Opyn is a decentralized options protocol on Arbitrum. The trading UI needed indexed protocol state, not a page of raw RPC reads.
-  - I set up the Next.js app structure and the data-fetching path the interface sits on, with Ponder over PostgreSQL and Supabase.
+  - Opyn was shipping Opyn Markets, a perpetuals protocol on Arbitrum, and the trading UI needed indexed protocol state instead of reconstructing positions from raw RPC reads.
+  - I set up the Next.js 14 app structure and the data-fetching path the interface sits on, with Ponder over PostgreSQL and Supabase, viem and wagmi on Arbitrum testnet, and a prototype LLM assistant for onboarding.
 experienceCompany: "Opyn"
 order: 2
 year: 2024
@@ -54,4 +54,4 @@ related:
 
 # Opyn
 
-A decentralized options protocol on Arbitrum with a Next.js trading interface and indexed onchain data.
+Opyn Markets perpetuals on Arbitrum with a Next.js trading interface and indexed onchain data.

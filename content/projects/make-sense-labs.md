@@ -17,12 +17,11 @@ video: "https://www.youtube.com/watch?v=2DJxzYDaAz8"
 images: []
 achievements:
   - Improved app performance and reduced load times by optimizing React Native components.
-  - Integrated EOS mainnet functionalities for secure blockchain-based transactions.
-  - Enhanced security and privacy features for better user protection.
+  - Integrated EOS mainnet for in-app transactions.
+  - Improved the app's security and privacy features.
 story:
-  - At Make Sense Labs, I worked on Sense.chat, a secure chat and transaction app focusing on user data privacy. I improved the React Native app performance to create a more responsive experience.
-  - I integrated the app with the EOS blockchain mainnet to enable secure transactions and token functionality. The implementation included a built-in wallet and token incentives for communities.
-  - I also enhanced the app's security and privacy features to strengthen user data protection. The work combined mobile app optimization with blockchain integration.
+  - At Make Sense Labs I worked on Sense.chat, a secure chat and transaction app built around user data privacy, and improved the performance of its React Native client.
+  - I integrated the app with EOS mainnet for transactions and token functionality, including a built-in wallet and token incentives for communities, and also improved its security and privacy features.
 order: 9
 year: 2019
 ---

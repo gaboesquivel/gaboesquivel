@@ -19,13 +19,13 @@ images:
   - https://gaboesquivel.com/images/work/cryptocantina-london-room-4.jpg
 achievements:
   - Started a weekly Thursday meetup in September 2018 at Central Pub in Paseo Colón.
-  - "Kept the format informal: no presentations, no talks, just open discussion."
+  - "Kept the format informal: open discussion instead of presentations or talks."
   - Brought together people working on blockchain, cryptography, and cryptocurrency in Costa Rica.
-  - Handed the initiative to Karla Córdoba as it became CriptoCantina.org, a structured education program.
+  - Announced the weekly format in BlockchainCR's publication in September 2018.
 story:
-  - "CryptoCantinaCR started as a Thursday after-office meetup I helped start in 2018 at Central Pub in Paseo Colón. The brief was simple: people working on blockchain, cryptography, and cryptocurrency in Costa Rica, talking without a stage."
-  - I kept the format informal on purpose. No presentations, no talks. The point was conversation, not a speaker calendar.
-  - The meetup later became CriptoCantina.org, a structured education program led by Karla Córdoba. I started the weekly gathering; she turned it into the school.
+  - "CryptoCantinaCR started as a Thursday after-office meetup I announced in September 2018 for Central Pub in Paseo Colón, under the BlockchainCR community. It brought together people working on blockchain, cryptography, and cryptocurrency in Costa Rica to talk without a stage."
+  - I kept the format informal on purpose, with no presentations or talks, because the point was conversation rather than filling a speaker calendar.
+  - The meetup later continued under AsoBlockchain's education work and became CriptoCantina.org, where Karla Córdoba built the structured program on top of those early gatherings.
 related:
   - url: "https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina"
     title: "Costa Rica Crypto Cantina"

@@ -15,7 +15,7 @@ image: "https://gaboesquivel.com/images/work/proparques.jpg"
 images: []
 achievements:
   - Developed an interactive national park map for user exploration.
-  - Designed a responsive and informative landing page.
+  - Designed a responsive landing page for the nonprofit.
 story:
   - Nonprofit landing page and interactive national-park map for ProParques at IntergraphiDesign.
 order: 39

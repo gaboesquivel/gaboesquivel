@@ -8,7 +8,7 @@ link: "https://react.dev/"
 since: "2013"
 featuredOrder: 8
 experience:
-  - Composed Opyn's options trading views with React Server Components over Ponder-indexed chain data.
+  - Split Opyn's options trading components between server components that read indexed protocol state and client components for wallet actions.
   - Composed Bitlauncher's live auction and wallet screens with React state fed by Supabase realtime channels.
   - Implemented LegalAgent's admin dashboards in React with Microsoft SSO and document management flows.
   - Refactored RareMint's marketplace UI during a Next.js SSR performance pass with component-level code splitting.

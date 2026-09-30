@@ -4,13 +4,13 @@ professionalTitle: Senior Product Engineer, Web3
 summary: >-
   I build the product layer around blockchain systems: wallets, trading
   interfaces, token flows, indexers, and the services that sit between a chain
-  and the person using it. 15+ years across EVM networks and Antelope. Fluent in
-  English, Spanish, Portuguese, and Italian.
+  and the person using it. 15+ years building software, with EVM and Antelope
+  work since 2017. Fluent in English, Spanish, Portuguese, and Italian.
 highlights:
   - 12+ years building 0→1 products for startups and growth-stage teams
   - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
   - Built wallets, bridges, auctions, and trading interfaces across EVM, Arbitrum, Polygon, and Antelope
-  - Developed onchain indexers with Ponder, Moralis streams, and custom WebSocket subscriptions
+  - Developed onchain indexers with Ponder, Moralis streams, and custom Viem event subscriptions
 skills:
   - label: Web3
     keywords: >-
@@ -29,8 +29,8 @@ featured:
     achievements:
       - Owned product and technical direction for the launchpad from concept through delivery.
       - Built bridge flows for USDT, USDC, and BITUSD into protocol tokens.
-      - Integrated Gnosis auction contracts with wallet UX and realtime balance updates.
-      - Built a custom EVM indexer using WebSocket event subscriptions.
+      - Deployed Gnosis auction contracts to EOS EVM with a realtime bidding interface.
+      - Built a custom EOS EVM indexer with Node.js and Viem event subscriptions.
   - company: Opyn
     achievements:
       - Built the Next.js 14 trading interface with React Server Components.
@@ -38,14 +38,14 @@ featured:
       - Indexed onchain data with Ponder, PostgreSQL, and Supabase.
   - company: ZTX
     achievements:
-      - Built a WebGL EVM wallet connector with Ethers.js and a custom JavaScript event system.
+      - Built a WebGL EVM wallet connector with MetaMask, Ethers.js, and a custom JavaScript event system.
       - Set up the Next.js app that hosted the virtual world, with Tailwind and Framer Motion.
       - Wired signing and NFT trading so the wallet session lived inside WebGL.
   - company: RareMint
     achievements:
-      - Built an NFT indexer with Moralis streams, Node.js, and PostgreSQL.
+      - Built an NFT indexer with Moralis streams, Node.js, and PostgreSQL on Google Cloud.
       - Refactored the marketplace with Next.js SSR, Tailwind CSS, and GraphQL.
-      - Integrated WalletConnect and supported the first Pokémon card auctions on Polygon.
+      - Integrated WalletConnect and supported the Slab Series Pokémon mystery-pack drop on Polygon.
   - company: Bitcash
     achievements:
       - Built the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack.
@@ -54,8 +54,9 @@ featured:
       - Built WebAuthn key management for in-browser transaction signing without an external wallet.
 also: >-
   In 2025 I built an AI legal assistant at LegalAgent with voice, chat, and
-  retrieval. Earlier chain work includes EOS Costa Rica (2018–2020), through the
-  EOS mainnet launch and a private-chain MVP for Grant Thornton Labs; Emanate
+  retrieval. Earlier chain work includes EOS Costa Rica (2018–2020), where I
+  operated validators through the EOS mainnet launch and built a private EOSIO
+  chain for a consulting firm's labs; Emanate
   (2019–2020), integrating EOS with AWS; and Knowledge (2017–2018), an ERC-20
   token, marketplace, and wallet dashboard. Alongside Bitcash I created
   ChainGraph, an open-source GraphQL toolkit for indexing Antelope chains. I led

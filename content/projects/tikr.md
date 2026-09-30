@@ -18,13 +18,12 @@ image: "https://gaboesquivel.com/images/work/tikr.jpg"
 
 images: []
 achievements:
-  - Developed a dynamic pricing engine using Spree and Ruby on Rails.
-  - Implemented a real-time price fluctuation system for enhanced user engagement.
-  - Optimized backend performance on Heroku with PostgreSQL integration.
+  - Built a dynamic pricing engine on Spree and Ruby on Rails.
+  - Implemented realtime price changes across the storefront.
+  - Tuned backend performance on Heroku with PostgreSQL.
 story:
-  - Tikr is an online store with dynamic, real-time fluctuating prices, offering a unique shopping experience. It operates on the Ruby on Rails-based Spree backend framework. My role at Tikr encompassed full-stack development with a focus on frontend development and customization of the Spree backend.
-  - I built a dynamic pricing engine using Spree and Ruby on Rails that enabled real-time price changes. This feature created a more interactive shopping experience for users.
-  - The implementation included optimizing backend performance on Heroku with PostgreSQL database integration. The work combined e-commerce fundamentals with custom pricing mechanisms to create a distinctive online shopping platform.
+  - TiKR was a Draper, Utah e-commerce startup from former eBay engineers where listed prices moved with supply and demand every few seconds, with a price-history graph beside each product and the tagline "buy low, save high." The company filed a dynamic-pricing patent in 2012 while the storefront headed toward a public beta.
+  - I worked across a Ruby on Rails and Spree stack on Heroku with PostgreSQL, mostly on the storefront and on customizing the backend that drove those realtime price updates and social-share incentives on listings.
 order: 23
 year: 2013
 ---

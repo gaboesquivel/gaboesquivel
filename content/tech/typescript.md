@@ -3,7 +3,7 @@ name: "TypeScript"
 slug: "typescript"
 tag: "TypeScript"
 image: "/images/tech/typescript.png"
-description: "JavaScript with static types for safer refactors, richer editor tooling, and shared contracts across clients and services."
+description: "Shared type layer across trading data, auction contracts and indexers, and the admin, mobile, and API packages of AI assistants."
 link: "https://www.typescriptlang.org/"
 since: "2012"
 featuredOrder: 7
@@ -15,4 +15,4 @@ experience:
 
 # TypeScript
 
-JavaScript with static types for safer refactors, richer editor tooling, and shared contracts across clients and services.
+Shared type layer across trading data, auction contracts and indexers, and the admin, mobile, and API packages of AI assistants.

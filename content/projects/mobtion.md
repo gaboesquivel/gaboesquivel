@@ -15,8 +15,8 @@ image: "https://gaboesquivel.com/images/work/mobtion.jpg"
 
 images: []
 achievements:
-  - Developed a responsive and modern website for Mobtion agency.
-  - Integrated WordPress CMS for efficient content management.
+  - Built a responsive website for the Mobtion agency.
+  - Integrated WordPress so the team could update their portfolio without a developer.
 story:
   - Responsive agency site and WordPress CMS for Mobtion at IntergraphiDesign so they could update their mobile-dev portfolio without a developer.
 order: 41

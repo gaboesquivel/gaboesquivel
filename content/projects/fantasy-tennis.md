@@ -20,9 +20,8 @@ achievements:
   - Built a responsive UI so the game played on phones as well as desktops.
   - Integrated dynamic tournament data for real-time game updates.
 story:
-  - FanSlam Fantasy Tennis is a strategic game for ATP, WTA, and Grand Slam tournaments. I designed and built both the frontend and backend. As a fullstack developer, my work encompassed creating an engaging and functional gaming experience, integrating strategy and user interface design.
-  - I developed a responsive UI for consistent gameplay across different devices and screen sizes. The implementation included dynamic tournament data integration for real-time game updates and results.
-  - This project combined sports statistics with game mechanics to create an interactive experience for tennis fans. The work required understanding both tennis tournament structures and effective game design principles.
+  - FanSlam is a US skill-game for tennis where each contestant gets a salary cap to draft eight ATP or WTA pros for a tournament; points track every point those players win, with live scores feeding the standings. Mario Ančić co-founded the company, and the product had to respect state restrictions on cash play.
+  - I designed and built the frontend and backend for the contest flow, pricing players by ranking, and realtime tournament updates. The responsive UI had to work on phones and desktops because entries and lineup changes happened close to match time.
 order: 40
 year: 2013
 ---

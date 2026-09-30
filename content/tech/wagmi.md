@@ -3,7 +3,7 @@ name: "Wagmi"
 slug: "wagmi"
 tag: "Wagmi"
 image: "/images/tech/wagmi.png"
-description: "React hooks for Ethereum wallets and contracts, built on Viem with multichain configuration and shared query caching."
+description: "React hooks on Viem for wallet connection, contract calls, and token balance subscriptions in Opyn's trading app and Bitlauncher's auctions."
 link: "https://wagmi.sh/"
 since: "2023"
 featuredOrder: 6
@@ -15,4 +15,4 @@ experience:
 
 # Wagmi
 
-React hooks for Ethereum wallets and contracts, built on Viem with multichain configuration and shared query caching.
+React hooks on Viem for wallet connection, contract calls, and token balance subscriptions in Opyn's trading app and Bitlauncher's auctions.

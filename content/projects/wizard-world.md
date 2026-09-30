@@ -26,8 +26,8 @@ achievements:
   - Implemented OpenAI's LLM models for AI-driven image creation and metadata processing.
   - Minted generated images as NFTs on Flow through Niftory.
 story:
-  - Wizard World is a progressive web app that connects to OpenAI's LLM models to generate AI images and mint them on the Flow blockchain. We developed it for the Flow Hackathon 2022 with collaborators at bitcashorg.
-  - I worked on the app development, focusing on integrating OpenAI's models for image generation and implementing Flow blockchain functionality. The integration enables users to create images with AI and mint them as NFTs in a streamlined process.
+  - Wizard World is a progressive web app that connects to OpenAI's models to generate AI images and mint them on Flow. We built it for the February 2023 Flow Hackathon with collaborators at bitcashorg, on the flow-marketplace-next base with next-pwa and Niftory.
+  - I worked on the app itself, integrating OpenAI's models for image generation and the Flow minting flow, so a user could generate an image and mint it as an NFT.
 order: 15
 year: 2022
 ---

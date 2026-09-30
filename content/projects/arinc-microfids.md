@@ -18,11 +18,17 @@ images: []
 achievements:
   - Developed a real-time flight information display system.
   - Connected the Ruby on Rails backend to AngularJS so flight data updated without a page reload.
-  - Optimized front-end performance for real-time user interaction.
+  - Tuned frontend performance for realtime updates.
 story:
-  - ARINC Microfids is a flight-information display for hotels and airport businesses, backed by Ruby on Rails. I built the frontend and the integration that kept the boards current.
-  - I integrated the Ruby on Rails backend with AngularJS to enable real-time data updates and user interaction. The system provides accurate and timely flight information to travelers.
-  - The implementation used Faye for real-time messaging and data synchronization. This project applied web development skills to create a practical information display system for the travel industry.
+  - >-
+    ARINC microFIDS is a compact wireless flight board for hotels and airport-adjacent
+    properties, with screen sizes from tablet to large-format displays and hotel
+    promotions alongside live departures and arrivals. I built the web frontend and
+    realtime integration on Ruby on Rails.
+  - >-
+    I connected the Rails backend to AngularJS and used Faye for push updates, so
+    flight changes reached the boards travelers were reading in lobbies and guest
+    rooms without a full page reload.
 order: 35
 year: 2013
 ---

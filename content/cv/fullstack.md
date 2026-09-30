@@ -2,9 +2,9 @@
 key: fullstack
 professionalTitle: Senior Product Engineer, Full Stack
 summary: >-
-  I build the interface and the services behind it, on web and mobile. 15+ years
-  across TypeScript, React, React Native, Next.js, Node.js, PostgreSQL, and
-  cloud. Fluent in English, Spanish, Portuguese, and Italian.
+  I build the interface and the services behind it, on web and mobile, drawing
+  on 15+ years across TypeScript, React, React Native, Next.js, Node.js,
+  PostgreSQL, and cloud. Fluent in English, Spanish, Portuguese, and Italian.
 highlights:
   - 12+ years building 0→1 products for startups and growth-stage teams
   - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
@@ -31,8 +31,8 @@ featured:
     achievements:
       - Owned product decisions and delivery planning while architecting the full stack.
       - Built the launchpad on Next.js 14, Supabase, viem, and wagmi.
-      - Built token bridge and auction flows across contracts, wallet state, indexed data, and interface.
-      - Indexed transactions in Supabase for queries, subscriptions, and analytics.
+      - Built the token bridge and Gnosis auction flows, from EOS EVM contracts to the bidding interface.
+      - Indexed transactions in Supabase for queries, subscriptions, and aggregate market data.
   - company: Bitcash
     achievements:
       - Built the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack.

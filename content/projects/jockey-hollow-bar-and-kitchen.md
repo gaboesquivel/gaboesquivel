@@ -20,10 +20,16 @@ image: "https://gaboesquivel.com/images/work/jockey-hollow.png"
 
 images: []
 achievements:
-  - Developed a fully responsive landing page with a focus on user experience.
+  - Built a fully responsive landing page for the restaurant's four dining concepts.
   - Cut page weight so the landing page loaded on the connections diners actually had.
 story:
-  - Historic-mansion restaurant with four dining concepts; I built the responsive landing page with SASS, jQuery, and Grunt, deployed on Heroku.
+  - >-
+    Jockey Hollow Bar and Kitchen is Chris Cannon's multi-concept restaurant in
+    Morristown's historic Vail Mansion, the 1916 AT&T president's estate that
+    later served as town hall. The public site had to present four rooms at once:
+    the Oyster and Wine Bar, the Vail Bar cocktail lounge, the Rathskeller event
+    space, and the second-floor Dining Room.
+  - I built the responsive landing page with SASS, jQuery, Grunt, and Grapnel.js, deployed on Heroku, and tuned page weight so it held up on the connections diners actually had while the restaurant moved from a late-spring opening toward full lunch and dinner service.
 order: 25
 year: 2013
 ---

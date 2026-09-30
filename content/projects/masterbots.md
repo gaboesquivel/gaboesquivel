@@ -33,7 +33,7 @@ repo: "https://github.com/bitcashorg/masterbots"
 images: []
 achievements:
   - Integrated AI SDK for internationalization automation and AI-driven workflow.
-  - Developed specialized AI agents and chatbot interfaces for various use cases.
+  - Built specialized AI agents and chatbot interfaces for domain-specific assistants.
   - Set up the Next.js application structure and trained the team on it.
   - Integrated AI-driven development workflow using v0.dev, Anthropic Claude Sonnet, Cursor IDE, and SourceryAI.
 story:

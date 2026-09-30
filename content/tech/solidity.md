@@ -9,7 +9,7 @@ since: "2017"
 featuredOrder: 4
 experience:
   - Authored Gnosis auction Solidity for Bitlauncher on EOS EVM with batch bidding and uniform pricing rules.
-  - Wrote Opyn options protocol contracts for Arbitrum Testnet, tested and deployed with Foundry.
+  - Wrote Opyn Markets protocol contracts for Arbitrum testnet, tested and deployed with Foundry.
   - Delivered ERC-20 token contracts for Knowledge.io's 2018 mainnet ICO.
 ---
 

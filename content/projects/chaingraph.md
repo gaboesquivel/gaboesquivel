@@ -21,13 +21,12 @@ repo: "https://github.com/blockmatic/chaingraph"
 
 images: []
 achievements:
-  - Developed a real-time GraphQL subscription toolkit for EOSIO/Antelope blockchains.
-  - Implemented blockchain data indexing and event streaming capabilities.
-  - Designed an intuitive developer interface for querying multiple blockchain networks.
+  - Built a realtime GraphQL subscription toolkit for EOSIO and Antelope chains.
+  - Implemented chain data indexing and event streaming.
+  - Designed one GraphQL interface for querying multiple blockchain networks.
 story:
-  - ChainGraph is a real-time GraphQL toolkit for EOSIO/Antelope blockchain applications. It provides tools for data subscriptions and querying across multiple blockchains.
-  - As a personal side project while working at Bitcash, I handled the architectural design, technology selection, and implementation. This included building a real-time blockchain data streaming package for data access.
-  - The project is open-source and serves as a resource for developers working with EOSIO/Antelope blockchains. It addresses common data access challenges faced when working with these blockchain technologies.
+  - ChainGraph is an open-source GraphQL toolkit for EOSIO and Antelope applications, with realtime subscriptions and queries across multiple chains.
+  - I built it as a side project while working at Bitcash and owned the architecture, technology choices, and implementation, including the package that streams chain data to subscribers in realtime.
 order: 10
 year: 2020
 ---

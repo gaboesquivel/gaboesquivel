@@ -8,9 +8,9 @@ link: "https://tailwindcss.com/"
 since: "2022"
 experience:
   - Set up ZTX's Next.js architecture with Tailwind CSS and Framer Motion for the virtual-world experience.
-  - Implemented Opyn's trading interface with shadcn/ui components styled through Tailwind CSS.
+  - Styled Opyn's options trading screens with Tailwind CSS utilities.
   - Styled LegalAgent's admin dashboard and multimodal assistant UI with Tailwind CSS.
-  - Composed Bitlauncher's auction and wallet screens with Tailwind on Next.js 14.
+  - Styled Bitlauncher's bidding and token bridge flows with Tailwind CSS.
 ---
 
 # Tailwind CSS

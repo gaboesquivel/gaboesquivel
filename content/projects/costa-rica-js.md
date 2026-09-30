@@ -1,7 +1,7 @@
 ---
 title: "Costa Rica JS"
 slug: "costa-rica-js"
-description: "A JavaScript community founded in 2010 that grew past 2,000 developers through meetups, NodeSchool, and JSConf Costa Rica."
+description: "A JavaScript community on Meetup since 2012 that grew past 2,000 developers through meetups and NodeSchool Costa Rica."
 tech:
   - JavaScript
   - NodeJS
@@ -20,12 +20,12 @@ images:
   - https://gaboesquivel.com/images/2016/05/paintballjs.jpg
   - https://gaboesquivel.com/images/work/gaboesquivel-presentation.jpg
 achievements:
-  - Founded Costa Rica JS in 2010 and grew it past 2,000 developers.
-  - Organized regular meetups, workshops, NodeSchool events, and JSConf Costa Rica.
+  - Co-organized Costa Rica JS on Meetup from 2012 and grew it past 2,000 developers.
+  - Organized regular meetups, workshops, and NodeSchool Costa Rica events.
   - Ran hands-on workshops as Node.js and modern web frameworks arrived in the region.
 story:
-  - Costa Rica JS is a JavaScript community I founded in 2010. It grew past 2,000 developers through meetups, NodeSchool, and JSConf Costa Rica.
-  - As founder I organized the meetups, workshops, and conferences. The point was practical skill-building as Node.js and modern web frameworks arrived, not a networking club with a speaker at the front.
+  - Costa Rica JS is the JavaScript Meetup group I helped organize from 2012, after the idea took shape in 2011. It grew past 2,000 developers through meetups and NodeSchool Costa Rica; we also explored a JS conference site in the PuraVidaJS repo, but no JSConf Costa Rica event shipped.
+  - I ran the meetups, workshops, and NodeSchool sessions. The point was practical skill-building as Node.js and modern web frameworks arrived, not a networking club with a speaker at the front.
   - The community became a place people used to learn, hire, and get hired. Workshops stayed hands-on so the knowledge transferred.
 related:
   - url: "2016-06-nodeschool-international-day"
@@ -38,9 +38,9 @@ related:
     title: "Developing Software in Costa Rica"
     publishedAt: "2014-01-01"
 order: 45
-year: 2010
+year: 2012
 ---
 
 # Costa Rica JS
 
-A JavaScript community founded in 2010 that grew past 2,000 developers through meetups, NodeSchool, and JSConf Costa Rica.
+A JavaScript community on Meetup since 2012 that grew past 2,000 developers through meetups and NodeSchool Costa Rica.
