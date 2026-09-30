@@ -10,7 +10,7 @@ tech:
 type:
   - other
   - frontend
-link: "https://capoieraabolicao.com"
+link: "https://capoeiraabolicao.com"
 image: "https://gaboesquivel.com/images/work/abolicao.jpg"
 
 
@@ -23,7 +23,7 @@ story:
   - Capoeira Abolição is a Brazilian martial arts group. I volunteered to design and build their promotional website, which presents the group's professors, activities, and international presence.
   - I built it as a responsive site with JavaScript, WordPress, CSS, and Bootstrap, with interactive elements for community events and Capoeira fundamentals aimed at both current members and prospective students.
 order: 36
-year: 2008
+year: 2013
 ---
 
 # Capoeira Abolicao

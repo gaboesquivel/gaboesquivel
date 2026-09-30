@@ -9,7 +9,7 @@ since: "2009"
 experience:
   - Built Living with Dryness as a responsive WordPress medical information page for mobile readability.
   - Developed Capoeira Abolicao's promotional WordPress site with Bootstrap for instructors and community events.
-  - Built the ScotiaTico WordPress site for medical information and resource navigation.
+  - Built ScotiaTico's internal Scotiabank newsletter layout in WordPress.
 ---
 
 # WordPress

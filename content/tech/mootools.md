@@ -7,7 +7,7 @@ description: "JavaScript framework for responsive medical landing pages in early
 link: "https://mootools.net/"
 since: "2009"
 experience:
-  - Built Trivenzor's responsive medical information landing page with MooTools for patients and clinicians.
+  - Built Tribenzor's responsive medical information landing pages with MooTools for patients and clinicians.
 ---
 
 # MooTools

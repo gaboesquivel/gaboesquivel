@@ -1,7 +1,7 @@
 ---
 title: "ScotiaTico"
 slug: "scotiatico"
-description: "A WordPress customer newsletter for Scotiabank Costa Rica: bank updates in a layout staff could maintain."
+description: "A WordPress monthly newsletter for Scotiabank Costa Rica highlighting employee stories and bank updates."
 tech:
   - JavaScript
   - CSS
@@ -14,13 +14,18 @@ image: "https://gaboesquivel.com/images/work/scotiatico.jpg"
 
 images: []
 achievements:
-  - Designed and developed an interactive newsletter layout for ScotiaBank.
+  - Designed and developed the ScotiaTico monthly newsletter layout in WordPress.
 story:
-  - WordPress newsletter layout for Scotiabank Costa Rica at IntergraphiDesign.
+  - >-
+    ScotiaTico was Scotiabank Costa Rica's internal monthly newsletter in WordPress,
+    with sections such as Conociéndonos, Noticias, and Consejos. The account work
+    highlighted employee stories and business updates after the Scotiabank–Interfin
+    integration, not a consumer-facing product site.
+  - I built the layout and publishing structure at InterGraphicDESIGNS so bank staff could maintain each edition without touching code.
 order: 32
-year: 2008
+year: 2010
 ---
 
 # ScotiaTico
 
-A WordPress customer newsletter for Scotiabank Costa Rica: bank updates in a layout staff could maintain.
+A WordPress monthly newsletter for Scotiabank Costa Rica highlighting employee stories and bank updates.

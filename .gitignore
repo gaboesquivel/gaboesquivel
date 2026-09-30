@@ -10,5 +10,6 @@ dist
 src/generated
 .agents
 .claude
+.cursor/skills
 
 .DS_Store

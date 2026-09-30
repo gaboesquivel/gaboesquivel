@@ -1,7 +1,7 @@
 ---
-title: "Trivenzor"
+title: "Tribenzor"
 slug: "trivenzor"
-description: "A responsive medical information site for Trivenzor, written for patients and for clinicians."
+description: "A responsive medical information site for Tribenzor hypertension therapy, for patients and clinicians."
 tech:
   - JavaScript
   - CSS
@@ -16,11 +16,17 @@ images: []
 achievements:
   - Developed a fully responsive and accessible medical landing page.
 story:
-  - Responsive medical information landing page for Trivenzor (hypertension medication), built with MooTools for patients and clinicians.
+  - >-
+    Tribenzor is Daiichi Sankyo's once-daily three-in-one hypertension therapy (olmesartan,
+    amlodipine, and hydrochlorothiazide), FDA-approved in 2010. I built responsive
+    landing pages for the patient and healthcare-professional sites with MooTools.
+  - >-
+    The HCP experience sat alongside the Benicar family brand navigation and trial
+    content, so the layout had to stay accessible and consistent across breakpoints.
 order: 43
 year: 2011
 ---
 
-# Trivenzor
+# Tribenzor
 
-A responsive medical information site for Trivenzor, written for patients and for clinicians.
+A responsive medical information site for Tribenzor hypertension therapy, for patients and clinicians.

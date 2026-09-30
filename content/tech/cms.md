@@ -7,7 +7,7 @@ description: "Custom CMS for ITS InfoCom's corporate site, including CRM integra
 link: "https://wordpress.org/"
 since: "2009"
 experience:
-  - Built ITS InfoCom's corporate website and custom CMS with CRM integration at IntergraphiDesign.
+  - Built ITS InfoCom's corporate website and custom CMS with CRM integration at InterGraphicDESIGNS.
 ---
 
 # Content Management Systems

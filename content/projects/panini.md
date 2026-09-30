@@ -1,7 +1,7 @@
 ---
 title: "Panini"
 slug: "panini"
-description: "A WordPress site for Panini: frontend performance, browser compatibility, and interface work."
+description: "WordPress work on Album Freaks, Panini-Dipo Costa Rica's 2010 World Cup sticker community site."
 tech:
   - JavaScript
   - CSS
@@ -16,11 +16,15 @@ images: []
 achievements:
   - Improved frontend performance and cross-browser compatibility for a WordPress site.
 story:
-  - Freelance WordPress work for Panini focused on frontend performance, browser compatibility, and interface cleanup.
+  - >-
+    Album Freaks was Panini-Dipo Costa Rica's fan site around the 2010 FIFA World Cup
+    South Africa sticker album, with news, comments, video, and social hooks while
+    Dipo served as Panini's official distributor in Costa Rica.
+  - I did freelance WordPress frontend work on performance, cross-browser compatibility, and interface cleanup for that campaign site.
 order: 37
-year: 2008
+year: 2010
 ---
 
 # Panini
 
-A WordPress site for Panini: frontend performance, browser compatibility, and interface work.
+WordPress work on Album Freaks, Panini-Dipo Costa Rica's 2010 World Cup sticker community site.
