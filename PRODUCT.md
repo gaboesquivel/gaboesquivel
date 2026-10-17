@@ -1,50 +1,33 @@
-# gaboesquivel package — product
+# gaboesquivel package product
 
 ## Purpose
 
-Structured fact source for projects, technologies, employment history, and printable CV variants. The site, CLI, and GitHub profile read from this package; they do not duplicate these facts as the source of truth.
-
-## Audience and needs
-
-- **gaboesquivel.com** needs verified project and tech copy for cards, `/tech`, `/work`, and CV data.
-- **`npx gaboesquivel`** needs the same facts in an interactive terminal view.
-- **GitHub profile** and other consumers need consistent titles, descriptions, and stack evidence without hand-maintaining parallel lists.
-
-Readers evaluating hire or contracting use the website for narrative; this repo answers “what shipped, with what stack, in what role.”
+The `gaboesquivel` package is the fact source for Gabo Esquivel's projects, technologies, employment history, and CV variants. It answers what shipped, with what stack, and in what role. Narrative and positioning live on gaboesquivel.com.
 
 ## Consumers (implemented)
 
-| Consumer | How it uses the package |
-| --- | --- |
-| gaboesquivel.com | npm dependency; generated types and content at build |
-| CLI | `npx gaboesquivel` / local `dist/cli.js` |
-| GitHub profile | README and profile tooling that reference the package |
+- **gaboesquivel.com** installs the published package from npm and builds project cards, `/work`, `/project/[slug]`, `/tech`, `/cv`, and its llms.txt corpus from it. It needs verified facts it can render without rewriting.
+- **`npx gaboesquivel`** runs `dist/cli.js`, an interactive terminal view of the same projects and technologies. The profile README advertises it.
+- **`readme.md`** is Gabo's GitHub profile README (this repo is `gaboesquivel/gaboesquivel`) and the npm package page. It is profile copy, not developer documentation, and must agree with these facts.
 
 ## Scope
 
-- `content/projects/**` — project facts, tags, achievements, story
-- `content/tech/**` — technology pages and implementation evidence
-- `content/experience/**` — employment record (title, type, location, duration)
-- `content/cv/**` — printable CV role variants and bullets
-- Generated output under `src/generated` (from `bun run generate`)
+- `content/projects/`: what each project is, its stack (`tech` tags), role, achievements, and story
+- `content/tech/`: what each technology does in this stack and which shipped projects used it
+- `content/experience/`: the employment record (title, type, location, duration)
+- `content/cv/`: CV variants (`full`, `ai`, `web3`, `fullstack`) that select roles, override bullets, and set each CV page's metadata
+- Build output: `src/generated/` (typed modules) and `dist/` (the bundle, JSON exports such as `projects.json` and `cv.json`, and copies of the markdown)
 
-## Conflict resolution
+## When facts conflict
 
 - Employment facts: `content/experience` wins over project copy.
 - Technology, architecture, and achievements: project markdown wins over experience summaries.
 
 ## Non-goals
 
-- Career narrative, page positioning, or capability theses (owned by gaboesquivel.com).
-- CV landing-page prose or `/bio` worldview.
-- Site routes, SEO keyword owners, or design system.
+- Career narrative, page positioning, capability theses, CV landing-page prose, and the `/bio` worldview. gaboesquivel.com owns those.
+- Site routes, SEO keyword owners, and visual design.
 
-Voice and identity for prose: installed `gabo` skill in consumer repos.
+## Open questions
 
-## Known gaps (do not paper over)
-
-- `TechStackItem` in `src/types.ts` still includes an `intro` field in types, while editorial rules forbid new `intro` in tech markdown (`AGENTS.md`). Legacy generated copy may still contain old patterns (for example “user experience first” in some tech experience bullets); new copy must not add those phrases.
-
-## When to update this file
-
-Change `PRODUCT.md` when ownership, consumers, or what belongs in the package shifts. Change field rules, allowlists, and generate workflow in `AGENTS.md`.
+- Booking link: the CLI prints `https://cal.com/gaboesquivel`, while gaboesquivel.com's `/cal` redirects to `https://calendly.com/gaboesquivel/30min`. One of them is out of date.
