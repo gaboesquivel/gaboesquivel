@@ -17,3 +17,15 @@ Learn more on my website
 ```bash
 npx gaboesquivel
 ```
+
+## Package (developers)
+
+Structured project, tech, experience, and CV data for [gaboesquivel.com](https://gaboesquivel.com). Career narrative and page copy live on the site, not in this repo.
+
+```bash
+bun install
+bun run generate
+bun run build
+```
+
+Agent and field rules: [AGENTS.md](AGENTS.md). Product scope: [PRODUCT.md](PRODUCT.md).
