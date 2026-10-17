@@ -2,7 +2,7 @@
 
 Fact source for projects, technologies, employment, and CV variants. Read [PRODUCT.md](PRODUCT.md) before changing what the package covers, who consumes it, or which repo owns a kind of content. This file covers editing, field rules, and checks.
 
-Voice and identity: installed `gabo` skill. Optional second pass: `human-writing`; `gabo` wins conflicts.
+Voice, identity, and claims: installed `gabo` skill, which outranks any other writing skill on those three.
 
 When facts are not already in open files, spawn read-only agents in parallel for lookups that do not invent copy. One agent writes. Do not spawn to write, rewrite, outline, or find a better voice.
 

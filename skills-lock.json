@@ -5,13 +5,7 @@
       "source": "gaboesquivel/gaboesquivel-skills",
       "sourceType": "github",
       "skillPath": "skills/gabo/SKILL.md",
-      "computedHash": "2e685c1fb75c5db43033e654c881603638939ec0611809fea7e8c70824d05e15"
-    },
-    "human-writing": {
-      "source": "factory-ai/factory-plugins",
-      "sourceType": "github",
-      "skillPath": "plugins/droid-evolved/skills/human-writing/SKILL.md",
-      "computedHash": "a5c8f7e609a3cd321437e0f745778b23cacd2a0dfb48aa46ab07cdde22ad146e"
+      "computedHash": "33a43332e8eb4ab090f69cff50e97a09e86595bd4315e52561aff8c3d2cb46a8"
     }
   }
 }
