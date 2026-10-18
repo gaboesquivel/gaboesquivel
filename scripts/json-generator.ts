@@ -1,77 +1,78 @@
-import { mkdirSync, writeFileSync } from 'node:fs'
-import { join } from 'node:path'
+import { mkdirSync, writeFileSync } from "node:fs";
+import { join } from "node:path";
+
 import type {
   CvVariantData,
   ExperienceData,
   ProjectData,
   TechStackItemData,
-} from './schemas'
+} from "./schemas";
 
 export function generateJSON(
-  projects: Array<{
-    data: ProjectData
-    markdown: string
-    markdownPath: string
-  }>,
-  tech: Array<{
-    data: TechStackItemData
-    markdown: string
-    markdownPath: string
-  }>,
-  experience: Array<{
-    data: ExperienceData
-    markdown: string
-    markdownPath: string
-  }>,
-  cvVariants: Array<{
-    data: CvVariantData
-    markdown: string
-    markdownPath: string
-  }>,
+  projects: {
+    data: ProjectData;
+    markdown: string;
+    markdownPath: string;
+  }[],
+  tech: {
+    data: TechStackItemData;
+    markdown: string;
+    markdownPath: string;
+  }[],
+  experience: {
+    data: ExperienceData;
+    markdown: string;
+    markdownPath: string;
+  }[],
+  cvVariants: {
+    data: CvVariantData;
+    markdown: string;
+    markdownPath: string;
+  }[],
   tags: string[],
-  outputDir: string,
+  outputDir: string
 ) {
   // Ensure dist directory exists
-  mkdirSync(outputDir, { recursive: true })
+  mkdirSync(outputDir, { recursive: true });
 
   // Generate projects.json (without markdown fields for JSON)
-  const projectsData = projects.map((p) => p.data)
+  const projectsData = projects.map((p) => p.data);
   writeFileSync(
-    join(outputDir, 'projects.json'),
+    join(outputDir, "projects.json"),
     JSON.stringify(projectsData, null, 2),
-    'utf-8',
-  )
+    "utf-8"
+  );
 
   // Generate tech.json (without markdown fields for JSON)
-  const techData = tech.map((t) => t.data)
+  const techData = tech.map((t) => t.data);
   writeFileSync(
-    join(outputDir, 'tech.json'),
+    join(outputDir, "tech.json"),
     JSON.stringify(techData, null, 2),
-    'utf-8',
-  )
+    "utf-8"
+  );
 
   // Generate tags.json
   writeFileSync(
-    join(outputDir, 'tags.json'),
+    join(outputDir, "tags.json"),
     JSON.stringify(tags, null, 2),
-    'utf-8',
-  )
+    "utf-8"
+  );
 
   const experienceData = [...experience]
     .sort((a, b) => a.data.order - b.data.order)
-    .map((e) => e.data)
+    .map((e) => e.data);
   writeFileSync(
-    join(outputDir, 'experience.json'),
+    join(outputDir, "experience.json"),
     JSON.stringify(experienceData, null, 2),
-    'utf-8',
-  )
+    "utf-8"
+  );
 
   const cvData = Object.fromEntries(
-    cvVariants.map((cv) => [cv.data.key, cv.data]),
-  )
+    cvVariants.map((cv) => [cv.data.key, cv.data])
+  );
   writeFileSync(
-    join(outputDir, 'cv.json'),
+    join(outputDir, "cv.json"),
     JSON.stringify(cvData, null, 2),
-    'utf-8',
-  )
+    "utf-8"
+  );
 }

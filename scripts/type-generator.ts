@@ -1,8 +1,8 @@
-import { writeFileSync } from 'node:fs'
-import { join } from 'node:path'
+import { writeFileSync } from "node:fs";
+import { join } from "node:path";
 
 export function generateTagType(tags: string[], outputDir: string) {
-  const tagUnion = tags.map((tag) => `  | '${tag}'`).join('\n')
+  const tagUnion = tags.map((tag) => `  | '${tag}'`).join("\n");
 
   const typesContent = `// Generated types - DO NOT EDIT MANUALLY
 // This file is auto-generated from markdown files
@@ -97,7 +97,7 @@ export interface CvVariant {
   also?: string
   metadata: CvMetadata
 }
-`
+`;
 
-  writeFileSync(join(outputDir, 'types.ts'), typesContent, 'utf-8')
+  writeFileSync(join(outputDir, "types.ts"), typesContent, "utf-8");
 }
