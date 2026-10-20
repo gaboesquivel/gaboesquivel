@@ -4,17 +4,13 @@ title: Software Engineer
 type: Contract
 location: Remote
 duration: '2025'
-description: >-
-  AI legal platform with voice, chat, and retrieval for case context, documents,
-  and procedures.
+description: "AI legal software combining bilingual voice, chat, document retrieval, and internal administration tools."
 achievements:
-  - Shipped a voice and chat assistant in React Native (Expo).
-  - Built RAG for case context, document summaries, and procedural guidance.
-  - >-
-    Built the TanStack Start admin with Microsoft SSO, system prompt management,
-    and document categorization for retrieval.
-  - Shipped bilingual voice with realtime transcription and speech synthesis.
-  - Tuned the AI agent's persona and AI SDK tool-calling from attorney usage.
+  - Built a voice and chat assistant in React Native and Expo using the Vercel AI SDK and OpenAI Realtime API.
+  - Implemented retrieval-augmented generation for legal case context, document summaries, and procedural guidance.
+  - Developed bilingual voice interactions with realtime transcription and speech synthesis.
+  - Built a TanStack Start administration dashboard with Microsoft SSO, prompt management, and document categorization.
+  - Refined the assistant's persona and tool-calling behavior using feedback from attorneys.
 techStack:
   - TypeScript
   - React Native
@@ -29,4 +25,3 @@ techStack:
   - PostgreSQL
 order: 1
 ---
-

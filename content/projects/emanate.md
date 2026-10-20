@@ -20,7 +20,7 @@ images: []
 achievements:
   - "Maintained the React streaming platform and tuned its performance."
   - "Built back-office tools for distributing artist revenue."
-  - "Integrated AWS services for streaming and back-office workloads."
+  - "Integrated EOS with AWS services supporting streaming and back-office operations."
 story:
   - "My work on Emanate focused on the existing React streaming application and the systems responsible for distributing artist revenue."
   - "I maintained and optimized the frontend, built administrative tools for token-based payments, and integrated AWS services supporting streaming and back-office operations. This was an incremental engineering engagement focused on the existing product, not a platform rewrite."

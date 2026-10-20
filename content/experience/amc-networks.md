@@ -4,20 +4,16 @@ title: Lead UI Engineer
 type: Full-time
 location: Hybrid
 duration: Nov 2012 – Apr 2014
-description: >-
-  Interactive streaming movie service YEAH! (SXSW 2013 launch): classic genre
-  films with chapter navigation, in-player extras, and Brightcove.
+description: "AMC's interactive movie-rental platform with Brightcove streaming, chapter playback, and in-player content."
 achievements:
-  - Led a five-person frontend team between AMC's creative team and the backend developers.
-  - Built the interactive movie-player frontend.
-  - 'Wired Brightcove for streaming, chapter playback, and back-office editing.'
-  - 'Built Facebook identity, sharing, and in-player extras.'
-  - 'Shipped trivia, interviews, and quizzes in the video player.'
-  - Shipped curated films with 400+ interactive elements each.
+  - Led a five-person frontend engineering team working with AMC's creative team and backend developers.
+  - Designed and built the frontend architecture for the interactive movie player.
+  - Integrated Brightcove streaming, chapter navigation, and back-office editing tools.
+  - Implemented Facebook identity, sharing, and interactive content features.
+  - Delivered in-player trivia, interviews, and quizzes across films with more than 400 interactive elements each.
 techStack:
   - JavaScript
   - Brightcove
   - Facebook API
 order: 11
 ---
-

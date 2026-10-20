@@ -1,18 +1,21 @@
 ---
-name: "JavaScript"
-slug: "javascript"
-tag: "JavaScript"
-image: "/images/tech/javascript.png"
-description: "Client and server scripting for community platforms, ecommerce navigation, energy dashboards, and early full-stack products."
-link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-since: "2009"
+name: JavaScript
+slug: javascript
+tag: JavaScript
+image: /images/tech/javascript.png
+description: >-
+  JavaScript engineering across interactive websites, client applications,
+  realtime dashboards, and early full-stack products.
+link: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript'
+since: '2009'
 experience:
-  - Co-organized Costa Rica JS on Meetup from 2012 and grew the community past 2,000 developers through meetups and NodeSchool Costa Rica.
-  - Built Elder Scrolls Online's official community site with JavaScript for news, guides, and forum navigation.
-  - Implemented frontend load-time improvements on the Staples Advantage B2B site in JavaScript.
-  - Built Gridium's energy-analytics prototype with JavaScript-driven interactive charts.
+  - >-
+    Built the Elder Scrolls Online website's interactive navigation and
+    community frontend with JavaScript.
+  - >-
+    Developed responsive frontend improvements for the Staples Advantage B2B
+    commerce website.
+  - >-
+    Implemented JavaScript-driven energy visualizations in Gridium's analytics
+    dashboard.
 ---
-
-# JavaScript
-
-Client and server scripting for community platforms, ecommerce navigation, energy dashboards, and early full-stack products.

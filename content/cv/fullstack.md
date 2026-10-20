@@ -1,15 +1,18 @@
 ---
 key: fullstack
-professionalTitle: Senior Product Engineer, Full Stack
+professionalTitle: Senior Full-Stack Product Engineer
 summary: >-
-  I build the interface and the services behind it, on web and mobile, drawing
-  on 15+ years across TypeScript, React, React Native, Next.js, Node.js,
-  PostgreSQL, and cloud. Fluent in English, Spanish, Portuguese, and Italian.
+  I build web and mobile products from frontend interfaces through
+  backend services, databases, and cloud infrastructure. My experience
+  spans 15+ years of TypeScript, JavaScript, React, React Native, Next.js,
+  Node.js, and PostgreSQL, with product work across fintech, AI, Web3,
+  and consumer applications. Fluent in English, Spanish, Portuguese,
+  and Italian.
 highlights:
-  - 12+ years building 0→1 products for startups and growth-stage teams
-  - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
-  - Built token bridge and auction flows across contracts, wallet state, indexed data, and interface
-  - Delivered full-stack systems in fintech, AI, Web3, marketplaces, and consumer software
+  - 12+ years delivering 0→1 software products for startups and growth-stage teams
+  - Built Wink's React Native banking application, AWS backend, and bank integrations
+  - Developed Bitlauncher's auction, wallet, bridge, and indexed blockchain systems
+  - Delivered AI applications with voice, chat, retrieval, and administrative interfaces
 skills:
   - label: Languages
     keywords: TypeScript, JavaScript, SQL
@@ -45,18 +48,17 @@ featured:
       - Wired Brightcove for streaming, chapter playback, and back-office editing.
       - Built Facebook identity, sharing, and in-player extras.
 also: >-
-  Between 2017 and 2023 I worked on blockchain products: Knowledge (2017–2018),
-  EOS Costa Rica (2018–2020) as lead engineer, Emanate (2019–2020), an NFT
-  marketplace and indexer at RareMint (2021–2022), and the ZTX virtual world
-  (2022–2023). More recently I built the trading interface and onchain data
-  layer for Opyn (2024–2025). At American Express (2010–2012) I built card
-  marketing products and moved a frontend from Dojo to jQuery.
+  Other full-stack work includes Knowledge's ERC-20 token platform
+  (2017–2018), EOS Costa Rica's blockchain infrastructure (2018–2020),
+  Emanate's music application (2019–2020), RareMint's NFT marketplace
+  (2021–2022), ZTX's virtual-world integrations (2022–2023), and Opyn's
+  indexed trading application (2024–2025). Earlier, I built interactive
+  streaming interfaces at AMC Networks (2012–2014) and financial
+  marketing applications at American Express (2010–2012).
 metadata:
-  title: Gabo Esquivel - Full-Stack Engineering CV
-  description: >-
-    The interface and the services behind it, on web and mobile: TypeScript,
-    React, React Native, Next.js, Node.js, PostgreSQL, and cloud.
+  title: "Gabo Esquivel — Full-Stack Engineering CV"
+  description: "Full-stack product engineering across React, Next.js, React Native, Node.js, TypeScript, PostgreSQL, APIs, and cloud infrastructure."
   openGraph:
-    title: Gabo Esquivel - Full-Stack Engineering CV
-    description: The interface and the services behind it, on web and mobile.
+    title: "Gabo Esquivel — Full-Stack Engineering CV"
+    description: "Web and mobile engineering from frontend interfaces through backend services, databases, and cloud systems."
 ---

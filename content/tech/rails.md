@@ -1,16 +1,18 @@
 ---
-name: "Ruby on Rails"
-slug: "rails"
-tag: "Ruby on Rails"
-image: "/images/tech/rails.png"
-description: "Full-stack framework for dynamic pricing stores and flight-information backends feeding AngularJS frontends."
-link: "https://rubyonrails.org/"
-since: "2009"
+name: Ruby on Rails
+slug: rails
+tag: Ruby on Rails
+image: /images/tech/rails.png
+description: >-
+  Ruby on Rails development for TiKR's dynamic-pricing commerce platform and
+  ARINC's flight-information backend.
+link: 'https://rubyonrails.org/'
+since: '2009'
 experience:
-  - Built Tikr's dynamic pricing engine on Spree and Ruby on Rails with PostgreSQL on Heroku.
-  - Developed ARINC Microfids' flight-information backend in Ruby on Rails, feeding live data to AngularJS.
+  - >-
+    Customized TiKR's Ruby on Rails and Spree commerce application around
+    dynamic product pricing.
+  - >-
+    Connected ARINC Microfids' Ruby on Rails backend to AngularJS
+    flight-information displays.
 ---
-
-# Ruby on Rails
-
-Full-stack framework for dynamic pricing stores and flight-information backends feeding AngularJS frontends.

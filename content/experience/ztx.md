@@ -4,18 +4,12 @@ title: Software Engineer
 type: Full-time
 location: Remote
 duration: Aug 2022 – Aug 2023
-description: Virtual world with a WebGL wallet connection and a Next.js experience.
+description: "A Web3 virtual-world application with embedded EVM wallet connectivity, NFT trading, and transaction signing."
 achievements:
-  - >-
-    Built a WebGL EVM wallet connector with MetaMask, Ethers.js, and a custom
-    JavaScript event system.
-  - >-
-    Kept the wallet session inside WebGL so players signed and traded NFTs
-    without leaving the virtual world.
-  - >-
-    Set up the Next.js app that hosted the virtual world, with Tailwind and
-    Framer Motion.
-  - Wired analytics through Google Tag Manager.
+  - Built the Next.js application hosting the WebGL virtual-world experience.
+  - Developed an EVM wallet connector using MetaMask, Ethers.js, and a custom JavaScript event system.
+  - Enabled wallet-based transaction signing and NFT trading without leaving the virtual world.
+  - Integrated product analytics through Google Tag Manager.
 techStack:
   - React
   - Next.js
@@ -26,4 +20,3 @@ techStack:
   - Analytics
 order: 4
 ---
-

@@ -4,26 +4,16 @@ title: Product Engineer
 type: Full-time
 location: Remote
 duration: Nov 2023 – Nov 2025
-description: >-
-  Helped take Bitlauncher from concept through delivery, owning product direction,
-  technical decisions, and hands-on implementation.
+description: "AI and crypto launchpad combining token auctions, wallets, cross-chain transactions, indexed data, and research assistants."
 achievements:
-  - Owned roadmap priorities, scope, technical direction, and delivery planning.
-  - Automated the AI-assisted workflow with v0.dev, Claude Sonnet, Cursor, and SourceryAI.
-  - Architected and built the platform using Next.js 14, Supabase, viem, and wagmi.
-  - >-
-    Built a token bridge that swapped USDT, USDC, and BITUSD to USDCred so bids
-    settled in protocol tokens.
-  - >-
-    Deployed Gnosis auction contracts to EOS EVM and built the bidding interface
-    with realtime updates through Supabase subscriptions.
-  - Built wallet screens with realtime EVM and EOS token balances.
-  - >-
-    Indexed transactions in Supabase and built a custom EOS EVM indexer with
-    Node.js, Viem event subscriptions, and dFuse.
-  - >-
-    Built the bitlauncher.ai RAG chatbot with news and video tools, implemented
-    Masterbots prompting, and added AI-assisted internationalization.
+  - Led product direction, technical architecture, scope, and delivery from concept through implementation.
+  - Coordinated two full-time developers and up to five part-time contributors while remaining hands-on across the stack.
+  - Architected the Next.js 14 application using Supabase, viem, wagmi, and supporting infrastructure.
+  - Deployed Gnosis auction contracts on EOS EVM and built realtime bidding interfaces using Supabase subscriptions.
+  - Built a bridge converting USDT, USDC, and BITUSD into USDCred for auction settlement.
+  - Developed wallet interfaces, blockchain indexing, and transaction data services.
+  - Built an AI research assistant with retrieval and tools for news and YouTube content.
+  - Introduced AI-assisted development workflows using Cursor, Claude Sonnet, v0.dev, and SourceryAI.
 techStack:
   - Viem
   - Wagmi

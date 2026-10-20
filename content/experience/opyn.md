@@ -4,13 +4,11 @@ title: Software Engineer
 location: Remote
 type: Contract
 duration: Oct 2024 – Feb 2025
-description: >-
-  Opyn Markets perpetuals on Arbitrum with a trading interface and indexed
-  onchain data.
+description: "Opyn Markets perpetuals trading interface on Arbitrum, with integrated wallets and indexed blockchain data."
 achievements:
-  - Built the Next.js 14 trading interface with React Server Components.
-  - Integrated the protocol and Arbitrum testnet with viem and wagmi.
-  - 'Indexed onchain data with Ponder, PostgreSQL, and Supabase.'
+  - Established the Next.js 14 trading application using React Server Components.
+  - Integrated Arbitrum testnet contracts and wallet interactions with viem and wagmi.
+  - Indexed protocol data using Ponder, PostgreSQL, and Supabase.
   - Prototyped an LLM assistant for onboarding and support.
 techStack:
   - TypeScript
@@ -31,4 +29,3 @@ techStack:
   - Ethereum
 order: 3
 ---
-

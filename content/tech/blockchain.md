@@ -1,18 +1,25 @@
 ---
-name: "Blockchain"
-slug: "blockchain"
-tag: "Blockchain"
-image: "/images/tech/blockchain.png"
-description: "On-chain products and indexer systems across EVM chains and Antelope, from token launches to exchange backends and open-source tooling."
-link: "https://ethereum.org/en/developers/docs/"
-since: "2017"
+name: Blockchain
+slug: blockchain
+tag: Blockchain
+image: /images/tech/blockchain.png
+description: >-
+  Blockchain application development across EVM and Antelope, including
+  exchanges, smart contracts, indexing, wallets, and trading interfaces.
+link: 'https://ethereum.org/en/developers/docs/'
+since: '2017'
 featuredOrder: 1
 experience:
-  - Shipped DeFi, NFT, and token products on Ethereum and EVM chains for Knowledge.io, RareMint, Opyn, and Bitlauncher.
-  - Built Antelope-based exchange and indexer systems for Bitcash and ChainGraph with on-chain accounts, contracts, and live chain data.
-  - Contributed open-source blockchain tooling including ChainGraph and Substrate Contracts UI.
+  - >-
+    Built token auctions, wallet integrations, and blockchain data indexing for
+    Bitlauncher.
+  - >-
+    Developed Bitcash's peer-to-peer exchange and EOS transaction
+    infrastructure.
+  - >-
+    Built ChainGraph's open-source GraphQL toolkit for indexing EOSIO and
+    Antelope networks.
+  - >-
+    Contributed to Substrate Contracts UI, including layout and code-quality
+    improvements.
 ---
-
-# Blockchain
-
-On-chain products and indexer systems across EVM chains and Antelope, from token launches to exchange backends and open-source tooling.

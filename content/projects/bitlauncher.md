@@ -47,11 +47,11 @@ video: "https://www.youtube.com/watch?v=U6vn3KOEwcQ"
 images: []
 achievements:
   - "Owned product scope, technical decisions, and delivery across a team of two full-time developers and up to five part-time contributors."
-  - "Architected and built the application using Next.js, Supabase, viem, wagmi, Alchemy, Trigger.dev, and shadcn/ui."
+  - "Architected and built the Next.js 14 application using Supabase, viem, wagmi, Alchemy, Trigger.dev, and shadcn/ui."
   - "Deployed Gnosis auction contracts to EOS EVM and built real-time bidding interfaces using Supabase subscriptions."
   - "Built a token bridge converting USDT, USDC, and BITUSD to USDCred for auction settlement."
   - "Developed wallet interfaces showing EVM and EOS token balances through wagmi subscriptions and RPC polling."
-  - "Indexed transactions in Supabase and built a custom EOS EVM indexer using Node.js, viem, and dFuse."
+  - "Indexed transactions in Supabase for queries and aggregate market data, and built a custom EOS EVM indexer using Node.js, viem event subscriptions, and dFuse."
   - "Developed an AI research assistant with RAG and tool calls for news and YouTube content, along with Masterbots prompting and AI-assisted internationalization."
   - "Introduced AI-assisted development workflows using v0.dev, Claude Sonnet, Cursor, and SourceryAI."
 story:

@@ -4,11 +4,11 @@ title: Software Engineer
 location: Remote
 type: Contract
 duration: Dec 2019 – Jul 2020
-description: Music-streaming platform with token payments and back-office revenue tools.
+description: "Blockchain-based music streaming and artist monetization, with token payments and revenue administration."
 achievements:
-  - Maintained the React streaming web app.
-  - Built the back office for artist token payments.
-  - Integrated EOS with AWS services for streaming and back-office workloads.
+  - Maintained and optimized the React music-streaming application.
+  - Developed back-office tools for distributing artist revenue through token payments.
+  - Integrated EOS with AWS services supporting streaming and administrative operations.
 techStack:
   - EOS
   - AWS
@@ -16,4 +16,3 @@ techStack:
   - Styled Components
 order: 7
 ---
-

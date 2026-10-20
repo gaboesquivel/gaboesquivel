@@ -1,18 +1,21 @@
 ---
-name: "Ethers.js"
-slug: "ethersjs"
-tag: "Ethers"
-image: "/images/tech/ethersjs.png"
-description: "Ethereum library behind ZTX's WebGL wallet connector, RareMint's Polygon marketplace, and Knowledge.io's ERC-20 ICO, before the move to Viem and Wagmi."
-link: "https://docs.ethers.org/"
-since: "2017"
+name: Ethers.js
+slug: ethersjs
+tag: Ethers
+image: /images/tech/ethersjs.png
+description: >-
+  Ethereum JavaScript tooling for wallet connectivity and contract interactions
+  in NFT marketplaces and virtual-world applications.
+link: 'https://docs.ethers.org/'
+since: '2017'
 experience:
-  - Connected MetaMask to ZTX's virtual world through Ethers.js and a custom JavaScript event system for NFT signing.
-  - Ran RareMint's Polygon marketplace minting and ownership flows through Ethers.js contract interfaces.
-  - Indexed RareMint NFT transfers with Moralis streams, Node.js, and Ethers.js event parsing.
-  - Led Knowledge.io's 2018 ERC-20 ICO contract interactions with Ethers.js providers and wallets.
+  - >-
+    Developed ZTX's WebGL wallet connector using MetaMask, Ethers.js, and a
+    custom JavaScript event system.
+  - >-
+    Integrated EVM wallet interactions and NFT transactions into ZTX's
+    virtual-world experience.
+  - >-
+    Worked on wallet and marketplace integrations for RareMint's Polygon
+    collectibles platform.
 ---
-
-# Ethers.js
-
-Ethereum library behind ZTX's WebGL wallet connector, RareMint's Polygon marketplace, and Knowledge.io's ERC-20 ICO, before the move to Viem and Wagmi.

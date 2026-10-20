@@ -4,16 +4,13 @@ title: Lead Engineer
 type: Full-time
 location: On-site
 duration: Apr 2015 – Mar 2018
-description: >-
-  Costa Rica's first neobank: React Native app, AWS backend, partner-bank APIs,
-  and biometrics (holawink.com).
+description: "Costa Rica's first neobank, combining a React Native banking application, AWS services, and partner-bank integrations."
 achievements:
-  - Built the React Native app and AWS backend.
-  - Built biometric KYC with a React Native native bridge.
-  - Coordinated with partner-bank teams and vendors on the first version.
-  - >-
-    Integrated partner-bank APIs so deposits, transfers, and account data moved
-    through the app.
+  - Built the first version of Wink's React Native mobile application and AWS backend.
+  - Selected the initial technology stack and established the application architecture.
+  - Integrated partner-bank APIs for deposits, transfers, and account information.
+  - Implemented biometric identity verification and authentication through a React Native native bridge.
+  - Helped establish the engineering team responsible for the product's launch.
 techStack:
   - React Native
   - React
@@ -21,4 +18,3 @@ techStack:
   - AWS
 order: 10
 ---
-

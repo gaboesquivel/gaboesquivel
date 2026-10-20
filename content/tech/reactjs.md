@@ -1,20 +1,22 @@
 ---
-name: "React"
-slug: "reactjs"
-tag: "ReactJS"
-image: "/images/tech/reactjs.png"
-description: "Component model for web UIs across trading interfaces, admin dashboards, and marketplace screens in Next.js and standalone apps."
-link: "https://react.dev/"
-since: "2013"
+name: React
+slug: reactjs
+tag: ReactJS
+image: /images/tech/reactjs.png
+description: >-
+  React interface engineering across financial products, AI dashboards, NFT
+  marketplaces, and interactive web applications.
+link: 'https://react.dev/'
+since: '2013'
 featuredOrder: 8
 experience:
-  - Split Opyn's options trading components between server components that read indexed protocol state and client components for wallet actions.
-  - Composed Bitlauncher's live auction and wallet screens with React state fed by Supabase realtime channels.
-  - Implemented LegalAgent's admin dashboards in React with Microsoft SSO and document management flows.
-  - Refactored RareMint's marketplace UI during a Next.js SSR performance pass with component-level code splitting.
-  - Shipped ZTX's Next.js shell that embeds WebGL wallet flows for in-world NFT trading.
+  - >-
+    Built Opyn's Next.js trading interface using React Server Components and
+    indexed protocol data.
+  - >-
+    Developed Bitlauncher's auction, wallet, and realtime bidding interfaces
+    with React.
+  - Built LegalAgent's administration dashboard with TanStack Start and React.
+  - Worked on RareMint's Next.js marketplace and server-rendered product views.
+  - Built ZTX's React application hosting the WebGL virtual world.
 ---
-
-# React
-
-Component model for web UIs across trading interfaces, admin dashboards, and marketplace screens in Next.js and standalone apps.

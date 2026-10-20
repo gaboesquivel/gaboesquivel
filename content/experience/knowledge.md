@@ -4,13 +4,13 @@ title: Software Engineer
 type: Contract
 location: Remote
 duration: Sep 2017 – May 2018
-description: 'Tokenized knowledge platform with an ERC-20 token, marketplace, and wallet.'
+description: "A tokenized knowledge platform with ERC-20 rewards, a marketplace, wallet tools, and a mobile trivia application."
 achievements:
-  - Deployed an ERC-20 token for an ICO on Ethereum mainnet using Truffle.
-  - Implemented smart contracts for token rewards and transactions.
-  - Built serverless AWS services around the token, marketplace, and wallet.
-  - Built the marketplace and wallet dashboard with React and Web3.js.
-  - Maintained the mobile trivia game for token rewards.
+  - Deployed Knowledge.io's ERC-20 token for its 2018 Ethereum mainnet ICO.
+  - Implemented smart contracts for rewards and token transactions.
+  - Built serverless AWS services supporting token, marketplace, and wallet functionality.
+  - Developed marketplace and wallet interfaces with React and Web3.js.
+  - Maintained the React Native trivia application connected to token rewards.
 techStack:
   - Ethereum
   - Truffle
@@ -20,4 +20,3 @@ techStack:
   - Serverless
 order: 9
 ---
-

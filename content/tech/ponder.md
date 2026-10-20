@@ -1,15 +1,15 @@
 ---
-name: "Ponder"
-slug: "ponder"
-tag: "Ponder"
-image: "/images/tech/ponder.png"
-description: "On-chain event indexer that persists options chain data to PostgreSQL for Opyn's Next.js trading interface."
-link: "https://ponder.sh/"
-since: "2024"
+name: Ponder
+slug: ponder
+tag: Ponder
+image: /images/tech/ponder.png
+description: >-
+  Blockchain indexing framework used to transform Opyn's Arbitrum protocol
+  events into queryable PostgreSQL data.
+link: 'https://ponder.sh/'
+since: '2024'
 experience:
-  - Ran Ponder for Opyn on Arbitrum Testnet, persisting options chain data in PostgreSQL for the Next.js trading UI.
+  - >-
+    Indexed Opyn Markets' Arbitrum protocol data with Ponder and PostgreSQL for
+    its Next.js trading interface.
 ---
-
-# Ponder
-
-On-chain event indexer that persists options chain data to PostgreSQL for Opyn's Next.js trading interface.

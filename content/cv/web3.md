@@ -1,16 +1,18 @@
 ---
 key: web3
-professionalTitle: Senior Product Engineer, Web3
+professionalTitle: Senior Web3 Product Engineer
 summary: >-
-  I build the product layer around blockchain systems: wallets, trading
-  interfaces, token flows, indexers, and the services that sit between a chain
-  and the person using it. 15+ years building software, with EVM and Antelope
-  work since 2017. Fluent in English, Spanish, Portuguese, and Italian.
+  I build blockchain applications that connect smart contracts and
+  onchain data to usable products. My work includes trading interfaces,
+  wallets, token auctions, bridges, and indexing systems across EVM and
+  Antelope networks. I have 15+ years of software experience, including
+  blockchain engineering since 2017. Fluent in English, Spanish,
+  Portuguese, and Italian.
 highlights:
-  - 12+ years building 0→1 products for startups and growth-stage teams
-  - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
-  - Built wallets, bridges, auctions, and trading interfaces across EVM, Arbitrum, Polygon, and Antelope
-  - Developed onchain indexers with Ponder, Moralis streams, and custom Viem event subscriptions
+  - Built blockchain applications across Ethereum, Arbitrum, Polygon, EOS EVM, and Antelope
+  - Developed wallet integrations, token bridges, auctions, and trading interfaces
+  - Built blockchain indexers using Ponder, Moralis streams, Node.js, and viem
+  - Helped launch EOS mainnet and developed validator and private-chain infrastructure
 skills:
   - label: Web3
     keywords: >-
@@ -53,23 +55,18 @@ featured:
       - Built a realtime EOS indexer with Node.js worker threads, binary deserialization, and PostgreSQL.
       - Built WebAuthn key management for in-browser transaction signing without an external wallet.
 also: >-
-  In 2025 I built an AI legal assistant at LegalAgent with voice, chat, and
-  retrieval. Earlier chain work includes EOS Costa Rica (2018–2020), where I
-  operated validators through the EOS mainnet launch and built a private EOSIO
-  chain for a consulting firm's labs; Emanate
-  (2019–2020), integrating EOS with AWS; and Knowledge (2017–2018), an ERC-20
-  token, marketplace, and wallet dashboard. Alongside Bitcash I created
-  ChainGraph, an open-source GraphQL toolkit for indexing Antelope chains. I led
-  engineering at Wink (2015–2018), led frontend for AMC Networks (2012–2014),
-  and built card marketing products at American Express (2010–2012).
+  Earlier blockchain work includes Knowledge's Ethereum token platform
+  (2017–2018), EOS Costa Rica's validator and private-chain systems
+  (2018–2020), Emanate's token-based music platform (2019–2020), and
+  ChainGraph's open-source blockchain indexing toolkit (2020).
+  Outside Web3, I led engineering for Wink's neobank (2015–2018),
+  built an AI legal assistant at LegalAgent (2025), led frontend work
+  at AMC Networks (2012–2014), and developed American Express
+  marketing applications (2010–2012).
 metadata:
-  title: Gabo Esquivel - Web3 Engineering CV
-  description: >-
-    Wallets, token bridges, auctions, trading interfaces, and onchain indexers
-    across EVM and Antelope.
+  title: "Gabo Esquivel — Web3 Engineering CV"
+  description: "Web3 product engineering across smart contracts, EVM wallets, DeFi applications, NFT marketplaces, token bridges, and blockchain indexers."
   openGraph:
-    title: Gabo Esquivel - Web3 Engineering CV
-    description: >-
-      Wallets, token flows, auctions, trading interfaces, and onchain indexers
-      across EVM and Antelope.
+    title: "Gabo Esquivel — Web3 Engineering CV"
+    description: "Blockchain applications, wallets, trading interfaces, token auctions, bridges, and indexing across EVM and Antelope."
 ---

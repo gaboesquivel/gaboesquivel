@@ -1,18 +1,20 @@
 ---
-name: "TanStack Query"
-slug: "tanstack-query"
-tag: "TanStack Query"
-image: "/images/tech/tanstack-query.png"
-description: "Server data caching for RAG assistants, auction platforms, options trading, and chatbot interfaces on Next.js."
-link: "https://tanstack.com/query/latest"
-since: "2021"
+name: TanStack Query
+slug: tanstack-query
+tag: TanStack Query
+image: /images/tech/tanstack-query.png
+description: >-
+  Asynchronous data fetching and caching for AI applications, blockchain
+  dashboards, auction interfaces, and trading systems.
+link: 'https://tanstack.com/query/latest'
+since: '2021'
 experience:
-  - Wired LegalAgent's RAG-backed assistant and admin dashboard data layer with TanStack Query.
-  - Cached Bitlauncher's auction and wallet data with TanStack Query over Supabase and chain RPCs.
-  - Managed Opyn's indexed options data fetching with TanStack Query alongside Ponder and PostgreSQL.
-  - Structured Masterbots' assistant and chatbot data flows with TanStack Query on Next.js.
+  - >-
+    Managed application and administration data in LegalAgent with TanStack
+    Query.
+  - Integrated auction and wallet data fetching in Bitlauncher's frontend.
+  - >-
+    Connected Opyn's trading interface to indexed protocol data using TanStack
+    Query.
+  - Used TanStack Query within Masterbots' assistant application.
 ---
-
-# TanStack Query
-
-Server data caching for RAG assistants, auction platforms, options trading, and chatbot interfaces on Next.js.

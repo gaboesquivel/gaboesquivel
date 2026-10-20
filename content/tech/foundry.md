@@ -1,15 +1,15 @@
 ---
-name: "Foundry"
-slug: "foundry"
-tag: "Foundry"
-image: "/images/tech/foundry.png"
-description: "Solidity toolkit for testing and deploying Opyn Markets protocol contracts to Arbitrum testnet with forge tests and deployment scripts."
-link: "https://getfoundry.sh/"
-since: "2024"
+name: Foundry
+slug: foundry
+tag: Foundry
+image: /images/tech/foundry.png
+description: >-
+  Solidity development and testing tooling used during Opyn Markets'
+  smart-contract integration on Arbitrum testnet.
+link: 'https://getfoundry.sh/'
+since: '2024'
 experience:
-  - Tested and deployed Opyn Markets Solidity to Arbitrum testnet with Foundry scripts and forge tests.
+  - >-
+    Used Foundry during Opyn Markets' Solidity protocol integration and Arbitrum
+    testnet development.
 ---
-
-# Foundry
-
-Solidity toolkit for testing and deploying Opyn Markets protocol contracts to Arbitrum testnet with forge tests and deployment scripts.

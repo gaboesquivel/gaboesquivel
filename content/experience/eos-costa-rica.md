@@ -4,16 +4,13 @@ type: Full-time
 title: Lead Engineer
 location: Hybrid
 duration: Mar 2018 – Jan 2020
-description: 'Block producer: EOSIO infrastructure and public and private-chain systems.'
+description: "EOSIO blockchain infrastructure, validator operations, enterprise networks, and open-source applications."
 achievements:
-  - Helped launch EOS mainnet and operated EOSIO validators.
-  - >-
-    Built a private EOSIO chain for a global accounting and consulting firm's
-    labs on Azure, Terraform,
-    EOSIO, and React; shipped an MVP for intercompany transactions and tax
-    workflows using a stablecoin, hashing, and IPFS.
-  - Built the EOS Rate frontend with React and Styled Components.
-  - Onboarded engineers and ran workshops around TicoBlockchain.cr and CryptoCantinaCR.
+  - Helped launch the EOS mainnet and operated EOSIO validator infrastructure.
+  - Built a private EOSIO blockchain on Azure using Terraform for a global consulting firm's innovation labs.
+  - Delivered an MVP for intercompany transactions and tax workflows using a stablecoin, hashing, and IPFS.
+  - Built the React frontend for EOS Rate, an onchain block-producer rating application.
+  - Supported developer onboarding, workshops, and community education initiatives.
 techStack:
   - EOSIO
   - React
@@ -21,4 +18,3 @@ techStack:
   - IPFS
 order: 8
 ---
-

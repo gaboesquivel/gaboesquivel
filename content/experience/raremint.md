@@ -4,13 +4,11 @@ title: Software Engineer
 type: Full-time
 location: Remote
 duration: Jul 2021 – Dec 2022
-description: >-
-  Polygon marketplace for tokenized sports collectibles with indexed NFT data,
-  auctions, and WalletConnect.
+description: "A Polygon NFT marketplace for tokenized sports collectibles, auctions, wallet connectivity, and collectible drops."
 achievements:
-  - 'Built an NFT indexer with Moralis streams, Node.js, and PostgreSQL on Google Cloud.'
-  - 'Refactored the marketplace with Next.js SSR, Tailwind CSS, and GraphQL.'
-  - Integrated WalletConnect for connections and transactions.
+  - Built an EVM NFT data indexer using Moralis streams, Node.js, PostgreSQL, and Google Cloud.
+  - Refactored marketplace interfaces using Next.js server-side rendering, Tailwind CSS, and GraphQL.
+  - Integrated WalletConnect for wallet connections and transactions.
   - Supported the Slab Series Pokémon mystery-pack drop on Polygon.
 techStack:
   - Moralis
@@ -26,4 +24,3 @@ techStack:
   - Polygon
 order: 5
 ---
-

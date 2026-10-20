@@ -1,17 +1,21 @@
 ---
-name: "OpenAI"
-slug: "openai"
-tag: "OpenAI"
-image: "/images/tech/openai.png"
-description: "APIs and models for chat, embeddings, image generation, and realtime voice used in production assistant products."
-link: "https://openai.com/"
-since: "2022"
+name: OpenAI
+slug: openai
+tag: OpenAI
+image: /images/tech/openai.png
+description: >-
+  OpenAI models and APIs used for conversational assistants, realtime voice,
+  document retrieval, and image generation.
+link: 'https://openai.com/'
+since: '2022'
 experience:
-  - Integrated OpenAI Realtime voice in LegalAgent's multimodal assistant for spoken legal intake and responses.
-  - Powered Bitlauncher's public chatbot and Masterbots domain assistants with OpenAI chat models.
-  - Used DALL·E in Wizard World to generate images that players minted as Flow NFTs during the hackathon build.
+  - >-
+    Integrated OpenAI's Realtime API into LegalAgent's bilingual voice
+    assistant.
+  - >-
+    Built Bitlauncher's AI research assistant with OpenAI models, retrieval, and
+    tools for news and YouTube.
+  - >-
+    Used OpenAI image generation in Wizard World before minting the resulting
+    images as Flow NFTs.
 ---
-
-# OpenAI
-
-APIs and models for chat, embeddings, image generation, and realtime voice used in production assistant products.

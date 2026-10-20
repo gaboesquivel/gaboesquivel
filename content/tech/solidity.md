@@ -1,18 +1,20 @@
 ---
-name: "Solidity"
-slug: "solidity"
-tag: "Solidity"
-image: "/images/tech/solidity.png"
-description: "Smart contract language for EVM auction systems, options protocols, and token deployments tested with Foundry."
-link: "https://soliditylang.org/"
-since: "2017"
+name: Solidity
+slug: solidity
+tag: Solidity
+image: /images/tech/solidity.png
+description: >-
+  Smart-contract development and integration for ERC-20 tokens, EVM auctions,
+  and blockchain trading protocols.
+link: 'https://soliditylang.org/'
+since: '2017'
 featuredOrder: 4
 experience:
-  - Authored Gnosis auction Solidity for Bitlauncher on EOS EVM with batch bidding and uniform pricing rules.
-  - Wrote Opyn Markets protocol contracts for Arbitrum testnet, tested and deployed with Foundry.
-  - Delivered ERC-20 token contracts for Knowledge.io's 2018 mainnet ICO.
+  - >-
+    Implemented Knowledge.io's ERC-20 token contracts for rewards and
+    transactions.
+  - Deployed Bitlauncher's Gnosis auction contracts to EOS EVM.
+  - >-
+    Integrated Opyn Markets' Solidity protocol with its Arbitrum trading
+    application.
 ---
-
-# Solidity
-
-Smart contract language for EVM auction systems, options protocols, and token deployments tested with Foundry.

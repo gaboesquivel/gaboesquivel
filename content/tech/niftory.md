@@ -1,15 +1,15 @@
 ---
-name: "Niftory"
-slug: "niftory"
-tag: "Niftory"
-image: "/images/tech/niftory.png"
-description: "Flow NFT minting infrastructure for Wizard World hackathon assets generated with OpenAI image models."
-link: "https://niftory.com/"
-since: "2022"
+name: Niftory
+slug: niftory
+tag: Niftory
+image: /images/tech/niftory.png
+description: >-
+  NFT infrastructure used to mint AI-generated images on Flow in the Wizard
+  World hackathon application.
+link: 'https://niftory.com/'
+since: '2022'
 experience:
-  - Minted Wizard World AI-generated images as Flow NFTs through Niftory during the Flow Hackathon.
+  - >-
+    Minted Wizard World AI-generated images as Flow NFTs through Niftory during
+    the Flow Hackathon.
 ---
-
-# Niftory
-
-Flow NFT minting infrastructure for Wizard World hackathon assets generated with OpenAI image models.

@@ -1,17 +1,19 @@
 ---
-name: "NFT"
-slug: "nft"
-tag: "NFT"
-image: "/images/tech/nft.png"
-description: "On-chain collectibles in Polygon marketplaces, virtual-world commerce, and hackathon minting flows."
-link: "https://ethereum.org/en/developers/docs/standards/tokens/erc-721/"
-since: "2022"
+name: NFT
+slug: nft
+tag: NFT
+image: /images/tech/nft.png
+description: >-
+  NFT integrations across collectible marketplaces, virtual-world transactions,
+  wallet interactions, and Flow minting applications.
+link: 'https://ethereum.org/en/developers/docs/standards/tokens/erc-721/'
+since: '2022'
 experience:
-  - Built RareMint's Polygon marketplace for minting, listing, and trading ERC-721 collectibles.
-  - Connected ZTX's in-world commerce to NFT inventory and wallet signing for player-owned items.
-  - Minted Wizard World hackathon assets on Flow after OpenAI image generation in the PWA.
+  - >-
+    Built indexed NFT marketplace functionality and supported collectible drops
+    at RareMint.
+  - >-
+    Integrated NFT trading and transaction signing into ZTX's WebGL virtual
+    world.
+  - Connected OpenAI image generation to Flow NFT minting in Wizard World.
 ---
-
-# NFT
-
-On-chain collectibles in Polygon marketplaces, virtual-world commerce, and hackathon minting flows.
