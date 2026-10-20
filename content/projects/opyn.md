@@ -44,9 +44,9 @@ order: 2
 year: 2024
 related:
   - url: "2025-11-bullish-2026"
-    title: "Bullish 2026"
-    publishedAt: "2025-11-01"
+    title: "Why I'm Bullish on 2026"
+    publishedAt: "2025-11-15"
   - url: "2026-01-tokenization"
-    title: "Tokenization"
-    publishedAt: "2026-01-01"
+    title: "Tokenized Securities at the NYSE"
+    publishedAt: "2026-01-20"
 ---

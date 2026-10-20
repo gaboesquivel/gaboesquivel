@@ -25,7 +25,7 @@ story:
   - "The format was deliberately simple: no scheduled presentations, speaker lineup, or formal agenda. People working with or interested in blockchain could meet and exchange ideas directly."
   - "The initiative later continued through AsoBlockchain's educational work and developed into CriptoCantina.org, with Karla Córdoba building a more structured program around the community."
 related:
-  - url: "https://gaboesquivel.com/blog/2018-07-costa-rica-crypto-cantina"
+  - url: "2018-07-costa-rica-crypto-cantina"
     title: "Costa Rica Crypto Cantina"
     publishedAt: "2018-07-01"
 order: 47

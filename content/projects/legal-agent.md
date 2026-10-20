@@ -42,9 +42,9 @@ order: 1
 year: 2025
 related:
   - url: "2025-05-typescript-rag"
-    title: "TypeScript RAG"
-    publishedAt: "2025-05-01"
+    title: "RAG with TypeScript"
+    publishedAt: "2025-06-02"
   - url: "2025-09-why-expo"
-    title: "Why Expo"
-    publishedAt: "2025-09-01"
+    title: "Why I Still Use Expo"
+    publishedAt: "2025-10-01"
 ---

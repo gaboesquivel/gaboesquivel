@@ -63,12 +63,12 @@ order: 3
 year: 2023
 related:
   - url: "2024-07-viem-wagmi-ethers"
-    title: "Viem, Wagmi, and Ethers"
-    publishedAt: "2024-07-01"
+    title: "Comparing Ethers.js and Viem/Wagmi"
+    publishedAt: "2024-07-20"
   - url: "2024-07-ai-and-web3"
-    title: "AI and Web3"
-    publishedAt: "2024-07-01"
+    title: "The Intersection of AI and Web3"
+    publishedAt: "2024-07-07"
   - url: "2025-11-web3-and-ai"
-    title: "Web3 and AI"
-    publishedAt: "2025-11-01"
+    title: "Intersection of AI and Web3 (Part 2)"
+    publishedAt: "2025-11-13"
 ---
