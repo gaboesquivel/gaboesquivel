@@ -1,7 +1,7 @@
 ---
 title: "ZTX"
 slug: "ztx"
-description: "A Web3 virtual world with cryptocurrency-backed digital assets, a WebGL wallet connection, and a Next.js experience."
+description: "Built the React experience and in-world wallet integration for ZTX, enabling transaction signing and NFT trading without leaving its WebGL virtual world."
 role: "Software Engineer"
 tech:
   - WebGL
@@ -28,13 +28,14 @@ image: "https://gaboesquivel.com/images/work/ztx.png"
 video: "https://www.youtube.com/watch?v=h58y6UzZ7RA"
 images: []
 achievements:
-  - Set up the initial React architecture using Next.js, TailwindCSS, and Framer Motion.
-  - Developed a WebGL EVM wallet connector using MetaMask, Ethers.js, and a custom JavaScript event system.
-  - Wired analytics through Google Tag Manager.
+  - Built the React and Next.js application hosting the WebGL virtual world.
+  - Developed an EVM wallet connector using MetaMask, Ethers.js, and a custom JavaScript event system.
+  - Enabled transaction signing and NFT trading directly within the WebGL experience.
+  - Integrated product analytics through Google Tag Manager.
 story:
-  - ZTX is a Web3 virtual world with cryptocurrency-backed digital asset ownership. I built the React application that hosted the virtual-world experience.
-  - Signing and NFT trading had to happen without leaving the WebGL world, so the wallet session lived inside that surface rather than in a separate app chrome.
-  - The product is a consumer world with a live wallet session inside WebGL. I connected the Next.js experience to signing and NFT trading so the chain receded behind the screen.
+  - ZTX is a Web3 virtual world where users can own and trade digital assets. I built the React application hosting the virtual-world experience, establishing its frontend architecture with Next.js, Tailwind CSS, and Framer Motion.
+  - The main engineering challenge was integrating blockchain interactions directly into the WebGL environment. I developed an EVM wallet connector using MetaMask, Ethers.js, and a custom JavaScript event system, allowing users to sign transactions and trade NFTs without leaving the virtual world.
+  - I also integrated product analytics through Google Tag Manager to help the team understand how people interacted with the experience.
 experienceCompany: "ZTX"
 order: 5
 year: 2022
@@ -42,4 +43,4 @@ year: 2022
 
 # ZTX
 
-A Web3 virtual world with cryptocurrency-backed digital assets, a WebGL wallet connection, and a Next.js experience.
+Built the React experience and in-world wallet integration for ZTX, enabling transaction signing and NFT trading without leaving its WebGL virtual world.

@@ -1,7 +1,7 @@
 ---
 title: "LegalAgent"
 slug: "legal-agent"
-description: "An AI legal platform with Expo voice and chat, RAG for case and document context, and administrative controls."
+description: "Built a voice and chat assistant for legal professionals, with RAG for case context and documents and an admin dashboard for managing the AI system."
 role: "Software Engineer"
 tech:
   - TypeScript
@@ -30,15 +30,15 @@ image: "https://gaboesquivel.com/images/work/legalagent.png"
 
 images: []
 achievements:
-  - Shipped a multimodal AI assistant with voice and chat in a React Native Expo app.
-  - Built RAG for case context, document summaries, and procedural guidance.
-  - Built an admin dashboard with Microsoft SSO, prompt management, and document categorization.
-  - Shipped bilingual voice with realtime transcription and speech synthesis.
-  - Adjusted persona and tool calling in the Expo client after attorney sessions.
+  - Shipped a voice and chat assistant in a React Native Expo application using the Vercel AI SDK and OpenAI Realtime API.
+  - Implemented RAG for case context, document summaries, and procedural guidance.
+  - Delivered bilingual voice interactions with real-time transcription and speech synthesis.
+  - Built a TanStack Start admin dashboard with Microsoft SSO, system prompt management, and document categorization.
+  - Refined the assistant's persona and tool-calling behavior based on attorney feedback.
 story:
-  - At LegalAgent I added a voice and chat assistant to their React Native app for case context, documents, and procedures.
-  - I implemented the Vercel AI SDK for chat and OpenAI's Realtime API for voice, with Tailwind on the multimodal UI. RAG supplied case context, document summaries, and procedural guidance in Spanish and English. Attorney feedback changed persona and tool calling in that Expo client.
-  - "I also built an internal admin dashboard with TanStack Start: Microsoft SSO, system prompt management, and document categorization for RAG retrieval."
+  - At LegalAgent, I added a voice and chat assistant to a React Native application for legal professionals. It helps attorneys work with case information, document summaries, and procedural guidance in English and Spanish.
+  - I used the Vercel AI SDK for chat and OpenAI's Realtime API for voice, connecting the experience to retrieval-augmented generation (RAG). Feedback from attorney sessions informed adjustments to the assistant's persona and tool-calling behavior.
+  - I also built an internal administration dashboard with TanStack Start, Microsoft SSO, system prompt management, and document categorization for retrieval.
 experienceCompany: "LegalAgent"
 order: 1
 year: 2025
@@ -53,4 +53,4 @@ related:
 
 # LegalAgent
 
-An AI legal platform with Expo voice and chat, RAG for case and document context, and administrative controls.
+Built a voice and chat assistant for legal professionals, with RAG for case context and documents and an admin dashboard for managing the AI system.

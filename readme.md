@@ -1,15 +1,22 @@
-# Gabo Esquivel ( Gab-o )
+# Gabo Esquivel — Agentic Product Engineer
 
-I build software products end to end, moving between product decisions, interface design, application architecture, and the systems underneath.
+I build useful and delightful software products, designed for humans and agents alike.
 
-My recent work spans AI-powered applications, Web3 systems, fintech, and full-stack product engineering across web and mobile. I work across the stack, from user-facing experiences and APIs to backend systems, integrations, and infrastructure. Learn more on my website
+I work across product, design, and architecture to create intuitive human experiences, agent-friendly interfaces, and efficient operational workflows.
 
-[gaboesquivel.com](https://gaboesquivel.com)
+15+ years of shipping software, including 12+ years building 0→1 products for startups and growth-stage teams across FinTech, Web3, and AI.
 
----
+## Selected work
 
-[![Twitter: gaboesquivel](https://img.shields.io/twitter/follow/gaboesquivel?style=social)](https://twitter.com/gaboesquivel) [![Linkedin: gaboesquivel](https://img.shields.io/badge/-gaboesquivel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaboesquivel/)](https://www.linkedin.com/in/gaboesquivel/) [![GitHub gaboesquivel](https://img.shields.io/github/followers/gaboesquivel?label=follow&style=social)](https://github.com/gaboesquivel)
+- **[LegalAgent](https://gaboesquivel.com/project/legal-agent)** — Built a voice and chat AI assistant for legal professionals, with retrieval and administrative tools.
+- **[Wink](https://gaboesquivel.com/project/wink)** — Helped launch Costa Rica's first neobank as Lead Engineer.
+- **[ZTX](https://gaboesquivel.com/project/ztx)** — Built an in-world wallet integration for transaction signing and NFT trading.
+- **[Bitlauncher](https://gaboesquivel.com/project/bitlauncher)** — Led product direction and engineering for an AI and crypto launchpad.
 
-```bash
-npx gaboesquivel
-```
+## Explore
+
+[Website](https://gaboesquivel.com) · [Writing](https://gaboesquivel.com/blog) · [LinkedIn](https://www.linkedin.com/in/gaboesquivel/)
+
+## In the terminal
+
+Run `npx gaboesquivel` to explore my projects and technologies from your terminal.

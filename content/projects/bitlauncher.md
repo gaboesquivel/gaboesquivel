@@ -1,7 +1,7 @@
 ---
 title: "Bitlauncher"
 slug: "bitlauncher"
-description: "AI and crypto launchpad for token sales, batch auctions, cross-chain wallets, bridges, indexed market data, and AI-assisted investor tools."
+description: "Helped take Bitlauncher from concept to delivery, leading product direction and engineering across auctions, wallets, bridges, market data, and AI research."
 role: "Product Engineer"
 tech:
   - TypeScript
@@ -46,19 +46,18 @@ repo: "https://github.com/bitcashorg/smartevm"
 video: "https://www.youtube.com/watch?v=U6vn3KOEwcQ"
 images: []
 achievements:
-  - Architected the platform on Next.js 14, Supabase, viem, wagmi, Alchemy, Trigger.dev, and shadcn/ui.
-  - Built a token bridge for swapping USDT, USDC, and BITUSD to USDCred so bids could settle in protocol tokens.
-  - Indexed transactions in Supabase for queries, realtime subscriptions, and aggregate market data.
-  - Deployed Gnosis auction Solidity contracts to EOS EVM and developed a bidding interface with real-time updates via Supabase subscriptions.
-  - Created a wallet interface that displays real-time EVM balances through Wagmi token balance subscriptions and EOS token balances via RPC polling.
-  - Built a custom indexer for EOS EVM using Node.js, Viem EVM event subscriptions, and dFuse stream for EOS.
-  - Developed the chatbot at bitlauncher.ai, with tool calls for current news and YouTube content, and RAG for longer answers.
-  - Implemented Masterbots prompting and AI-assisted internationalization.
-  - Automated the AI-assisted workflow with v0.dev, Claude Sonnet, Cursor, and SourceryAI.
+  - Owned product scope, technical decisions, and delivery across a team of two full-time developers and up to five part-time contributors.
+  - Architected and built the application using Next.js, Supabase, viem, wagmi, Alchemy, Trigger.dev, and shadcn/ui.
+  - Deployed Gnosis auction contracts to EOS EVM and built real-time bidding interfaces using Supabase subscriptions.
+  - Built a token bridge converting USDT, USDC, and BITUSD to USDCred for auction settlement.
+  - Developed wallet interfaces showing EVM and EOS token balances through wagmi subscriptions and RPC polling.
+  - Indexed transactions in Supabase and built a custom EOS EVM indexer using Node.js, viem, and dFuse.
+  - Developed an AI research assistant with RAG and tool calls for news and YouTube content, along with Masterbots prompting and AI-assisted internationalization.
+  - Introduced AI-assisted development workflows using v0.dev, Claude Sonnet, Cursor, and SourceryAI.
 story:
-  - Bitlauncher was an AI and crypto launchpad I helped form with a business partner. I owned product direction, scope, technical decisions, and delivery from concept through implementation.
-  - The engineering team had two full-time developers, with up to five part-time contributors working on specific tickets. I coordinated delivery while remaining hands-on across the stack.
-  - The product combined onchain auctions, wallet and bridge flows, indexed market data, and AI tools for project research. My work covered the boundaries between those systems rather than a single layer.
+  - Bitlauncher was an AI and crypto launchpad I helped create with a business partner. I owned product direction, scope, technical decisions, and delivery while remaining hands-on across the stack.
+  - I coordinated an engineering team of two full-time developers and up to five part-time contributors. The platform brought together token auctions, cross-chain wallets and bridges, indexed market data, and AI-assisted project research.
+  - My work connected these systems, from deploying auction contracts on EOS EVM to building real-time bidding, transaction indexing, wallet balances, and token bridges. I also developed the AI research assistant and introduced AI-assisted workflows into our development process.
 experienceCompany: "Bitlauncher"
 order: 3
 year: 2023
@@ -76,4 +75,4 @@ related:
 
 # Bitlauncher
 
-AI and crypto launchpad for token sales, batch auctions, cross-chain wallets, bridges, indexed market data, and AI-assisted investor tools.
+Helped take Bitlauncher from concept to delivery, leading product direction and engineering across auctions, wallets, bridges, market data, and AI research.

@@ -1,7 +1,7 @@
 ---
 title: "Wink"
 slug: "wink"
-description: "Costa Rica's first neobank, delivered through a React Native mobile app, AWS backend, partner-bank APIs, and biometrics."
+description: "Helped launch Costa Rica's first neobank, owning the mobile application, backend architecture, and banking integrations from its earliest stages."
 role: "Lead Engineer"
 tech:
   - TypeScript
@@ -28,13 +28,15 @@ image: "https://gaboesquivel.com/images/work/wink.png"
 video: "https://www.youtube.com/watch?v=rfeISMW_OVc"
 images: []
 achievements:
-  - Developed the first version of Wink's mobile banking app.
-  - Integrated partner-bank APIs so deposits, transfers, and account data could move through the app.
-  - Built biometric KYC with a React Native native bridge.
+  - Built the first version of Wink's React Native mobile application and AWS backend.
+  - Defined the initial technical stack and architecture.
+  - Integrated partner-bank APIs for accounts, deposits, and transfers.
+  - Implemented biometric KYC and authentication using a React Native native bridge.
+  - Helped establish the engineering team for launch.
 story:
-  - "Wink is Costa Rica's first neobank: a mobile app for banking without a branch visit. I built the first version of the app and the AWS backend it depended on."
-  - I chose the stack, planned the work, and coordinated partner-bank API integration. I also implemented biometric authentication so KYC and login did not need a branch visit.
-  - Launch required forming a development team that did not exist yet.
+  - Wink set out to make everyday banking possible without visiting a branch. As Lead Engineer, I built the first version of its React Native application and AWS backend.
+  - I selected the initial technology stack, planned implementation, and coordinated integrations with partner banks for deposits, transfers, and account information.
+  - I also implemented biometric KYC and authentication through a React Native native bridge and helped establish the development team needed to launch the product.
 experienceCompany: "Wink"
 order: 18
 year: 2015
@@ -42,4 +44,4 @@ year: 2015
 
 # Wink
 
-Costa Rica's first neobank, delivered through a React Native mobile app, AWS backend, partner-bank APIs, and biometrics.
+Helped launch Costa Rica's first neobank, owning the mobile application, backend architecture, and banking integrations from its earliest stages.
