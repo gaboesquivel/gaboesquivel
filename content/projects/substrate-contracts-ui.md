@@ -1,7 +1,7 @@
 ---
 title: "Substrate Contracts UI"
 slug: "substrate-contracts-ui"
-description: "An open-source React interface for deploying and interacting with WASM smart contracts on Substrate."
+description: "An open-source interface for deploying and interacting with WASM smart contracts on Substrate-based blockchains."
 tech:
   - Polkadot
   - Substrate
@@ -15,18 +15,13 @@ type:
 link: "https://contracts-ui.substrate.io/"
 image: "https://gaboesquivel.com/images/work/contracts-ui.png"
 repo: "https://github.com/paritytech/contracts-ui"
-
 images: []
 achievements:
-  - Contributed open-source code-quality and performance improvements.
-  - Built UI components for deploying and calling WASM contracts from the browser.
+  - "Contributed merged fixes for dependencies, linting, duplicate keys, and the web manifest."
+  - "Refactored layouts in smart-contract interaction screens."
 story:
-  - Substrate Contracts UI is the Parity-hosted web app for deploying and calling WASM smart contracts on chains that use the FRAME contracts pallet. I contributed in 2023 while the project still lived under paritytech, before it moved to use-ink/contracts-ui.
-  - My merged work included dependency and lint fixes, duplicate-key and web-manifest fixes, and layout refactors across the contract interaction screens. Six more pull requests closed without merge. It was open-source tooling, not a product of my own.
+  - "I contributed to Parity's Substrate Contracts UI in 2023, working on developer tooling for deploying and interacting with smart contracts through the browser."
+  - "My merged contributions included dependency and lint fixes, duplicate-key and web-manifest corrections, and layout refactoring across contract interaction screens. This was a contribution to an existing open-source project, rather than a product I owned."
 order: 14
-year: 2021
+year: 2023
 ---
-
-# Substrate Contracts UI
-
-An open-source React interface for deploying and interacting with WASM smart contracts on Substrate.

@@ -1,7 +1,7 @@
 ---
 title: "Emanate"
 slug: "emanate"
-description: "A blockchain music-streaming platform with token-based artist payments and back-office revenue tools."
+description: "A blockchain-based music platform combining streaming, artist monetization, and token-based revenue distribution."
 role: "Software Engineer"
 tech:
   - ReactJS
@@ -15,22 +15,16 @@ type:
   - frontend
 link: "https://emanate.live"
 image: "https://gaboesquivel.com/images/work/emanate.png"
-
 video: "https://www.youtube.com/watch?v=qjmn7M7YC9g"
 images: []
 achievements:
-  - Maintained the React streaming platform and tuned its performance.
-  - Built back-office tools for distributing artist revenue.
-  - Integrated AWS services for streaming and back-office workloads.
+  - "Maintained the React streaming platform and tuned its performance."
+  - "Built back-office tools for distributing artist revenue."
+  - "Integrated AWS services for streaming and back-office workloads."
 story:
-  - Emanate is a Web3 marketplace for the music industry covering creation, distribution, and monetization. I maintained the React streaming web app and tuned its performance.
-  - I built the back-office tools that distributed artist revenue as token payments.
-  - I also integrated AWS services for the streaming app and the back office. The work was maintenance and payments, not a rewrite.
+  - "My work on Emanate focused on the existing React streaming application and the systems responsible for distributing artist revenue."
+  - "I maintained and optimized the frontend, built administrative tools for token-based payments, and integrated AWS services supporting streaming and back-office operations. This was an incremental engineering engagement focused on the existing product, not a platform rewrite."
 experienceCompany: "Emanate"
 order: 8
 year: 2019
 ---
-
-# Emanate
-
-A blockchain music-streaming platform with token-based artist payments and back-office revenue tools.

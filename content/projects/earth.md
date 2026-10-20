@@ -1,7 +1,7 @@
 ---
 title: "Earth"
 slug: "earth"
-description: "EARTH University's International Academic Programs (PAI) study-abroad site in WordPress."
+description: "A WordPress website for EARTH University's international academic programs, courses, and study-abroad opportunities."
 tech:
   - JavaScript
   - CSS
@@ -10,23 +10,13 @@ type:
   - other
   - frontend
 image: "https://gaboesquivel.com/images/work/wordpress-earth-pai.jpg"
-
-
 images: []
 achievements:
-  - Built the PAI study-abroad WordPress site for internships, semester programs, and short courses.
-  - Designed responsive layouts for program listings and course topics.
+  - "Built the PAI study-abroad WordPress site for internships, semester programs, and short courses."
+  - "Designed responsive layouts for program listings and course topics."
 story:
-  - >-
-    EARTH University runs International Academic Programs (PAI) for study abroad in
-    Costa Rica. At InterGraphicDESIGNS I built the PAI WordPress site that presented
-    internships, trimester study abroad, and short English-taught courses in topics
-    such as organic agriculture and tropical forestry.
-  - This was separate from EARTH's main university homepage; the staging work lived under InterGraphicDESIGNS' earth_pai client folder in 2010.
+  - "At InterGraphicDESIGNS, I built a separate website for EARTH University's International Academic Programs, presenting internships, trimester programs, and short courses in Costa Rica."
+  - "I implemented the WordPress frontend and responsive layouts for program information and course topics, including agriculture and tropical forestry. The project was distinct from the university's main website."
 order: 38
 year: 2010
 ---
-
-# Earth
-
-EARTH University's International Academic Programs (PAI) study-abroad site in WordPress.

@@ -1,7 +1,7 @@
 ---
 title: "Jockey Hollow Bar and Kitchen"
 slug: "jockey-hollow-bar-and-kitchen"
-description: "A responsive site for Jockey Hollow Bar and Kitchen, a historic mansion with four dining concepts."
+description: "A responsive restaurant website presenting the four dining concepts inside Morristown's historic Vail Mansion."
 tech:
   - SASS
   - jQuery
@@ -16,24 +16,13 @@ type:
   - frontend
 link: "http://www.jockeyhollowbarandkitchen.com/"
 image: "https://gaboesquivel.com/images/work/jockey-hollow.png"
-
-
 images: []
 achievements:
-  - Built a fully responsive landing page for the restaurant's four dining concepts.
-  - Cut page weight so the landing page loaded on the connections diners actually had.
+  - "Built a fully responsive landing page for the restaurant's four dining concepts."
+  - "Cut page weight so the landing page loaded on the connections diners actually had."
 story:
-  - >-
-    Jockey Hollow Bar and Kitchen is Chris Cannon's multi-concept restaurant in
-    Morristown's historic Vail Mansion, the 1916 AT&T president's estate that
-    later served as town hall. The public site had to present four rooms at once:
-    the Oyster and Wine Bar, the Vail Bar cocktail lounge, the Rathskeller event
-    space, and the second-floor Dining Room.
-  - I built the responsive landing page with SASS, jQuery, Grunt, and Grapnel.js, deployed on Heroku, and tuned page weight so it held up on the connections diners actually had while the restaurant moved from a late-spring opening toward full lunch and dinner service.
+  - "Jockey Hollow Bar and Kitchen operated four distinct dining concepts within Morristown's historic Vail Mansion: the Oyster and Wine Bar, Vail Bar, Rathskeller, and Dining Room."
+  - "I built the public-facing website with SASS, jQuery, Grunt, and Grapnel.js, deployed on Heroku. The work focused on bringing the separate dining experiences into one responsive site while keeping pages lightweight."
 order: 25
 year: 2013
 ---
-
-# Jockey Hollow Bar and Kitchen
-
-A responsive site for Jockey Hollow Bar and Kitchen, a historic mansion with four dining concepts.

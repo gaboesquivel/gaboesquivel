@@ -1,7 +1,7 @@
 ---
 title: "EOS Costa Rica"
 slug: "eos-costa-rica"
-description: "A blockchain infrastructure and development company operating EOSIO validators and delivering public and private-chain systems."
+description: "Blockchain infrastructure and engineering across EOSIO validators, private networks, enterprise applications, and open-source tooling."
 role: "Lead Engineer"
 tech:
   - Antelope
@@ -32,18 +32,14 @@ repo: "https://github.com/eoscostarica"
 video: "https://www.youtube.com/watch?v=-1y0fGs8Xgw&"
 images: []
 achievements:
-  - Helped launch EOS mainnet and operated EOSIO validators.
-  - Built a private EOSIO chain for a global accounting and consulting firm's labs on Azure, Terraform, EOSIO, and React; shipped an MVP for intercompany transactions and tax workflows using a stablecoin, hashing, and IPFS.
-  - Built the EOS Rate frontend with React and Styled Components.
+  - "Helped launch EOS mainnet and operated EOSIO validators."
+  - "Built a private EOSIO chain for a global accounting and consulting firm's labs on Azure, Terraform, EOSIO, and React; shipped an MVP for intercompany transactions and tax workflows using a stablecoin, hashing, and IPFS."
+  - "Built the EOS Rate frontend with React and Styled Components."
 story:
-  - I helped launch the EOS mainnet and operated validator nodes across EOSIO-based networks.
-  - I built a private EOSIO chain for a global accounting and consulting firm's labs on Azure, Terraform, EOSIO, and React. The MVP covered intercompany transactions and tax workflows with a stablecoin, hashing, and IPFS.
-  - I also ran open-source work and developer relations, including workshops around TicoBlockchain.cr and CryptoCantinaCR.
+  - "At EOS Costa Rica, I helped launch the EOS mainnet and operated validator infrastructure across EOSIO-based networks."
+  - "I built a private EOSIO blockchain for the innovation labs of a global accounting and consulting firm. The implementation used Azure, Terraform, EOSIO, and React, delivering an MVP for intercompany transactions and tax workflows involving a stablecoin, cryptographic hashing, and IPFS."
+  - "I also contributed to open-source tooling and developer relations, including the EOS Rate application and technical workshops connected to Costa Rica's blockchain community."
 experienceCompany: "EOS Costa Rica"
 order: 11
 year: 2018
 ---
-
-# EOS Costa Rica
-
-A blockchain infrastructure and development company operating EOSIO validators and delivering public and private-chain systems.

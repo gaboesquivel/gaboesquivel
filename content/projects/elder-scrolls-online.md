@@ -1,7 +1,7 @@
 ---
 title: "Elder Scrolls Online"
 slug: "elder-scrolls-online"
-description: "The official Elder Scrolls Online website for game news, guides, media, and community posts ahead of beta."
+description: "The official Elder Scrolls Online website, bringing together game information, beta news, media, and community content."
 tech:
   - PHP
   - JavaScript
@@ -13,25 +13,14 @@ type:
   - frontend
 link: "http://elderscrollsonline.com"
 image: "https://gaboesquivel.com/images/work/elder-scrolls.jpg"
-
-
 images: []
 achievements:
-  - Designed and built the community website for game news, guides, and media.
-  - Rebuilt navigation so Game Guide, Story, Alliance War, Media, and News were reachable without hunting.
-  - Integrated social media features into the community pages.
+  - "Designed and built the community website for game news, guides, and media."
+  - "Rebuilt navigation so Game Guide, Story, Alliance War, Media, and News were reachable without hunting."
+  - "Integrated social media features into the community pages."
 story:
-  - >-
-    The Elder Scrolls Online site at elderscrollsonline.com carried beta-era
-    content for ZeniMax Online's MMO: Game Guide, Story, the three alliances,
-    Media, and News (including beta signups in early 2013). I designed and built
-    the frontend, and most of the work went into navigation between those
-    sections and the community posts that ran alongside them.
-  - I balanced the game's visual design against what players needed to find quickly, and wired Facebook, Twitter, and YouTube into the community pages.
+  - "Ahead of The Elder Scrolls Online beta, the official website brought together game guides, alliance information, story content, media, news, and community updates."
+  - "I designed and built the frontend, with particular attention to navigation between the game's major content areas. I also integrated Facebook, Twitter, and YouTube features into the community experience."
 order: 21
 year: 2013
 ---
-
-# Elder Scrolls Online
-
-The official Elder Scrolls Online website for game news, guides, media, and community posts ahead of beta.

@@ -1,7 +1,7 @@
 ---
 title: "Staples"
 slug: "staples"
-description: "Responsive navigation and UI work for the Staples Advantage B2B commerce site."
+description: "Responsive navigation and frontend improvements for Staples Advantage, Staples' business-to-business commerce platform."
 tech:
   - JavaScript
   - CSS
@@ -10,24 +10,13 @@ type:
   - other
   - frontend
 image: "https://gaboesquivel.com/images/work/staples.jpg"
-
-
 images: []
 achievements:
-  - Rebuilt the main navigation for smaller screens.
-  - Developed responsive UI components and front-end performance improvements.
+  - "Rebuilt the main navigation for smaller screens."
+  - "Developed responsive UI components and front-end performance improvements."
 story:
-  - >-
-    Staples Advantage is the B2B division of Staples, serving organizations from small
-    teams through Fortune 1000 accounts. I did freelance frontend work on staplesadvantage.com,
-    not the consumer staples.com storefront.
-  - >-
-    I rebuilt main navigation for smaller screens, tightened responsive UI components,
-    and improved load times on the business catalog and solutions pages.
+  - "My freelance work was on Staples Advantage, the company's business-commerce platform, rather than its consumer retail storefront."
+  - "I rebuilt the main navigation for smaller screens, improved responsive interface components, and optimized frontend performance across catalog and business-solution pages."
 order: 33
 year: 2011
 ---
-
-# Staples
-
-Responsive navigation and UI work for the Staples Advantage B2B commerce site.

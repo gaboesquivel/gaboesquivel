@@ -1,7 +1,7 @@
 ---
 title: "ARINC Microfids"
 slug: "arinc-microfids"
-description: "A realtime flight-information display for hotels and airport businesses, backed by Ruby on Rails."
+description: "A realtime flight-information display for hotels and airport businesses, supporting live updates across different screen sizes."
 tech:
   - Ruby on Rails
   - AngularJS
@@ -12,27 +12,14 @@ type:
   - contract
   - frontend
 image: "https://gaboesquivel.com/images/work/arinc.png"
-
-
 images: []
 achievements:
-  - Developed a real-time flight information display system.
-  - Connected the Ruby on Rails backend to AngularJS so flight data updated without a page reload.
-  - Tuned frontend performance for realtime updates.
+  - "Developed a real-time flight information display system."
+  - "Connected the Ruby on Rails backend to AngularJS so flight data updated without a page reload."
+  - "Tuned frontend performance for realtime updates."
 story:
-  - >-
-    ARINC microFIDS is a compact wireless flight board for hotels and airport-adjacent
-    properties, with screen sizes from tablet to large-format displays and hotel
-    promotions alongside live departures and arrivals. I built the web frontend and
-    realtime integration on Ruby on Rails.
-  - >-
-    I connected the Rails backend to AngularJS and used Faye for push updates, so
-    flight changes reached the boards travelers were reading in lobbies and guest
-    rooms without a full page reload.
+  - "ARINC microFIDS brought airport departure and arrival information into hotel lobbies, guest rooms, and other airport-adjacent locations, with displays ranging from tablets to larger screens."
+  - "I built the web frontend and connected its Ruby on Rails backend to AngularJS, using Faye to deliver flight updates without refreshing the display. The interface also accommodated hotel promotions alongside flight information."
 order: 35
 year: 2013
 ---
-
-# ARINC Microfids
-
-A realtime flight-information display for hotels and airport businesses, backed by Ruby on Rails.

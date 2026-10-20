@@ -1,7 +1,7 @@
 ---
 title: "Wizard World"
 slug: "wizard-world"
-description: "A Flow Hackathon PWA for generating images with OpenAI and minting them as NFTs through Niftory."
+description: "A Flow Hackathon application for generating images with OpenAI and minting the results as NFTs through Niftory."
 tech:
   - NextJS
   - ReactJS
@@ -22,16 +22,12 @@ repo: "https://github.com/bitcashorg/wizartworld"
 video: "https://www.youtube.com/watch?v=I_vBUflXHFA"
 images: []
 achievements:
-  - Developed a progressive web app integrating AI-generated images with blockchain minting.
-  - Implemented OpenAI's LLM models for AI-driven image creation and metadata processing.
-  - Minted generated images as NFTs on Flow through Niftory.
+  - "Built a progressive web application combining AI image generation and NFT minting."
+  - "Integrated OpenAI models for image generation."
+  - "Implemented NFT minting on Flow through Niftory."
 story:
-  - Wizard World is a progressive web app that connects to OpenAI's models to generate AI images and mint them on Flow. We built it for the February 2023 Flow Hackathon with collaborators at bitcashorg, on the flow-marketplace-next base with next-pwa and Niftory.
-  - I worked on the app itself, integrating OpenAI's models for image generation and the Flow minting flow, so a user could generate an image and mint it as an NFT.
+  - "We developed Wizard World for the February 2023 Flow Hackathon, connecting AI image generation to NFT minting in a progressive web application."
+  - "I implemented the OpenAI image-generation integration and the Flow minting experience through Niftory. The application let users move from generating an image to minting it as an NFT within the same interface."
 order: 15
-year: 2022
+year: 2023
 ---
-
-# Wizard World
-
-A Flow Hackathon PWA for generating images with OpenAI and minting them as NFTs through Niftory.

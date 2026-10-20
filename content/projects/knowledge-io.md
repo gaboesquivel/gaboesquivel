@@ -1,7 +1,7 @@
 ---
 title: "Knowledge.io"
 slug: "knowledge-io"
-description: "A tokenized knowledge platform with an ERC-20 token, marketplace, wallet dashboard, and mobile trivia game."
+description: "A tokenized knowledge platform combining an ERC-20 token, rewards, a marketplace, wallet tools, and a mobile trivia game."
 role: "Software Engineer"
 tech:
   - TypeScript
@@ -25,23 +25,17 @@ type:
 link: "https://github.com/knowledge/ethereum-contracts"
 image: "https://gaboesquivel.com/images/work/knowledge.png"
 repo: "https://github.com/knowledge"
-
 images: []
 achievements:
-  - Deployed Knowledge.io's ERC-20 token for the 2018 mainnet ICO.
-  - Implemented smart contracts for token rewards and transactions.
-  - Built a serverless AWS infrastructure for the token, marketplace, and wallet services.
-  - Built the React and Web3.js marketplace and wallet dashboard around the ERC-20 token.
-  - Maintained the React Native trivia game as the token-reward client.
+  - "Deployed Knowledge.io's ERC-20 token for the 2018 mainnet ICO."
+  - "Implemented smart contracts for token rewards and transactions."
+  - "Built a serverless AWS infrastructure for the token, marketplace, and wallet services."
+  - "Built the React and Web3.js marketplace and wallet dashboard around the ERC-20 token."
+  - "Maintained the React Native trivia game as the token-reward client."
 story:
-  - Knowledge is a platform that rewards sharing information with an ERC-20 token. I built the token architecture and the systems around the 2018 mainnet ICO.
-  - I implemented smart contracts for token rewards and transactions, then built a serverless AWS stack for the token, marketplace, and wallet services.
-  - I also built the marketplace and wallet screens in React and Web3.js, and maintained the React Native trivia game as the reward client.
+  - "Knowledge.io used token rewards to encourage people to share information and participate in knowledge-based activities. I worked on the token architecture and infrastructure surrounding its 2018 mainnet ICO."
+  - "I implemented ERC-20 smart contracts for rewards and transactions, developed serverless services on AWS, and built React marketplace and wallet interfaces using Web3.js. I also maintained the React Native trivia application that connected gameplay to the reward system."
 experienceCompany: "Knowledge"
 order: 17
 year: 2017
 ---
-
-# Knowledge.io
-
-A tokenized knowledge platform with an ERC-20 token, marketplace, wallet dashboard, and mobile trivia game.

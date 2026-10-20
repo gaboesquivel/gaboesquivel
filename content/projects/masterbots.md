@@ -1,7 +1,7 @@
 ---
 title: "Masterbots"
 slug: "masterbots"
-description: "A platform for domain-specific AI assistants with specialized interfaces, social sharing, and multilingual support."
+description: "A platform for domain-specific AI assistants with specialized chat interfaces, social features, and multilingual support."
 tech:
   - NextJS
   - NodeJS
@@ -29,20 +29,15 @@ type:
 link: "https://masterbots.ai"
 image: "https://gaboesquivel.com/images/work/masterbots.png"
 repo: "https://github.com/bitcashorg/masterbots"
-
 images: []
 achievements:
-  - Integrated AI SDK for internationalization automation and AI-driven workflow.
-  - Built specialized AI agents and chatbot interfaces for domain-specific assistants.
-  - Set up the Next.js application structure and trained the team on it.
-  - Integrated AI-driven development workflow using v0.dev, Anthropic Claude Sonnet, Cursor IDE, and SourceryAI.
+  - "Established the Next.js application architecture and helped the team adopt it."
+  - "Built specialized interfaces for domain-specific AI assistants."
+  - "Used the AI SDK to automate internationalization workflows."
+  - "Introduced AI-assisted development tools into the team's engineering process."
 story:
-  - Masterbots is a platform for domain-specific AI assistants with specialized interfaces, social sharing, and multilingual support.
-  - I integrated the AI SDK for internationalization automation, set up the Next.js application structure, and built specialized agent interfaces on top of it.
+  - "Masterbots explored how AI assistants could be organized around specific domains rather than presented as one general-purpose chatbot."
+  - "I established the Next.js application structure, built specialized assistant interfaces, and integrated the AI SDK into internationalization workflows. I also helped the team adopt AI-assisted development tools, including Cursor, Claude Sonnet, v0.dev, and SourceryAI."
 order: 4
 year: 2024
 ---
-
-# Masterbots
-
-A platform for domain-specific AI assistants with specialized interfaces, social sharing, and multilingual support.

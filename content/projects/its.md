@@ -1,7 +1,7 @@
 ---
 title: "ITS"
 slug: "its"
-description: "ITS InfoCom's corporate website, content-management system, and CRM integration for remote infrastructure services."
+description: "A bilingual corporate website and content-management platform for ITS InfoCom, integrated with its CRM."
 tech:
   - JavaScript
   - CSS
@@ -11,21 +11,12 @@ type:
   - other
   - frontend
 image: "https://gaboesquivel.com/images/work/website-its.jpg"
-
-
 images: []
 achievements:
-  - Deployed a company-wide CMS and CRM integration for ITS InfoCom.
+  - "Deployed a company-wide CMS and CRM integration for ITS InfoCom."
 story:
-  - >-
-    ITS InfoComunicación is a Costa Rican IT services company that had just raised
-    growth capital when it replaced its 2007-era site with a bilingual corporate
-    presence covering managed services, networks, contact centers, and innovation programs.
-  - At InterGraphicDESIGNS I built that 2010 site launch, the company-wide CMS, and CRM integration so marketing could maintain service lines without a developer on every copy change.
+  - "At InterGraphicDESIGNS, I worked on ITS InfoCom's corporate website as the company expanded its presentation of managed services, networking, contact centers, and other IT offerings."
+  - "I built the website, implemented the content-management system, and integrated it with the company's CRM so marketing staff could manage service information without developer involvement for routine updates."
 order: 42
 year: 2009
 ---
-
-# ITS
-
-ITS InfoCom's corporate website, content-management system, and CRM integration for remote infrastructure services.

@@ -1,7 +1,7 @@
 ---
 title: "Opyn"
 slug: "opyn"
-description: "Opyn Markets perpetuals on Arbitrum with a Next.js trading interface and indexed onchain data."
+description: "A perpetuals trading interface for Opyn Markets on Arbitrum, with wallet integration and indexed onchain data."
 role: "Software Engineer"
 tech:
   - TypeScript
@@ -29,17 +29,16 @@ type:
   - backend
 link: "https://opyn.co"
 image: "https://gaboesquivel.com/images/work/opyn.png"
-
-
 images: []
 achievements:
-  - Built the Next.js 14 trading interface with React Server Components.
-  - Integrated the protocol and Arbitrum testnet with viem and wagmi.
-  - Indexed onchain data with Ponder, PostgreSQL, and Supabase.
-  - Prototyped an LLM assistant for onboarding and support.
+  - "Built the Next.js 14 trading interface with React Server Components."
+  - "Integrated the protocol and Arbitrum testnet with viem and wagmi."
+  - "Indexed onchain data with Ponder, PostgreSQL, and Supabase."
+  - "Prototyped an LLM assistant for onboarding and support."
 story:
-  - Opyn was shipping Opyn Markets, a perpetuals protocol on Arbitrum, and the trading UI needed indexed protocol state instead of reconstructing positions from raw RPC reads.
-  - I set up the Next.js 14 app structure and the data-fetching path the interface sits on, with Ponder over PostgreSQL and Supabase, viem and wagmi on Arbitrum testnet, and a prototype LLM assistant for onboarding.
+  - "Opyn Markets needed a trading application that could present protocol state and user positions without rebuilding everything from raw blockchain RPC calls."
+  - "I established the Next.js 14 application architecture using React Server Components and connected the interface to Arbitrum testnet through viem and wagmi. I used Ponder, PostgreSQL, and Supabase to index and serve the onchain data needed by the trading interface."
+  - "I also prototyped an LLM-powered assistant for onboarding and support. That work explored how conversational guidance could help users understand a complex trading product."
 experienceCompany: "Opyn"
 order: 2
 year: 2024
@@ -51,7 +50,3 @@ related:
     title: "Tokenization"
     publishedAt: "2026-01-01"
 ---
-
-# Opyn
-
-Opyn Markets perpetuals on Arbitrum with a Next.js trading interface and indexed onchain data.
