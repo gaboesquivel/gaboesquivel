@@ -13,7 +13,6 @@ image: "https://gaboesquivel.com/images/bio/nodeschool-costa-rica.jpg"
 video: "https://vimeo.com/167755778"
 images:
   - "https://gaboesquivel.com/images/work/gaboesquivel-javascript-costarica.png"
-  - "https://gaboesquivel.com/images/gabo-workshop.jpg"
   - "https://gaboesquivel.com/images/work/nodeschool.jpg"
   - "https://gaboesquivel.com/images/work/nodeschool-1.jpg"
   - "https://gaboesquivel.com/images/2016/05/paintballjs.jpg"
