@@ -25,7 +25,7 @@ type:
   - backend
   - fullstack
   - startup
-image: "https://gaboesquivel.com/images/work/legalagent.png"
+image: "https://gaboesquivel.com/images/work/legal-agent.webp"
 images: []
 achievements:
   - "Shipped a voice and chat assistant in a React Native Expo application using the Vercel AI SDK and OpenAI Realtime API."

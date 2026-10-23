@@ -41,7 +41,7 @@ type:
   - fullstack
   - startup
 link: "https://bitlauncher.ai"
-image: "https://gaboesquivel.com/images/work/bitlauncher.png"
+image: "https://gaboesquivel.com/images/work/bitlauncher.webp"
 repo: "https://github.com/bitcashorg/smartevm"
 video: "https://www.youtube.com/watch?v=U6vn3KOEwcQ"
 images: []

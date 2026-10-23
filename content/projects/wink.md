@@ -23,7 +23,7 @@ type:
   - startup
   - institution
 link: "https://holawink.com"
-image: "https://gaboesquivel.com/images/work/wink.png"
+image: "https://gaboesquivel.com/images/work/wink.webp"
 video: "https://www.youtube.com/watch?v=rfeISMW_OVc"
 images: []
 achievements:

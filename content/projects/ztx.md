@@ -23,7 +23,7 @@ type:
   - fullstack
   - startup
 link: "https://ztx.io"
-image: "https://gaboesquivel.com/images/work/ztx.png"
+image: "https://gaboesquivel.com/images/work/ztx.webp"
 video: "https://www.youtube.com/watch?v=h58y6UzZ7RA"
 images: []
 achievements:
