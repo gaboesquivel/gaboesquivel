@@ -27,7 +27,7 @@ type:
   - startup
   - institution
 link: "https://eoscostarica.io"
-image: "https://gaboesquivel.com/images/work/eoscostarica.png"
+image: "https://gaboesquivel.com/images/work/eoscostarica.webp"
 repo: "https://github.com/eoscostarica"
 video: "https://www.youtube.com/watch?v=-1y0fGs8Xgw&"
 images: []

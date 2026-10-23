@@ -12,7 +12,7 @@ type:
   - contract
   - frontend
 link: "https://gridium.com/"
-image: "https://gaboesquivel.com/images/work/gridium.png"
+image: "https://gaboesquivel.com/images/work/gridium.webp"
 images: []
 achievements:
   - "Built an early version of the energy analytics interface."

@@ -11,7 +11,7 @@ type:
   - backend
   - fullstack
 link: "https://www.fanslam.us"
-image: "https://gaboesquivel.com/images/work/fantasy-tennis.jpg"
+image: "https://gaboesquivel.com/images/work/fantasy-tennis.webp"
 images: []
 achievements:
   - "Designed and developed a strategic fantasy tennis gaming platform."

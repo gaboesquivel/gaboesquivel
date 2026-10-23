@@ -11,7 +11,7 @@ type:
   - contract
   - frontend
 link: "http://www.bureauoftrade.com/"
-image: "https://gaboesquivel.com/images/work/bureau-of-trade.jpg"
+image: "https://gaboesquivel.com/images/work/bureau-of-trade.webp"
 images: []
 achievements:
   - "Built a responsive storefront for Bureau of Trade's public beta launch."

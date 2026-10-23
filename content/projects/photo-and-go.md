@@ -15,7 +15,7 @@ type:
   - backend
   - fullstack
 link: "https://www.myphoto.com/"
-image: "https://gaboesquivel.com/images/work/photoandgo.jpg"
+image: "https://gaboesquivel.com/images/work/photoandgo.webp"
 images: []
 achievements:
   - "Built a photo editor that posted finished products into the existing commerce system."

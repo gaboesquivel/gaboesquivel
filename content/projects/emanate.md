@@ -14,7 +14,7 @@ type:
   - contract
   - frontend
 link: "https://emanate.live"
-image: "https://gaboesquivel.com/images/work/emanate.png"
+image: "https://gaboesquivel.com/images/work/emanate.webp"
 video: "https://www.youtube.com/watch?v=qjmn7M7YC9g"
 images: []
 achievements:

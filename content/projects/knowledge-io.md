@@ -23,7 +23,7 @@ type:
   - backend
   - fullstack
 link: "https://github.com/knowledge/ethereum-contracts"
-image: "https://gaboesquivel.com/images/work/knowledge.png"
+image: "https://gaboesquivel.com/images/work/knowledge.webp"
 repo: "https://github.com/knowledge"
 images: []
 achievements:
