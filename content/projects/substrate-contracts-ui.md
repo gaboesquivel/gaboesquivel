@@ -13,7 +13,7 @@ type:
   - oss
   - frontend
 link: "https://contracts-ui.substrate.io/"
-image: "https://gaboesquivel.com/images/work/contracts-ui.png"
+image: "https://gaboesquivel.com/images/work/contracts-ui.webp"
 repo: "https://github.com/paritytech/contracts-ui"
 images: []
 achievements:

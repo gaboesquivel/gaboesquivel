@@ -18,7 +18,7 @@ type:
   - backend
   - fullstack
 link: "https://eosrate.io"
-image: "https://gaboesquivel.com/images/work/eosrate.png"
+image: "https://gaboesquivel.com/images/work/eosrate.webp"
 repo: "https://github.com/eoscostarica/eos-rate"
 video: "https://www.youtube.com/watch?v=saZnZqJsMhk"
 images: []

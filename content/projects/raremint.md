@@ -24,7 +24,7 @@ type:
   - fullstack
   - startup
 link: "https://raremint.com"
-image: "https://gaboesquivel.com/images/work/raremint.png"
+image: "https://gaboesquivel.com/images/work/raremint.webp"
 video: "https://www.youtube.com/watch?v=2wh32w7N9xg"
 images:
   - "https://gaboesquivel.com/images/work/raremint-perf.jpeg"

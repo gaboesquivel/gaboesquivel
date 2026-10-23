@@ -28,7 +28,7 @@ type:
   - frontend
   - backend
 link: "https://opyn.co"
-image: "https://gaboesquivel.com/images/work/opyn.png"
+image: "https://gaboesquivel.com/images/work/opyn.webp"
 images: []
 achievements:
   - "Built the Next.js 14 trading interface with React Server Components."

@@ -13,7 +13,7 @@ type:
   - hackathon
   - frontend
 link: "https://fantasy-top-shot.vercel.app"
-image: "https://gaboesquivel.com/images/work/fantasy-top-shots.png"
+image: "https://gaboesquivel.com/images/work/fantasy-top-shots.webp"
 repo: "https://github.com/bitcashorg/fantasy-top-shot"
 video: "https://www.youtube.com/watch?v=Il2aiKhy_ug"
 images: []

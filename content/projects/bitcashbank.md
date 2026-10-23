@@ -28,7 +28,7 @@ type:
   - mobile
   - startup
 link: "https://bitcash.org"
-image: "https://gaboesquivel.com/images/work/bitcash-bank.png"
+image: "https://gaboesquivel.com/images/work/bitcash-bank.webp"
 repo: "https://github.com/bitcashorg"
 video: "https://www.youtube.com/watch?v=2JuHy_w0Ct4"
 images: []

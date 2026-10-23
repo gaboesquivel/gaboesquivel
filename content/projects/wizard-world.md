@@ -17,7 +17,7 @@ type:
   - hackathon
   - frontend
 link: "https://wizart.world"
-image: "https://gaboesquivel.com/images/work/wizart-world.png"
+image: "https://gaboesquivel.com/images/work/wizart-world.webp"
 repo: "https://github.com/bitcashorg/wizartworld"
 video: "https://www.youtube.com/watch?v=I_vBUflXHFA"
 images: []

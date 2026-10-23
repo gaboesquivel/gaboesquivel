@@ -12,7 +12,7 @@ type:
   - frontend
   - backend
   - fullstack
-image: "https://gaboesquivel.com/images/work/4tius.jpg"
+image: "https://gaboesquivel.com/images/work/4tius.webp"
 images: []
 achievements:
   - "Designed and developed a fitness data tracking system with Fitbit integration."

@@ -27,7 +27,7 @@ type:
   - fullstack
   - startup
 link: "https://masterbots.ai"
-image: "https://gaboesquivel.com/images/work/masterbots.png"
+image: "https://gaboesquivel.com/images/work/masterbots.webp"
 repo: "https://github.com/bitcashorg/masterbots"
 images: []
 achievements:
