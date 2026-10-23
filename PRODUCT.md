@@ -30,4 +30,4 @@ The `gaboesquivel` package is the fact source for Gabo Esquivel's projects, tech
 
 ## Open questions
 
-- Booking link: the CLI prints `https://cal.com/gaboesquivel`, while gaboesquivel.com's `/cal` redirects to `https://calendly.com/gaboesquivel/30min`. One of them is out of date.
+- None. Public booking uses `https://gaboesquivel.com/cal`; the site redirect target is the live calendar provider.

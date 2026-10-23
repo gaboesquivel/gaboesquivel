@@ -9,7 +9,6 @@ When facts are not already in open files, spawn read-only agents in parallel for
 ## Editing
 
 - Edit markdown under `content/`. `src/generated/` and `dist/` are build output.
-- `src/projects.ts`, `src/tech.ts`, and `src/types.ts` are pre-markdown sources kept for `scripts/migrate-to-markdown.ts`. Nothing exports or bundles them, so editing them changes nothing the site or CLI sees.
 - `readme.md` is the public GitHub profile and the npm page. Keep it profile copy; developer notes go in this file.
 - gaboesquivel.com installs the published npm package. A change reaches the live site only after a version bump, `npm publish` (`prepublishOnly` runs the build), and an update of the site's `gaboesquivel` dependency. `bun link` only affects local builds.
 
@@ -34,7 +33,7 @@ Use [Conventional Commits](https://www.conventionalcommits.org/): `type(scope): 
 - `role`, `achievements`, `story`: ownership and implementation.
 - `role` only when `content/experience` verifies it.
 - Do not turn package copy into a career story.
-- `featured` only: `legal-agent`, `wink`, `ztx`, `bitlauncher`, `opyn`, `eos-costa-rica`. `FEATURED_PROJECT_SLUGS` in `scripts/generate.ts` enforces this list, and gaboesquivel.com repeats it in `scripts/llms/projects.ts` and `scripts/llms/authority.ts`; change all three together.
+- `featured` only: `legal-agent`, `wink`, `ztx`, `bitlauncher`, `opyn`, `eos-costa-rica`. `FEATURED_PROJECT_SLUGS` in `scripts/generate.ts` enforces this list. gaboesquivel.com mirrors membership in `lib/work-types.ts` `featuredProjectSlugs` and guards it in `scripts/llms/export-llms.test.ts`; change package allowlist and site order together.
 - Do not add `tier` or `outcome`.
 - Preserve verified tags, achievements, story details, and links when compressing. No pitch-deck, TAM, or fundraising unless essential to the project.
 

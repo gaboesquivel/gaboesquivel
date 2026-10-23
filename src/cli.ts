@@ -59,7 +59,7 @@ function displayLinks() {
     `  ${COLORS.info("Twitter:")} ${COLORS.link("https://twitter.com/gaboesquivel")}`
   );
   console.log(
-    `  ${COLORS.info("Calendar:")} ${COLORS.link("https://cal.com/gaboesquivel")}`
+    `  ${COLORS.info("Calendar:")} ${COLORS.link("https://gaboesquivel.com/cal")}`
   );
 }
 

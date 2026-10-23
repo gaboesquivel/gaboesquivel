@@ -4,7 +4,7 @@ title: Lead Engineer
 type: Full-time
 location: On-site
 duration: Apr 2015 – Mar 2018
-description: "Costa Rica's first neobank, combining a React Native banking application, AWS services, and partner-bank integrations."
+description: "Lead-engineering role on Wink's React Native mobile application, AWS backend, and partner-bank integrations."
 achievements:
   - Built the first version of Wink's React Native mobile application and AWS backend.
   - Selected the initial technology stack and established the application architecture.
