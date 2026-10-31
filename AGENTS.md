@@ -16,7 +16,7 @@ When facts are not already in open files, spawn read-only agents in parallel for
 
 - `bun run build` runs `generate`, then bundles `dist/`. `bun run generate` alone validates content and writes `src/generated/`.
 - `generate` fails on: a multi-line project `description`; `featured` outside the allowlist; a `#` or example.com project `link`; an unknown tech tag; an `experienceCompany` or CV variant role whose company is missing from `content/experience`; a duplicate `featuredOrder`; a Wikipedia or MDN Glossary tech `link`; a tech category with no `content/tech` file; and tech `experience` bullets that break the evidence rules below. It only warns on empty tech pages (the site hides them) and on project years before the employment start. Every other rule here is editorial; check it by reading.
-- Pre-commit (simple-git-hooks) runs `ultracite fix` on staged files.
+- No pre-commit hook: run `bun run lint:fix` on the files you change before committing.
 
 ## Keeping docs current
 
