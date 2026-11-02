@@ -15,17 +15,13 @@ concurrency:
 jobs:
   check:
     # One job: lint and build take seconds, less than a second job's setup.
+    # No dependency cache: bun install takes under 1s here, less than a cache restore.
     # No paths-ignore: the formatter checks markdown and generate validates content/.
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
       - uses: oven-sh/setup-bun@v2
-      - uses: actions/cache@v4
-        with:
-          path: ~/.bun/install/cache
-          key: bun-${{ runner.os }}-${{ hashFiles('bun.lock') }}
-          restore-keys: bun-${{ runner.os }}-
       - run: bun install --frozen-lockfile
       - name: Lint and format check
         run: bun run lint
