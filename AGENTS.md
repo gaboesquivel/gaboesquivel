@@ -19,6 +19,10 @@ When facts are not already in open files, spawn read-only agents in parallel for
 - CI (`.github/workflows/ci.yml`) runs `bun run lint` and `bun run build` on every pull request and on push to `master`.
 - No pre-commit hook: run `bun run lint:fix` on the files you change before committing.
 
+## Development skills
+
+`skills-lock.json` pins the Flow development catalog and the `gabo` skill from their GitHub sources. Restore them with `bun run skills:install`; refresh them with `bun run skills:update`, then commit the lock. `.agents/` and `.claude/` installs are ignored. Flow owns the development workflow; `gabo` retains authority over voice, identity, and claims. The product is this fact package, not a Flow template; do not initialize a new application or replace the profile README with setup notes.
+
 ## Keeping docs current
 
 - [PRODUCT.md](PRODUCT.md): consumers, scope, ownership, or conflict rules change.
@@ -52,3 +56,29 @@ Use [Conventional Commits](https://www.conventionalcommits.org/): `type(scope): 
 - `link`: official docs or product URL, not Wikipedia or MDN Glossary.
 - `since`: optional sort/display year, not employment. Do not show on the site. Do not bulk-recompute from `min(project.year)`.
 - No `intro`. No site narrative, capability theses, or `/bio` worldview.
+
+<!-- BEGIN FLOW -->
+
+## Flow
+
+This project uses Flow skills: say a phrase below to load its skill. The installed `flow` skill owns this block; delete it to opt out.
+
+Do the work yourself: CLI, then MCP, then API, then browser. Hand the user only sign-in, secrets, payment, consent, or permission changes, once, as one command each (`write-agents` Tools).
+
+Before merge, a second agent reviews the diff in a fresh context, with effort matched to risk; every finding is fixed or answered. CI, Git hook, auth, billing, and release changes ship only on the user's yes.
+
+| Say                                                  | Skill       |
+| ---------------------------------------------------- | ----------- |
+| "explore this"                                       | `explore`   |
+| "interview me"                                       | `interview` |
+| "grill this"                                         | `grill`     |
+| "spec it"                                            | `to-spec`   |
+| "share the draft"                                    | `to-spec`   |
+| "break it down"                                      | `to-tasks`  |
+| "build it"                                           | `build`     |
+| "check it against the spec"                          | `review`    |
+| "ship it" (add "local" or "with GitHub" for one run) | `ship`      |
+| "push it"                                            | `push`      |
+| "update the docs"                                    | `flow`      |
+
+<!-- END FLOW -->
