@@ -1,5 +1,8 @@
 import { z } from "zod";
 
+/** Used when `content/experience` does not verify a more specific role. */
+export const defaultProjectRole = "Software Engineer";
+
 export const RelatedSchema = z.object({
   publishedAt: z.string(),
   title: z.string(),
@@ -17,7 +20,7 @@ export const ProjectSchema = z.object({
   order: z.number(),
   related: z.array(RelatedSchema).optional(),
   repo: z.string().optional(),
-  role: z.string().optional(),
+  role: z.string().default(defaultProjectRole),
   slug: z.string(),
   story: z.array(z.string()),
   tech: z.array(z.string()),

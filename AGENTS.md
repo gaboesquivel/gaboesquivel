@@ -36,7 +36,7 @@ Use [Conventional Commits](https://www.conventionalcommits.org/): `type(scope): 
 
 - `description`: what the project is and does, one or two sentences, near 160 characters, usable as metadata and a masonry card. Project-centered, not first-person contribution.
 - `role`, `achievements`, `story`: ownership and implementation.
-- `role` only when `content/experience` verifies it.
+- `role` is the verified title when `content/experience` supports one; otherwise it defaults to "Software Engineer" (`defaultProjectRole` in `scripts/schemas.ts`), so every project has a role.
 - Do not turn package copy into a career story.
 - `featured` only: `legal-agent`, `wink`, `ztx`, `bitlauncher`, `opyn`, `eos-costa-rica`. `FEATURED_PROJECT_SLUGS` in `scripts/generate.ts` enforces this list. gaboesquivel.com mirrors membership in `lib/work-types.ts` `featuredProjectSlugs` and guards it in `scripts/llms/export-llms.test.ts`; change package allowlist and site order together.
 - Do not add `tier` or `outcome`.
