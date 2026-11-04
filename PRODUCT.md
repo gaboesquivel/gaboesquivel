@@ -12,7 +12,7 @@ The `gaboesquivel` package is the fact source for Gabo Esquivel's projects, tech
 
 ## Scope
 
-- `content/projects/`: what each project is, its stack (`tech` tags), role, achievements, and story
+- `content/projects/`: what each project is, its stack (`tech` tags), role, achievements, and story. `role` is the verified title when `content/experience` supports one; otherwise it is the generic default "Software Engineer", which is a label for display and not an employment claim. The generated `markdown` field is the source front matter and omits a defaulted role.
 - `content/tech/`: what each technology does in this stack and which shipped projects used it
 - `content/experience/`: the employment record (title, type, location, duration)
 - `content/cv/`: CV variants (`full`, `ai`, `web3`, `fullstack`) that select roles, override bullets, and set each CV page's metadata
