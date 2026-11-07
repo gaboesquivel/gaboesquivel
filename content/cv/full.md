@@ -5,9 +5,8 @@ summary: >-
   I build software products across product, design, and engineering, from
   intuitive interfaces to the systems behind them. My recent work spans
   production AI assistants, financial applications, and blockchain infrastructure.
-  I have 15+ years of software experience, including 12+ years building
-  0→1 products for startups and growth-stage teams. Fluent in English,
-  Spanish, Portuguese, and Italian.
+  I have 15+ years of software experience. Fluent in English, Spanish,
+  Portuguese, and Italian.
 highlights:
   - 12+ years building 0→1 products for startups and growth-stage teams
   - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
