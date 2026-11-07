@@ -12,7 +12,7 @@ type:
   - contract
   - frontend
 link: "http://elderscrollsonline.com"
-image: "https://gaboesquivel.com/images/work/elder-scrolls.jpg"
+image: "https://gaboesquivel.com/images/work/elder-scrolls.webp"
 images: []
 achievements:
   - "Designed and built the community website for game news, guides, and media."

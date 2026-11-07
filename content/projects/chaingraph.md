@@ -16,7 +16,7 @@ type:
   - oss
   - backend
 link: "https://chaingraph.io"
-image: "https://gaboesquivel.com/images/work/chaingraph.png"
+image: "https://gaboesquivel.com/images/work/chaingraph.webp"
 repo: "https://github.com/blockmatic/chaingraph"
 images: []
 achievements:
