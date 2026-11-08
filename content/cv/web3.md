@@ -11,7 +11,7 @@ summary: >-
 highlights:
   - Built blockchain applications across Ethereum, Arbitrum, Polygon, EOS EVM, and Antelope
   - Developed wallet integrations, token bridges, auctions, and trading interfaces
-  - Built blockchain indexers using Ponder, Moralis streams, Node.js, and viem
+  - Wrote blockchain indexers using Ponder, Moralis streams, Node.js, and viem
   - Helped launch EOS mainnet and developed validator and private-chain infrastructure
 skills:
   - label: Web3
@@ -30,9 +30,9 @@ featured:
   - company: Bitlauncher
     achievements:
       - Owned product and technical direction for the launchpad from concept through delivery.
-      - Built bridge flows for USDT, USDC, and BITUSD into protocol tokens.
+      - Implemented bridge flows for USDT, USDC, and BITUSD into protocol tokens.
       - Deployed Gnosis auction contracts to EOS EVM with a realtime bidding interface.
-      - Built a custom EOS EVM indexer with Node.js and Viem event subscriptions.
+      - Wrote a custom EOS EVM indexer with Node.js and Viem event subscriptions.
   - company: Opyn
     achievements:
       - Built the Next.js 14 trading interface with React Server Components.
@@ -40,20 +40,20 @@ featured:
       - Indexed onchain data with Ponder, PostgreSQL, and Supabase.
   - company: ZTX
     achievements:
-      - Built a WebGL EVM wallet connector with MetaMask, Ethers.js, and a custom JavaScript event system.
+      - Developed a WebGL EVM wallet connector with MetaMask, Ethers.js, and a custom JavaScript event system.
       - Set up the Next.js app that hosted the virtual world, with Tailwind and Framer Motion.
       - Wired signing and NFT trading so the wallet session lived inside WebGL.
   - company: RareMint
     achievements:
-      - Built an NFT indexer with Moralis streams, Node.js, and PostgreSQL on Google Cloud.
+      - Wrote an NFT indexer with Moralis streams, Node.js, and PostgreSQL on Google Cloud.
       - Refactored the marketplace with Next.js SSR, Tailwind CSS, and GraphQL.
       - Integrated WalletConnect and supported the Slab Series Pokémon mystery-pack drop on Polygon.
   - company: Bitcash
     achievements:
-      - Built the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack.
+      - Set up the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack.
       - Built the peer-to-peer exchange, realtime chat, and matching engine.
-      - Built a realtime EOS indexer with Node.js worker threads, binary deserialization, and PostgreSQL.
-      - Built WebAuthn key management for in-browser transaction signing without an external wallet.
+      - Wrote a realtime EOS indexer with Node.js worker threads, binary deserialization, and PostgreSQL.
+      - Implemented WebAuthn key management for in-browser transaction signing without an external wallet.
 also: >-
   Earlier blockchain work includes Knowledge's Ethereum token platform
   (2017–2018), EOS Costa Rica's validator and private-chain systems

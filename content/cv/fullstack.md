@@ -28,25 +28,25 @@ featured:
   - company: LegalAgent
     achievements:
       - Shipped a voice and chat assistant in React Native (Expo).
-      - Built RAG for case context and document summaries.
+      - Added RAG for case context and document summaries.
       - Built the admin with Microsoft SSO, documents, and retrieval.
   - company: Bitlauncher
     achievements:
       - Owned product decisions and delivery planning while architecting the full stack.
-      - Built the launchpad on Next.js 14, Supabase, viem, and wagmi.
+      - Shipped the launchpad on Next.js 14, Supabase, viem, and wagmi.
       - Built the token bridge and Gnosis auction flows, from EOS EVM contracts to the bidding interface.
       - Indexed transactions in Supabase for queries, subscriptions, and aggregate market data.
   - company: Bitcash
     achievements:
-      - Built the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack.
+      - Set up the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack.
       - Built the peer-to-peer exchange, realtime chat, and matching engine.
-      - Built WebAuthn key management for in-browser transaction signing without an external wallet.
+      - Implemented WebAuthn key management for in-browser transaction signing without an external wallet.
   - company: Wink
   - company: AMC Networks
     achievements:
       - Built the interactive movie-player frontend.
       - Wired Brightcove for streaming, chapter playback, and back-office editing.
-      - Built Facebook identity, sharing, and in-player extras.
+      - Added Facebook identity, sharing, and in-player extras.
 also: >-
   Other full-stack work includes Knowledge's ERC-20 token platform
   (2017–2018), EOS Costa Rica's blockchain infrastructure (2018–2020),

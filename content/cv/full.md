@@ -34,9 +34,9 @@ featured:
       - Prototyped an LLM assistant for onboarding and support.
   - company: Bitcash
     achievements:
-      - Built the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack.
+      - Set up the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack.
       - Built the peer-to-peer exchange, realtime chat, and matching engine.
-      - Built WebAuthn key management for in-browser transaction signing without an external wallet.
+      - Implemented WebAuthn key management for in-browser transaction signing without an external wallet.
   - company: Wink
 also: >-
   Other work includes RareMint's NFT marketplace and indexer (2021–2022),
