@@ -35,8 +35,8 @@ images: []
 achievements:
   - "Architected the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack."
   - "Built the peer-to-peer exchange, realtime chat, and matching engine."
-  - "Built a realtime EOS indexer with Node.js worker threads, binary deserialization, and PostgreSQL."
-  - "Built WebAuthn key management for in-browser transaction signing without an external wallet."
+  - "Wrote a realtime EOS indexer with Node.js worker threads, binary deserialization, and PostgreSQL."
+  - "Implemented WebAuthn key management for in-browser transaction signing without an external wallet."
   - "Added EOS contract multisig while BitcashDAO voting was still being built."
 story:
   - "I led the engineering of Bitcash, building a peer-to-peer exchange with realtime chat, order matching, and blockchain integrations. The application used React, Node.js, PostgreSQL, Hasura, and Google Cloud."

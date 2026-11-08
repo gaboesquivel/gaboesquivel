@@ -11,7 +11,7 @@ summary: >-
 highlights:
   - Built LegalAgent's bilingual voice and chat assistant using OpenAI Realtime API, AI SDK, and RAG
   - Developed retrieval and research tools for Bitlauncher's AI assistant
-  - Built specialized AI assistant interfaces and automated internationalization at Masterbots
+  - Delivered specialized AI assistant interfaces and automated internationalization at Masterbots
   - Led engineering for Wink, Costa Rica's first neobank, from architecture to launch
 skills:
   - label: Languages
@@ -37,9 +37,9 @@ featured:
       - Prototyped an LLM assistant for onboarding and support.
   - company: Bitcash
     achievements:
-      - Built the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack.
+      - Set up the React, Vite, Node.js, PostgreSQL, Hasura, and Google Cloud stack.
       - Built the peer-to-peer exchange, realtime chat, and matching engine.
-      - Built WebAuthn key management for in-browser transaction signing without an external wallet.
+      - Implemented WebAuthn key management for in-browser transaction signing without an external wallet.
   - company: Wink
 also: >-
   My broader engineering experience includes Bitlauncher's auctions and
