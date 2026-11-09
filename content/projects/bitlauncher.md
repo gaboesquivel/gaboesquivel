@@ -2,7 +2,7 @@
 title: "Bitlauncher"
 slug: "bitlauncher"
 description: "An AI and crypto launchpad combining token auctions, cross-chain wallets, market data, and AI-assisted project research."
-role: "Product Engineer"
+role: "Software Engineer"
 tech:
   - TypeScript
   - Solidity
