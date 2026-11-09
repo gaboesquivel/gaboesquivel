@@ -1,9 +1,9 @@
 ---
 company: Bitlauncher
-title: Product Engineer
+title: Software Engineer
 type: Full-time
 location: Remote
-duration: Nov 2023 – Nov 2025
+duration: Nov 2023 – Jul 2025
 description: "AI and crypto launchpad combining token auctions, wallets, cross-chain transactions, indexed data, and research assistants."
 achievements:
   - Led product direction, technical architecture, scope, and delivery from concept through implementation.
