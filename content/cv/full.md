@@ -1,6 +1,6 @@
 ---
 key: full
-professionalTitle: Agentic Product Engineer
+professionalTitle: Agentic Software Engineer
 summary: >-
   I build software products across product, design, and engineering, from
   intuitive interfaces to the systems behind them. I have 15+ years of
@@ -46,8 +46,8 @@ also: >-
   frontend leadership for AMC Networks' YEAH! (2012–2014), and
   American Express cardmember and marketing applications (2010–2012).
 metadata:
-  title: "Gabo Esquivel — Product Engineering CV"
-  description: "Agentic Product Engineer with 15+ years building AI applications, financial products, mobile software, and blockchain systems."
+  title: "Gabo Esquivel — Software Engineering CV"
+  description: "Agentic Software Engineer with 15+ years building AI applications, financial products, mobile software, and blockchain systems."
   keywords:
     - software engineer
     - senior product engineer
@@ -67,6 +67,6 @@ metadata:
     - fintech
     - blockchain
   openGraph:
-    title: "Gabo Esquivel — Product Engineering CV"
-    description: "15+ years of product engineering across AI, fintech, web and mobile applications, and blockchain infrastructure."
+    title: "Gabo Esquivel — Software Engineering CV"
+    description: "15+ years of software engineering across AI, fintech, web and mobile applications, and blockchain infrastructure."
 ---

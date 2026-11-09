@@ -35,7 +35,7 @@ function displayBanner() {
     COLORS.title(`
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║          ${chalk.bold.yellow("Gabo Esquivel")} - ${chalk.bold.cyan("Product Engineer")}           ║
+║             ${chalk.bold.yellow("Gabo Esquivel")} - ${chalk.bold.cyan("Agentic Software Engineer")}             ║
 ║                                                                   ║
 ║  ${COLORS.success("15+ years")} building software products                                 ║
 ║  ${COLORS.success("12+ years")} leading 0→1 product work                                   ║

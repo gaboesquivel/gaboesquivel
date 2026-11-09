@@ -1,4 +1,4 @@
-# Gabo Esquivel — Agentic Product Engineer
+# Gabo Esquivel — Agentic Software Engineer
 
 I build useful and delightful software products, designed for humans and agents alike.
 
