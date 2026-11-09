@@ -21,7 +21,7 @@ When facts are not already in open files, spawn read-only agents in parallel for
 
 ## Development skills
 
-`skills-lock.json` pins the Flow development catalog and the `gabo` skill from their GitHub sources. Restore them with `bun run skills:install`; refresh them with `bun run skills:update`, then commit the lock. `.agents/` and `.claude/` installs are ignored. Flow owns the development workflow; `gabo` retains authority over voice, identity, and claims. The product is this fact package, not a Flow template; do not initialize a new application or replace the profile README with setup notes.
+`skills-lock.json` pins the `gabo` skill from its GitHub source. Restore it with `bun run skills:install`; refresh it with `bun run skills:update`, then commit the lock. `.agents/` and `.claude/` installs are ignored. The product is this fact package; do not initialize a new application or replace the profile README with setup notes.
 
 ## Keeping docs current
 
@@ -56,11 +56,3 @@ Use [Conventional Commits](https://www.conventionalcommits.org/): `type(scope): 
 - `link`: official docs or product URL, not Wikipedia or MDN Glossary.
 - `since`: optional sort/display year, not employment. Do not show on the site. Do not bulk-recompute from `min(project.year)`.
 - No `intro`. No site narrative, capability theses, or `/bio` worldview.
-
-<!-- BEGIN FLOW -->
-
-## Flow
-
-This project uses Flow skills, reached by plain language ("explore this", "spec it", "build it", "ship it"; each skill's description lists its phrases). The installed `flow` skill owns this block; delete it to opt out.
-
-<!-- END FLOW -->
