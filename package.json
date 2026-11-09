@@ -1,7 +1,7 @@
 {
   "name": "gaboesquivel",
-  "version": "9.0.4",
-  "description": "Gabo Esquivel - Product Engineer",
+  "version": "9.0.5",
+  "description": "Gabo Esquivel - Agentic Software Engineer",
   "author": "Gabo Esquivel",
   "bin": {
     "gaboesquivel": "dist/cli.js"
