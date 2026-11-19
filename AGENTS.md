@@ -1,8 +1,8 @@
 # gaboesquivel package
 
-Fact source for projects, technologies, employment, and CV variants. Read [PRODUCT.md](PRODUCT.md) before changing what the package covers, who consumes it, or which repo owns a kind of content. This file covers editing, field rules, and checks.
+Fact source for projects, technologies, employment, and CV variants, and home of the `gabo` skill (identity, positioning, voice, writing method). Read [PRODUCT.md](PRODUCT.md) before changing what the package covers, who consumes it, or which repo owns a kind of content. This file covers editing, field rules, and checks.
 
-Voice, identity, and claims: installed `gabo` skill, which outranks any other writing skill on those three.
+Voice, identity, and claims: the `gabo` skill in [skills/gabo/SKILL.md](skills/gabo/SKILL.md), which outranks any other writing skill on those three.
 
 When facts are not already in open files, spawn read-only agents in parallel for lookups that do not invent copy. One agent writes. Do not spawn to write, rewrite, outline, or find a better voice.
 
@@ -14,19 +14,26 @@ When facts are not already in open files, spawn read-only agents in parallel for
 
 ## Checks
 
+- `bun run skills:validate` checks every `skills/*/SKILL.md`: `name` matches its folder, `description` is one line of at most 1024 characters, and `skills.sh.json` lists exactly the skills under `skills/`. It does not check links, evals, `references/`, or prose.
 - `bun run build` runs `generate`, then bundles `dist/`. `bun run generate` alone validates content and writes `src/generated/`.
 - `generate` fails on: a multi-line project `description`; `featured` outside the allowlist; a `#` or example.com project `link`; an unknown tech tag; an `experienceCompany` or CV variant role whose company is missing from `content/experience`; a duplicate `featuredOrder`; a Wikipedia or MDN Glossary tech `link`; a tech category with no `content/tech` file; and tech `experience` bullets that break the evidence rules below. It only warns on empty tech pages (the site hides them) and on project years before the employment start. Every other rule here is editorial; check it by reading.
-- CI (`.github/workflows/ci.yml`) runs `bun run lint` and `bun run build` on every pull request and on push to `master`.
+- CI (`.github/workflows/ci.yml`) runs `bun run lint`, `bun run skills:validate`, and `bun run build` on every pull request and on push to `master`.
 - No pre-commit hook: run `bun run lint:fix` on the files you change before committing.
 
-## Development skills
+## The `gabo` skill
 
-`skills-lock.json` pins the `gabo` skill from its GitHub source. Restore it with `bun run skills:install`; refresh it with `bun run skills:update`, then commit the lock. `.agents/` and `.claude/` installs are ignored. The product is this fact package; do not initialize a new application or replace the profile README with setup notes.
+`skills/gabo/` is the canonical skill; this repo uses it directly and does not install it. `.claude/skills/gabo` is a committed symlink to it for Claude Code; other agents read `skills/gabo/SKILL.md` from the link above. `.agents/` and the rest of `.claude/` are ignored. The product is this fact package; do not initialize a new application or replace the profile README with setup notes.
+
+- Layout: one skill per `skills/<name>/SKILL.md`, no root `SKILL.md` (the skills CLI would treat the repo as one skill). A `references/` file is reached by a when-to-read line in `SKILL.md`. `evals/evals.json` holds prompts and expectations; `evals/trigger-queries.json` holds queries that should and should not trigger the skill. [skills.sh.json](skills.sh.json) groups skills on [skills.sh](https://skills.sh) and does not change install behavior. The formatter ignores `skills/**`.
+- Behavior: update `SKILL.md` and the `references/` it discloses; update `evals/evals.json` when expected output changes. Triggers: update the frontmatter `description` (single line, no YAML `|` or `>` blocks) and `evals/trigger-queries.json`.
+- Before pushing a change that adds, moves, or removes a rule or method step, or edits the description, run `evals/evals.json` against the previous version. Done when every expectation passes and a description edit still matches `trigger-queries.json`.
+- Local install check: `npx skills@latest add . --list`. Done when `gabo` appears.
+- After a skill change lands on `master`, gaboesquivel.com refreshes its lock with `bunx skills@latest update gabo -p -y` and copies the result into `agent/skills/gabo/` (steps in that repo's `AGENTS.md`). A global install updates with `bunx skills@latest update gabo -g -y`. No npm release is needed.
 
 ## Keeping docs current
 
 - [PRODUCT.md](PRODUCT.md): consumers, scope, ownership, or conflict rules change.
-- This file: fields, allowlists, editorial rules, or commands change.
+- This file: fields, allowlists, editorial rules, skill layout, or commands change.
 
 ## Git
 

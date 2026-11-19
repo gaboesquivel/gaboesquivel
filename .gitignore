@@ -9,7 +9,8 @@ __dev
 dist
 src/generated
 .agents
-.claude
+.claude/*
+!.claude/skills/
 .cursor
 
 .DS_Store
