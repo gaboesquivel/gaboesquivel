@@ -11,6 +11,10 @@ This repository is the single source for Gabo Esquivel's professional identity. 
 - **`readme.md`** is Gabo's GitHub profile README (this repo is `gaboesquivel/gaboesquivel`) and the npm package page. It is profile copy, not developer documentation, and must agree with these facts.
 - **`gabo` skill**: agents install it from GitHub (`npx skills@latest add gaboesquivel/gaboesquivel --skill gabo`). gaboesquivel.com records it in its `skills-lock.json` and commits a runtime copy for its site agent in `agent/skills/gabo/`. The skill is not part of the npm tarball (`files` ships `dist` only); a skill change needs no package release.
 
+## Primary metric
+
+Accuracy: every consumer shows the same facts as `content/` and `skills/gabo/`, with no contradictions. It matters because the package is information only; being correct is its whole job. Checked by reading the consumers when facts change. No baseline or tracking.
+
 ## Scope
 
 - `content/projects/`: what each project is, its stack (`tech` tags), role, achievements, and story. `role` is the verified title when `content/experience` supports one; otherwise it is the generic default "Software Engineer", which is a label for display and not an employment claim. The generated `markdown` field is the source front matter and omits a defaulted role.
