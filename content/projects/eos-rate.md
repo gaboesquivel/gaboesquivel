@@ -29,6 +29,6 @@ achievements:
 story:
   - "EOS Rate made community assessments of block producers easier to inspect before participating in network governance. Ratings were stored onchain and presented through a radial comparison interface."
   - "I designed the architecture and implemented the React frontend, GraphQL data layer, and blockchain integration. The interface translated individual ratings into a visual comparison of producers."
-order: 12
+order: 13
 year: 2018
 ---

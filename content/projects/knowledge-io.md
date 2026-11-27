@@ -36,6 +36,6 @@ story:
   - "Knowledge.io used token rewards to encourage people to share information and participate in knowledge-based activities. I worked on the token architecture and infrastructure surrounding its 2018 mainnet ICO."
   - "I implemented ERC-20 smart contracts for rewards and transactions, developed serverless services on AWS, and built React marketplace and wallet interfaces using Web3.js. I also maintained the React Native trivia application that connected gameplay to the reward system."
 experienceCompany: "Knowledge"
-order: 17
+order: 18
 year: 2017
 ---

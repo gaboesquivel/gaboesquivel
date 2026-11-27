@@ -24,6 +24,6 @@ achievements:
 story:
   - "We built Fantasy Top Shots for the February 2023 Flow Hackathon. Instead of drafting from a separate player inventory, participants used the NBA Top Shot NFTs already held in their collections."
   - "I worked on the design and Next.js implementation, integrating Flow Client Library for wallet connections and NFT transactions. The project extended a Flow marketplace application base used by collaborators at bitcashorg."
-order: 13
+order: 14
 year: 2023
 ---

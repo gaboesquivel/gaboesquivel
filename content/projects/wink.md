@@ -37,6 +37,6 @@ story:
   - "I selected the initial technology stack, established the application architecture, and coordinated integrations with partner banks for account information, deposits, and transfers. These integrations connected a new mobile banking experience to existing financial infrastructure."
   - "I implemented biometric identity verification and authentication through a React Native native bridge and helped establish the engineering team that would carry the product through launch."
 experienceCompany: "Wink"
-order: 18
+order: 19
 year: 2015
 ---

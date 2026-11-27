@@ -23,6 +23,6 @@ achievements:
 story:
   - "The restaurant also needed an in-house menu experience for tablets across its dining concepts, separate from the public marketing website."
   - "I developed the kiosk application and connected its menu data to Google Spreadsheets so staff could update items without a deployment. I was the sole developer on the project and optimized the interface for tablet hardware used during restaurant service."
-order: 26
+order: 27
 year: 2013
 ---

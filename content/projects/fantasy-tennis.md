@@ -20,6 +20,6 @@ achievements:
 story:
   - "FanSlam let players draft a roster of eight professional tennis players under a salary cap. Tournament results and live scoring determined each roster's standing."
   - "I designed and implemented the contest experience across frontend and backend, including player pricing based on rankings and realtime score updates. The responsive interface supported tournament entry and lineup changes on phones and desktops."
-order: 40
+order: 41
 year: 2013
 ---

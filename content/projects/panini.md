@@ -16,6 +16,6 @@ achievements:
 story:
   - "Album Freaks was a community website connected to Panini-Dipo Costa Rica's 2010 World Cup sticker-album campaign, publishing news, videos, comments, and social content."
   - "I contributed freelance WordPress frontend work, focusing on performance, browser compatibility, and interface improvements."
-order: 37
+order: 38
 year: 2010
 ---

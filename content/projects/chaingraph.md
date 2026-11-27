@@ -26,6 +26,6 @@ achievements:
 story:
   - "I built ChainGraph as a side project while working at Bitcash. Applications using EOSIO and Antelope needed a way to query blockchain data and subscribe to updates without implementing the indexing infrastructure themselves."
   - "I designed and implemented the indexing and event-streaming architecture, exposing chain data through GraphQL queries and realtime subscriptions. The toolkit supported multiple blockchain networks through a common interface."
-order: 10
+order: 11
 year: 2020
 ---

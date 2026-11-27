@@ -36,6 +36,6 @@ story:
   - "The main challenge was letting users interact with blockchain assets without leaving the virtual environment. I developed an EVM wallet connector using MetaMask, Ethers.js, and a custom JavaScript event system to connect the WebGL experience to wallet sessions, transaction signing, and NFT trading."
   - "I also integrated Google Tag Manager to provide product analytics around how users interacted with the experience."
 experienceCompany: "ZTX"
-order: 5
+order: 6
 year: 2022
 ---

@@ -17,6 +17,6 @@ achievements:
 story:
   - "At InterGraphicDESIGNS, I built a separate website for EARTH University's International Academic Programs, presenting internships, trimester programs, and short courses in Costa Rica."
   - "I implemented the WordPress frontend and responsive layouts for program information and course topics, including agriculture and tropical forestry. The project was distinct from the university's main website."
-order: 38
+order: 39
 year: 2010
 ---

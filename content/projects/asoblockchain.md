@@ -36,6 +36,6 @@ related:
   - url: "2018-06-blockchain-technology-in-costa-rica"
     title: "Blockchain Technology in Costa Rica"
     publishedAt: "2018-06-01"
-order: 46
+order: 47
 year: 2018
 ---

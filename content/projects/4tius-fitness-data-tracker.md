@@ -21,6 +21,6 @@ achievements:
 story:
   - "On a contract for 4TIUS, I built the web dashboard and API for collecting and presenting activity data from wearables, including Fitbit. The application used AngularJS and MongoDB on AWS."
   - "I designed responsive analytics views for steps, distance, calories, and sleep-related metrics, and implemented the API integration that let coaches and users view progress without manually exporting device data."
-order: 30
+order: 31
 year: 2013
 ---

@@ -17,6 +17,6 @@ achievements:
 story:
   - "My freelance work was on Staples Advantage, the company's business-commerce platform, rather than its consumer retail storefront."
   - "I rebuilt the main navigation for smaller screens, improved responsive interface components, and optimized frontend performance across catalog and business-solution pages."
-order: 33
+order: 34
 year: 2011
 ---

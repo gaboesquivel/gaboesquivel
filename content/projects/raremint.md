@@ -36,6 +36,6 @@ story:
   - "RareMint brought physical sports collectibles into an NFT marketplace. I worked on its marketplace infrastructure, including the July 2022 Slab Series Pokémon mystery-pack drop on Polygon."
   - "I built an EVM data indexer using Moralis streams, Node.js, PostgreSQL, and Google Cloud. I also migrated the marketplace toward Next.js server-side rendering and integrated WalletConnect for wallet connections and transactions."
 experienceCompany: "RareMint"
-order: 6
+order: 7
 year: 2021
 ---

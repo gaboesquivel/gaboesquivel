@@ -24,6 +24,6 @@ achievements:
 story:
   - "I joined the existing Tractor Supply mobile application as a consultant, focusing on performance, maintainability, and new functionality."
   - "I developed an augmented-reality product-preview feature using ViroAR, optimized React Native components, and introduced TypeScript to improve maintainability across the codebase."
-order: 28
+order: 29
 year: 2020
 ---

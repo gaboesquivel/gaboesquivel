@@ -25,6 +25,6 @@ achievements:
 story:
   - "Arcade was a New York lunch startup built around a simple interaction: members received one curated lunch offer by text and could order by replying yes."
   - "I built the subscription and ordering application with Node.js, Express, AngularJS, and MongoDB. Twilio handled SMS messaging, Stripe handled payments, and Heroku hosted the application. The goal was to connect the daily offer, customer response, and checkout without requiring a separate mobile app."
-order: 24
+order: 25
 year: 2013
 ---

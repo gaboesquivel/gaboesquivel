@@ -43,6 +43,6 @@ story:
   - "A central challenge was making blockchain transactions accessible without requiring a separate wallet application. I implemented WebAuthn-based key management and browser signing, later extending the system with QR-based signature requests using Supabase subscriptions and webhooks. I also built an EOS indexer using Node.js worker threads, binary deserialization, and PostgreSQL."
   - "The exchange reached roughly 500 users but never found sustained traction. We had built substantial product functionality, while distribution and marketing remained behind the engineering effort."
 experienceCompany: "Bitcash"
-order: 7
+order: 8
 year: 2020
 ---

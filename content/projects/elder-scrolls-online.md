@@ -21,6 +21,6 @@ achievements:
 story:
   - "Ahead of The Elder Scrolls Online beta, the official website brought together game guides, alliance information, story content, media, news, and community updates."
   - "I designed and built the frontend, with particular attention to navigation between the game's major content areas. I also integrated Facebook, Twitter, and YouTube features into the community experience."
-order: 21
+order: 22
 year: 2013
 ---

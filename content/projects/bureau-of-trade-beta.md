@@ -20,6 +20,6 @@ achievements:
 story:
   - "Bureau of Trade combined editorial storytelling with merchandise curated from other marketplaces. Its catalog ranged from clothing and watches to vehicles and art."
   - "I was the sole full-stack developer during the public beta, with most of my work focused on the frontend. I built responsive listing views, browsing interactions, and page transitions, and improved performance across product pages."
-order: 27
+order: 28
 year: 2013
 ---

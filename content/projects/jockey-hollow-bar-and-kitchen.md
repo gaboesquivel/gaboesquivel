@@ -23,6 +23,6 @@ achievements:
 story:
   - "Jockey Hollow Bar and Kitchen operated four distinct dining concepts within Morristown's historic Vail Mansion: the Oyster and Wine Bar, Vail Bar, Rathskeller, and Dining Room."
   - "I built the public-facing website with SASS, jQuery, Grunt, and Grapnel.js, deployed on Heroku. The work focused on bringing the separate dining experiences into one responsive site while keeping pages lightweight."
-order: 25
+order: 26
 year: 2013
 ---

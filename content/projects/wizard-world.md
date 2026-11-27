@@ -28,6 +28,6 @@ achievements:
 story:
   - "We developed Wizard World for the February 2023 Flow Hackathon, connecting AI image generation to NFT minting in a progressive web application."
   - "I implemented the OpenAI image-generation integration and the Flow minting experience through Niftory. The application let users move from generating an image to minting it as an NFT within the same interface."
-order: 15
+order: 16
 year: 2023
 ---
