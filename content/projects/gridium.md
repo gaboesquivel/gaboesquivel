@@ -21,6 +21,6 @@ achievements:
 story:
   - "Gridium helped commercial-property teams understand energy consumption using smart-meter data. I built an early version of its analytics interface, working with 15-minute meter readings."
   - "I implemented interactive charts showing demand, usage patterns, and cost signals across buildings. The work focused on presenting dense operational data clearly enough for property teams to identify unusual consumption."
-order: 34
+order: 35
 year: 2013
 ---

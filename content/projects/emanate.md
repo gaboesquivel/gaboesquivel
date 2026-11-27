@@ -25,6 +25,6 @@ story:
   - "My work on Emanate focused on the existing React streaming application and the systems responsible for distributing artist revenue."
   - "I maintained and optimized the frontend, built administrative tools for token-based payments, and integrated AWS services supporting streaming and back-office operations. This was an incremental engineering engagement focused on the existing product, not a platform rewrite."
 experienceCompany: "Emanate"
-order: 8
+order: 9
 year: 2019
 ---

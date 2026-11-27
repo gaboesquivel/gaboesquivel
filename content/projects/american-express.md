@@ -27,6 +27,6 @@ story:
   - "At American Express, I worked on cardmember and marketing experiences, including credit-card comparison tools, campaign landing pages, and responsive interfaces."
   - "I helped migrate frontend functionality from Dojo to jQuery while maintaining existing experimentation and analytics integrations. The work involved delivering interface changes within an established financial-services platform."
 experienceCompany: "American Express"
-order: 19
+order: 20
 year: 2010
 ---

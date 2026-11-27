@@ -17,6 +17,6 @@ achievements:
 story:
   - "At InterGraphicDESIGNS, I worked on ITS InfoCom's corporate website as the company expanded its presentation of managed services, networking, contact centers, and other IT offerings."
   - "I built the website, implemented the content-management system, and integrated it with the company's CRM so marketing staff could manage service information without developer involvement for routine updates."
-order: 42
+order: 43
 year: 2009
 ---

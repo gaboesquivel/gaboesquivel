@@ -20,6 +20,6 @@ achievements:
 story:
   - "ARINC microFIDS brought airport departure and arrival information into hotel lobbies, guest rooms, and other airport-adjacent locations, with displays ranging from tablets to larger screens."
   - "I built the web frontend and connected its Ruby on Rails backend to AngularJS, using Faye to deliver flight updates without refreshing the display. The interface also accommodated hotel promotions alongside flight information."
-order: 35
+order: 36
 year: 2013
 ---

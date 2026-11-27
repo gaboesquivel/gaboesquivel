@@ -21,6 +21,6 @@ achievements:
 story:
   - "At Make Sense Labs, I worked on Sense.chat, a mobile messaging application that combined private communication with blockchain transactions."
   - "I improved React Native performance and integrated EOS mainnet functionality, including wallet transactions and token incentives for communities. I also worked on application security and privacy improvements."
-order: 9
+order: 10
 year: 2019
 ---

@@ -22,6 +22,6 @@ achievements:
 story:
   - "TiKR was an e-commerce startup experimenting with continuously changing prices. Product pages displayed price history alongside listings, making price movement part of the shopping experience."
   - "I worked across its Ruby on Rails and Spree implementation, primarily on the responsive storefront and backend customization. The application ran on Heroku with PostgreSQL and supported realtime price updates and social-sharing incentives."
-order: 23
+order: 24
 year: 2013
 ---

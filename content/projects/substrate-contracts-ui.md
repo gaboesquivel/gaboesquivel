@@ -22,6 +22,6 @@ achievements:
 story:
   - "I contributed to Parity's Substrate Contracts UI in 2023, working on developer tooling for deploying and interacting with smart contracts through the browser."
   - "My merged contributions included dependency and lint fixes, duplicate-key and web-manifest corrections, and layout refactoring across contract interaction screens. This was a contribution to an existing open-source project, rather than a product I owned."
-order: 14
+order: 15
 year: 2023
 ---

@@ -24,6 +24,6 @@ achievements:
 story:
   - "Photo and Go, later MyPhoto.com, let customers turn personal photos into prints, photo books, phone cases, and other physical products."
   - "I led development of the custom editor and the Node.js services behind it. The work included cropping, product layouts, commerce-catalog integration, and AWS-backed image storage and processing. The frontend used React and Redux, with Docker in the deployment workflow."
-order: 29
+order: 30
 year: 2014
 ---

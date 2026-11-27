@@ -40,6 +40,6 @@ story:
   - "I built a private EOSIO blockchain for the innovation labs of a global accounting and consulting firm. The implementation used Azure, Terraform, EOSIO, and React, delivering an MVP for intercompany transactions and tax workflows involving a stablecoin, cryptographic hashing, and IPFS."
   - "I also contributed to open-source tooling and developer relations, including the EOS Rate application and technical workshops connected to Costa Rica's blockchain community."
 experienceCompany: "EOS Costa Rica"
-order: 11
+order: 12
 year: 2018
 ---

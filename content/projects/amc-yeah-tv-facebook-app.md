@@ -27,6 +27,6 @@ story:
   - "AMC launched YEAH! at SXSW in March 2013 as a movie-rental service focused on classic genre films. Movies included interactive extras such as interviews, trivia, and quizzes that appeared inside the player without obscuring the film."
   - "I owned the frontend architecture and integrated Brightcove for streaming, chapter navigation, and editorial tooling, alongside Facebook identity and sharing features. Working with a five-engineer frontend team, we connected the film experience to hundreds of interactive elements per title."
 experienceCompany: "AMC Networks"
-order: 22
+order: 23
 year: 2012
 ---

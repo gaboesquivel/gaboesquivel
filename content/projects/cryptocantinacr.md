@@ -28,6 +28,6 @@ related:
   - url: "2018-07-costa-rica-crypto-cantina"
     title: "Costa Rica Crypto Cantina"
     publishedAt: "2018-07-01"
-order: 47
+order: 48
 year: 2018
 ---

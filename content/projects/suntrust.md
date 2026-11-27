@@ -15,6 +15,6 @@ achievements:
 story:
   - "SunTrust's Solid Salutes campaign invited visitors to create thank-you videos for military members and everyday heroes ahead of Father's Day 2010."
   - "I built the campaign frontend with JavaScript and CSS, including the personalized video-creation experience and social-sharing functionality. The application formed part of SunTrust's broader Live Solid marketing campaign."
-order: 31
+order: 32
 year: 2010
 ---
